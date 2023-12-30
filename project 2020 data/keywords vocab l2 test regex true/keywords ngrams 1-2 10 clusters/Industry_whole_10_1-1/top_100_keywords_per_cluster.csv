@@ -1,0 +1,1001 @@
+cluster_assignment,cluster_size,token_wordfreq,wordfreq,token_tfidf,tfidf
+1,250,IT Services,0.8000000000000006,IT Services,0.8000000000000006
+1,250,-1,0.04400000000000001,-1,0.04400000000000001
+1,250,Consulting,0.04400000000000001,Consulting,0.04400000000000001
+1,250,Staffing & Outsourcing,0.024,Staffing & Outsourcing,0.024
+1,250,Health Care Services & Hospitals,0.012,Health Care Services & Hospitals,0.012
+1,250,Publishing,0.008,Publishing,0.008
+1,250,Real Estate,0.008,Real Estate,0.008
+1,250,Investment Banking & Asset Management,0.008,Investment Banking & Asset Management,0.008
+1,250,Transportation Management,0.004,Transportation Management,0.004
+1,250,Banks & Credit Unions,0.004,Banks & Credit Unions,0.004
+1,250,Financial Transaction Processing,0.004,Financial Transaction Processing,0.004
+1,250,Biotech & Pharmaceuticals,0.004,Biotech & Pharmaceuticals,0.004
+1,250,Industrial Manufacturing,0.004,Industrial Manufacturing,0.004
+1,250,Accounting,0.004,Accounting,0.004
+1,250,Financial Analytics & Research,0.004,Financial Analytics & Research,0.004
+1,250,"Cable, Internet & Telephone Providers",0.004,"Cable, Internet & Telephone Providers",0.004
+1,250,General Repair & Maintenance,0.004,General Repair & Maintenance,0.004
+1,250,Religious Organizations,0.004,Religious Organizations,0.004
+1,250,Education Training Services,0.004,Education Training Services,0.004
+1,250,K-12 Education,0.004,K-12 Education,0.004
+1,250,Utilities,0.004,Utilities,0.004
+1,250,Music Production & Distribution,0.0,Music Production & Distribution,0.0
+1,250,"Museums, Zoos & Amusement Parks",0.0,"Museums, Zoos & Amusement Parks",0.0
+1,250,News Outlet,0.0,News Outlet,0.0
+1,250,Municipal Governments,0.0,Municipal Governments,0.0
+1,250,Moving Services,0.0,Moving Services,0.0
+1,250,Mining,0.0,Mining,0.0
+1,250,Miscellaneous Manufacturing,0.0,Miscellaneous Manufacturing,0.0
+1,250,Metals Brokers,0.0,Metals Brokers,0.0
+1,250,Metal & Mineral Manufacturing,0.0,Metal & Mineral Manufacturing,0.0
+1,250,Venture Capital & Private Equity,0.0,Venture Capital & Private Equity,0.0
+1,250,Membership Organizations,0.0,Membership Organizations,0.0
+1,250,Media & Entertainment Retail Stores,0.0,Media & Entertainment Retail Stores,0.0
+1,250,Logistics & Supply Chain,0.0,Logistics & Supply Chain,0.0
+1,250,Lending,0.0,Lending,0.0
+1,250,Legal,0.0,Legal,0.0
+1,250,Laundry & Dry Cleaning,0.0,Laundry & Dry Cleaning,0.0
+1,250,Motion Picture Production & Distribution,0.0,Motion Picture Production & Distribution,0.0
+1,250,Oil & Gas Exploration & Production,0.0,Oil & Gas Exploration & Production,0.0
+1,250,Photography,0.0,Photography,0.0
+1,250,Other Retail Stores,0.0,Other Retail Stores,0.0
+1,250,Transportation Equipment Manufacturing,0.0,Transportation Equipment Manufacturing,0.0
+1,250,Timber Operations,0.0,Timber Operations,0.0
+1,250,Telecommunications Services,0.0,Telecommunications Services,0.0
+1,250,Telecommunications Manufacturing,0.0,Telecommunications Manufacturing,0.0
+1,250,TV Broadcast & Cable Networks,0.0,TV Broadcast & Cable Networks,0.0
+1,250,Stock Exchanges,0.0,Stock Exchanges,0.0
+1,250,State & Regional Agencies,0.0,State & Regional Agencies,0.0
+1,250,Truck Rental & Leasing,0.0,Truck Rental & Leasing,0.0
+1,250,Sports & Recreation,0.0,Sports & Recreation,0.0
+1,250,Sporting Goods Stores,0.0,Sporting Goods Stores,0.0
+1,250,Social Assistance,0.0,Social Assistance,0.0
+1,250,Shipping,0.0,Shipping,0.0
+1,250,Trucking,0.0,Trucking,0.0
+1,250,Self-Storage Services,0.0,Self-Storage Services,0.0
+1,250,Security Services,0.0,Security Services,0.0
+1,250,Research & Development,0.0,Research & Development,0.0
+1,250,Rail,0.0,Rail,0.0
+1,250,Vehicle Dealers,0.0,Vehicle Dealers,0.0
+1,250,Preschool & Child Care,0.0,Preschool & Child Care,0.0
+1,250,Travel Agencies,0.0,Travel Agencies,0.0
+1,250,Pet & Pet Supplies Stores,0.0,Pet & Pet Supplies Stores,0.0
+1,250,Oil & Gas Services,0.0,Oil & Gas Services,0.0
+1,250,Radio,0.0,Radio,0.0
+1,250,"Hotels, Motels, & Resorts",0.0,"Hotels, Motels, & Resorts",0.0
+1,250,Insurance Carriers,0.0,Insurance Carriers,0.0
+1,250,Consumer Products Manufacturing,0.0,Consumer Products Manufacturing,0.0
+1,250,Consumer Product Rental,0.0,Consumer Product Rental,0.0
+1,250,Consumer Electronics & Appliances Stores,0.0,Consumer Electronics & Appliances Stores,0.0
+1,250,Construction,0.0,Construction,0.0
+1,250,Computer Hardware & Software,0.0,Computer Hardware & Software,0.0
+1,250,Commercial Equipment Repair & Maintenance,0.0,Commercial Equipment Repair & Maintenance,0.0
+1,250,Commercial Equipment Rental,0.0,Commercial Equipment Rental,0.0
+1,250,Colleges & Universities,0.0,Colleges & Universities,0.0
+1,250,Chemical Manufacturing,0.0,Chemical Manufacturing,0.0
+1,250,Catering & Food Service Contractors,0.0,Catering & Food Service Contractors,0.0
+1,250,Convenience Stores & Truck Stops,0.0,Convenience Stores & Truck Stops,0.0
+1,250,Casual Restaurants,0.0,Casual Restaurants,0.0
+1,250,Building & Personnel Services,0.0,Building & Personnel Services,0.0
+1,250,Brokerage Services,0.0,Brokerage Services,0.0
+1,250,Beauty & Personal Accessories Stores,0.0,Beauty & Personal Accessories Stores,0.0
+1,250,Automotive Parts & Accessories Stores,0.0,Automotive Parts & Accessories Stores,0.0
+1,250,Auto Repair & Maintenance,0.0,Auto Repair & Maintenance,0.0
+1,250,Audiovisual,0.0,Audiovisual,0.0
+1,250,Architectural & Engineering Services,0.0,Architectural & Engineering Services,0.0
+1,250,Airlines,0.0,Airlines,0.0
+1,250,Aerospace & Defense,0.0,Aerospace & Defense,0.0
+1,250,Advertising & Marketing,0.0,Advertising & Marketing,0.0
+1,250,Bus Transportation Services,0.0,Bus Transportation Services,0.0
+1,250,Cruise Ships,0.0,Cruise Ships,0.0
+1,250,"Department, Clothing, & Shoe Stores",0.0,"Department, Clothing, & Shoe Stores",0.0
+1,250,Drug & Health Stores,0.0,Drug & Health Stores,0.0
+1,250,Insurance Agencies & Brokerages,0.0,Insurance Agencies & Brokerages,0.0
+1,250,Video Games,0.0,Video Games,0.0
+1,250,Home Furniture & Housewares Stores,0.0,Home Furniture & Housewares Stores,0.0
+1,250,Home Centers & Hardware Stores,0.0,Home Centers & Hardware Stores,0.0
+1,250,"Health, Beauty, & Fitness",0.0,"Health, Beauty, & Fitness",0.0
+1,250,Health Fundraising Organizations,0.0,Health Fundraising Organizations,0.0
+1,250,Health Care Products Manufacturing,0.0,Health Care Products Manufacturing,0.0
+1,250,Grocery Stores & Supermarkets,0.0,Grocery Stores & Supermarkets,0.0
+2,2001,IT Services,0.2758620689655151,IT Services,0.2758620689655151
+2,2001,Staffing & Outsourcing,0.24037981009495074,Staffing & Outsourcing,0.24037981009495074
+2,2001,-1,0.15892053973013404,-1,0.15892053973013404
+2,2001,Consulting,0.06696651674162928,Consulting,0.06696651674162928
+2,2001,Computer Hardware & Software,0.054972513743128545,Computer Hardware & Software,0.054972513743128545
+2,2001,Accounting,0.025487256371814117,Accounting,0.025487256371814117
+2,2001,Enterprise Software & Network Solutions,0.024987506246876585,Enterprise Software & Network Solutions,0.024987506246876585
+2,2001,Internet,0.019490254872563725,Internet,0.019490254872563725
+2,2001,Health Care Services & Hospitals,0.015992003998000996,Health Care Services & Hospitals,0.015992003998000996
+2,2001,Research & Development,0.015492253873063463,Research & Development,0.015492253873063463
+2,2001,Advertising & Marketing,0.013493253373313339,Advertising & Marketing,0.013493253373313339
+2,2001,Aerospace & Defense,0.012493753123438277,Aerospace & Defense,0.012493753123438277
+2,2001,Investment Banking & Asset Management,0.010494752623688153,Investment Banking & Asset Management,0.010494752623688153
+2,2001,Architectural & Engineering Services,0.00949525237381309,Architectural & Engineering Services,0.00949525237381309
+2,2001,Insurance Carriers,0.00949525237381309,Insurance Carriers,0.00949525237381309
+2,2001,"Health, Beauty, & Fitness",0.007496251874062966,"Health, Beauty, & Fitness",0.007496251874062966
+2,2001,Motion Picture Production & Distribution,0.006496751624187904,Motion Picture Production & Distribution,0.006496751624187904
+2,2001,Logistics & Supply Chain,0.002998500749625187,Logistics & Supply Chain,0.002998500749625187
+2,2001,Industrial Manufacturing,0.002998500749625187,Industrial Manufacturing,0.002998500749625187
+2,2001,Publishing,0.002498750624687656,Publishing,0.002498750624687656
+2,2001,Construction,0.001999000499750125,Construction,0.001999000499750125
+2,2001,State & Regional Agencies,0.001999000499750125,State & Regional Agencies,0.001999000499750125
+2,2001,Lending,0.001999000499750125,Lending,0.001999000499750125
+2,2001,Municipal Governments,0.001999000499750125,Municipal Governments,0.001999000499750125
+2,2001,Oil & Gas Services,0.0014992503748125937,Oil & Gas Services,0.0014992503748125937
+2,2001,Health Care Products Manufacturing,0.0014992503748125937,Health Care Products Manufacturing,0.0014992503748125937
+2,2001,Brokerage Services,0.0014992503748125937,Brokerage Services,0.0014992503748125937
+2,2001,Transportation Equipment Manufacturing,0.0014992503748125937,Transportation Equipment Manufacturing,0.0014992503748125937
+2,2001,Biotech & Pharmaceuticals,0.0009995002498750624,Biotech & Pharmaceuticals,0.0009995002498750624
+2,2001,Education Training Services,0.0009995002498750624,Education Training Services,0.0009995002498750624
+2,2001,Federal Agencies,0.0009995002498750624,Federal Agencies,0.0009995002498750624
+2,2001,Building & Personnel Services,0.0009995002498750624,Building & Personnel Services,0.0009995002498750624
+2,2001,Preschool & Child Care,0.0004997501249375312,Preschool & Child Care,0.0004997501249375312
+2,2001,K-12 Education,0.0004997501249375312,K-12 Education,0.0004997501249375312
+2,2001,Food Production,0.0004997501249375312,Food Production,0.0004997501249375312
+2,2001,Financial Analytics & Research,0.0004997501249375312,Financial Analytics & Research,0.0004997501249375312
+2,2001,Self-Storage Services,0.0004997501249375312,Self-Storage Services,0.0004997501249375312
+2,2001,Banks & Credit Unions,0.0004997501249375312,Banks & Credit Unions,0.0004997501249375312
+2,2001,Electrical & Electronic Manufacturing,0.0004997501249375312,Electrical & Electronic Manufacturing,0.0004997501249375312
+2,2001,Social Assistance,0.0004997501249375312,Social Assistance,0.0004997501249375312
+2,2001,Venture Capital & Private Equity,0.0004997501249375312,Venture Capital & Private Equity,0.0004997501249375312
+2,2001,Automotive Parts & Accessories Stores,0.0004997501249375312,Automotive Parts & Accessories Stores,0.0004997501249375312
+2,2001,Consumer Products Manufacturing,0.0004997501249375312,Consumer Products Manufacturing,0.0004997501249375312
+2,2001,"Museums, Zoos & Amusement Parks",0.0,"Museums, Zoos & Amusement Parks",0.0
+2,2001,Timber Operations,0.0,Timber Operations,0.0
+2,2001,Transportation Management,0.0,Transportation Management,0.0
+2,2001,Travel Agencies,0.0,Travel Agencies,0.0
+2,2001,Truck Rental & Leasing,0.0,Truck Rental & Leasing,0.0
+2,2001,Security Services,0.0,Security Services,0.0
+2,2001,Music Production & Distribution,0.0,Music Production & Distribution,0.0
+2,2001,Moving Services,0.0,Moving Services,0.0
+2,2001,Utilities,0.0,Utilities,0.0
+2,2001,Vehicle Dealers,0.0,Vehicle Dealers,0.0
+2,2001,Miscellaneous Manufacturing,0.0,Miscellaneous Manufacturing,0.0
+2,2001,Trucking,0.0,Trucking,0.0
+2,2001,News Outlet,0.0,News Outlet,0.0
+2,2001,Oil & Gas Exploration & Production,0.0,Oil & Gas Exploration & Production,0.0
+2,2001,Mining,0.0,Mining,0.0
+2,2001,Telecommunications Manufacturing,0.0,Telecommunications Manufacturing,0.0
+2,2001,TV Broadcast & Cable Networks,0.0,TV Broadcast & Cable Networks,0.0
+2,2001,Stock Exchanges,0.0,Stock Exchanges,0.0
+2,2001,Other Retail Stores,0.0,Other Retail Stores,0.0
+2,2001,Pet & Pet Supplies Stores,0.0,Pet & Pet Supplies Stores,0.0
+2,2001,Photography,0.0,Photography,0.0
+2,2001,Sports & Recreation,0.0,Sports & Recreation,0.0
+2,2001,Radio,0.0,Radio,0.0
+2,2001,Sporting Goods Stores,0.0,Sporting Goods Stores,0.0
+2,2001,Rail,0.0,Rail,0.0
+2,2001,Real Estate,0.0,Real Estate,0.0
+2,2001,Religious Organizations,0.0,Religious Organizations,0.0
+2,2001,Shipping,0.0,Shipping,0.0
+2,2001,Telecommunications Services,0.0,Telecommunications Services,0.0
+2,2001,Metals Brokers,0.0,Metals Brokers,0.0
+2,2001,"Hotels, Motels, & Resorts",0.0,"Hotels, Motels, & Resorts",0.0
+2,2001,Membership Organizations,0.0,Membership Organizations,0.0
+2,2001,Drug & Health Stores,0.0,Drug & Health Stores,0.0
+2,2001,"Department, Clothing, & Shoe Stores",0.0,"Department, Clothing, & Shoe Stores",0.0
+2,2001,Cruise Ships,0.0,Cruise Ships,0.0
+2,2001,Convenience Stores & Truck Stops,0.0,Convenience Stores & Truck Stops,0.0
+2,2001,Consumer Product Rental,0.0,Consumer Product Rental,0.0
+2,2001,Consumer Electronics & Appliances Stores,0.0,Consumer Electronics & Appliances Stores,0.0
+2,2001,Commercial Equipment Repair & Maintenance,0.0,Commercial Equipment Repair & Maintenance,0.0
+2,2001,Commercial Equipment Rental,0.0,Commercial Equipment Rental,0.0
+2,2001,Energy,0.0,Energy,0.0
+2,2001,Colleges & Universities,0.0,Colleges & Universities,0.0
+2,2001,Catering & Food Service Contractors,0.0,Catering & Food Service Contractors,0.0
+2,2001,Casual Restaurants,0.0,Casual Restaurants,0.0
+2,2001,"Cable, Internet & Telephone Providers",0.0,"Cable, Internet & Telephone Providers",0.0
+2,2001,Bus Transportation Services,0.0,Bus Transportation Services,0.0
+2,2001,Beauty & Personal Accessories Stores,0.0,Beauty & Personal Accessories Stores,0.0
+2,2001,Auto Repair & Maintenance,0.0,Auto Repair & Maintenance,0.0
+2,2001,Audiovisual,0.0,Audiovisual,0.0
+2,2001,Airlines,0.0,Airlines,0.0
+2,2001,Chemical Manufacturing,0.0,Chemical Manufacturing,0.0
+2,2001,Metal & Mineral Manufacturing,0.0,Metal & Mineral Manufacturing,0.0
+2,2001,Express Delivery Services,0.0,Express Delivery Services,0.0
+2,2001,Fast-Food & Quick-Service Restaurants,0.0,Fast-Food & Quick-Service Restaurants,0.0
+2,2001,Media & Entertainment Retail Stores,0.0,Media & Entertainment Retail Stores,0.0
+2,2001,Legal,0.0,Legal,0.0
+2,2001,Laundry & Dry Cleaning,0.0,Laundry & Dry Cleaning,0.0
+3,768,-1,0.17187500000000014,-1,0.17187500000000014
+3,768,Staffing & Outsourcing,0.11848958333333318,Staffing & Outsourcing,0.11848958333333318
+3,768,IT Services,0.11718749999999985,IT Services,0.11718749999999985
+3,768,Consulting,0.05989583333333337,Consulting,0.05989583333333337
+3,768,Health Care Services & Hospitals,0.058593750000000035,Health Care Services & Hospitals,0.058593750000000035
+3,768,Computer Hardware & Software,0.04427083333333334,Computer Hardware & Software,0.04427083333333334
+3,768,Insurance Carriers,0.040364583333333336,Insurance Carriers,0.040364583333333336
+3,768,Investment Banking & Asset Management,0.03385416666666666,Investment Banking & Asset Management,0.03385416666666666
+3,768,Enterprise Software & Network Solutions,0.03255208333333332,Enterprise Software & Network Solutions,0.03255208333333332
+3,768,Advertising & Marketing,0.026041666666666657,Advertising & Marketing,0.026041666666666657
+3,768,Internet,0.024739583333333325,Internet,0.024739583333333325
+3,768,Accounting,0.023437499999999993,Accounting,0.023437499999999993
+3,768,Lending,0.02213541666666666,Lending,0.02213541666666666
+3,768,Banks & Credit Unions,0.015625,Banks & Credit Unions,0.015625
+3,768,Telecommunications Services,0.015625,Telecommunications Services,0.015625
+3,768,Colleges & Universities,0.013020833333333334,Colleges & Universities,0.013020833333333334
+3,768,Biotech & Pharmaceuticals,0.013020833333333334,Biotech & Pharmaceuticals,0.013020833333333334
+3,768,Automotive Parts & Accessories Stores,0.01171875,Automotive Parts & Accessories Stores,0.01171875
+3,768,"Health, Beauty, & Fitness",0.009114583333333332,"Health, Beauty, & Fitness",0.009114583333333332
+3,768,Transportation Equipment Manufacturing,0.007812499999999999,Transportation Equipment Manufacturing,0.007812499999999999
+3,768,Video Games,0.007812499999999999,Video Games,0.007812499999999999
+3,768,Drug & Health Stores,0.006510416666666666,Drug & Health Stores,0.006510416666666666
+3,768,Consumer Products Manufacturing,0.006510416666666666,Consumer Products Manufacturing,0.006510416666666666
+3,768,Wholesale,0.006510416666666666,Wholesale,0.006510416666666666
+3,768,Home Centers & Hardware Stores,0.005208333333333333,Home Centers & Hardware Stores,0.005208333333333333
+3,768,Health Care Products Manufacturing,0.005208333333333333,Health Care Products Manufacturing,0.005208333333333333
+3,768,TV Broadcast & Cable Networks,0.005208333333333333,TV Broadcast & Cable Networks,0.005208333333333333
+3,768,Electrical & Electronic Manufacturing,0.005208333333333333,Electrical & Electronic Manufacturing,0.005208333333333333
+3,768,Social Assistance,0.00390625,Social Assistance,0.00390625
+3,768,Brokerage Services,0.00390625,Brokerage Services,0.00390625
+3,768,Religious Organizations,0.00390625,Religious Organizations,0.00390625
+3,768,Food & Beverage Stores,0.00390625,Food & Beverage Stores,0.00390625
+3,768,Federal Agencies,0.00390625,Federal Agencies,0.00390625
+3,768,Aerospace & Defense,0.00390625,Aerospace & Defense,0.00390625
+3,768,Financial Transaction Processing,0.00390625,Financial Transaction Processing,0.00390625
+3,768,Real Estate,0.00390625,Real Estate,0.00390625
+3,768,Miscellaneous Manufacturing,0.00390625,Miscellaneous Manufacturing,0.00390625
+3,768,"Department, Clothing, & Shoe Stores",0.00390625,"Department, Clothing, & Shoe Stores",0.00390625
+3,768,Membership Organizations,0.0026041666666666665,Membership Organizations,0.0026041666666666665
+3,768,"Cable, Internet & Telephone Providers",0.0026041666666666665,"Cable, Internet & Telephone Providers",0.0026041666666666665
+3,768,Oil & Gas Services,0.0026041666666666665,Oil & Gas Services,0.0026041666666666665
+3,768,Casual Restaurants,0.0026041666666666665,Casual Restaurants,0.0026041666666666665
+3,768,Utilities,0.0026041666666666665,Utilities,0.0026041666666666665
+3,768,Architectural & Engineering Services,0.0026041666666666665,Architectural & Engineering Services,0.0026041666666666665
+3,768,Research & Development,0.0026041666666666665,Research & Development,0.0026041666666666665
+3,768,Gas Stations,0.0026041666666666665,Gas Stations,0.0026041666666666665
+3,768,Municipal Governments,0.0026041666666666665,Municipal Governments,0.0026041666666666665
+3,768,Laundry & Dry Cleaning,0.0026041666666666665,Laundry & Dry Cleaning,0.0026041666666666665
+3,768,Logistics & Supply Chain,0.0026041666666666665,Logistics & Supply Chain,0.0026041666666666665
+3,768,Construction,0.0026041666666666665,Construction,0.0026041666666666665
+3,768,Energy,0.0026041666666666665,Energy,0.0026041666666666665
+3,768,Building & Personnel Services,0.0026041666666666665,Building & Personnel Services,0.0026041666666666665
+3,768,Moving Services,0.0013020833333333333,Moving Services,0.0013020833333333333
+3,768,Legal,0.0013020833333333333,Legal,0.0013020833333333333
+3,768,Industrial Manufacturing,0.0013020833333333333,Industrial Manufacturing,0.0013020833333333333
+3,768,Insurance Agencies & Brokerages,0.0013020833333333333,Insurance Agencies & Brokerages,0.0013020833333333333
+3,768,"Museums, Zoos & Amusement Parks",0.0013020833333333333,"Museums, Zoos & Amusement Parks",0.0013020833333333333
+3,768,Audiovisual,0.0013020833333333333,Audiovisual,0.0013020833333333333
+3,768,Oil & Gas Exploration & Production,0.0013020833333333333,Oil & Gas Exploration & Production,0.0013020833333333333
+3,768,Commercial Equipment Repair & Maintenance,0.0013020833333333333,Commercial Equipment Repair & Maintenance,0.0013020833333333333
+3,768,Other Retail Stores,0.0013020833333333333,Other Retail Stores,0.0013020833333333333
+3,768,Venture Capital & Private Equity,0.0013020833333333333,Venture Capital & Private Equity,0.0013020833333333333
+3,768,Food & Beverage Manufacturing,0.0013020833333333333,Food & Beverage Manufacturing,0.0013020833333333333
+3,768,Chemical Manufacturing,0.0013020833333333333,Chemical Manufacturing,0.0013020833333333333
+3,768,Farm Support Services,0.0013020833333333333,Farm Support Services,0.0013020833333333333
+3,768,Photography,0.0,Photography,0.0
+3,768,Preschool & Child Care,0.0,Preschool & Child Care,0.0
+3,768,Vehicle Dealers,0.0,Vehicle Dealers,0.0
+3,768,Trucking,0.0,Trucking,0.0
+3,768,Truck Rental & Leasing,0.0,Truck Rental & Leasing,0.0
+3,768,Publishing,0.0,Publishing,0.0
+3,768,Radio,0.0,Radio,0.0
+3,768,Rail,0.0,Rail,0.0
+3,768,Shipping,0.0,Shipping,0.0
+3,768,Transportation Management,0.0,Transportation Management,0.0
+3,768,Timber Operations,0.0,Timber Operations,0.0
+3,768,Airlines,0.0,Airlines,0.0
+3,768,Telecommunications Manufacturing,0.0,Telecommunications Manufacturing,0.0
+3,768,Stock Exchanges,0.0,Stock Exchanges,0.0
+3,768,State & Regional Agencies,0.0,State & Regional Agencies,0.0
+3,768,Security Services,0.0,Security Services,0.0
+3,768,Sports & Recreation,0.0,Sports & Recreation,0.0
+3,768,Sporting Goods Stores,0.0,Sporting Goods Stores,0.0
+3,768,Self-Storage Services,0.0,Self-Storage Services,0.0
+3,768,Travel Agencies,0.0,Travel Agencies,0.0
+3,768,Media & Entertainment Retail Stores,0.0,Media & Entertainment Retail Stores,0.0
+3,768,News Outlet,0.0,News Outlet,0.0
+3,768,Consumer Electronics & Appliances Stores,0.0,Consumer Electronics & Appliances Stores,0.0
+3,768,Consumer Product Rental,0.0,Consumer Product Rental,0.0
+3,768,Commercial Equipment Rental,0.0,Commercial Equipment Rental,0.0
+3,768,Convenience Stores & Truck Stops,0.0,Convenience Stores & Truck Stops,0.0
+3,768,Cruise Ships,0.0,Cruise Ships,0.0
+3,768,Education Training Services,0.0,Education Training Services,0.0
+3,768,Catering & Food Service Contractors,0.0,Catering & Food Service Contractors,0.0
+3,768,Express Delivery Services,0.0,Express Delivery Services,0.0
+3,768,Fast-Food & Quick-Service Restaurants,0.0,Fast-Food & Quick-Service Restaurants,0.0
+3,768,Financial Analytics & Research,0.0,Financial Analytics & Research,0.0
+3,768,Food Production,0.0,Food Production,0.0
+3,768,Funeral Services,0.0,Funeral Services,0.0
+3,768,Gambling,0.0,Gambling,0.0
+4,2113,-1,0.1448177946048275,-1,0.1448177946048275
+4,2113,IT Services,0.11263606247042139,IT Services,0.11263606247042139
+4,2113,Staffing & Outsourcing,0.11074301940369162,Staffing & Outsourcing,0.11074301940369162
+4,2113,Computer Hardware & Software,0.05489824893516336,Computer Hardware & Software,0.05489824893516336
+4,2113,Consulting,0.047326076668244274,Consulting,0.047326076668244274
+4,2113,Investment Banking & Asset Management,0.044013251301467174,Investment Banking & Asset Management,0.044013251301467174
+4,2113,Health Care Services & Hospitals,0.042593469001419845,Health Care Services & Hospitals,0.042593469001419845
+4,2113,Banks & Credit Unions,0.04117368670137252,Banks & Credit Unions,0.04117368670137252
+4,2113,Enterprise Software & Network Solutions,0.0321817321344061,Enterprise Software & Network Solutions,0.0321817321344061
+4,2113,Biotech & Pharmaceuticals,0.0222432560340748,Biotech & Pharmaceuticals,0.0222432560340748
+4,2113,Insurance Carriers,0.02176999526739236,Insurance Carriers,0.02176999526739236
+4,2113,Accounting,0.017983909133932816,Accounting,0.017983909133932816
+4,2113,Advertising & Marketing,0.01703738760056793,Advertising & Marketing,0.01703738760056793
+4,2113,Lending,0.015144344533838158,Lending,0.015144344533838158
+4,2113,Electrical & Electronic Manufacturing,0.014671083767155715,Electrical & Electronic Manufacturing,0.014671083767155715
+4,2113,State & Regional Agencies,0.012304779933743501,State & Regional Agencies,0.012304779933743501
+4,2113,Industrial Manufacturing,0.011831519167061058,Industrial Manufacturing,0.011831519167061058
+4,2113,Food & Beverage Manufacturing,0.010884997633696172,Food & Beverage Manufacturing,0.010884997633696172
+4,2113,Aerospace & Defense,0.010884997633696172,Aerospace & Defense,0.010884997633696172
+4,2113,Wholesale,0.009938476100331287,Wholesale,0.009938476100331287
+4,2113,Federal Agencies,0.0089919545669664,Federal Agencies,0.0089919545669664
+4,2113,Health Care Products Manufacturing,0.008518693800283958,Health Care Products Manufacturing,0.008518693800283958
+4,2113,Colleges & Universities,0.008518693800283958,Colleges & Universities,0.008518693800283958
+4,2113,Real Estate,0.008045433033601515,Real Estate,0.008045433033601515
+4,2113,Consumer Products Manufacturing,0.008045433033601515,Consumer Products Manufacturing,0.008045433033601515
+4,2113,Social Assistance,0.007572172266919072,Social Assistance,0.007572172266919072
+4,2113,Logistics & Supply Chain,0.007572172266919072,Logistics & Supply Chain,0.007572172266919072
+4,2113,Internet,0.00709891150023663,Internet,0.00709891150023663
+4,2113,Energy,0.00709891150023663,Energy,0.00709891150023663
+4,2113,Architectural & Engineering Services,0.006625650733554188,Architectural & Engineering Services,0.006625650733554188
+4,2113,Chemical Manufacturing,0.005679129200189304,Chemical Manufacturing,0.005679129200189304
+4,2113,Financial Transaction Processing,0.005679129200189304,Financial Transaction Processing,0.005679129200189304
+4,2113,"Health, Beauty, & Fitness",0.005205868433506862,"Health, Beauty, & Fitness",0.005205868433506862
+4,2113,Telecommunications Services,0.005205868433506862,Telecommunications Services,0.005205868433506862
+4,2113,Oil & Gas Services,0.005205868433506862,Oil & Gas Services,0.005205868433506862
+4,2113,Construction,0.00473260766682442,Construction,0.00473260766682442
+4,2113,Miscellaneous Manufacturing,0.00473260766682442,Miscellaneous Manufacturing,0.00473260766682442
+4,2113,Financial Analytics & Research,0.004259346900141978,Financial Analytics & Research,0.004259346900141978
+4,2113,Transportation Equipment Manufacturing,0.004259346900141978,Transportation Equipment Manufacturing,0.004259346900141978
+4,2113,Municipal Governments,0.004259346900141978,Municipal Governments,0.004259346900141978
+4,2113,Utilities,0.004259346900141978,Utilities,0.004259346900141978
+4,2113,Insurance Agencies & Brokerages,0.004259346900141978,Insurance Agencies & Brokerages,0.004259346900141978
+4,2113,Transportation Management,0.003786086133459536,Transportation Management,0.003786086133459536
+4,2113,Building & Personnel Services,0.003312825366777094,Building & Personnel Services,0.003312825366777094
+4,2113,"Department, Clothing, & Shoe Stores",0.003312825366777094,"Department, Clothing, & Shoe Stores",0.003312825366777094
+4,2113,Other Retail Stores,0.002839564600094652,Other Retail Stores,0.002839564600094652
+4,2113,Home Centers & Hardware Stores,0.002839564600094652,Home Centers & Hardware Stores,0.002839564600094652
+4,2113,Automotive Parts & Accessories Stores,0.00236630383341221,Automotive Parts & Accessories Stores,0.00236630383341221
+4,2113,Venture Capital & Private Equity,0.00236630383341221,Venture Capital & Private Equity,0.00236630383341221
+4,2113,Grocery Stores & Supermarkets,0.00236630383341221,Grocery Stores & Supermarkets,0.00236630383341221
+4,2113,Health Fundraising Organizations,0.00236630383341221,Health Fundraising Organizations,0.00236630383341221
+4,2113,"Cable, Internet & Telephone Providers",0.00236630383341221,"Cable, Internet & Telephone Providers",0.00236630383341221
+4,2113,TV Broadcast & Cable Networks,0.00236630383341221,TV Broadcast & Cable Networks,0.00236630383341221
+4,2113,Oil & Gas Exploration & Production,0.001893043066729768,Oil & Gas Exploration & Production,0.001893043066729768
+4,2113,Metal & Mineral Manufacturing,0.001893043066729768,Metal & Mineral Manufacturing,0.001893043066729768
+4,2113,Brokerage Services,0.001893043066729768,Brokerage Services,0.001893043066729768
+4,2113,Sports & Recreation,0.001893043066729768,Sports & Recreation,0.001893043066729768
+4,2113,Commercial Equipment Repair & Maintenance,0.001893043066729768,Commercial Equipment Repair & Maintenance,0.001893043066729768
+4,2113,General Merchandise & Superstores,0.001419782300047326,General Merchandise & Superstores,0.001419782300047326
+4,2113,Shipping,0.001419782300047326,Shipping,0.001419782300047326
+4,2113,Research & Development,0.001419782300047326,Research & Development,0.001419782300047326
+4,2113,Telecommunications Manufacturing,0.001419782300047326,Telecommunications Manufacturing,0.001419782300047326
+4,2113,Publishing,0.000946521533364884,Publishing,0.000946521533364884
+4,2113,Motion Picture Production & Distribution,0.000946521533364884,Motion Picture Production & Distribution,0.000946521533364884
+4,2113,Stock Exchanges,0.000946521533364884,Stock Exchanges,0.000946521533364884
+4,2113,Membership Organizations,0.000946521533364884,Membership Organizations,0.000946521533364884
+4,2113,Rail,0.000946521533364884,Rail,0.000946521533364884
+4,2113,"Hotels, Motels, & Resorts",0.000946521533364884,"Hotels, Motels, & Resorts",0.000946521533364884
+4,2113,Gas Stations,0.000946521533364884,Gas Stations,0.000946521533364884
+4,2113,Education Training Services,0.000946521533364884,Education Training Services,0.000946521533364884
+4,2113,Legal,0.000946521533364884,Legal,0.000946521533364884
+4,2113,Beauty & Personal Accessories Stores,0.000946521533364884,Beauty & Personal Accessories Stores,0.000946521533364884
+4,2113,Home Furniture & Housewares Stores,0.000946521533364884,Home Furniture & Housewares Stores,0.000946521533364884
+4,2113,Trucking,0.000946521533364884,Trucking,0.000946521533364884
+4,2113,Consumer Electronics & Appliances Stores,0.000946521533364884,Consumer Electronics & Appliances Stores,0.000946521533364884
+4,2113,General Repair & Maintenance,0.000946521533364884,General Repair & Maintenance,0.000946521533364884
+4,2113,Drug & Health Stores,0.000946521533364884,Drug & Health Stores,0.000946521533364884
+4,2113,Gambling,0.000946521533364884,Gambling,0.000946521533364884
+4,2113,Radio,0.000473260766682442,Radio,0.000473260766682442
+4,2113,K-12 Education,0.000473260766682442,K-12 Education,0.000473260766682442
+4,2113,Consumer Product Rental,0.000473260766682442,Consumer Product Rental,0.000473260766682442
+4,2113,Preschool & Child Care,0.000473260766682442,Preschool & Child Care,0.000473260766682442
+4,2113,Security Services,0.000473260766682442,Security Services,0.000473260766682442
+4,2113,Catering & Food Service Contractors,0.000473260766682442,Catering & Food Service Contractors,0.000473260766682442
+4,2113,Convenience Stores & Truck Stops,0.000473260766682442,Convenience Stores & Truck Stops,0.000473260766682442
+4,2113,Airlines,0.000473260766682442,Airlines,0.000473260766682442
+4,2113,Bus Transportation Services,0.000473260766682442,Bus Transportation Services,0.000473260766682442
+4,2113,Express Delivery Services,0.000473260766682442,Express Delivery Services,0.000473260766682442
+4,2113,Fast-Food & Quick-Service Restaurants,0.000473260766682442,Fast-Food & Quick-Service Restaurants,0.000473260766682442
+4,2113,Food & Beverage Stores,0.000473260766682442,Food & Beverage Stores,0.000473260766682442
+4,2113,Food Production,0.000473260766682442,Food Production,0.000473260766682442
+4,2113,Funeral Services,0.000473260766682442,Funeral Services,0.000473260766682442
+4,2113,Moving Services,0.000473260766682442,Moving Services,0.000473260766682442
+4,2113,Media & Entertainment Retail Stores,0.000473260766682442,Media & Entertainment Retail Stores,0.000473260766682442
+4,2113,Vehicle Dealers,0.000473260766682442,Vehicle Dealers,0.000473260766682442
+4,2113,Truck Rental & Leasing,0.000473260766682442,Truck Rental & Leasing,0.000473260766682442
+4,2113,Timber Operations,0.0,Timber Operations,0.0
+4,2113,Travel Agencies,0.0,Travel Agencies,0.0
+4,2113,Commercial Equipment Rental,0.0,Commercial Equipment Rental,0.0
+4,2113,Self-Storage Services,0.0,Self-Storage Services,0.0
+5,111,Investment Banking & Asset Management,0.5765765765765771,Investment Banking & Asset Management,0.5765765765765771
+5,111,Lending,0.40540540540540565,Lending,0.40540540540540565
+5,111,-1,0.009009009009009009,-1,0.009009009009009009
+5,111,IT Services,0.009009009009009009,IT Services,0.009009009009009009
+5,111,Internet,0.0,Internet,0.0
+5,111,Pet & Pet Supplies Stores,0.0,Pet & Pet Supplies Stores,0.0
+5,111,Other Retail Stores,0.0,Other Retail Stores,0.0
+5,111,Oil & Gas Services,0.0,Oil & Gas Services,0.0
+5,111,Oil & Gas Exploration & Production,0.0,Oil & Gas Exploration & Production,0.0
+5,111,News Outlet,0.0,News Outlet,0.0
+5,111,Music Production & Distribution,0.0,Music Production & Distribution,0.0
+5,111,"Museums, Zoos & Amusement Parks",0.0,"Museums, Zoos & Amusement Parks",0.0
+5,111,Municipal Governments,0.0,Municipal Governments,0.0
+5,111,Moving Services,0.0,Moving Services,0.0
+5,111,Motion Picture Production & Distribution,0.0,Motion Picture Production & Distribution,0.0
+5,111,Insurance Carriers,0.0,Insurance Carriers,0.0
+5,111,Miscellaneous Manufacturing,0.0,Miscellaneous Manufacturing,0.0
+5,111,Photography,0.0,Photography,0.0
+5,111,Metal & Mineral Manufacturing,0.0,Metal & Mineral Manufacturing,0.0
+5,111,Membership Organizations,0.0,Membership Organizations,0.0
+5,111,Media & Entertainment Retail Stores,0.0,Media & Entertainment Retail Stores,0.0
+5,111,Logistics & Supply Chain,0.0,Logistics & Supply Chain,0.0
+5,111,Industrial Manufacturing,0.0,Industrial Manufacturing,0.0
+5,111,Legal,0.0,Legal,0.0
+5,111,Laundry & Dry Cleaning,0.0,Laundry & Dry Cleaning,0.0
+5,111,K-12 Education,0.0,K-12 Education,0.0
+5,111,Insurance Agencies & Brokerages,0.0,Insurance Agencies & Brokerages,0.0
+5,111,Mining,0.0,Mining,0.0
+5,111,Metals Brokers,0.0,Metals Brokers,0.0
+5,111,Preschool & Child Care,0.0,Preschool & Child Care,0.0
+5,111,Radio,0.0,Radio,0.0
+5,111,Venture Capital & Private Equity,0.0,Venture Capital & Private Equity,0.0
+5,111,Vehicle Dealers,0.0,Vehicle Dealers,0.0
+5,111,Utilities,0.0,Utilities,0.0
+5,111,Trucking,0.0,Trucking,0.0
+5,111,Truck Rental & Leasing,0.0,Truck Rental & Leasing,0.0
+5,111,Travel Agencies,0.0,Travel Agencies,0.0
+5,111,Transportation Management,0.0,Transportation Management,0.0
+5,111,Transportation Equipment Manufacturing,0.0,Transportation Equipment Manufacturing,0.0
+5,111,Timber Operations,0.0,Timber Operations,0.0
+5,111,Telecommunications Services,0.0,Telecommunications Services,0.0
+5,111,Telecommunications Manufacturing,0.0,Telecommunications Manufacturing,0.0
+5,111,TV Broadcast & Cable Networks,0.0,TV Broadcast & Cable Networks,0.0
+5,111,Stock Exchanges,0.0,Stock Exchanges,0.0
+5,111,State & Regional Agencies,0.0,State & Regional Agencies,0.0
+5,111,Staffing & Outsourcing,0.0,Staffing & Outsourcing,0.0
+5,111,Sports & Recreation,0.0,Sports & Recreation,0.0
+5,111,Sporting Goods Stores,0.0,Sporting Goods Stores,0.0
+5,111,Social Assistance,0.0,Social Assistance,0.0
+5,111,Shipping,0.0,Shipping,0.0
+5,111,Self-Storage Services,0.0,Self-Storage Services,0.0
+5,111,Security Services,0.0,Security Services,0.0
+5,111,Research & Development,0.0,Research & Development,0.0
+5,111,Religious Organizations,0.0,Religious Organizations,0.0
+5,111,Real Estate,0.0,Real Estate,0.0
+5,111,Rail,0.0,Rail,0.0
+5,111,Publishing,0.0,Publishing,0.0
+5,111,Video Games,0.0,Video Games,0.0
+5,111,"Hotels, Motels, & Resorts",0.0,"Hotels, Motels, & Resorts",0.0
+5,111,Home Centers & Hardware Stores,0.0,Home Centers & Hardware Stores,0.0
+5,111,Consumer Electronics & Appliances Stores,0.0,Consumer Electronics & Appliances Stores,0.0
+5,111,Consulting,0.0,Consulting,0.0
+5,111,Construction,0.0,Construction,0.0
+5,111,Computer Hardware & Software,0.0,Computer Hardware & Software,0.0
+5,111,Commercial Equipment Repair & Maintenance,0.0,Commercial Equipment Repair & Maintenance,0.0
+5,111,Commercial Equipment Rental,0.0,Commercial Equipment Rental,0.0
+5,111,Colleges & Universities,0.0,Colleges & Universities,0.0
+5,111,Chemical Manufacturing,0.0,Chemical Manufacturing,0.0
+5,111,Catering & Food Service Contractors,0.0,Catering & Food Service Contractors,0.0
+5,111,Casual Restaurants,0.0,Casual Restaurants,0.0
+5,111,"Cable, Internet & Telephone Providers",0.0,"Cable, Internet & Telephone Providers",0.0
+5,111,Bus Transportation Services,0.0,Bus Transportation Services,0.0
+5,111,Building & Personnel Services,0.0,Building & Personnel Services,0.0
+5,111,Brokerage Services,0.0,Brokerage Services,0.0
+5,111,Biotech & Pharmaceuticals,0.0,Biotech & Pharmaceuticals,0.0
+5,111,Beauty & Personal Accessories Stores,0.0,Beauty & Personal Accessories Stores,0.0
+5,111,Banks & Credit Unions,0.0,Banks & Credit Unions,0.0
+5,111,Automotive Parts & Accessories Stores,0.0,Automotive Parts & Accessories Stores,0.0
+5,111,Auto Repair & Maintenance,0.0,Auto Repair & Maintenance,0.0
+5,111,Audiovisual,0.0,Audiovisual,0.0
+5,111,Architectural & Engineering Services,0.0,Architectural & Engineering Services,0.0
+5,111,Airlines,0.0,Airlines,0.0
+5,111,Aerospace & Defense,0.0,Aerospace & Defense,0.0
+5,111,Advertising & Marketing,0.0,Advertising & Marketing,0.0
+5,111,Accounting,0.0,Accounting,0.0
+5,111,Consumer Product Rental,0.0,Consumer Product Rental,0.0
+5,111,Consumer Products Manufacturing,0.0,Consumer Products Manufacturing,0.0
+5,111,Convenience Stores & Truck Stops,0.0,Convenience Stores & Truck Stops,0.0
+5,111,Cruise Ships,0.0,Cruise Ships,0.0
+5,111,"Health, Beauty, & Fitness",0.0,"Health, Beauty, & Fitness",0.0
+5,111,Health Fundraising Organizations,0.0,Health Fundraising Organizations,0.0
+5,111,Health Care Services & Hospitals,0.0,Health Care Services & Hospitals,0.0
+5,111,Health Care Products Manufacturing,0.0,Health Care Products Manufacturing,0.0
+5,111,Grocery Stores & Supermarkets,0.0,Grocery Stores & Supermarkets,0.0
+5,111,Grantmaking Foundations,0.0,Grantmaking Foundations,0.0
+5,111,General Repair & Maintenance,0.0,General Repair & Maintenance,0.0
+5,111,General Merchandise & Superstores,0.0,General Merchandise & Superstores,0.0
+5,111,Gas Stations,0.0,Gas Stations,0.0
+5,111,Gambling,0.0,Gambling,0.0
+5,111,Funeral Services,0.0,Funeral Services,0.0
+6,3984,-1,0.11420682730923794,-1,0.11420682730923794
+6,3984,Staffing & Outsourcing,0.10642570281124587,Staffing & Outsourcing,0.10642570281124587
+6,3984,IT Services,0.10316265060241049,IT Services,0.10316265060241049
+6,3984,Consulting,0.06676706827309277,Consulting,0.06676706827309277
+6,3984,Aerospace & Defense,0.05923694779116497,Aerospace & Defense,0.05923694779116497
+6,3984,Internet,0.05296184738955847,Internet,0.05296184738955847
+6,3984,Computer Hardware & Software,0.048694779116466046,Computer Hardware & Software,0.048694779116466046
+6,3984,Insurance Carriers,0.047439759036144745,Insurance Carriers,0.047439759036144745
+6,3984,Health Care Services & Hospitals,0.0426706827309238,Health Care Services & Hospitals,0.0426706827309238
+6,3984,Investment Banking & Asset Management,0.03865461847389564,Investment Banking & Asset Management,0.03865461847389564
+6,3984,Enterprise Software & Network Solutions,0.03463855421686748,Enterprise Software & Network Solutions,0.03463855421686748
+6,3984,Biotech & Pharmaceuticals,0.028865461847389525,Biotech & Pharmaceuticals,0.028865461847389525
+6,3984,Banks & Credit Unions,0.026606425702811215,Banks & Credit Unions,0.026606425702811215
+6,3984,Advertising & Marketing,0.019829317269076285,Advertising & Marketing,0.019829317269076285
+6,3984,Federal Agencies,0.018825301204819258,Federal Agencies,0.018825301204819258
+6,3984,Colleges & Universities,0.01706827309236946,Colleges & Universities,0.01706827309236946
+6,3984,Video Games,0.014307228915662638,Video Games,0.014307228915662638
+6,3984,Architectural & Engineering Services,0.012550200803212841,Architectural & Engineering Services,0.012550200803212841
+6,3984,Accounting,0.010542168674698787,Accounting,0.010542168674698787
+6,3984,Financial Transaction Processing,0.01029116465863453,Financial Transaction Processing,0.01029116465863453
+6,3984,Electrical & Electronic Manufacturing,0.009287148594377504,Electrical & Electronic Manufacturing,0.009287148594377504
+6,3984,Research & Development,0.008283132530120477,Research & Development,0.008283132530120477
+6,3984,TV Broadcast & Cable Networks,0.006777108433734936,TV Broadcast & Cable Networks,0.006777108433734936
+6,3984,Social Assistance,0.006024096385542166,Social Assistance,0.006024096385542166
+6,3984,Financial Analytics & Research,0.006024096385542166,Financial Analytics & Research,0.006024096385542166
+6,3984,Transportation Equipment Manufacturing,0.00502008032128514,Transportation Equipment Manufacturing,0.00502008032128514
+6,3984,Construction,0.00426706827309237,Construction,0.00426706827309237
+6,3984,Energy,0.004016064257028113,Energy,0.004016064257028113
+6,3984,Insurance Agencies & Brokerages,0.0037650602409638563,Insurance Agencies & Brokerages,0.0037650602409638563
+6,3984,Telecommunications Services,0.003514056224899599,Telecommunications Services,0.003514056224899599
+6,3984,Real Estate,0.003263052208835342,Real Estate,0.003263052208835342
+6,3984,Casual Restaurants,0.003263052208835342,Casual Restaurants,0.003263052208835342
+6,3984,Grocery Stores & Supermarkets,0.003012048192771085,Grocery Stores & Supermarkets,0.003012048192771085
+6,3984,Industrial Manufacturing,0.003012048192771085,Industrial Manufacturing,0.003012048192771085
+6,3984,"Department, Clothing, & Shoe Stores",0.002761044176706828,"Department, Clothing, & Shoe Stores",0.002761044176706828
+6,3984,Lending,0.0025100401606425707,Lending,0.0025100401606425707
+6,3984,State & Regional Agencies,0.0025100401606425707,State & Regional Agencies,0.0025100401606425707
+6,3984,Convenience Stores & Truck Stops,0.0025100401606425707,Convenience Stores & Truck Stops,0.0025100401606425707
+6,3984,Brokerage Services,0.0025100401606425707,Brokerage Services,0.0025100401606425707
+6,3984,"Health, Beauty, & Fitness",0.0025100401606425707,"Health, Beauty, & Fitness",0.0025100401606425707
+6,3984,Transportation Management,0.0022590361445783136,Transportation Management,0.0022590361445783136
+6,3984,Food & Beverage Manufacturing,0.0022590361445783136,Food & Beverage Manufacturing,0.0022590361445783136
+6,3984,Consumer Products Manufacturing,0.0020080321285140565,Consumer Products Manufacturing,0.0020080321285140565
+6,3984,Oil & Gas Services,0.0020080321285140565,Oil & Gas Services,0.0020080321285140565
+6,3984,Motion Picture Production & Distribution,0.0017570281124497994,Motion Picture Production & Distribution,0.0017570281124497994
+6,3984,Education Training Services,0.0015060240963855422,Education Training Services,0.0015060240963855422
+6,3984,Security Services,0.0015060240963855422,Security Services,0.0015060240963855422
+6,3984,Stock Exchanges,0.0015060240963855422,Stock Exchanges,0.0015060240963855422
+6,3984,Utilities,0.0015060240963855422,Utilities,0.0015060240963855422
+6,3984,Municipal Governments,0.0012550200803212851,Municipal Governments,0.0012550200803212851
+6,3984,Other Retail Stores,0.0012550200803212851,Other Retail Stores,0.0012550200803212851
+6,3984,Building & Personnel Services,0.0012550200803212851,Building & Personnel Services,0.0012550200803212851
+6,3984,"Cable, Internet & Telephone Providers",0.0012550200803212851,"Cable, Internet & Telephone Providers",0.0012550200803212851
+6,3984,Legal,0.001004016064257028,Legal,0.001004016064257028
+6,3984,K-12 Education,0.001004016064257028,K-12 Education,0.001004016064257028
+6,3984,Logistics & Supply Chain,0.001004016064257028,Logistics & Supply Chain,0.001004016064257028
+6,3984,Oil & Gas Exploration & Production,0.001004016064257028,Oil & Gas Exploration & Production,0.001004016064257028
+6,3984,Wholesale,0.001004016064257028,Wholesale,0.001004016064257028
+6,3984,Chemical Manufacturing,0.001004016064257028,Chemical Manufacturing,0.001004016064257028
+6,3984,Home Centers & Hardware Stores,0.000753012048192771,Home Centers & Hardware Stores,0.000753012048192771
+6,3984,Publishing,0.000753012048192771,Publishing,0.000753012048192771
+6,3984,Food & Beverage Stores,0.000753012048192771,Food & Beverage Stores,0.000753012048192771
+6,3984,Audiovisual,0.000753012048192771,Audiovisual,0.000753012048192771
+6,3984,Telecommunications Manufacturing,0.000753012048192771,Telecommunications Manufacturing,0.000753012048192771
+6,3984,Health Care Products Manufacturing,0.000753012048192771,Health Care Products Manufacturing,0.000753012048192771
+6,3984,Venture Capital & Private Equity,0.000753012048192771,Venture Capital & Private Equity,0.000753012048192771
+6,3984,Travel Agencies,0.000753012048192771,Travel Agencies,0.000753012048192771
+6,3984,Trucking,0.000502008032128514,Trucking,0.000502008032128514
+6,3984,Timber Operations,0.000502008032128514,Timber Operations,0.000502008032128514
+6,3984,Pet & Pet Supplies Stores,0.000502008032128514,Pet & Pet Supplies Stores,0.000502008032128514
+6,3984,Beauty & Personal Accessories Stores,0.000502008032128514,Beauty & Personal Accessories Stores,0.000502008032128514
+6,3984,Catering & Food Service Contractors,0.000502008032128514,Catering & Food Service Contractors,0.000502008032128514
+6,3984,Vehicle Dealers,0.000502008032128514,Vehicle Dealers,0.000502008032128514
+6,3984,Commercial Equipment Repair & Maintenance,0.000502008032128514,Commercial Equipment Repair & Maintenance,0.000502008032128514
+6,3984,Cruise Ships,0.000502008032128514,Cruise Ships,0.000502008032128514
+6,3984,Preschool & Child Care,0.000502008032128514,Preschool & Child Care,0.000502008032128514
+6,3984,Gambling,0.000502008032128514,Gambling,0.000502008032128514
+6,3984,Membership Organizations,0.000502008032128514,Membership Organizations,0.000502008032128514
+6,3984,General Merchandise & Superstores,0.000502008032128514,General Merchandise & Superstores,0.000502008032128514
+6,3984,Food Production,0.000251004016064257,Food Production,0.000251004016064257
+6,3984,Automotive Parts & Accessories Stores,0.000251004016064257,Automotive Parts & Accessories Stores,0.000251004016064257
+6,3984,Truck Rental & Leasing,0.000251004016064257,Truck Rental & Leasing,0.000251004016064257
+6,3984,Miscellaneous Manufacturing,0.000251004016064257,Miscellaneous Manufacturing,0.000251004016064257
+6,3984,General Repair & Maintenance,0.000251004016064257,General Repair & Maintenance,0.000251004016064257
+6,3984,Airlines,0.000251004016064257,Airlines,0.000251004016064257
+6,3984,Grantmaking Foundations,0.000251004016064257,Grantmaking Foundations,0.000251004016064257
+6,3984,News Outlet,0.000251004016064257,News Outlet,0.000251004016064257
+6,3984,Gas Stations,0.0,Gas Stations,0.0
+6,3984,Auto Repair & Maintenance,0.0,Auto Repair & Maintenance,0.0
+6,3984,Sporting Goods Stores,0.0,Sporting Goods Stores,0.0
+6,3984,Laundry & Dry Cleaning,0.0,Laundry & Dry Cleaning,0.0
+6,3984,Funeral Services,0.0,Funeral Services,0.0
+6,3984,Bus Transportation Services,0.0,Bus Transportation Services,0.0
+6,3984,Media & Entertainment Retail Stores,0.0,Media & Entertainment Retail Stores,0.0
+6,3984,Sports & Recreation,0.0,Sports & Recreation,0.0
+6,3984,Health Fundraising Organizations,0.0,Health Fundraising Organizations,0.0
+6,3984,Fast-Food & Quick-Service Restaurants,0.0,Fast-Food & Quick-Service Restaurants,0.0
+6,3984,Shipping,0.0,Shipping,0.0
+6,3984,Self-Storage Services,0.0,Self-Storage Services,0.0
+6,3984,Moving Services,0.0,Moving Services,0.0
+7,1245,Health Care Services & Hospitals,0.22891566265060104,Health Care Services & Hospitals,0.22891566265060104
+7,1245,-1,0.1871485943775093,-1,0.1871485943775093
+7,1245,Biotech & Pharmaceuticals,0.18152610441767003,Biotech & Pharmaceuticals,0.18152610441767003
+7,1245,Colleges & Universities,0.0843373493975905,Colleges & Universities,0.0843373493975905
+7,1245,Staffing & Outsourcing,0.03935742971887555,Staffing & Outsourcing,0.03935742971887555
+7,1245,IT Services,0.034538152610441804,IT Services,0.034538152610441804
+7,1245,Municipal Governments,0.024899598393574317,Municipal Governments,0.024899598393574317
+7,1245,Consulting,0.024899598393574317,Consulting,0.024899598393574317
+7,1245,State & Regional Agencies,0.02329317269076307,State & Regional Agencies,0.02329317269076307
+7,1245,Social Assistance,0.02168674698795182,Social Assistance,0.02168674698795182
+7,1245,Computer Hardware & Software,0.0176706827309237,Computer Hardware & Software,0.0176706827309237
+7,1245,Federal Agencies,0.014457831325301205,Federal Agencies,0.014457831325301205
+7,1245,K-12 Education,0.01285140562248996,K-12 Education,0.01285140562248996
+7,1245,Accounting,0.010441767068273093,Accounting,0.010441767068273093
+7,1245,Insurance Carriers,0.00963855421686747,Insurance Carriers,0.00963855421686747
+7,1245,Enterprise Software & Network Solutions,0.008032128514056226,Enterprise Software & Network Solutions,0.008032128514056226
+7,1245,Health Care Products Manufacturing,0.007228915662650603,Health Care Products Manufacturing,0.007228915662650603
+7,1245,Advertising & Marketing,0.00642570281124498,Advertising & Marketing,0.00642570281124498
+7,1245,Research & Development,0.005622489959839358,Research & Development,0.005622489959839358
+7,1245,Internet,0.005622489959839358,Internet,0.005622489959839358
+7,1245,Preschool & Child Care,0.004016064257028113,Preschool & Child Care,0.004016064257028113
+7,1245,Construction,0.00321285140562249,Construction,0.00321285140562249
+7,1245,Publishing,0.00321285140562249,Publishing,0.00321285140562249
+7,1245,Health Fundraising Organizations,0.00321285140562249,Health Fundraising Organizations,0.00321285140562249
+7,1245,Education Training Services,0.0024096385542168677,Education Training Services,0.0024096385542168677
+7,1245,Logistics & Supply Chain,0.001606425702811245,Logistics & Supply Chain,0.001606425702811245
+7,1245,Financial Transaction Processing,0.001606425702811245,Financial Transaction Processing,0.001606425702811245
+7,1245,Food & Beverage Manufacturing,0.001606425702811245,Food & Beverage Manufacturing,0.001606425702811245
+7,1245,Farm Support Services,0.001606425702811245,Farm Support Services,0.001606425702811245
+7,1245,"Department, Clothing, & Shoe Stores",0.001606425702811245,"Department, Clothing, & Shoe Stores",0.001606425702811245
+7,1245,Grantmaking Foundations,0.001606425702811245,Grantmaking Foundations,0.001606425702811245
+7,1245,Transportation Management,0.001606425702811245,Transportation Management,0.001606425702811245
+7,1245,Consumer Products Manufacturing,0.001606425702811245,Consumer Products Manufacturing,0.001606425702811245
+7,1245,Banks & Credit Unions,0.001606425702811245,Banks & Credit Unions,0.001606425702811245
+7,1245,Membership Organizations,0.001606425702811245,Membership Organizations,0.001606425702811245
+7,1245,Architectural & Engineering Services,0.001606425702811245,Architectural & Engineering Services,0.001606425702811245
+7,1245,Commercial Equipment Repair & Maintenance,0.001606425702811245,Commercial Equipment Repair & Maintenance,0.001606425702811245
+7,1245,Lending,0.001606425702811245,Lending,0.001606425702811245
+7,1245,Aerospace & Defense,0.001606425702811245,Aerospace & Defense,0.001606425702811245
+7,1245,Utilities,0.0008032128514056225,Utilities,0.0008032128514056225
+7,1245,"Health, Beauty, & Fitness",0.0008032128514056225,"Health, Beauty, & Fitness",0.0008032128514056225
+7,1245,Sports & Recreation,0.0008032128514056225,Sports & Recreation,0.0008032128514056225
+7,1245,Motion Picture Production & Distribution,0.0008032128514056225,Motion Picture Production & Distribution,0.0008032128514056225
+7,1245,Insurance Agencies & Brokerages,0.0008032128514056225,Insurance Agencies & Brokerages,0.0008032128514056225
+7,1245,Grocery Stores & Supermarkets,0.0008032128514056225,Grocery Stores & Supermarkets,0.0008032128514056225
+7,1245,Metals Brokers,0.0008032128514056225,Metals Brokers,0.0008032128514056225
+7,1245,Investment Banking & Asset Management,0.0008032128514056225,Investment Banking & Asset Management,0.0008032128514056225
+7,1245,Vehicle Dealers,0.0008032128514056225,Vehicle Dealers,0.0008032128514056225
+7,1245,Transportation Equipment Manufacturing,0.0008032128514056225,Transportation Equipment Manufacturing,0.0008032128514056225
+7,1245,"Hotels, Motels, & Resorts",0.0008032128514056225,"Hotels, Motels, & Resorts",0.0008032128514056225
+7,1245,Wholesale,0.0008032128514056225,Wholesale,0.0008032128514056225
+7,1245,Consumer Product Rental,0.0008032128514056225,Consumer Product Rental,0.0008032128514056225
+7,1245,Financial Analytics & Research,0.0008032128514056225,Financial Analytics & Research,0.0008032128514056225
+7,1245,Chemical Manufacturing,0.0008032128514056225,Chemical Manufacturing,0.0008032128514056225
+7,1245,Building & Personnel Services,0.0008032128514056225,Building & Personnel Services,0.0008032128514056225
+7,1245,Rail,0.0,Rail,0.0
+7,1245,Real Estate,0.0,Real Estate,0.0
+7,1245,Religious Organizations,0.0,Religious Organizations,0.0
+7,1245,Sporting Goods Stores,0.0,Sporting Goods Stores,0.0
+7,1245,Casual Restaurants,0.0,Casual Restaurants,0.0
+7,1245,Security Services,0.0,Security Services,0.0
+7,1245,Self-Storage Services,0.0,Self-Storage Services,0.0
+7,1245,Catering & Food Service Contractors,0.0,Catering & Food Service Contractors,0.0
+7,1245,Shipping,0.0,Shipping,0.0
+7,1245,Bus Transportation Services,0.0,Bus Transportation Services,0.0
+7,1245,Radio,0.0,Radio,0.0
+7,1245,"Cable, Internet & Telephone Providers",0.0,"Cable, Internet & Telephone Providers",0.0
+7,1245,Brokerage Services,0.0,Brokerage Services,0.0
+7,1245,Beauty & Personal Accessories Stores,0.0,Beauty & Personal Accessories Stores,0.0
+7,1245,Stock Exchanges,0.0,Stock Exchanges,0.0
+7,1245,TV Broadcast & Cable Networks,0.0,TV Broadcast & Cable Networks,0.0
+7,1245,Telecommunications Manufacturing,0.0,Telecommunications Manufacturing,0.0
+7,1245,Telecommunications Services,0.0,Telecommunications Services,0.0
+7,1245,Timber Operations,0.0,Timber Operations,0.0
+7,1245,Automotive Parts & Accessories Stores,0.0,Automotive Parts & Accessories Stores,0.0
+7,1245,Auto Repair & Maintenance,0.0,Auto Repair & Maintenance,0.0
+7,1245,Travel Agencies,0.0,Travel Agencies,0.0
+7,1245,Truck Rental & Leasing,0.0,Truck Rental & Leasing,0.0
+7,1245,Trucking,0.0,Trucking,0.0
+7,1245,Audiovisual,0.0,Audiovisual,0.0
+7,1245,Airlines,0.0,Airlines,0.0
+7,1245,Venture Capital & Private Equity,0.0,Venture Capital & Private Equity,0.0
+7,1245,Photography,0.0,Photography,0.0
+7,1245,Pet & Pet Supplies Stores,0.0,Pet & Pet Supplies Stores,0.0
+7,1245,General Merchandise & Superstores,0.0,General Merchandise & Superstores,0.0
+7,1245,General Repair & Maintenance,0.0,General Repair & Maintenance,0.0
+7,1245,Gas Stations,0.0,Gas Stations,0.0
+7,1245,Gambling,0.0,Gambling,0.0
+7,1245,Funeral Services,0.0,Funeral Services,0.0
+7,1245,Food Production,0.0,Food Production,0.0
+7,1245,Food & Beverage Stores,0.0,Food & Beverage Stores,0.0
+7,1245,Home Centers & Hardware Stores,0.0,Home Centers & Hardware Stores,0.0
+7,1245,Home Furniture & Housewares Stores,0.0,Home Furniture & Housewares Stores,0.0
+7,1245,Video Games,0.0,Video Games,0.0
+7,1245,Industrial Manufacturing,0.0,Industrial Manufacturing,0.0
+7,1245,Fast-Food & Quick-Service Restaurants,0.0,Fast-Food & Quick-Service Restaurants,0.0
+7,1245,Express Delivery Services,0.0,Express Delivery Services,0.0
+7,1245,Energy,0.0,Energy,0.0
+7,1245,Electrical & Electronic Manufacturing,0.0,Electrical & Electronic Manufacturing,0.0
+7,1245,Drug & Health Stores,0.0,Drug & Health Stores,0.0
+8,1841,-1,0.12275936990765929,-1,0.12275936990765929
+8,1841,Computer Hardware & Software,0.10592069527430777,Computer Hardware & Software,0.10592069527430777
+8,1841,Internet,0.07007061379684969,Internet,0.07007061379684969
+8,1841,Enterprise Software & Network Solutions,0.057034220532319484,Enterprise Software & Network Solutions,0.057034220532319484
+8,1841,Consulting,0.05540467137425321,Consulting,0.05540467137425321
+8,1841,IT Services,0.05323193916349817,IT Services,0.05323193916349817
+8,1841,Staffing & Outsourcing,0.052688756110809414,Staffing & Outsourcing,0.052688756110809414
+8,1841,Advertising & Marketing,0.05051602390005438,Advertising & Marketing,0.05051602390005438
+8,1841,Investment Banking & Asset Management,0.034220532319391615,Investment Banking & Asset Management,0.034220532319391615
+8,1841,Health Care Services & Hospitals,0.03204780010863658,Health Care Services & Hospitals,0.03204780010863658
+8,1841,Biotech & Pharmaceuticals,0.018468223791417694,Biotech & Pharmaceuticals,0.018468223791417694
+8,1841,Insurance Agencies & Brokerages,0.01792504073872894,Insurance Agencies & Brokerages,0.01792504073872894
+8,1841,Energy,0.017381857686040184,Energy,0.017381857686040184
+8,1841,Insurance Carriers,0.016838674633351428,Insurance Carriers,0.016838674633351428
+8,1841,"Department, Clothing, & Shoe Stores",0.013579576317218895,"Department, Clothing, & Shoe Stores",0.013579576317218895
+8,1841,Banks & Credit Unions,0.011950027159152629,Banks & Credit Unions,0.011950027159152629
+8,1841,Lending,0.011406844106463873,Lending,0.011406844106463873
+8,1841,Other Retail Stores,0.011406844106463873,Other Retail Stores,0.011406844106463873
+8,1841,Real Estate,0.010863661053775118,Real Estate,0.010863661053775118
+8,1841,Financial Transaction Processing,0.010863661053775118,Financial Transaction Processing,0.010863661053775118
+8,1841,Research & Development,0.010320478001086363,Research & Development,0.010320478001086363
+8,1841,Accounting,0.010320478001086363,Accounting,0.010320478001086363
+8,1841,Logistics & Supply Chain,0.010320478001086363,Logistics & Supply Chain,0.010320478001086363
+8,1841,Food & Beverage Manufacturing,0.008147745790331342,Food & Beverage Manufacturing,0.008147745790331342
+8,1841,Consumer Products Manufacturing,0.007061379684953829,Consumer Products Manufacturing,0.007061379684953829
+8,1841,Wholesale,0.007061379684953829,Wholesale,0.007061379684953829
+8,1841,Architectural & Engineering Services,0.007061379684953829,Architectural & Engineering Services,0.007061379684953829
+8,1841,Brokerage Services,0.006518196632265073,Brokerage Services,0.006518196632265073
+8,1841,Construction,0.005975013579576317,Construction,0.005975013579576317
+8,1841,Utilities,0.005975013579576317,Utilities,0.005975013579576317
+8,1841,"Health, Beauty, & Fitness",0.005975013579576317,"Health, Beauty, & Fitness",0.005975013579576317
+8,1841,Oil & Gas Services,0.005431830526887561,Oil & Gas Services,0.005431830526887561
+8,1841,Health Care Products Manufacturing,0.004888647474198805,Health Care Products Manufacturing,0.004888647474198805
+8,1841,Pet & Pet Supplies Stores,0.004888647474198805,Pet & Pet Supplies Stores,0.004888647474198805
+8,1841,Financial Analytics & Research,0.004888647474198805,Financial Analytics & Research,0.004888647474198805
+8,1841,Electrical & Electronic Manufacturing,0.004888647474198805,Electrical & Electronic Manufacturing,0.004888647474198805
+8,1841,Colleges & Universities,0.004888647474198805,Colleges & Universities,0.004888647474198805
+8,1841,Social Assistance,0.0043454644215100485,Social Assistance,0.0043454644215100485
+8,1841,Transportation Equipment Manufacturing,0.0043454644215100485,Transportation Equipment Manufacturing,0.0043454644215100485
+8,1841,Publishing,0.0043454644215100485,Publishing,0.0043454644215100485
+8,1841,TV Broadcast & Cable Networks,0.0043454644215100485,TV Broadcast & Cable Networks,0.0043454644215100485
+8,1841,Telecommunications Services,0.0038022813688212928,Telecommunications Services,0.0038022813688212928
+8,1841,Vehicle Dealers,0.0038022813688212928,Vehicle Dealers,0.0038022813688212928
+8,1841,Aerospace & Defense,0.0038022813688212928,Aerospace & Defense,0.0038022813688212928
+8,1841,Membership Organizations,0.0032590983161325366,Membership Organizations,0.0032590983161325366
+8,1841,K-12 Education,0.0032590983161325366,K-12 Education,0.0032590983161325366
+8,1841,General Merchandise & Superstores,0.0032590983161325366,General Merchandise & Superstores,0.0032590983161325366
+8,1841,Motion Picture Production & Distribution,0.0032590983161325366,Motion Picture Production & Distribution,0.0032590983161325366
+8,1841,Travel Agencies,0.0032590983161325366,Travel Agencies,0.0032590983161325366
+8,1841,Chemical Manufacturing,0.0032590983161325366,Chemical Manufacturing,0.0032590983161325366
+8,1841,Federal Agencies,0.0032590983161325366,Federal Agencies,0.0032590983161325366
+8,1841,Stock Exchanges,0.0027159152634437804,Stock Exchanges,0.0027159152634437804
+8,1841,Consumer Electronics & Appliances Stores,0.0027159152634437804,Consumer Electronics & Appliances Stores,0.0027159152634437804
+8,1841,Sports & Recreation,0.0027159152634437804,Sports & Recreation,0.0027159152634437804
+8,1841,Education Training Services,0.0027159152634437804,Education Training Services,0.0027159152634437804
+8,1841,Building & Personnel Services,0.0027159152634437804,Building & Personnel Services,0.0027159152634437804
+8,1841,"Cable, Internet & Telephone Providers",0.0027159152634437804,"Cable, Internet & Telephone Providers",0.0027159152634437804
+8,1841,Transportation Management,0.0021727322107550242,Transportation Management,0.0021727322107550242
+8,1841,Beauty & Personal Accessories Stores,0.0021727322107550242,Beauty & Personal Accessories Stores,0.0021727322107550242
+8,1841,Gas Stations,0.0021727322107550242,Gas Stations,0.0021727322107550242
+8,1841,Gambling,0.0021727322107550242,Gambling,0.0021727322107550242
+8,1841,Home Furniture & Housewares Stores,0.0021727322107550242,Home Furniture & Housewares Stores,0.0021727322107550242
+8,1841,Fast-Food & Quick-Service Restaurants,0.0021727322107550242,Fast-Food & Quick-Service Restaurants,0.0021727322107550242
+8,1841,Radio,0.001629549158066268,Radio,0.001629549158066268
+8,1841,Farm Support Services,0.001629549158066268,Farm Support Services,0.001629549158066268
+8,1841,Sporting Goods Stores,0.001629549158066268,Sporting Goods Stores,0.001629549158066268
+8,1841,Food & Beverage Stores,0.001629549158066268,Food & Beverage Stores,0.001629549158066268
+8,1841,Telecommunications Manufacturing,0.001629549158066268,Telecommunications Manufacturing,0.001629549158066268
+8,1841,Venture Capital & Private Equity,0.001629549158066268,Venture Capital & Private Equity,0.001629549158066268
+8,1841,News Outlet,0.001629549158066268,News Outlet,0.001629549158066268
+8,1841,Video Games,0.001629549158066268,Video Games,0.001629549158066268
+8,1841,Security Services,0.0010863661053775121,Security Services,0.0010863661053775121
+8,1841,Preschool & Child Care,0.0010863661053775121,Preschool & Child Care,0.0010863661053775121
+8,1841,Oil & Gas Exploration & Production,0.0010863661053775121,Oil & Gas Exploration & Production,0.0010863661053775121
+8,1841,"Hotels, Motels, & Resorts",0.0010863661053775121,"Hotels, Motels, & Resorts",0.0010863661053775121
+8,1841,General Repair & Maintenance,0.0010863661053775121,General Repair & Maintenance,0.0010863661053775121
+8,1841,Grocery Stores & Supermarkets,0.0010863661053775121,Grocery Stores & Supermarkets,0.0010863661053775121
+8,1841,Home Centers & Hardware Stores,0.0010863661053775121,Home Centers & Hardware Stores,0.0010863661053775121
+8,1841,Legal,0.0010863661053775121,Legal,0.0010863661053775121
+8,1841,Food Production,0.0010863661053775121,Food Production,0.0010863661053775121
+8,1841,Automotive Parts & Accessories Stores,0.0010863661053775121,Automotive Parts & Accessories Stores,0.0010863661053775121
+8,1841,Airlines,0.0005431830526887561,Airlines,0.0005431830526887561
+8,1841,Grantmaking Foundations,0.0005431830526887561,Grantmaking Foundations,0.0005431830526887561
+8,1841,Mining,0.0005431830526887561,Mining,0.0005431830526887561
+8,1841,Auto Repair & Maintenance,0.0005431830526887561,Auto Repair & Maintenance,0.0005431830526887561
+8,1841,Industrial Manufacturing,0.0005431830526887561,Industrial Manufacturing,0.0005431830526887561
+8,1841,Trucking,0.0005431830526887561,Trucking,0.0005431830526887561
+8,1841,Music Production & Distribution,0.0005431830526887561,Music Production & Distribution,0.0005431830526887561
+8,1841,Health Fundraising Organizations,0.0005431830526887561,Health Fundraising Organizations,0.0005431830526887561
+8,1841,Municipal Governments,0.0005431830526887561,Municipal Governments,0.0005431830526887561
+8,1841,Drug & Health Stores,0.0005431830526887561,Drug & Health Stores,0.0005431830526887561
+8,1841,Religious Organizations,0.0005431830526887561,Religious Organizations,0.0005431830526887561
+8,1841,Funeral Services,0.0,Funeral Services,0.0
+8,1841,Miscellaneous Manufacturing,0.0,Miscellaneous Manufacturing,0.0
+8,1841,Timber Operations,0.0,Timber Operations,0.0
+8,1841,Commercial Equipment Rental,0.0,Commercial Equipment Rental,0.0
+8,1841,Truck Rental & Leasing,0.0,Truck Rental & Leasing,0.0
+8,1841,Commercial Equipment Repair & Maintenance,0.0,Commercial Equipment Repair & Maintenance,0.0
+8,1841,Cruise Ships,0.0,Cruise Ships,0.0
+8,1841,Convenience Stores & Truck Stops,0.0,Convenience Stores & Truck Stops,0.0
+9,657,Computer Hardware & Software,0.1902587519025875,Computer Hardware & Software,0.1902587519025875
+9,657,-1,0.1476407914764079,-1,0.1476407914764079
+9,657,IT Services,0.0928462709284627,IT Services,0.0928462709284627
+9,657,Enterprise Software & Network Solutions,0.0776255707762557,Enterprise Software & Network Solutions,0.0776255707762557
+9,657,Internet,0.060882800608828,Internet,0.060882800608828
+9,657,Staffing & Outsourcing,0.0487062404870624,Staffing & Outsourcing,0.0487062404870624
+9,657,Consulting,0.045662100456621,Consulting,0.045662100456621
+9,657,Advertising & Marketing,0.0319634703196347,Advertising & Marketing,0.0319634703196347
+9,657,Biotech & Pharmaceuticals,0.0273972602739726,Biotech & Pharmaceuticals,0.0273972602739726
+9,657,Aerospace & Defense,0.0228310502283105,Aerospace & Defense,0.0228310502283105
+9,657,Insurance Carriers,0.0182648401826484,Insurance Carriers,0.0182648401826484
+9,657,Accounting,0.015220700152207,Accounting,0.015220700152207
+9,657,Research & Development,0.0121765601217656,Research & Development,0.0121765601217656
+9,657,"Department, Clothing, & Shoe Stores",0.0121765601217656,"Department, Clothing, & Shoe Stores",0.0121765601217656
+9,657,Oil & Gas Services,0.0121765601217656,Oil & Gas Services,0.0121765601217656
+9,657,Federal Agencies,0.0121765601217656,Federal Agencies,0.0121765601217656
+9,657,Investment Banking & Asset Management,0.0121765601217656,Investment Banking & Asset Management,0.0121765601217656
+9,657,TV Broadcast & Cable Networks,0.0106544901065449,TV Broadcast & Cable Networks,0.0106544901065449
+9,657,Health Care Services & Hospitals,0.0106544901065449,Health Care Services & Hospitals,0.0106544901065449
+9,657,Chemical Manufacturing,0.0076103500761035,Chemical Manufacturing,0.0076103500761035
+9,657,Banks & Credit Unions,0.0076103500761035,Banks & Credit Unions,0.0076103500761035
+9,657,Transportation Equipment Manufacturing,0.0076103500761035,Transportation Equipment Manufacturing,0.0076103500761035
+9,657,Education Training Services,0.0076103500761035,Education Training Services,0.0076103500761035
+9,657,Motion Picture Production & Distribution,0.0060882800608828,Motion Picture Production & Distribution,0.0060882800608828
+9,657,Lending,0.0060882800608828,Lending,0.0060882800608828
+9,657,Video Games,0.0045662100456621,Video Games,0.0045662100456621
+9,657,Electrical & Electronic Manufacturing,0.0045662100456621,Electrical & Electronic Manufacturing,0.0045662100456621
+9,657,Express Delivery Services,0.0045662100456621,Express Delivery Services,0.0045662100456621
+9,657,Publishing,0.0045662100456621,Publishing,0.0045662100456621
+9,657,"Cable, Internet & Telephone Providers",0.0045662100456621,"Cable, Internet & Telephone Providers",0.0045662100456621
+9,657,Consumer Products Manufacturing,0.0045662100456621,Consumer Products Manufacturing,0.0045662100456621
+9,657,Oil & Gas Exploration & Production,0.0030441400304414,Oil & Gas Exploration & Production,0.0030441400304414
+9,657,Other Retail Stores,0.0030441400304414,Other Retail Stores,0.0030441400304414
+9,657,News Outlet,0.0030441400304414,News Outlet,0.0030441400304414
+9,657,"Health, Beauty, & Fitness",0.0030441400304414,"Health, Beauty, & Fitness",0.0030441400304414
+9,657,Colleges & Universities,0.0030441400304414,Colleges & Universities,0.0030441400304414
+9,657,Security Services,0.0030441400304414,Security Services,0.0030441400304414
+9,657,Social Assistance,0.0030441400304414,Social Assistance,0.0030441400304414
+9,657,Sports & Recreation,0.0030441400304414,Sports & Recreation,0.0030441400304414
+9,657,Brokerage Services,0.0030441400304414,Brokerage Services,0.0030441400304414
+9,657,Telecommunications Services,0.0030441400304414,Telecommunications Services,0.0030441400304414
+9,657,Utilities,0.0030441400304414,Utilities,0.0030441400304414
+9,657,Construction,0.0030441400304414,Construction,0.0030441400304414
+9,657,Health Fundraising Organizations,0.0015220700152207,Health Fundraising Organizations,0.0015220700152207
+9,657,Photography,0.0015220700152207,Photography,0.0015220700152207
+9,657,K-12 Education,0.0015220700152207,K-12 Education,0.0015220700152207
+9,657,Health Care Products Manufacturing,0.0015220700152207,Health Care Products Manufacturing,0.0015220700152207
+9,657,Transportation Management,0.0015220700152207,Transportation Management,0.0015220700152207
+9,657,Trucking,0.0015220700152207,Trucking,0.0015220700152207
+9,657,Industrial Manufacturing,0.0015220700152207,Industrial Manufacturing,0.0015220700152207
+9,657,Grocery Stores & Supermarkets,0.0015220700152207,Grocery Stores & Supermarkets,0.0015220700152207
+9,657,Wholesale,0.0015220700152207,Wholesale,0.0015220700152207
+9,657,Consumer Product Rental,0.0015220700152207,Consumer Product Rental,0.0015220700152207
+9,657,Energy,0.0015220700152207,Energy,0.0015220700152207
+9,657,Consumer Electronics & Appliances Stores,0.0015220700152207,Consumer Electronics & Appliances Stores,0.0015220700152207
+9,657,Automotive Parts & Accessories Stores,0.0015220700152207,Automotive Parts & Accessories Stores,0.0015220700152207
+9,657,Fast-Food & Quick-Service Restaurants,0.0015220700152207,Fast-Food & Quick-Service Restaurants,0.0015220700152207
+9,657,Financial Analytics & Research,0.0015220700152207,Financial Analytics & Research,0.0015220700152207
+9,657,Financial Transaction Processing,0.0015220700152207,Financial Transaction Processing,0.0015220700152207
+9,657,Food & Beverage Stores,0.0015220700152207,Food & Beverage Stores,0.0015220700152207
+9,657,Food & Beverage Manufacturing,0.0015220700152207,Food & Beverage Manufacturing,0.0015220700152207
+9,657,Architectural & Engineering Services,0.0015220700152207,Architectural & Engineering Services,0.0015220700152207
+9,657,Grantmaking Foundations,0.0015220700152207,Grantmaking Foundations,0.0015220700152207
+9,657,Commercial Equipment Rental,0.0015220700152207,Commercial Equipment Rental,0.0015220700152207
+9,657,Catering & Food Service Contractors,0.0,Catering & Food Service Contractors,0.0
+9,657,Casual Restaurants,0.0,Casual Restaurants,0.0
+9,657,Religious Organizations,0.0,Religious Organizations,0.0
+9,657,Real Estate,0.0,Real Estate,0.0
+9,657,Self-Storage Services,0.0,Self-Storage Services,0.0
+9,657,Rail,0.0,Rail,0.0
+9,657,Shipping,0.0,Shipping,0.0
+9,657,Radio,0.0,Radio,0.0
+9,657,Sporting Goods Stores,0.0,Sporting Goods Stores,0.0
+9,657,Beauty & Personal Accessories Stores,0.0,Beauty & Personal Accessories Stores,0.0
+9,657,Building & Personnel Services,0.0,Building & Personnel Services,0.0
+9,657,State & Regional Agencies,0.0,State & Regional Agencies,0.0
+9,657,Stock Exchanges,0.0,Stock Exchanges,0.0
+9,657,Telecommunications Manufacturing,0.0,Telecommunications Manufacturing,0.0
+9,657,Timber Operations,0.0,Timber Operations,0.0
+9,657,Auto Repair & Maintenance,0.0,Auto Repair & Maintenance,0.0
+9,657,Audiovisual,0.0,Audiovisual,0.0
+9,657,Travel Agencies,0.0,Travel Agencies,0.0
+9,657,Truck Rental & Leasing,0.0,Truck Rental & Leasing,0.0
+9,657,Airlines,0.0,Airlines,0.0
+9,657,Vehicle Dealers,0.0,Vehicle Dealers,0.0
+9,657,Venture Capital & Private Equity,0.0,Venture Capital & Private Equity,0.0
+9,657,Bus Transportation Services,0.0,Bus Transportation Services,0.0
+9,657,Commercial Equipment Repair & Maintenance,0.0,Commercial Equipment Repair & Maintenance,0.0
+9,657,General Repair & Maintenance,0.0,General Repair & Maintenance,0.0
+9,657,Pet & Pet Supplies Stores,0.0,Pet & Pet Supplies Stores,0.0
+9,657,General Merchandise & Superstores,0.0,General Merchandise & Superstores,0.0
+9,657,Gas Stations,0.0,Gas Stations,0.0
+9,657,Gambling,0.0,Gambling,0.0
+9,657,Home Centers & Hardware Stores,0.0,Home Centers & Hardware Stores,0.0
+9,657,Home Furniture & Housewares Stores,0.0,Home Furniture & Housewares Stores,0.0
+9,657,Funeral Services,0.0,Funeral Services,0.0
+9,657,Food Production,0.0,Food Production,0.0
+9,657,Insurance Agencies & Brokerages,0.0,Insurance Agencies & Brokerages,0.0
+9,657,Laundry & Dry Cleaning,0.0,Laundry & Dry Cleaning,0.0
+9,657,Legal,0.0,Legal,0.0
+10,642,IT Services,0.2601246105919003,IT Services,0.2601246105919003
+10,642,-1,0.23208722741433022,-1,0.23208722741433022
+10,642,Staffing & Outsourcing,0.0763239875389408,Staffing & Outsourcing,0.0763239875389408
+10,642,Computer Hardware & Software,0.06386292834890965,Computer Hardware & Software,0.06386292834890965
+10,642,Consulting,0.05451713395638629,Consulting,0.05451713395638629
+10,642,Enterprise Software & Network Solutions,0.03271028037383177,Enterprise Software & Network Solutions,0.03271028037383177
+10,642,Internet,0.028037383177570093,Internet,0.028037383177570093
+10,642,Banks & Credit Unions,0.02336448598130841,Banks & Credit Unions,0.02336448598130841
+10,642,Investment Banking & Asset Management,0.02336448598130841,Investment Banking & Asset Management,0.02336448598130841
+10,642,Accounting,0.021806853582554516,Accounting,0.021806853582554516
+10,642,Advertising & Marketing,0.017133956386292833,Advertising & Marketing,0.017133956386292833
+10,642,"Health, Beauty, & Fitness",0.01557632398753894,"Health, Beauty, & Fitness",0.01557632398753894
+10,642,Health Care Services & Hospitals,0.012461059190031152,Health Care Services & Hospitals,0.012461059190031152
+10,642,Radio,0.012461059190031152,Radio,0.012461059190031152
+10,642,Financial Transaction Processing,0.009345794392523364,Financial Transaction Processing,0.009345794392523364
+10,642,Insurance Carriers,0.009345794392523364,Insurance Carriers,0.009345794392523364
+10,642,Telecommunications Services,0.006230529595015576,Telecommunications Services,0.006230529595015576
+10,642,TV Broadcast & Cable Networks,0.006230529595015576,TV Broadcast & Cable Networks,0.006230529595015576
+10,642,"Department, Clothing, & Shoe Stores",0.006230529595015576,"Department, Clothing, & Shoe Stores",0.006230529595015576
+10,642,Logistics & Supply Chain,0.006230529595015576,Logistics & Supply Chain,0.006230529595015576
+10,642,Other Retail Stores,0.004672897196261682,Other Retail Stores,0.004672897196261682
+10,642,Publishing,0.004672897196261682,Publishing,0.004672897196261682
+10,642,"Cable, Internet & Telephone Providers",0.004672897196261682,"Cable, Internet & Telephone Providers",0.004672897196261682
+10,642,Brokerage Services,0.004672897196261682,Brokerage Services,0.004672897196261682
+10,642,Video Games,0.004672897196261682,Video Games,0.004672897196261682
+10,642,News Outlet,0.003115264797507788,News Outlet,0.003115264797507788
+10,642,Grantmaking Foundations,0.003115264797507788,Grantmaking Foundations,0.003115264797507788
+10,642,Express Delivery Services,0.003115264797507788,Express Delivery Services,0.003115264797507788
+10,642,Lending,0.003115264797507788,Lending,0.003115264797507788
+10,642,Consumer Products Manufacturing,0.003115264797507788,Consumer Products Manufacturing,0.003115264797507788
+10,642,Grocery Stores & Supermarkets,0.003115264797507788,Grocery Stores & Supermarkets,0.003115264797507788
+10,642,Architectural & Engineering Services,0.003115264797507788,Architectural & Engineering Services,0.003115264797507788
+10,642,Electrical & Electronic Manufacturing,0.003115264797507788,Electrical & Electronic Manufacturing,0.003115264797507788
+10,642,Industrial Manufacturing,0.001557632398753894,Industrial Manufacturing,0.001557632398753894
+10,642,Transportation Equipment Manufacturing,0.001557632398753894,Transportation Equipment Manufacturing,0.001557632398753894
+10,642,K-12 Education,0.001557632398753894,K-12 Education,0.001557632398753894
+10,642,Truck Rental & Leasing,0.001557632398753894,Truck Rental & Leasing,0.001557632398753894
+10,642,Membership Organizations,0.001557632398753894,Membership Organizations,0.001557632398753894
+10,642,Motion Picture Production & Distribution,0.001557632398753894,Motion Picture Production & Distribution,0.001557632398753894
+10,642,Municipal Governments,0.001557632398753894,Municipal Governments,0.001557632398753894
+10,642,Real Estate,0.001557632398753894,Real Estate,0.001557632398753894
+10,642,Research & Development,0.001557632398753894,Research & Development,0.001557632398753894
+10,642,Security Services,0.001557632398753894,Security Services,0.001557632398753894
+10,642,Social Assistance,0.001557632398753894,Social Assistance,0.001557632398753894
+10,642,Insurance Agencies & Brokerages,0.001557632398753894,Insurance Agencies & Brokerages,0.001557632398753894
+10,642,Gas Stations,0.001557632398753894,Gas Stations,0.001557632398753894
+10,642,Wholesale,0.001557632398753894,Wholesale,0.001557632398753894
+10,642,Colleges & Universities,0.001557632398753894,Colleges & Universities,0.001557632398753894
+10,642,Food Production,0.001557632398753894,Food Production,0.001557632398753894
+10,642,Food & Beverage Stores,0.001557632398753894,Food & Beverage Stores,0.001557632398753894
+10,642,Food & Beverage Manufacturing,0.001557632398753894,Food & Beverage Manufacturing,0.001557632398753894
+10,642,Biotech & Pharmaceuticals,0.001557632398753894,Biotech & Pharmaceuticals,0.001557632398753894
+10,642,Aerospace & Defense,0.001557632398753894,Aerospace & Defense,0.001557632398753894
+10,642,Energy,0.001557632398753894,Energy,0.001557632398753894
+10,642,Fast-Food & Quick-Service Restaurants,0.001557632398753894,Fast-Food & Quick-Service Restaurants,0.001557632398753894
+10,642,Beauty & Personal Accessories Stores,0.0,Beauty & Personal Accessories Stores,0.0
+10,642,Shipping,0.0,Shipping,0.0
+10,642,Self-Storage Services,0.0,Self-Storage Services,0.0
+10,642,Building & Personnel Services,0.0,Building & Personnel Services,0.0
+10,642,Bus Transportation Services,0.0,Bus Transportation Services,0.0
+10,642,Sporting Goods Stores,0.0,Sporting Goods Stores,0.0
+10,642,Rail,0.0,Rail,0.0
+10,642,Casual Restaurants,0.0,Casual Restaurants,0.0
+10,642,Catering & Food Service Contractors,0.0,Catering & Food Service Contractors,0.0
+10,642,Preschool & Child Care,0.0,Preschool & Child Care,0.0
+10,642,Photography,0.0,Photography,0.0
+10,642,Religious Organizations,0.0,Religious Organizations,0.0
+10,642,Sports & Recreation,0.0,Sports & Recreation,0.0
+10,642,Stock Exchanges,0.0,Stock Exchanges,0.0
+10,642,State & Regional Agencies,0.0,State & Regional Agencies,0.0
+10,642,Pet & Pet Supplies Stores,0.0,Pet & Pet Supplies Stores,0.0
+10,642,Auto Repair & Maintenance,0.0,Auto Repair & Maintenance,0.0
+10,642,Telecommunications Manufacturing,0.0,Telecommunications Manufacturing,0.0
+10,642,Audiovisual,0.0,Audiovisual,0.0
+10,642,Timber Operations,0.0,Timber Operations,0.0
+10,642,Airlines,0.0,Airlines,0.0
+10,642,Transportation Management,0.0,Transportation Management,0.0
+10,642,Travel Agencies,0.0,Travel Agencies,0.0
+10,642,Trucking,0.0,Trucking,0.0
+10,642,Utilities,0.0,Utilities,0.0
+10,642,Vehicle Dealers,0.0,Vehicle Dealers,0.0
+10,642,Venture Capital & Private Equity,0.0,Venture Capital & Private Equity,0.0
+10,642,Automotive Parts & Accessories Stores,0.0,Automotive Parts & Accessories Stores,0.0
+10,642,Chemical Manufacturing,0.0,Chemical Manufacturing,0.0
+10,642,Funeral Services,0.0,Funeral Services,0.0
+10,642,Oil & Gas Exploration & Production,0.0,Oil & Gas Exploration & Production,0.0
+10,642,General Merchandise & Superstores,0.0,General Merchandise & Superstores,0.0
+10,642,General Repair & Maintenance,0.0,General Repair & Maintenance,0.0
+10,642,Health Care Products Manufacturing,0.0,Health Care Products Manufacturing,0.0
+10,642,Health Fundraising Organizations,0.0,Health Fundraising Organizations,0.0
+10,642,Financial Analytics & Research,0.0,Financial Analytics & Research,0.0
+10,642,Home Centers & Hardware Stores,0.0,Home Centers & Hardware Stores,0.0
+10,642,Home Furniture & Housewares Stores,0.0,Home Furniture & Housewares Stores,0.0
+10,642,Federal Agencies,0.0,Federal Agencies,0.0
+10,642,Farm Support Services,0.0,Farm Support Services,0.0
+10,642,Education Training Services,0.0,Education Training Services,0.0
+10,642,Drug & Health Stores,0.0,Drug & Health Stores,0.0
+10,642,Cruise Ships,0.0,Cruise Ships,0.0
+10,642,Convenience Stores & Truck Stops,0.0,Convenience Stores & Truck Stops,0.0
+10,642,Laundry & Dry Cleaning,0.0,Laundry & Dry Cleaning,0.0

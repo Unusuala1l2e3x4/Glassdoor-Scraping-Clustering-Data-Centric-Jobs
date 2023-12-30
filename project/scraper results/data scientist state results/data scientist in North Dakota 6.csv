@@ -1,0 +1,268 @@
+Job Title,Company Name,Location,Salary Estimate,Rating,Job Description,Founded,Industry,Revenue,Sector,Size,Type,Easy Apply
+Data Scientist - REMOTE,"Highlight Technologies
+",United States,-1,4.5,"Overview:
+We are looking for an experienced Data Scientist to join our data science team. In this role, you will be responsible for leveraging data to drive insights and develop machine learning models to solve complex business problems.
+Responsibilities:
+Work closely with stakeholders to identify business needs and formulate the right data science problems to solve
+Collect, clean, transform and validate large sets of structured and unstructured data from various sources
+Perform exploratory data analysis to uncover insights and trends
+Develop, test and maintain predictive models and machine learning algorithms (classification, regression, clustering, etc.)
+Track model performance and monitor for model drift; retrain models as needed
+Develop processes and infrastructure to operationalize analytical solutions
+Communicate results through presentations, reports and recommendations
+Qualifications:
+U.S. Citizenship
+Ability to receive DHS EOD suitability
+Masters in Data Science, Computer Science or related degree
+Possession of strong verbal and written communication skills
+Ability to work in a high-speed delivery focused environment
+Ability to work on a fully remote team and maintain delivery tempo
+Proficient in Deep Learning Libraries (Tensorflow or Pytorch)
+Familiarity with Object Oriented Programming for model building, pipelines, unit testing via Python
+Ability to perform programming tasks to maintain current models and code
+Mathematical/analytical skills for modeling new features and adjustments to existing models
+Experience with SQL, Python, Flask, Spark, Databricks, multivariate time series, version control like GitHub and MLflow, LSTM's and Transformers, Jenkins, AWS services, forecasting, statistics, and open source contributions
+Excellent written and verbal communication skills
+Strong business acumen and ability to translate analytical insights into business impacts.
+About Highlight:
+For over ten years, Highlight has provided Development and Modernization, Secure IT, and Mission Solution services to our federal government customers. Our team knows the technology; we understand how our customers and their stakeholders work; and we know how to implement industry best practices to deliver high-quality, end-to-end solutions that minimize risk and maximize results.
+
+Since our inception, Highlight has had an employee-first mindset. Our mission is to provide employees with rewarding and impactful career opportunities. In 2021, Highlight’s founder and CEO, Rebecca Andino, implemented an Employee Stock Ownership Plan to embody and expand our culture of transparency, teamwork and rewarding the work of our employees. By becoming an ESOP, our employee-owners share in the success of the company through their ownership stake. To learn more about ESOPS, check out: www.esopinfo.org.
+
+We’re an Equal Opportunity Employer (EOE) that empowers our people to fearlessly drive change - regardless of their race, color, religion, sex, gender identity, sexual orientation, national origin, disability, veteran status, or other characteristics. Our team is dedicated to foster diversity within our teams to promote creativity, innovation, and teamwork to deliver the best solutions for our customers.
+
+If you are a Colorado resident, please contact us or email us at Recruiting@HighlightTech.com to receive compensation and benefits information for this role. Please include this Req ID in the subject line of the email.
+-:
+#nwhp",2008,Information Technology Support Services,$5 to $25 million (USD),Information Technology,201 to 500 Employees,Company - Private,False
+Senior Data Scientist,"University of North Dakota
+","Grand Forks, ND",$75K - $80K (Employer est.),4.2,"494032 Grand Forks, North Dakota, United States Resource Planning Allocation Data Analysis Hybrid Remote Show More Full-time Staff Closing on: Dec 7 2023 Salary/Position Classification $75,000-$80,000 Annually 40 hours per week 100% Remote Work Availability Hybrid Work Availability Purpose of Position This position works to develop, track, and monitor data used in strategic planning, decision support, and institutional effectiveness efforts; to assist units in interpreting data and trends to ensure effective and efficient management of resources; to create and to assist with the maintenance of data analytic tools for specific units as well as the institution as a whole; and to serve as a project manager in process improvement initiatives. This position will also work collaboratively with units across the institution to coordinate their approach to data analysis, resource allocation, and improve utilization of data in their decision-making. Duties & Responsibilities Data Extraction, Data Transformation, and Data Consolidation Develop SQL queries to extract and consolidate data from multiple databases, clean and preprocess data for statistical analysis and predictive modeling. Gain an in-depth understanding of PeopleSoft Databases in the university Develop scripts in PBCS (Oracle Planning and Budgeting Cloud Service) to automate and streamline routine analysis and reporting tasks Verify data as part of projects o Review source data for errors and discrepancies; develop data validation process with data management software (e.g., SAS, Access, and Excel) for routine analysis and models. Data Modeling and Statistical Analysis Apply advanced time series analysis methods, such as autoregressive moving average (ARMA) and exponential smoothing, to model and analyze trends and patterns in various data sets and metrics Perform trend analysis to detect patterns, inconsistencies, and signs of impending changes in revenue and expense for each unit; interpret causes of changes in financial data trends. Perform multidimensional analysis on data with business intelligence software (e.g., Power BI and Tableau) to examine data from various perspectives and provide insights Select and apply appropriate predictive modeling techniques, such as regression models and time series analysis, to assist units with various projections Analyze actuals vs. forecasts to measure forecast accuracy; apply forecasting techniques, such as modeling trend and seasonality, to improve the quality of forecasting. Work closely with units to understand business processes within each unit, and assist units with estimating revenue and costs, and establishing preliminary budgets based on projections on student credit hours, enrollments, revenue, grants, etc. Analyze and explore the correlations between performance metrics using multivariate statistical analysis methods; interpret dependence and association between performance metrics to assist units with decision making Develop Excel spreadsheet models and BI dashboards for multi-period trend analysis of financial statements. Perform financial modeling using sensitivity analysis and scenario analysis with advanced Excel features, such as VBA, macros, and pivot reporting, to evaluate the impacts of changing metrics on unit financial performance and provide sound decision support to units. Design and develop resource allocation decision models using Excel and Excel Solver (a specialized decision support add-in) to create optimal budget allocation plans for units to improve financial performance and institutional effectiveness in different scenarios. Apply analytics to business questions o Work with units to define business questions, determine data needs, and analyze data to answer questions. o Provide analytical and financial modeling support for various budgeting and resource allocation projects. Design, test, and document calculators o Design and develop calculators for budgeting and resource allocation; work closely with units to test and refine the calculators. o Prepare documentation and provide training on calculators and related procedures. Data Visualization and Reporting Develop reporting methods, and provide reports to units on a regular basis Design and develop reports and dashboards with business intelligence software to deliver analyses and data visualizations; build interactive features, such as search filters, range sliders, and toggle elements, in the dashboards to enable units to perform further analysis independently. Review KPIs with units regularly to make sure the KPIs are actionable and provide accurate measurements on unit effectiveness; redesign KPIs, as needed, to fit the changing needs of units. Create end-user presentations or manuals for dashboards and reports Work collaboratively with units across the institution to coordinate approaches to data analysis and resource allocation and improve utilization of data in decision-making. Think creatively about how data and analytical tools can be utilized for strategic planning purposes and answer questions posed by units; develop ideas and lead new projects. Required Competencies Exceptional analytical and problem-solving skills Highly proficient in Microsoft Excel Demonstrated excellent communication and interpersonal skills Ability to work with a wide range of individuals Attention to detail with excellent follow through on tasks Requires the ability to work effectively under pressure, manage multiple projects simultaneously, and meet established goals and objectives High degree of initiative and demonstrated ability to work independently with a professional attitude and efficiency with minimal direction. Demonstrated analytical and problem-solving skills Demonstrated excellent communication (written and oral) and interpersonal skills Ability to take complex information and/or large data sets and analyze them for data-based decision-making Ability to work independently Minimum Requirements Master’s degree in a field with coursework in statistical analysis and scripting (e.g. economics, business, statistics, public administration, mathematics or related field) Two years of relevant experience with data analysis and modeling for decision support Advanced Excel experience (pivot tables, VBA programming, data models) and spreadsheet model development Proficiency in business intelligence software (i.e. Power BI, Tableau) Experience in data extraction, transformation, and consolidation using data management software or programming languages such as SAS, SQL, Python, or R. Successful completion of a Standard Criminal History Background Check In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the US and to complete the required employment eligibility verification form upon hire. Preferred Qualifications Work experience in a higher education setting Project Management skills
+
+
+
+
+Position Benefits
+
+Benefits include single or family health care coverage (UND pays the full premium), life insurance, employee assistance program, retirement plans with generous employer contributions, annual & sick leave in addition to 10 paid holidays.
+
+Optional benefits include supplemental life, dental, vision, flexible spending account, supplemental retirement plans.
+
+UND also offers an employee tuition waiver and a variety of professional development opportunities.",1883,Colleges & Universities,$100 to $500 million (USD),Education,1001 to 5000 Employees,College / University,False
+Senior Marketing Data Analyst,"First International Bank & Trust
+","Fargo, ND",$63K - $94K (Glassdoor est.),3.7,"We are seeking a highly analytical and detail-oriented Senior Marketing Data Analyst to join our marketing team. In this role, you will champion Salesforce Marketing Cloud, serve as a SME (Subject Matter Expert) on our customer databases, lead generation strategies, measure ROI on campaigns, research, and supervise our current Marketing Data Analyst. The ideal candidate will have a strong background in data analysis and marketing analytics with an emphasis on Salesforce Marketing Cloud and Google Analytics.
+
+This position is In-Person and will have the employee primarily located in one of our Branches.
+
+Key Responsibilities:
+
+Champion Salesforce Marketing Cloud including but not limited to:
+Recommend and implement marketing automation to streamline/align sales efforts and increase effectiveness.
+Collaborate with SMEs to architect prospect engagement activities.
+Share outcomes of efforts through reporting and suggest enhancements for better results.
+Serve as SME of FIBT’s customer database and share insights with business line leaders and operations teams to help identify opportunities and drive effective strategies for engagement and growth.
+Lead effective strategies for customer engagement and cross-selling; includes targeted digital marketing campaigns and SEO/SEM practices; includes collaboration with third parties.
+Measure ROI of online and offline advertising campaigns including, but not limited to, reporting of KPIs such as leads, conversion rates, website traffic and social media engagement.
+Conduct competitive research and analyze benchmarking data, including consumer behavioral insights.
+Supervise marketing data team member(s)
+
+Qualifications:
+
+Bachelor degree in Marketing or Business Administration; a minimum of 7 years of marketing analyst experience, or equivalent combination of education and experience is required.
+Salesforce Marketing Cloud experience highly preferred.
+Google Analytics experience is highly preferred.
+In-depth understanding of SEM campaign strategies and SEO practices and experience with PPC campaigns.
+
+First International Bank and Trust is a family-owned full-service Community Bank with locations in ND, MN, SD, and AZ. We show our employees we care by providing competitive benefits and training and growth opportunities. Here are the things we offer within our full-time benefits package:
+
+Health, Dental & Vision
+401K Retirement Plan with Employer Match
+Paid Parental Leave
+Life and Disability Insurance
+Generous PTO and Holiday pay
+
+If you are interested in learning more, you can apply or if you have questions before applying you can reach out directly at TalentAcquisition@FIBT.com.
+
+Equal Opportunity Employer",1910,Banking & Lending,$25 to $100 million (USD),Financial Services,501 to 1000 Employees,Company - Private,False
+Data Scientist ML/AI/LM/LMM (remote),"Pearson
+","Bismarck, ND",$130K - $140K (Employer est.),3.7,"Position Summary
+
+Machine learning and LLMs’ impact on Higher Education continues to expand each day. Pearson is looking for a data scientist to help harness this growing field to benefit university students and instructors. This individual will participate in the planning, design, development, and implementation of solutions to provide the optimal learning experience for our customers. Our data scientists work on solutions which improve the efficiency of instructors and increase student engagement, comprehension, and personalized learning experiences.
+
+Responsibilities:
+
+Collaborate with cross-functional teams to build new solutions for students and instructors in Higher Education using your expertise in deep learning and other machine learning models and algorithms
+Continuously learn, explore, and provide insights into the latest tools and practices in artificial intelligence so we can innovate new ways of teaching and assessing university level material.
+Evaluate and fine tune the performance, cost and efficacy of different models and solutions to achieve the highest quality standards for our customers.
+Make a lasting, positive impact on the educational outcomes of our customers.
+Be a trustworthy steward of our customers’ data
+
+Requirements
+
+3+ years of experience of deep-learning and Language Model Middleware (LMM) technologies, know how to evaluate similarity search and LMM outputs, and conduct prompt engineering, token optimization and evaluate system efficacy.
+In-depth understanding of LLM technologies and their applications in natural language processing.
+Experience with data preprocessing, data augmentation, and data quality assessment.
+Proficiency in using and fine-tuning state-of-the-art deep learning models, such as transformer-based architectures (e.g., BERT, GPT, T5).
+Strong programming skills in Python and proficiency with relevant libraries and frameworks (e.g., TensorFlow, Pandas, PyTorch, SciPy, scikit-learn, JAX)
+Knowledge of ethical AI principles, red-teaming, and responsible AI practices.
+Master's or Ph.D. in Computer Science, Machine Learning, Data Science, or a related field.
+Prior experience with prompt engineering and chatbot development is highly desirable.
+
+Compensation at Pearson is influenced by a wide array of factors including but not limited to skill set, level of experience, and specific location. As required by the Colorado, California, Washington State, New York State and New York City laws, the pay range for this position is as follows:
+
+The minimum full-time salary range is between $130,000 - $140,000
+
+This position is eligible to participate in an annual incentive program, and information on benefits offered is here.
+
+\#LI-POST
+
+\#LI-REMOTE
+
+What to expect from Pearson
+
+Did you know Pearson is one of the 10 most innovative education companies of 2022?
+
+At Pearson, we add life to a lifetime of learning so everyone can realize the life they imagine. We do this by creating vibrant and enriching learning experiences designed for real-life impact. We are on a journey to be 100 percent digital to meet the changing needs of the global population by developing a new strategy with ambitious targets. To deliver on our strategic vision, we have five business divisions that are the foundation for the long-term growth of the company: Assessment & Qualifications, Virtual Learning, English Language Learning, Workforce Skills and Higher Education. Alongside these, we have our corporate divisions: Digital & Technology, Finance, Global Corporate Marketing & Communications, Human Resources, Legal, Strategy and Direct to Consumer. Learn more at We are Pearson.
+
+We value the power of an inclusive culture and also a strong sense of belonging. We promote a culture where differences are embraced, opportunities are accessible, consideration and respect are the norm and all individuals are supported in reaching their full potential. Through our talent, we believe that diversity, equity and inclusion make us a more innovative and vibrant place to work. People are at the center, and we are committed to building a workplace where talent can learn, grow and thrive.
+
+Pearson is an Affirmative Action and Equal Opportunity Employer and a member of E-Verify. We want a team that represents a variety of backgrounds, perspectives and skills. The more inclusive we are, the better our work will be. All employment decisions are based on qualifications, merit and business need. All qualified applicants will receive consideration for employment without regard to race, ethnicity, color, religion, sex, sexual orientation, gender identity, gender expression, age, national origin, protected veteran status, disability status or any other group protected by law. We strive for a workforce that reflects the diversity of our communities.
+
+To learn more about Pearson’s commitment to a diverse and inclusive workforce, navigate to: Diversity, Equity & Inclusion at Pearson.
+
+If you are an individual with a disability and are unable or limited in your ability to use or access our career site as a result of your disability, you may request reasonable accommodations by emailing ppsmhr@pearson.com.
+
+Note that the information you provide will stay confidential and will be stored securely. It will not be seen by those involved in making decisions as part of the recruitment process.
+
+Job: RESEARCH AND DEVELOPMENT
+
+Organization: Higher Education
+
+Schedule: FULL\_TIME
+
+Req ID: 13349
+
+\#location",1844,Publishing,$5 to $10 billion (USD),Media & Communication,10000+ Employees,Company - Public,False
+Solutions Architect,"BlueChip Financial
+","Belcourt, ND",$100K - $161K (Glassdoor est.),4.1,"BlueChip Financial (BCF) is looking for a qualified Solutions Architect who loves building software to help drive our company's growth. This position reports directly to the CTO.
+
+In this role, you will
+
+Design and implement solutions that meet the needs of the business while also being technically feasible and cost-effective
+Bridge the gap between business and IT by translating technical requirements into technical specifications
+Build and help lead strategy in building out our core enterprise architecture.
+Produce accurate, unambiguous technical design specifications in the appropriate detail
+Identify and influence the solution to complex technical issues. Build prototypes and POC’s to promote new technologies and processes
+Lead by example, delivering high-quality code for critical sections of the product and/or platform; champion quality standards, performance and scalability
+Provide cross-functional coordination and communication, and mentor less senior team members.
+
+Requirements
+
+Mandatory Qualifications
+
+8+ years’ experience as a hands-on Solutions Architect. Any startup experience would be a plus
+Possess a deep understanding of the financial industry. Any prior experience within the credit card or lending domain would be a plus
+Expertise with implementing architecture and design that spans across frontend engineering, backend engineering, data engineering and devops
+At least 5 years experience with a cloud provider (AWS is a plus)
+Proven experience building and deploying scalable apps using modern cloud platform technologies (Docker, Kubernetes, AWS ElasticBeanTalk, AWS Lambda, and EKS)
+Expert proficiency in multiple back-end languages (e.g., Java, Javascript/Typescript, Scala, Python) Scala would be a plus
+Expertise with API development (REST, GraphQL)
+Have deep experience with devops activities and practices
+Work knowledge around big data, data engineering, and data as a service would be a plus
+Machine learning and AI experience would be a plus
+Proficient with relational and NoSQL databases
+Extensive experience with event processing mechanisms (e.g.: AWS SNS/SQS, RabbitMQ, Kafka)
+A strong understanding of concurrent, parallel, and distributed systems
+Proficient in test-driven development (TDD) and continuous deployment (CI/CD) practices
+
+Location and Travel
+
+BCF is headquartered in Belcourt, North Dakota, with offices in Minneapolis, San Diego, and Atlanta. This position can be located at any of these offices. BCF expects a hybrid work environment with a two-day in-office policy. Travel should be relatively limited, around 10–15% per month when needed.
+
+Benefits
+
+The opportunity to help bring much-needed income and economic development to the Turtle Mountain Band of Chippewa Indians
+Competitive salary and performance bonuses
+Generous employee benefits plan, including robust healthcare plans, matching 401K, internet and cell phone line and data reimbursement, and four weeks of PTO
+Company-sponsored professional development and training opportunities
+A relocation package can be considered for the ideal candidate
+
+About the Company
+
+BlueChip Financial (d/b/a Spotloan.com) is a leading online direct lender founded in 2012 that utilizes advanced underwriting technology to provide short-term loans to Americans in need. BCF is wholly owned and operated by the Turtle Mountain Band of Chippewa Indians of North Dakota, a federally recognized Native American Tribe (the “Tribe”).
+
+BlueChip Financial is an integral part of the Tribe’s economic development efforts, and it is an essential provider of employment opportunities on the Tribe’s reservation. Employment decisions at BCF are based on qualifications, ability, and merit. When qualifications are equal, candidates who are enrolled members of the Tribe will receive preference. After considering this preference, it is BCF’s policy to provide equal employment opportunity to all qualified persons without regard to race, color, religion, sexual orientation, age, disability, or national origin.",-1,Banking & Lending,Unknown / Non-Applicable,Financial Services,Unknown,Company - Private,True
+Data Manager - DoD TS/SCI - Camp Humphrey - Korea,"Peraton
+",United States,$112K - $179K (Employer est.),3.6,"Peraton Overview
+Peraton drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy. As the world's leading mission capability integrator and transformative enterprise IT provider, we deliver trusted and highly differentiated national security solutions and technologies that keep people safe and secure. Peraton serves as a valued partner to essential government agencies across the intelligence, space, cyber, defense, civilian, health, and state and local markets. Every day, our employees do the can't be done, solving the most daunting challenges facing our customers.
+Responsibilities
+
+Peraton is seeking a Data Manager, in support of a US Government client at Camp Humphrey in South Korea, who is experienced working with a diverse team of technical experts, cultural advisors, operations research systems analysts (ORSAs), and Irregular Warfare (IW) planners to translate empirical research findings into United States Government operational assessments for the CCMD. The Data Manager will oversee data products for the supported organization's Data Management Plan.
+
+
+
+The successful candidate will be responsible for supporting the Command and must consider the bigger picture, identifying data products that need to be created and when to build them.
+Responsible for providing recommendations to inform the development and execution of policies, programs, and practices that acquire, control, protect and enhance the value of data assets throughout the data lifecycle, led or performed by tradecraft professionals.
+Evaluate assessments, conducting statistical analysis of primary and secondary-source opinion research projects, visualizing quantitative data (e.g., developing histograms, trend graphs, etc.), performing geospatial analysis, and overseeing technical inputs for the construction and application of an assessments database.
+The candidate should also be comfortable working with military IRC planners to break down and synthesize data in a fashion that best informs plans and operations.
+
+Roles and responsibilities for this position include:
+
+Conducting statistical analysis of structured and semi-structured data sets, to include opinion research, social media-based big data, and various secondary-source indices. Analysis will include presentation of basic descriptive statistics, longitudinal analysis, and hypothesis testing (to include, but not limited to, non-parametric correlation and principal components analysis).
+Completing basic geospatial analysis with either ArcGIS or QGIS.
+Supporting assessments of the information environment, applying a combination of opinion research data, intelligence, operational reporting, and social media insights.
+Provide data visualization and quantitative analysis; manage and optimize existing databases, as well as potentially oversee vendor efforts to build new databases, as required by the customer.
+Prepare status reports, assess project issues and risks, and develop resolutions to meet productivity, quality, and client-satisfaction goals and objectives.
+Develop automated approaches leveraging artificial intelligence / machine learning (AI/ML) and natural language processing (NLP) to streamline the input of operational assessment data into the Command and Control of the Information Environment (C2IE) system.
+Review / analyze statistical data received from team members, other agencies, and CCMD organic assets, and support social scientists in authoring summary reports and/or presenting oral briefings for senior leadership.
+Review empirical / quantitative studies conducted by similar organizations and determine reliability, validity and other strength factors for potential use in theater.
+Contribute to methodology advancement for analyzing and extracting insights from large-scale qualitative and quantitative data sets to enhance comprehension of target audience behaviors and reactions.
+Work independently or in collaboration with social scientists, ORSAs, and other data scientists within and outside the CCMD Theater.
+
+Qualifications
+
+Basic Qualifications:
+
+Master's degree in a data science-related degree (e.g., mathematics, statistics, computer science).
+Master's degree and 7 years of relevant experience or PhD with 4 years of relevant experience.
+Demonstrated experience applying data science expertise towards social scientific problem sets.
+Work / research history demonstrating applied experience with data science approaches.
+Statistical package expertise in IBM SPSS/PASW, R, STATA or MS Excel statistics.
+Willing and able to travel within the CCMD area of responsibility as required by the program.
+Must be a U.S. Citizen with a Current US Passport
+Current DoD Top Secret clearance with SCI eligibility
+
+Preferred Qualifications:
+
+PhD in a data science-related degree.
+Experiences with machine learning, natural language processing, writing Python script, and cloud computing strongly desired.
+Demonstrated experience applying data science expertise towards addressing national security issues.
+Geospatial analytic package expertise (e.g., ArcGIS, QGIS, etc.)
+Joint intelligence or operational experience with U.S. Geographical Combatant Commands.
+Prior experience working the CCMD-based problem sets.
+Experience with campaign / operational assessments.
+
+#EJ-OPHJ1
+
+#OPIAS
+
+Target Salary Range
+
+$112,000 - $179,000. This represents the typical salary range for this position based on experience and other factors.
+
+SCA / Union / Intern Rate or Range
+
+EEO
+An Equal Opportunity Employer including Disability/Veteran.
+
+Our Values
+
+Benefits
+At Peraton, our benefits are designed to help keep you at your best beyond the work you do with us daily. We're fully committed to the growth of our employees. From fully comprehensive medical plans to tuition reimbursement, tuition assistance, and fertility treatment, we are there to support you all the way.
+
+Paid Time-Off and Holidays
+Retirement
+Life & Disability Insurance
+Career Development
+Tuition Assistance and Student Loan Financing
+Paid Parental Leave
+Additional Benefits
+Medical, Dental, & Vision Care",2017,Information Technology Support Services,$5 to $10 billion (USD),Information Technology,10000+ Employees,Company - Private,False

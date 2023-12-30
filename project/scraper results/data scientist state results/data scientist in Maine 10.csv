@@ -1,0 +1,631 @@
+Job Title,Company Name,Location,Salary Estimate,Rating,Job Description,Founded,Industry,Revenue,Sector,Size,Type,Easy Apply
+Principal NLP Data Scientist,"WEX Inc.
+","Portland, ME",$115K - $155K (Glassdoor est.),3.8,"Principal Natural Language Processing (NLP) Data Scientist
+WEX is an innovative payments and technology company leading the way in a rapidly changing environment. Our goal is to simplify the business of running a business for our customers and free them to spend more time, with less worry, on the things they love. We are on a journey to build a unified, world class user experience across our products and services and leverage customer driven innovation to power our growth and strategic initiatives.
+As a Data Scientist with specialization in NLP, you will be front and center within the AI organization, delivering AI algorithms and processes to fuel the advancement of AI at WEX. You will work with stakeholders across WEX’s business verticals to identify and define use cases, and build AI solutions Using effective text representations to transform natural language into useful features.
+The use cases you will work on will fall in the categories of: speech recognition, language translation, sentiment analysis, question and answer systems, automatic summary generation via LLMs, Chatbots / generative and conversational AI, and automatic text classification.
+About the team:
+You will be part of the AI Organization. The goal of this organization is to embed AI in every aspect of our business and technology. The team comprises Data Scientists, Machine Learning Engineers, and AI Specialists.
+What you’ll do:
+Responsible for designing and developing NLP systems according to requirements. Implementing algorithms and models that enable computers to understand and process human language. This involves working with large datasets, designing and testing algorithms, and optimizing models for accuracy and efficiency.
+Defining appropriate datasets for language learning. This includes preprocessing and cleaning large datasets of text data. This involves tasks such as tokenization, stemming, lemmatization, and removing stop words.
+Text classification and clustering: Responsible for developing algorithms and models that can classify and cluster text data. This involves tasks such as sentiment analysis, topic modeling, and named entity recognition.
+Machine translation: Responsible for developing algorithms and models that can translate text from one language to another.
+Speech recognition and synthesis: Responsible for developing algorithms and models that can recognize and synthesize human speech.
+Work closely with other teams, such as data scientists, software engineers, and product managers, to develop and implement NLP solutions.
+Staying up-to-date with the latest research: NLP is a rapidly evolving field, and responsible for staying up-to-date with the latest research and developments in the field.
+Advise technical implementation for LLM infrastructure and more broad NLP applications
+Create networks with key decision makers at the company and potentially be an external spokesperson for the organization.
+Engage with stakeholders and leaders across the organization to identify, prioritize, frame, and structure complex and ambiguous challenges; advocate for projects where advanced analytics projects or tools can have the biggest impact
+Identify and communicate the challenges and opportunities that the group should be working on, highlighting areas for improvement and outlining courses of action
+Translate analysis results into business recommendations and articulate them to the appropriate stakeholders
+Identify critical insights and flag potential risks found in large data sources; interpret and communicate insights and findings to product, service, and business managers to develop a solution
+
+How you’ll engage:
+Insights Driven: Clear hypothesis and objective driven analytics that help drive our business decisions and ongoing metrics
+Stakeholder Aligned: Understand the needs and audience for deliverables with a succinct and tailored message to maximize impact
+Results Focused: Rigorous focus on how analytics drive the end to end experiences with clear path to production and measurable impact
+Dynamic Collaboration: Drive continual improvement of our teams best practices and processes to power collaboration
+Quality Mindset: Trust in our findings is critical so data and analytic quality is understood and accounted for from the beginning
+Curiosity and Learning: Learn new technologies and collaborate and teach others how to use them as necessary. Hold training and enablement sessions with key stakeholders as necessary.
+Experience you’ll bring:
+Roughly 15 years of relevant work experience (data scientist or data and analytics), including experience applying advanced analytics to planning and infrastructure problems.
+OR 12+ years of relevant work experience with a Masters degree in STEM or a related field OR 8+ years of relevant work experience with a PhD in a related field.
+Possessing outstanding skills in statistical analysis, machine learning methods and text representation techniques
+Experience creating and productionalizing NLU, NLP, and LLM solutions by fine tuning open source models
+Advanced experience with statistical software (e.g., Python) and database languages (e.g., SQL). Experience with libraries and frameworks commonly used in NLP, such as NLTK, spaCy, TensorFlow, or PyTorch, is also beneficial.
+Advanced experience building, cleaning, and testing data quality for data sets preceding modeling
+Strong problem-framing, problem-solving, project management skills, customer service, and communication skills
+Deep understanding of modeling and statistical approaches (e.g. logistic regression, linear regression, random forests, etc.)
+Experience with end-to-end feature development (owning feature definition, roadmap development, and experimentation)
+Experience with LLM and ML operations architecture
+Experience distilling informal customer requirements into problem definitions, dealing with ambiguity, and competing objectives
+Superior verbal and written communication and presentation skills, ability to convey rigorous mathematical concepts and considerations to non-experts
+Combination of technical and business acumen, with ability to advocate technical solutions for science with engineering and business audiences
+Able to lead multiple data science projects or multiple team members concurrently
+Company-wide data science leader providing technical vision to multiple parts of the organization
+What would make you stand out:
+PhD in a related field
+Experience in payment processing space
+Combination of technical and business acumen
+Experience in Agile methodologies and understanding of the SDLC",1983,Investment & Asset Management,$1 to $5 billion (USD),Financial Services,1001 to 5000 Employees,Company - Public,False
+Data Scientist,"Rite Pros
+","Portland, ME",$76K - $116K (Glassdoor est.),3.4,"Data Scientist with Bachelor’s Degree in Computer Science, Computer Information Systems, Information Technology, or a combination of education and experience equating to the U.S. equivalent of a Bachelor’s degree in one of the aforementioned subjects.
+
+Job Duties and Responsibilities:
+
+Define end-to-end machine learning pipeline for large scale technology products and deep technical products in distributed processing, real-time and scalable systems.
+Develop solutions to business problems using the data science life cycle.
+Develop and maintain data analytics solutions and machine learning algorithms.
+Build and leverage new and existing tools for Natural Language Processing (NLP), and intelligent document processing tasks.
+Design and Develop Spark applications in Python for streaming multi-modal data like text, images, videos for distributed machine learning training.
+Design and Develop AWS Cloud deployment scripts using AWS Cloud Formation Templates, Terraform for deploying data and ML pipelines.
+Develop a Proof of Concept for multiple intents to demonstrate conversational flow, responses from an embedded document, and generative AI (Chat GPT).
+Fine tune applications and systems for high performance and higher volume throughput and Pre-Process using AWS Stack for data pre-processing.
+Translate Load and exhibit unrelated data sets in various formats and sources like AVRO, Parquet, JSON, Text files, Kafka queues and Log Data.
+Develop and implement Generative AI models, with a strong understanding of techniques such as GPT, T5, Stable Diffusion and BERT.
+Drive excellent management skills to deliver complex projects, including effort/time estimation, to build detailed work breakdown structure (WBS), to manage critical path, and to use PM tools and Platforms.
+Build Scalable Client engagement level processes for faster turnaround and higher accuracy.
+Run regular Project reviews and Audits to ensure that projects are being executed within the guardrails agreed by all Stakeholders.
+Manage the Client Stakeholders and their expectations with a regular cadence of weekly meetings and status updates.
+
+Technologies/Environment involved :
+
+Distributed storage: AWS Cloud Storage (S3), Azure HD Insight, Google Cloud (GCP)
+Database management: Mongo DB, Cassandra, Postgres, Oracle, MS SQL Server, Redshift
+Graph Processing: Neo4J
+Machine learning: Spark Machine Learning Library (MLlib), TensorFlow, Keras, Pytorch
+Data processing: Spark, Hadoop MapReduce, Kafka and Storm, Airflow, Spark-streaming
+Programming Languages: Java, Scala, Python [REST Framework], PySpark
+DevOps Tools: BitBucket, Git, Apache Maven, Selenium, Jenkins, Docker
+
+Work location is Portland, ME with required travel to client locations throughout USA.
+
+Rite Pros is an equal opportunity employer (EOE).
+
+Please Mail Resumes to:
+Rite Pros, Inc.
+565 Congress St, Suite # 305
+Portland, ME 04101.
+
+Email: resumes@ritepros.com",-1,Information Technology Support Services,Less than $1 million (USD),Information Technology,1 to 50 Employees,Company - Private,False
+Senior NLP Engineer,"Top Remote Talent
+",Maine,-1,5.0,"A software development company is looking for a talented, long-term Senior NLP Engineer with strong skills in Python, experience in building ML services and launching models to production.
+
+The company is a team of experts providing analytical services to healthcare clients. You will join an international team of first class professionals who are passionate to create products that improve quality of medical services.
+
+We have the highest expectations in the industry regarding your ability to deliver high quality, performance, scalable, clean, and tested software.
+
+Requirements:
+
+Strong knowledge of Python;
+Knowledge and experience with data-related Python packages (Pandas, NumPy, PyTorch, scikit-learn etc.);
+Development of SQL queries for efficient data retrieval and manipulation;
+Proficiency in NLP-related tasks, with a particular emphasis on Named Entity Recognition, Relation Extraction, and Knowledge Extraction;
+Hands-on experience with embedding representations, the BERT model family, and transformer architectures;
+Hands-on experience with Git;
+Knowledge of Docker;
+Experience with Hugging Face and Google Cloud would be a plus.
+
+Benefits:
+
+Flexible working hours;
+Competitive salary;
+Remote work;
+Interesting projects to work on;
+Paid vacations and sick leaves.
+
+#Li-Remote",-1,-1,Unknown / Non-Applicable,-1,Unknown,Company - Public,False
+Lead Data Scientist,"Northeastern University
+","Portland, ME",$110K - $169K (Glassdoor est.),4.2,"About the Opportunity
+About the Institute
+Do you want to be part of an exciting new Institute focused on the fusion of human and machine intelligence into working AI solutions?
+We are launching a pioneering research and innovation hub in AI—one that will shape the way humans and machines collaborate. Led by Dr. Usama Fayyad, the Institute for Experiential AI (IEAI) is built around the challenges and opportunities made possible by human-machine collaboration. The institute provides a framework to design, implement, and scale AI-driven technologies in ways that make a true difference to society. Our ability to respond to the opportunities afforded to society will depend on training and building a workforce that is AI-capable. Located in Portland, Maine, with the goal of growing the Maine tech economy, the Roux Institute will be a center of activity for the Institute’s efforts.
+Founded in 1898, Northeastern is a global research university and the recognized leader in experience-driven lifelong learning. Our world-renowned experiential approach empowers our students, faculty, alumni, and partners to create impact far beyond the confines of discipline, degree, and campus.
+This role collaborates with researchers and data scientists from various fields including Applied Analytics, Bioinformatics, Biotechnology, Computer Science, Cybersecurity, Genomics, Health Data Analytics, Law & ethics, Neuroscience and Therapeutics discovery. General research and interpersonal skills are especially valued. We are building a new team together to deliver the true promise of AI, which lies at the intersection of humans and intelligent machines
+The Culture:
+Here at the Institute of Experiential AI (IEAI) we are committed to the highest of standards in all that we do. Working at the Institute of Experiential AI offers opportunities, an environment, a culture that just aren’t found together anywhere else. This is the right place for you if you’re curious, motivated by the future of technology and want to be part of a unique community that works on high-impact business and societal problems
+Summary:
+This position supports the Institute in delivering data science and AI projects and expertise to its industry partners and researchers. Assist in delivering data science and AI courses and professional development programs to learners from across the University and industry. Help build AI products that will solve the most-pressing issues for organizations including Responsible AI. Be part of a fast-growing team that will develop and maintain a cutting-edge data platform, acquire data sets for research and education purposes and use data science strategically to support the Institute’s mission.
+Qualifications:
+Education & Experience:
+
+Master’s degree in Computer Science, Engineering, Mathematics, Statistics or similar disciplines and 8 or more years of professional experience, or can convincingly demonstrate this level of skill.
+Experience managing technical staff in the completion of projects
+Experience communicating to technical and non-technical stakeholders and translating business problems into technical specifications
+
+Knowledge, Skills and Abilities:
+
+Proficiency with statistical computer languages such as Python or R.
+Proficiency with relational database systems (SQL) and object-based data stores.
+Advanced applied statistics skills, such as distributions, statistical testing, regression, etc.
+Professional experience with developing machine learning solutions and applying them in real-world scenarios.
+Proficiency with deep learning frameworks such as PyTorch or TensorFlow.
+Proficient in Git and version control.
+Ability to define and solve logical problems for technical applications.
+Knowledge of and ability to select, adapt, and effectively use a variety of programming methods.
+
+Preferred Experience:
+
+Master’s degree in Computer Science, Mathematics, or Artificial Intelligence with 10 or more years professional experience
+Experience with distributed data systems such as Apache Spark.
+Expertise in analyzing large, complex, multi-dimensional datasets with a variety of tools.
+Expertise in hypothesis testing, AB testing.
+Proficiency in Linux and version control software (git).
+Familiarity with Object Oriented programming languages such as Python, Java, C# or C++.
+Familiarity with Agile / Scrum development practices.
+Management of a team of 3 or more technical staff
+
+Values & Abilities:
+Aptitude to independently learn new technologies, prototype and propose software design and solutions.
+Excellent verbal and written communication skills.
+Drive to learn new technologies, statistical methods and data manipulation techniques.
+Ability to communicate effectively across academia and industry.
+Team-player who can collaborative effectively across many teams within the University.
+Open-minded and assertive when collaborating and working within our team and with other groups within Northeastern University.
+Entrepreneurial mind-set with an ability to navigate complex structures and processes
+Key Responsibilities & Accountabilities
+30%
+Management of AI and data science staff in the Solutions Hub team
+Overseeing co-op recruitment, hiring and development
+Support recruitment and development of technical talent
+40%
+Interface with research and business stakeholders to develop partnerships and statements of work
+Lead delivery of projects by defining technical tasks, providing technical contributions and synthesizing results
+Serve as technical representative in internal and external meetings
+Support in developing technical stack (e.g. datasets, infrastructure) for execution on projects
+20%
+Supporting management of vendor involvement in projects
+Track project health/performance
+Support development and pricing of Solutions Hub projects
+Position Type
+Data Planning and Analysis
+Additional Information
+Northeastern University considers factors such as candidate work experience, education and skills when extending an offer.
+Northeastern has a comprehensive benefits package for benefit eligible employees. This includes medical, vision, dental, paid time off, tuition assistance, wellness & life, retirement- as well as commuting & transportation. Visit
+https://hr.northeastern.edu/benefits/
+for more information.
+Northeastern University is an equal opportunity employer, seeking to recruit and support a broadly diverse community of faculty and staff. Northeastern values and celebrates diversity in all its forms and strives to foster an inclusive culture built on respect that affirms inter-group relations and builds cohesion.
+All qualified applicants are encouraged to apply and will receive consideration for employment without regard to race, religion, color, national origin, age, sex, sexual orientation, disability status, or any other characteristic protected by applicable law.
+To learn more about Northeastern University’s commitment and support of diversity and inclusion, please see
+www.northeastern.edu/diversity
+.",1898,Colleges & Universities,$100 to $500 million (USD),Education,1001 to 5000 Employees,College / University,False
+Data Scientist ML/AI/LM/LMM (remote),"Pearson
+","Augusta, ME",$130K - $140K (Employer est.),3.7,"Position Summary
+
+Machine learning and LLMs’ impact on Higher Education continues to expand each day. Pearson is looking for a data scientist to help harness this growing field to benefit university students and instructors. This individual will participate in the planning, design, development, and implementation of solutions to provide the optimal learning experience for our customers. Our data scientists work on solutions which improve the efficiency of instructors and increase student engagement, comprehension, and personalized learning experiences.
+
+Responsibilities:
+
+Collaborate with cross-functional teams to build new solutions for students and instructors in Higher Education using your expertise in deep learning and other machine learning models and algorithms
+Continuously learn, explore, and provide insights into the latest tools and practices in artificial intelligence so we can innovate new ways of teaching and assessing university level material.
+Evaluate and fine tune the performance, cost and efficacy of different models and solutions to achieve the highest quality standards for our customers.
+Make a lasting, positive impact on the educational outcomes of our customers.
+Be a trustworthy steward of our customers’ data
+
+Requirements
+
+3+ years of experience of deep-learning and Language Model Middleware (LMM) technologies, know how to evaluate similarity search and LMM outputs, and conduct prompt engineering, token optimization and evaluate system efficacy.
+In-depth understanding of LLM technologies and their applications in natural language processing.
+Experience with data preprocessing, data augmentation, and data quality assessment.
+Proficiency in using and fine-tuning state-of-the-art deep learning models, such as transformer-based architectures (e.g., BERT, GPT, T5).
+Strong programming skills in Python and proficiency with relevant libraries and frameworks (e.g., TensorFlow, Pandas, PyTorch, SciPy, scikit-learn, JAX)
+Knowledge of ethical AI principles, red-teaming, and responsible AI practices.
+Master's or Ph.D. in Computer Science, Machine Learning, Data Science, or a related field.
+Prior experience with prompt engineering and chatbot development is highly desirable.
+
+Compensation at Pearson is influenced by a wide array of factors including but not limited to skill set, level of experience, and specific location. As required by the Colorado, California, Washington State, New York State and New York City laws, the pay range for this position is as follows:
+
+The minimum full-time salary range is between $130,000 - $140,000
+
+This position is eligible to participate in an annual incentive program, and information on benefits offered is here.
+
+\#LI-POST
+
+\#LI-REMOTE
+
+What to expect from Pearson
+
+Did you know Pearson is one of the 10 most innovative education companies of 2022?
+
+At Pearson, we add life to a lifetime of learning so everyone can realize the life they imagine. We do this by creating vibrant and enriching learning experiences designed for real-life impact. We are on a journey to be 100 percent digital to meet the changing needs of the global population by developing a new strategy with ambitious targets. To deliver on our strategic vision, we have five business divisions that are the foundation for the long-term growth of the company: Assessment & Qualifications, Virtual Learning, English Language Learning, Workforce Skills and Higher Education. Alongside these, we have our corporate divisions: Digital & Technology, Finance, Global Corporate Marketing & Communications, Human Resources, Legal, Strategy and Direct to Consumer. Learn more at We are Pearson.
+
+We value the power of an inclusive culture and also a strong sense of belonging. We promote a culture where differences are embraced, opportunities are accessible, consideration and respect are the norm and all individuals are supported in reaching their full potential. Through our talent, we believe that diversity, equity and inclusion make us a more innovative and vibrant place to work. People are at the center, and we are committed to building a workplace where talent can learn, grow and thrive.
+
+Pearson is an Affirmative Action and Equal Opportunity Employer and a member of E-Verify. We want a team that represents a variety of backgrounds, perspectives and skills. The more inclusive we are, the better our work will be. All employment decisions are based on qualifications, merit and business need. All qualified applicants will receive consideration for employment without regard to race, ethnicity, color, religion, sex, sexual orientation, gender identity, gender expression, age, national origin, protected veteran status, disability status or any other group protected by law. We strive for a workforce that reflects the diversity of our communities.
+
+To learn more about Pearson’s commitment to a diverse and inclusive workforce, navigate to: Diversity, Equity & Inclusion at Pearson.
+
+If you are an individual with a disability and are unable or limited in your ability to use or access our career site as a result of your disability, you may request reasonable accommodations by emailing ppsmhr@pearson.com.
+
+Note that the information you provide will stay confidential and will be stored securely. It will not be seen by those involved in making decisions as part of the recruitment process.
+
+Job: RESEARCH AND DEVELOPMENT
+
+Organization: Higher Education
+
+Schedule: FULL\_TIME
+
+Req ID: 13349
+
+\#location",1844,Publishing,$5 to $10 billion (USD),Media & Communication,10000+ Employees,Company - Public,False
+Program Evaluator,Partnerships For Health,"Augusta, ME",$65K - $75K (Employer est.),-1.0,"Position: Program Evaluator
+
+Location: Augusta, Maine, United States Based or Remote option for East Coast Time Zone only.
+
+Type: Full time
+
+Salary: Market competitive salary with fringe benefits that include a matched IRA and 90%
+
+health insurance employer contribution
+
+Application Deadline: Open until position filled.
+
+Education Required: Master’s Degree
+
+Partnerships For Health
+
+Partnerships For Health (PFH) is a professional consulting firm established in 2010 to provide public health services from its office in Augusta, Maine. In a relatively short time, PFH has become a local and national leader in collaborative evaluation. Our clients include governmental agencies, foundations, and community-based non-profits. Our approach is one of collaborative consultation where the underlying assumption is that strides in public health can be achieved by joining the PFH team’s specialized knowledge with the client’s. Leadership, problem-solving, and communication become a joint undertaking, with equal attention to the technical and content areas, as well as the human interactions involved in dealing with these competencies.
+
+As part of the PFH team, we expect our team to conduct their work and interactions in accordance with the following value statements:
+
+Leadership: We contribute to honest evidence-based assessments for our clients and our business, even if it’s not easy.
+
+Collaboration: Our strength is the talent of our team. We get stronger the more we share.
+
+Transparency: Open communication breeds trust and a framework to build upon. Be real.
+
+Accountability:Accountability: We all have an obligation to accept responsibility for our own actions, and for our part in the success of the business.
+
+Passion: Passion and dedication are not found in small measures. We will not settle for any less than that which we are truly capable of doing.
+
+Quality: Prepare, work hard, and learn from your mistakes. We strive to make everything we do the best. And when we fail, we learn from it and improve.
+
+Enjoyment: Success cannot be achieved without the ability to enjoy your work with your team. The ability to have fun at what you’re doing needs to be encouraged and supported every day.
+
+Program Evaluator
+
+Successful candidates will:
+
+Undertake literature reviews
+Assist with the development of quantitative instruments
+Provide IRB assistance
+Ensure all fieldwork is implemented in a timely and efficient manner
+Perform data entry and validation
+Maintain clean, validated databases
+Perform descriptive and inferential statistical analysis
+Assist in the development of reports, infographics, presentations, and proposals
+Respond to internal and external requests for data or information
+Work collaboratively with teammates
+
+Skill requirements:
+
+Experience in research and evaluation methods, including the principles of ethics and protection of human subjects
+Highly proficient in advanced functions of Microsoft Office, including Word, Excel and PowerPoint
+Experience in developing quantitative research tools for data collection
+Experience in collecting data, including administering surveys, focus groups, and interviews
+Experience in analyzing quantitative data
+Experience with data visualization (we use PowerBI software), management, and analysis (R, SPSS, or SAS)
+In-depth strategic thinking and the ability to work in a fast-paced environment
+Exceptional interpersonal skills, receptivity to others’ ideas, and a collaborative team approach to all projects
+
+Education and experience:
+
+Master’s degree required
+Evaluation experience preferred
+
+Application Process
+
+If interested, please email the following to our Office Manager, Jill Pelton at: JPelton@PartnershipsForHealth.org
+
+1. A cover letter detailing how you meet the position requirements and align with PFH’s values.
+
+2. A brief (2 page) resume.
+
+3. Contact details of 3 professional references.
+
+Partnerships For Health is an equal opportunity employer and all qualified applicants shall receive consideration for employment without regard to race, color, religious creed, sex, national origin, ancestry, age, physical or mental disability, or sexual orientation.
+
+Job Type: Full-time
+
+Pay: $65,000.00 - $75,000.00 per year
+
+Benefits:
+
+401(k)
+Health insurance
+Paid time off
+
+Schedule:
+
+Monday to Friday
+
+Work Location: In person",-1,-1,-1,-1,-1,-1,True
+Senior Manager of AI/ML – Applied Generative AI,"IDEXX
+","Westbrook, ME",$59K - $91K (Glassdoor est.),3.6,"As a Senior Manager of AI/ML – Applied Generative AI , you will deliver on a portfolio of AI/ML solutions that curate, predict, and synthesize veterinarian health information to aid in product and feature development across IDEXX business needs and across the portfolio of IDEXX products using multi-modal Generative AI methods and related techniques.
+This role is based at IDEXX Headquarters in Westbrook, Maine, with an expectation of an on-site presence at least 3 times per month to support collaboration and necessary meetings, per our near-site workplace definition.
+Department
+IDEXX Data and AI Centre of Excellence develops and delivers data and AI assets and solutions to enhance IDEXX R&D, products, software, services, internal operations, and business practices. We seek a Senior Manager of Data Science to drive an AI/ML portfolio at the intersection of Generative AI (e.g., Multi-modal AI, Large Language Models, etc..), NLP, and machine learning for disease progression and prediction. These AI assets will support the automation of processes, improve decision-making, and deliver more personalized experiences to users of our solutions and IDEXX customers.
+
+In this role:
+You will build a foundation of impactful AI assets to enable an enhanced and reliable understanding of data and systems (e.g., multimodal understanding and generation).
+You will collaborate with cross-functional teams to design and execute projects that leverage LLMs for various applications, such as text generation, summarization, translation, multi-agent systems, and more.
+You will deliver leading-edge AI/ML solutions, working with leads from engineering, product, and program operations to craft a roadmap driven by value, built to be robust, and with secure infrastructure and measures of success.
+You will analyze and fine-tune model performance through experimentation, iteration, and data-driven insights.
+You will deliver and design optimal AI/ML solutions with various architectural patterns.
+You will Provide technical leadership and mentorship to team members, fostering a culture of innovation and continuous learning.
+You will stay up to date with the latest advancements in AI, machine learning, and adjacent technologies and apply this knowledge to enhance existing models and methodologies.
+You will contribute to research publications, whitepapers, and internal or external presentations.
+You will collaborate with product teams to integrate AI solutions or agents into real-world applications and platforms.
+
+What You Will Need to Succeed:
+You have a Master's or Ph.D. in Computer Science, Artificial Intelligence, or a related field.
+You have 8+ years of impactful experience in AI/ML-relevant fields, such as machine learning, deep learning, and large language models.
+You are an expert in working with Large Language Models, particularly GPT (Generative Pre-trained Transformer) variants, including prompt engineering and data embedding.
+You have a strong understanding of generative models, deep learning, and natural language processing techniques. Knowledgeable of multi-agent systems.
+You are proficient in programming languages like Python and PySpark and have experience with machine learning frameworks or platforms like TensorFlow, PyTorch, and Databricks.
+You can drive research projects from ideation to implementation, producing tangible outcomes, and oyu have experience deploying AI models into production environments.
+You can leverage your experience, industry-leading practices, and technical leaders to meet strategic goals.
+You can guide significant technical initiatives and bring process improvements to existing groups, tailoring them to the organization's areas of improvement.
+You excel at solving problems and have a creative mindset to address complex AI/ML challenges.
+You are a strong communicator and can effectively collaborate with technical and non-technical stakeholders.
+Why IDEXX
+We’re proud of the work we do because our work matters. An innovation expert in every industry we serve, we follow our Purpose and Core Values to help pet owners worldwide keep their companion animals healthy and happy, to ensure safe drinking water for billions, and to help farmers protect livestock and poultry from disease. We have customers in over 175 countries and over 10,000 talented employees globally.
+So, what does that mean for you? We enrich the livelihoods of our employees with a positive and respectful work culture that encourages learning and discovery. At IDEXX, you will be motivated by generous compensation, incentives, and benefits while enjoying purposeful work that drives improvement.
+Let’s pursue what matters together.
+IDEXX values diversity and encourages women, people of color, LGBTQ persons, people with disabilities, members of ethnic minorities, foreign-born residents, and veterans to apply.
+IDEXX is an equal-opportunity employer. Applicants will not be discriminated against because of race, color, creed, sex, sexual orientation, gender identity or expression, age, religion, national origin, citizenship status, disability, ancestry, marital status, veteran status, medical condition, or any protected category prohibited by local, state, or federal laws.",1983,Biotech & Pharmaceuticals,$1 to $5 billion (USD),Pharmaceutical & Biotechnology,10000+ Employees,Company - Public,False
+AI Prompt Engineer,"Unum
+","Portland, ME",$78K - $109K (Glassdoor est.),3.7,"Our Fortune 500 company is driving a digital transformation and looking for forward-thinking innovators to disrupt how our industry thinks about and uses technology. As one of the world's leading employee benefits providers, we help millions of people gain affordable access to benefits that help them protect their families, their finances and their futures.
+
+Are you an asker of questions, a solver of problems, and a challenger of the status quo? Our mission is to provide a differentiated customer experience and exceed the expectations people have of technology at any company — not just insurers.
+
+We are seeking individuals to join our team of talented IT professionals who share never-ending passion and an unwavering focus on our customer experience. Team members comfortable working in an agile, fast-paced, and delivery-focused environment thrive in our environment where we value an entrepreneurial spirit and those who challenge the status-quo.
+
+Unum is changing, and we’re excited about what’s next. Join us.
+
+General Summary:
+At Unum, our AI Prompt Engineer is central to our digital evolution. This role is characterized not just by technical proficiency but a genuine enthusiasm for AI, an innate curiosity, and a shared ambition to deliver revolutionary digital solutions. While we venture deeper into the AI domain, we constantly emphasize the 'human touch', ensuring our innovations are customer centric.
+
+Key Responsibilities:
+
+Design and refinement of AI-generated text prompts using forefront generative LLMs (e.g., GPT4) and discriminative LLMs like BERT.
+Engage with senior leaders, stakeholders, content experts, and product units for collaborative decision-making.
+Optimize our language models ensuring they echo Unum's objectives.
+Employ advanced NLP and ML methodologies for thorough evaluation of LLMs.
+Communicate technical outcomes clearly to non-technical stakeholders.
+Oversee and enhance AI prompt efficacy, keeping abreast with AI innovations.
+Mentor junior colleagues, imparting software engineering best practices.
+Develop applications utilizing Microsoft .NET Technologies.
+Identify and address system/software discrepancies through rigorous testing.
+
+Requirements:
+
+BSc in Computer Science/Engineering or similar (MSc is favored).
+5-7 years in ASP.Net, with hands-on experience in the Microsoft ecosystem: MS SQL Server, .NET Framework, and Visual Studio.
+Skilled in AI-specific utilities like ChatGPT, Hugging Face Transformers, and associated data analysis methods.
+Familiarity with deep learning platforms like PyTorch or TensorFlow.
+Comprehensive understanding of NLP, ML, and AI-driven content creation.
+Proficiency in programming, especially Python.
+Experience with WCF/REST Services, Web API, and Mobile development.
+Prior exposure to an Agile working atmosphere.
+
+Qualifications / Certifications:
+
+Applicable training or certifications in AI.
+MCSD / MCPD Certifications would be an advantage.
+
+#LI-SM1
+
+~IN1
+
+#LI-HYBRID
+
+#LI-REMOTE
+
+Our company is built on helping individuals and families, and this starts with our employees. We want employees to maintain a positive balance, which is why we provide access to the benefits and resources they need to invest in themselves. From our onsite fitness facilities and generous paid time off to employee professional development programs, we are committed to helping employees live and work their best – both inside and outside the office.
+
+Unum is an equal opportunity employer, considering all qualified applicants and employees for hiring, placement, and advancement, without regard to a person's race, color, religion, national origin, age, genetic information, military status, gender, sexual orientation, gender identity or expression, disability, or protected veteran status.
+
+The base salary range for applicants for this position is listed below. Unless actual salary is indicated above in the job description, actual pay will be based on skill, geographical location and experience.
+
+$109,100.00-$213,300.00
+
+Additionally, Unum offers a portfolio of benefits and rewards that are competitive and comprehensive including healthcare benefits (health, vision, dental), insurance benefits (short & long-term disability), performance-based incentive plans, paid time off, and a 401(k) retirement plan with an employer match up to 5% and an additional 4.5% contribution whether you contribute to the plan or not. All benefits are subject to the terms and conditions of individual Plans.
+
+Company:
+
+Unum",1848,Insurance Carriers,$10+ billion (USD),Insurance,5001 to 10000 Employees,Company - Public,False
+Lead Cognitive/Machine Learning Professional – MLP,"Humana
+",Maine,-1,3.9,"Humana is seeking a Lead Cognitive/Machine Learning Professional to join our Fortune #40, Best Places to Work company and help us make a different as a help our members achieve their best health!
+
+You will have the opportunity to work on challenging Machine Learning and AI projects with the goal to improve the everyday life of our members.
+
+Responsibilities
+
+As a Lead Cognitive/Machine Learning Professional, you may direct a small team of engineers. You will collaborate with data scientists, analysts, business and IT teams to design, implement, and deploy Machine Learning and AI services using Python, PySpark, Azure services, Databricks, Terraform, and other open-source software. You will be expected to lead by example, to develop plans, designs, code, and documentation, and to perform code reviews, testing, and debugging. You will embrace and enforce best practices in our data science community with automated, repeatable data pipelines.
+
+Some examples of how we add capabilities to Humana’s Machine Learning Platform include:
+
+Creating templates for data scientists, embracing leading-edge modeling techniques
+
+Establishing a Feature Store with tens of thousands of features available to use in predictive models
+
+Defining monitoring, auditing, data lineage, and dependency tracking for data pipelines to improve quality
+
+Integrating ethical AI bias monitoring and drift analysis into modelling processing
+
+Standardizing the definitions of clinical, financial, and actuarial features for use across the business
+
+Engineering Philosophy:
+
+Build and deploy ML models on Azure, using best practices in security, and Azure services
+
+Understand best practices for effective predictive models, including cluster management and algorithms, and evangelize with Humana Data Scientists
+
+Thrive in a fast-paced agile environment, closely interacting with business analysts, software engineers, machine learning scientists, data engineers, and data scientists
+
+Mentor junior team members, to help grow and mature the overall skillset of the team
+
+Required Qualifications
+
+BS in Computer Science or related field or equivalent experience
+
+3+ years of experience working on cloud platforms
+
+5+ years of experience with Machine Learning and AI
+
+5+ years of software development experience, with significant Python experience
+
+Solid knowledge of data structures and algorithms
+
+Ability to learn new technologies and comprehend unfamiliar data domains and business processes quickly
+
+Preferred Qualifications
+
+Open-source contributions and portfolio of shipped code at GitHub
+
+Familiar with healthcare applications, terminologies, and data
+
+Passion projects with ML/AI/NLP, for example Kaggle competitions and Hackathons
+
+Experience with Generative AI, GCP, and/or Vertex AI
+
+Additional Information
+
+Location/Work Style: Remote US
+
+Why Humana?
+
+At Humana, we know your well-being is important to you, and it’s important to us too. That’s why we’re committed to making resources available to you that will enable you to become happier, healthier, and more productive in all areas of your life. Just to name a few:
+
+Work-Life Balance
+
+Generous PTO package
+
+Health benefits effective day 1
+
+Annual Incentive Plan
+
+401K - Excellent company match
+
+Well-being program
+
+Paid Volunteer Time Off
+
+Student Loan Refinancing
+
+If you share our passion for helping people, we likely have the right place for you at Humana.
+
+Work at Home Guidance
+
+To ensure Home or Hybrid Home/Office associates’ ability to work effectively, the self-provided internet service of Home or Hybrid Home/Office associates must meet the following criteria:
+
+At minimum, a download speed of 25 Mbps and an upload speed of 10 Mbps is recommended; wireless, wired cable or DSL connection is suggested
+
+Satellite, cellular and microwave connection can be used only if approved by leadership
+
+Associates who live and work from Home in the state of California, Illinois, Montana, or South Dakota will be provided a bi-weekly payment for their internet expense.
+
+Humana will provide Home or Hybrid Home/Office associates with telephone equipment appropriate to meet the business requirements for their position/job.
+
+Work from a dedicated space lacking ongoing interruptions to protect member PHI / HIPAA information
+
+#LI-Remote
+
+Scheduled Weekly Hours
+
+40
+
+Pay Range
+
+The compensation range below reflects a good faith estimate of starting base pay for full time (40 hours per week) employment at the time of posting. The pay range may be higher or lower based on geographic location and individual pay decisions will vary based on demonstrated job related skills, knowledge, experience, education, certifications, etc.
+
+
+$126,800 - $174,500 per year
+
+
+This job is eligible for a bonus incentive plan. This incentive opportunity is based upon company and/or individual performance.
+
+Description of Benefits
+
+Humana, Inc. and its affiliated subsidiaries (collectively, “Humana”) offers competitive benefits that support whole-person well-being. Associate benefits are designed to encourage personal wellness and smart healthcare decisions for you and your family while also knowing your life extends outside of work. Among our benefits, Humana provides medical, dental and vision benefits, 401(k) retirement savings plan, time off (including paid time off, company and personal holidays, volunteer time off, paid parental and caregiver leave), short-term and long-term disability, life insurance and many other opportunities.
+
+Not Specified
+0",1961,Health Care Services & Hospitals,$10+ billion (USD),Healthcare,10000+ Employees,Company - Public,False
+Data Manager - DoD TS/SCI - Camp Humphrey - Korea,"Peraton
+",United States,$112K - $179K (Employer est.),3.6,"Peraton Overview
+Peraton drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy. As the world's leading mission capability integrator and transformative enterprise IT provider, we deliver trusted and highly differentiated national security solutions and technologies that keep people safe and secure. Peraton serves as a valued partner to essential government agencies across the intelligence, space, cyber, defense, civilian, health, and state and local markets. Every day, our employees do the can't be done, solving the most daunting challenges facing our customers.
+Responsibilities
+
+Peraton is seeking a Data Manager, in support of a US Government client at Camp Humphrey in South Korea, who is experienced working with a diverse team of technical experts, cultural advisors, operations research systems analysts (ORSAs), and Irregular Warfare (IW) planners to translate empirical research findings into United States Government operational assessments for the CCMD. The Data Manager will oversee data products for the supported organization's Data Management Plan.
+
+
+
+The successful candidate will be responsible for supporting the Command and must consider the bigger picture, identifying data products that need to be created and when to build them.
+Responsible for providing recommendations to inform the development and execution of policies, programs, and practices that acquire, control, protect and enhance the value of data assets throughout the data lifecycle, led or performed by tradecraft professionals.
+Evaluate assessments, conducting statistical analysis of primary and secondary-source opinion research projects, visualizing quantitative data (e.g., developing histograms, trend graphs, etc.), performing geospatial analysis, and overseeing technical inputs for the construction and application of an assessments database.
+The candidate should also be comfortable working with military IRC planners to break down and synthesize data in a fashion that best informs plans and operations.
+
+Roles and responsibilities for this position include:
+
+Conducting statistical analysis of structured and semi-structured data sets, to include opinion research, social media-based big data, and various secondary-source indices. Analysis will include presentation of basic descriptive statistics, longitudinal analysis, and hypothesis testing (to include, but not limited to, non-parametric correlation and principal components analysis).
+Completing basic geospatial analysis with either ArcGIS or QGIS.
+Supporting assessments of the information environment, applying a combination of opinion research data, intelligence, operational reporting, and social media insights.
+Provide data visualization and quantitative analysis; manage and optimize existing databases, as well as potentially oversee vendor efforts to build new databases, as required by the customer.
+Prepare status reports, assess project issues and risks, and develop resolutions to meet productivity, quality, and client-satisfaction goals and objectives.
+Develop automated approaches leveraging artificial intelligence / machine learning (AI/ML) and natural language processing (NLP) to streamline the input of operational assessment data into the Command and Control of the Information Environment (C2IE) system.
+Review / analyze statistical data received from team members, other agencies, and CCMD organic assets, and support social scientists in authoring summary reports and/or presenting oral briefings for senior leadership.
+Review empirical / quantitative studies conducted by similar organizations and determine reliability, validity and other strength factors for potential use in theater.
+Contribute to methodology advancement for analyzing and extracting insights from large-scale qualitative and quantitative data sets to enhance comprehension of target audience behaviors and reactions.
+Work independently or in collaboration with social scientists, ORSAs, and other data scientists within and outside the CCMD Theater.
+
+Qualifications
+
+Basic Qualifications:
+
+Master's degree in a data science-related degree (e.g., mathematics, statistics, computer science).
+Master's degree and 7 years of relevant experience or PhD with 4 years of relevant experience.
+Demonstrated experience applying data science expertise towards social scientific problem sets.
+Work / research history demonstrating applied experience with data science approaches.
+Statistical package expertise in IBM SPSS/PASW, R, STATA or MS Excel statistics.
+Willing and able to travel within the CCMD area of responsibility as required by the program.
+Must be a U.S. Citizen with a Current US Passport
+Current DoD Top Secret clearance with SCI eligibility
+
+Preferred Qualifications:
+
+PhD in a data science-related degree.
+Experiences with machine learning, natural language processing, writing Python script, and cloud computing strongly desired.
+Demonstrated experience applying data science expertise towards addressing national security issues.
+Geospatial analytic package expertise (e.g., ArcGIS, QGIS, etc.)
+Joint intelligence or operational experience with U.S. Geographical Combatant Commands.
+Prior experience working the CCMD-based problem sets.
+Experience with campaign / operational assessments.
+
+#EJ-OPHJ1
+
+#OPIAS
+
+Target Salary Range
+
+$112,000 - $179,000. This represents the typical salary range for this position based on experience and other factors.
+
+SCA / Union / Intern Rate or Range
+
+EEO
+An Equal Opportunity Employer including Disability/Veteran.
+
+Our Values
+
+Benefits
+At Peraton, our benefits are designed to help keep you at your best beyond the work you do with us daily. We're fully committed to the growth of our employees. From fully comprehensive medical plans to tuition reimbursement, tuition assistance, and fertility treatment, we are there to support you all the way.
+
+Paid Time-Off and Holidays
+Retirement
+Life & Disability Insurance
+Career Development
+Tuition Assistance and Student Loan Financing
+Paid Parental Leave
+Additional Benefits
+Medical, Dental, & Vision Care",2017,Information Technology Support Services,$5 to $10 billion (USD),Information Technology,10000+ Employees,Company - Private,False

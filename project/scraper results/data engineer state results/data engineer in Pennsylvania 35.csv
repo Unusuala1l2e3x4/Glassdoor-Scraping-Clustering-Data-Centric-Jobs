@@ -1,0 +1,2396 @@
+Job Title,Company Name,Location,Salary Estimate,Rating,Job Description,Founded,Industry,Revenue,Sector,Size,Type,Easy Apply
+Data Engineer - BI,"Comcast
+","Philadelphia, PA",$82K - $191K (Employer est.),3.7,"Make your mark at Comcast - a Fortune 30 global media and technology company. From the connectivity and platforms we provide, to the content and experiences we create, we reach hundreds of millions of customers, viewers, and guests worldwide. Become part of our award-winning technology team that turns big ideas into cutting-edge products, platforms, and solutions that our customers love. We create space to innovate, and we recognize, reward, and invest in your ideas, while ensuring you can proudly bring your authentic self to the workplace. Join us. You’ll do the best work of your career right here at Comcast. (In most cases, Comcast prefers to have employees on-site collaborating unless the team has been designated as virtual due to the nature of their work. If a position is listed with both office locations and virtual offerings, Comcast may be willing to consider candidates who live greater than 100 miles from the office for the remote option.)
+
+
+Job Summary
+
+ABOUT CTS CYBERSECURITY You will be an innovator in the Cybersecurity division of Comcast Technology Solutions (CTS). (https://www.comcasttechnologysolutions.com/about-us) This division specializes in offering Software-as-a-Service (SaaS) and subscription-based security solutions to large enterprises and the federal government. For the first time ever, customers are now able to purchase some of the best of Comcast’s own in-house security technologies (https://www.comcasttechnologysolutions.com/cybersecurity-suite). These solutions are proven-at-scale to defend critical infrastructure and effectively reduce cost. The Cybersecurity Suite efficiently improves security and compliance while keeping costs in check. You are entrepreneurial. You are fascinated by the challenge of wrangling security data for insights. You like driving new relationships with enterprise data scientists, and enjoy helping others find value in data. You are good at evangelizing new technologies and researching the latest in cybersecurity. You achieve satisfaction in seeing customers solve hard security problems. You enjoy the challenge and thrill of succeeding in bringing new technology approaches to market. As an Engineer, Business Intelligence, you will be a leader of a key team within Comcast Technology Solution’s exciting new cyber security business unit, which sells SaaS and subscription security solutions to the large enterprise and federal government. Currently, two solutions, BluVector and DataBee, both used internally by the Comcast CISO organization, are sold by the business unit. These solutions are advanced threat detection, advanced threat hunting and security operations center and compliance offerings that improve security and compliance in a cost-effective manner. DataBee is the BU’s growth engine and is an innovative security & compliance data fabric platform, a new market segment rapidly replacing SIEM and other legacy security & compliance toolsets.
+
+Job Description
+
+Job Description
+
+Core Responsibilities
+
+Partner with data engineering teams for data ingestion, storage, search, and delivery methodologies to support a wide array of data sources and types to support security and privacy compliance
+Develop and implement effective measurement and reporting methodologies to manage security compliance and effectiveness of key security controls through the development and deployment of dynamic compliance dashboards and reports.
+Partner with other engineering and product teams to provide technical leadership and guidance on enhancing the CCM (Continuous Controls Monitoring) platform.
+Implementing strong experience with table reporting and data governance
+Handles data collection and parsing storage
+Provide ongoing operational support of production dashboards to ensure high availability and data integrity.
+Must also be able to work independently with limited supervision to deliver assigned tasks and work within scrum methodology.
+Showcasing expertise in data, quality, and overall organizational impact.
+You collaborate closely with Sales Engineering, Solution Architecture(s), Product Management and Product Marketing to influence the roadmap, architecture and customer engagements.
+You can be hands on with our engineering and products team, creating, changing or revising dashboards and data fabric views as needed.
+Performs other related duties as assigned
+
+Required Skills and Experience:
+
+Strong oral and written communication skills with an ability to develop a strong rapport across a variety of technical and non-technical teams.
+Strong passion for learning and teaching others
+Demonstrated subject matter expert in Snowflake, PowerBI, , Tableau, and other visualization solutions
+Experience building dynamic Tableau dashboards that are utilizing advanced features such as LOD calcs, parameters, Extensions API
+Overseeing the collection, storage, management, quality and protection of security data (part or all of these processes will qualify)
+General understanding of data collection, parsing, storage, and search capabilities.
+General understanding of data privacy policies, and complying with data protection regulations
+Heavy experience in Snowflake and/or Databricks using SQL and/ or Python
+Ensure that data is easily accessible, reliable, and secure.
+Responsible for designing, building, and maintaining the database that supports data storage, processing, and retrieval
+Experience working with GitHub and IDE
+
+Employees at all levels are expected to:
+
+Understand our Operating Principles; make them the guidelines for how you do your job.
+Own the customer experience - think and act in ways that put our customers first, give them seamless digital options at every touchpoint, and make them promoters of our products and services.
+Know your stuff - be enthusiastic learners, users and advocates of our game-changing technology, products and services, especially our digital tools and experiences.
+Win as a team - make big things happen by working together and being open to new ideas.
+Be an active part of the Net Promoter System - a way of working that brings more employee and customer feedback into the company - by joining huddles, making call backs and helping us elevate opportunities to do better for our customers.
+Drive results and growth.
+Respect and promote inclusion & diversity.
+Do what's right for each other, our customers, investors and our communities.
+
+
+Disclaimer:
+This information has been designed to indicate the general nature and level of work performed by employees in this role. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities and qualifications.
+
+Comcast is an EOE/Veterans/Disabled/LGBT employer.
+
+#workforComcast_CTS
+
+Comcast is proud to be an equal opportunity workplace. We will consider all qualified applicants for employment without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, disability, veteran status, genetic information, or any other basis protected by applicable law. Comcast will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of applicable law, including the Los Angeles Fair Chance Initiative for Hiring Ordinance and the San Francisco Fair Chance Ordinance.
+
+
+Education
+
+Bachelor's Degree
+
+While possessing the stated degree is preferred, Comcast also may consider applicants who hold some combination of coursework and experience, or who have extensive related professional experience.
+
+Relevant Work Experience
+
+5-7 Years
+
+
+Salary:
+
+National Pay Range: $81,588.46 USD-$191,222.96 USD
+
+Comcast intends to offer the selected candidate base pay within this range, dependent on job-related, non-discriminatory factors such as experience.
+
+
+Base pay is one part of the Total Rewards that Comcast provides to compensate and recognize employees for their work. Most sales positions are eligible for a Commission under the terms of an applicable plan, while most non-sales positions are eligible for a Bonus. Additionally, Comcast provides best-in-class Benefits. We believe that benefits should connect you to the support you need when it matters most, and should help you care for those who matter most. That’s why we provide an array of options, expert guidance and always-on tools, that are personalized to meet the needs of your reality – to help support you physically, financially and emotionally through the big milestones and in your everyday life. Please visit the compensation and benefits summary on our careers site for more details.",1963,Telecommunications Services,$10+ billion (USD),Telecommunications,10000+ Employees,Company - Public,False
+ETL Data Engineer,"Hamilton Lane
+","Philadelphia, PA",-1,4.1,"Hamilton Lane is looking to expand their team to satisfy the needs of our growing client base. Hamilton Lane is built on collaboration, teamwork and integrity. Our employees pursue excellence and always strive to do the right thing. We invest in our employees, clients and partner relationships, as well as, in the technology and resources necessary to remain competitive, working in a competitive environment that inspires innovation.
+We are seeking a talented ETL Data Engineer with strong experience in Python and Azure Synapse Analytics to join our dynamic team.
+As an ETL Data Engineer, you will play a critical role in our expanding data engineering team. You will be responsible for designing, developing, and maintaining ETL data integration processes primarily using Python (PySpark), Azure Synapse Analytics Pipelines, and other Azure Synapse Analytics resources, ensuring the accuracy and availability of data for our analytical needs. You will work closely with data scientists, analysts, and other stakeholders to deliver high-quality, well-organized data for insights and decision-making.
+If you are passionate about data, have a strong background in ETL processes, and are eager to work with state-of-the-art Azure data solutions, we'd love to hear from you!
+Key Responsibilities:
+ETL Data Engineering: Develop and maintain ETL data engineering processes using Python (PySpark) within Azure Synapse Analytics Notebooks, and/or Azure Synapse Analytics Pipelines, to ensure efficient data extraction, transformation, and loading.
+Data Warehousing: Apply your expertise in data warehousing, understanding star schemas, facts, and dimensions, to design and build effective data storage structures in a Massively Parallel Processing (MPP) SQL Pool.
+Data Source Expertise: Extract data from various sources, including REST APIs, SQL database tables, and CSV files.
+Azure Synapse Analytics Expertise: Utilize your deep knowledge of Azure Synapse Analytics to design and optimize data notebooks/pipelines for scalability and performance.
+Data Fabric Concepts: Contribute to the implementation and understanding of other Data Fabric concepts, such as data lakes, lakehouses, delta lakes, and data cataloging, to enhance data management capabilities.
+Data Modeling: Collaborate with data architects to create data models and schemas that align with business requirements.
+Data Quality: Implement data quality checks and validation processes to maintain data accuracy and consistency.
+Performance Tuning: Identify and resolve performance bottlenecks and optimize ETL data notebooks/pipelines to meet SLAs.
+Monitoring and Troubleshooting: Monitor ETL jobs, diagnose issues, and implement solutions to ensure data pipeline reliability.
+Documentation: Maintain comprehensive documentation of ETL data engineering processes, data flows, and data transformations.
+Collaboration: Work closely with cross-functional teams to understand data requirements and provide support for data-related initiatives.
+Security and Compliance: Ensure data security and compliance with data governance and privacy standards.
+Qualifications:
+Bachelor's degree in Computer Science, Information Technology, or a related field; or appropriate work experience.
+Proven experience in ETL data engineering with significant expertise in using Python (PySpark) to perform data extraction, transformation, and loading from REST APIs, SQL database tables, and CSV files.
+Proficiency in using Azure Synapse Analytics resources including Notebooks, Pipelines, Linked Services, and Azure Key Vault.
+Demonstrated ability to write complex SQL queries, optimize query performance, and work with both SparkSQL and MS SQL to effectively extract, transform, and load data.
+Knowledge of data integration best practices and tools.
+Experience with version control systems, such as Git (Azure DevOps).
+Strong problem-solving and analytical skills, with a keen attention to detail.
+Excellent communication skills, both verbal and written, with the ability to work collaboratively in a team environment.
+Must be able to work in the United States without requiring sponsorship.
+Must be available to work hybrid schedule in our Suburban Philadelphia office
+Nice-to-Have Skills:
+Certifications related to data engineering or data science (e.g., Azure Data Engineer).
+Knowledge of big data technologies.
+Experience with data visualization tools (e.g., Power BI, Tableau).
+Familiarity with machine learning and data analysis.
+Experience with Agile Methodologies
+We offer a competitive salary, annual discretionary bonus and a comprehensive benefits package which includes: Medical, Prescription, Dental, Paid Time Off, 401k plan, Life and Disability Insurances, Tuition Reimbursement, Employee Stock Purchase Program, Health Club Reimbursement and Flexible Spending Accounts.
+Hamilton Lane is an affirmative action-equal opportunity employer. All qualified applicants will be considered for employment without regard to their race, color, creed, religion, sex, pregnancy, national origin, ancestry, citizenship status, age, marital or partnership status, sexual orientation, gender identity or expression, disability, genetic predisposition, veteran or military status, status as a victim of domestic violence, a sex offense or stalking, or any other classification prohibited by applicable law.
+As a registered investment adviser, employees of Hamilton Lane may be subject to certain limitations on political contribution and personal investment activities.
+If you need a reasonable accommodation to complete your application, please contact Human Resources at
+humanresources@hamiltonlane.com
+.
+Please note that in the event that you are hired by Hamilton Lane, you, your spouse or any other dependent family member living in your household will need to comply with Hamilton Lane's Personal Securities Transactions Policy and the trade pre-clearance process per Hamilton Lane's Code of Ethics. It is your responsibility to ensure that you and your household members are able to comply with this policy. Examples of the restrictions that could be placed on your activities include, but are not limited to, a requirement to pre-clear all transactions prior to execution, the inability to transact in certain securities or classes of securities and other restrictions. A copy of our Code of Ethics is available upon request. Please note that having a personal trading account will not prohibit you from being employed by Hamilton Lane.
+As an employer who participates in the federal E-Verify program, Hamilton Lane will provide the Social Security Administration (SSA) and, if necessary, the Department of Homeland Security (DHS), with information from each employee’s Form I-9 to confirm work authorization. If the Government cannot confirm that you are authorized to work, the Company is required to provide you written instructions and an opportunity to contact SSA and/or DHS, so that you can resolve any discrepancies directly with the federal agency.",1991,Investment & Asset Management,$100 to $500 million (USD),Financial Services,201 to 500 Employees,Company - Public,False
+Data Engineer,"NextEra Logic, LLC","Pittsburgh, PA",$80K - $100K (Employer est.),-1.0,"Data Engineers
+
+Location: Schenectady, NY or Pittsburgh, PA
+Salary: $80K to $100K (Depending on experience)
+Clearance: Secret
+Start Date: ASAP once Approved
+
+Engineer(s) will work with NNL to develop technical requirements and design documents. Working to develop project plans, documentations, and communicate solutions to stakeholders. Provide clear and concise statements about work approaches and specific solutions. Make specific plans to create testing plans and support documentation to ensure quality and assist in support transition.
+Data Engineer(s) will provide standard database design and architecture documentation including ERM diagrams, data flow diagrams, and data structure or object diagrams as needed.
+
+We are looking for candidates with excellent communication skills, the ability to work in a fast-paced environment, and a passion for solving complex data problems. The ideal candidate should have at least 3 years of experience in data engineering and a proven track record of delivering successful data applications. The contract duration is expected to be 12 to 66 months, with the possibility of extension based on project needs and performance.
+
+Data Engineer(s) will create data pipelines and ETL jobs that reliably, consistently transmit data from flat files or between data storage systems. Pipeline should use provided ETL tools, provide clear communication of errors, and integrate with job monitoring and reporting tools.
+Data will be stored in a data warehouse/data lakehouse solutions in both relational and NoSQL schemas. Data Engineer(s) should be able to develop data structures and designs for efficient ingestion, analysis, and consumption use cases while providing sufficient flexibility for design requirement change.
+Data Engineer(s) should follow modern unit test driven design. This includes the creation and use of data sets. Engineers should also develop check and constraint to ensure data quality and integrity across the data ecosystem.
+Data Engineer(s) will create analytics solutions and graphs using visualization and low-code development tools that provide flexible and clear solutions for user. This includes gathering or soliciting feedback from users and building flexible models that supports user testing, user configuration, and continuous deployment.
+
+Job Type: Full-time
+
+Pay: $80,000.00 - $100,000.00 per year
+
+Benefits:
+
+401(k)
+401(k) matching
+Dental insurance
+Health insurance
+Paid time off
+Vision insurance
+
+Compensation package:
+
+Yearly pay
+
+Experience level:
+
+3 years
+
+Schedule:
+
+8 hour shift
+Day shift
+Monday to Friday
+
+Experience:
+
+ETL: 3 years (Required)
+Data Engineering: 3 years (Required)
+Data warehouse: 3 years (Required)
+
+Security clearance:
+
+Secret (Required)
+
+Work Location: On the road",-1,-1,-1,-1,-1,-1,True
+Data Analyst/Engineer,"Beacon Specialized Living Services
+","Scranton, PA",$56K - $80K (Glassdoor est.),3.0,"Applicants must be authorized to work for ANY employer in the U.S. We are unable to sponsor or take over sponsorship of an employment Visa at this time.
+
+Primary Responsibilities/Essential Functions:
+
+· Assist in selecting and building Data Warehouse
+
+· Define and Build Tabular Data Model
+
+· Improving observability, discoverability, governance, and implementing a common data integrity and data quality testing framework.
+
+· Constructing reliable and performant high-volume ETL or ELT pipelines for sensitive healthcare data.
+
+· Contributing to and maintaining legacy ETL and ELT data pipelines.
+
+· Proactively monitoring data pipelines for potential problems and debugging issues if they arise.
+
+· Helping to model data at various stages of refinement, curation, and enrichment to best suit different downstream targets and marts.
+
+· Partnering with leadership to identify data objectives, targets, and bringing data insights to life.
+
+· Other duties as assigned.
+
+Education & Qualifications:
+
+· A Bachelor's degree in computer science, data science, or information systems.
+
+· 3 years of proven data and performance engineering.
+
+· Expert in SQL.
+
+· Experience using data warehouses and databases like Azure, SQLAAS.
+
+· Experience developing custom-built data/analytics solutions.
+
+· Experience with Azure, Data Factory, API’s.
+
+· A strong understanding of healthcare.
+
+· Established project management skills.
+
+· Advanced training certifications may be advantageous.
+
+· Excellent verbal and written communication skills, interpersonal, and teaching skills.
+
+· Good anticipation, analytical, and problem-solving skills.
+
+· The ability to remain current on the latest technology and best practices in information security.
+
+· Valid Driver’s License with acceptable driving record as determined by Motor Vehicle Report and insurance guidelines.
+
+Job Type: Full-time
+
+Benefits:
+
+401(k)
+401(k) 4% Match
+Dental insurance
+Health insurance
+Health savings account
+Life insurance
+Paid holidays
+Paid time off
+Vision insurance
+
+Compensation package:
+
+Yearly bonus
+
+Experience level:
+
+3 years
+
+Schedule:
+
+Monday to Friday
+
+Application Question(s):
+
+Are you willing to travel to Nashville, TN as needed? (not frequent)
+Do you require work sponsorship now or in the future? (Answer Required)
+
+Education:
+
+Bachelor's (Required)
+
+Experience:
+
+Healthcare IT: 3 years (Required)
+
+Work Location: In person",1964,Health Care Services & Hospitals,$5 to $25 million (USD),Healthcare,1001 to 5000 Employees,Company - Private,True
+Data Analytics Engineer,TEKtalent Inc,"Levittown, PA",$44.00 - $55.00 Per Hour (Employer est.),-1.0,"A dbt (data build tool) Developer is responsible for leveraging dbt to transform, model, and manage data within an organization's data analytics stack. dbt Developers play a crucial role in streamlining data workflows, ensuring data accuracy, and providing a structured foundation for data analysis and reporting.
+
+Responsibilities:
+
+1. Data Transformation and Modeling:
+
+Design and implement data transformations and models using dbt to create structured, cleaned, and aggregated datasets.
+Develop and maintain dbt models that accurately represent business logic and data requirements.
+
+2. SQL Expertise:
+
+Write and optimize SQL queries within dbt to extract, manipulate, and join data from various sources (e.g., databases, APIs, flat files).
+Ensure SQL code follows best practices for readability, performance, and maintainability.
+
+3. Version Control:
+
+Use version control systems (e.g., Git) to manage dbt codebase, enabling collaborative development and tracking changes over time.
+Collaborate with data engineers and analysts to coordinate code changes.
+
+4. Testing and Documentation:
+
+Implement unit tests within dbt to verify the accuracy and reliability of data transformations.
+Document dbt models, data lineage, and transformations to facilitate understanding and collaboration.
+
+5. Automation:
+
+Schedule and automate dbt runs to keep data models up-to-date and synchronized with source systems.
+Implement data orchestration and scheduling as needed.
+
+6. Data Quality Assurance:
+
+Develop and enforce data quality checks and validations within dbt to identify and rectify data issues.
+Monitor data quality and integrity, responding to anomalies or discrepancies.
+
+7. Performance Optimization:
+
+Optimize dbt models and queries for performance, identifying and addressing bottlenecks.
+Analyze and fine-tune data processing pipelines to meet performance requirements.
+
+8. Collaboration:
+
+Collaborate closely with data engineers, data analysts, and business stakeholders to understand data requirements and deliver data solutions.
+Participate in cross-functional teams and contribute to data-related projects.
+
+9. Security and Compliance:
+
+Ensure data security and compliance with relevant data protection regulations (e.g., GDPR, HIPAA) through appropriate data handling practices.
+
+10. Knowledge Sharing:
+
+Share knowledge of dbt best practices and data modeling techniques with team members.
+Provide training and support to data analysts and other users of dbt.
+
+Qualifications:
+
+Bachelor's or master's degree in computer science, data science, or a related field.
+Strong proficiency in SQL and experience working with relational databases.
+3+ years of experience using dbt for data transformation and modeling in a data warehouse environment (e.g., Snowflake, BigQuery, Redshift).
+7+ years of experience building business rules using a business rules engine similar to dbt
+Familiarity with version control systems (e.g., Git) and code collaboration workflows.
+Excellent data analysis and problem-solving skills.
+Strong attention to detail and a commitment to data quality.
+Understanding of data warehousing concepts and best practices.
+Knowledge of data governance and data security principles.
+Effective communication and collaboration skills to work with diverse teams.
+Experience with other data tools and languages (e.g., Python, R, Looker) is a plus.
+
+Job Type: Full-time
+
+Salary: $44.00 - $55.00 per hour
+
+Expected hours: 40 per week
+
+Benefits:
+
+401(k)
+401(k) matching
+Dental insurance
+Health insurance
+
+Experience level:
+
+7 years
+
+Schedule:
+
+8 hour shift
+
+Ability to commute/relocate:
+
+Levittown, PA 19057: Reliably commute or planning to relocate before starting work (Required)
+
+Experience:
+
+Data build tool: 7 years (Required)
+Data analytics: 7 years (Required)
+
+Work Location: In person",-1,-1,-1,-1,-1,-1,True
+Senior Data Engineer - Principal Associate,"Capital One
+","Philadelphia, PA",-1,4.0,"West Creek 4 (12074), United States of America, Richmond, Virginia
+
+Senior Data Engineer - Principal Associate
+
+Do you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors, who solve real problems and meet real customer needs. We are seeking Data Engineers who are passionate about marrying data with emerging technologies. As a Capital One Data Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One.
+
+What You’ll Do:
+
+Collaborate with and across Agile teams to design, develop, test, implement, and support technical solutions using full-stack development tools and technologies
+
+Work with a team of developers with deep experience in data pipelines, distributed microservices, and full stack systems
+
+Use programming languages like Java, Scala, Python and Open Source RDBMS and NoSQL databases and Cloud based data store services such as DynamoDB, Elasticache, and Snowflake
+
+Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & external technology communities, and mentoring other members of the engineering community
+
+Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of Americans achieve financial empowerment
+
+Design and implement target data models that are optimized for search, query, reporting, or analytics
+
+Identify, analyze, and select quality data sources for target data models
+
+Design and develop data pipelines, including Extract, Transform, Load (ETL) programs to extract data from various sources and transform the data to fit the target model
+
+Test and deploy data pipelines to ensure compliance with Capital One’s data governance and security policies
+
+Implement audits along with checks and balances to ensure data pipelines are working as intended, 24/7
+
+Perform unit tests and conduct reviews with other team members to make sure your code is rigorously designed, elegantly coded, and effectively tuned for performance
+
+Basic Qualifications:
+
+Bachelor’s Degree
+
+At least 4 years of experience in application development (Internship experience does not apply)
+
+At least 1 year of experience in big data technologies
+
+
+Preferred Qualifications:
+
+5+ years of experience in application development including Java, Python, NoSQL, and SQL
+
+2+ years of experience with a public cloud (AWS, Microsoft Azure, Google Cloud)
+
+3+ years experience with distributed data/computing tools (MapReduce, Hadoop, Hive, EMR, Kafka, Spark, Gurobi, or MySQL)
+
+2+ year experience working on real-time data and streaming applications
+
+2+ years of experience with NoSQL implementations (DynamoDB, Redis, Elasticache)
+
+2+ years of data warehousing experience (Redshift or Snowflake)
+
+3+ years of experience with UNIX/Linux including basic commands and shell scripting
+
+2+ years of experience with Agile engineering practices
+
+At this time, Capital One will not sponsor a new applicant for employment authorization for this position.
+
+
+The minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.
+
+New York City (Hybrid On-Site): $161,900 - $184,800 for Senior Data Engineer
+
+Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.
+
+This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.
+
+Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.
+
+No agencies please. Capital One is an equal opportunity employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex (including pregnancy, childbirth or related medical conditions), race, color, age, national origin, religion, disability, genetic information, marital status, sexual orientation, gender identity, gender reassignment, citizenship, immigration status, protected veteran status, or any other basis prohibited under applicable federal, state or local law. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.
+
+If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.
+
+For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com
+
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).",1994,Banking & Lending,$10+ billion (USD),Financial Services,10000+ Employees,Company - Public,False
+Data Analytics Engineer,UNITED IT Incopration SERVICES,"Philadelphia, PA",$50.70 - $55.88 Per Hour (Employer est.),-1.0,"Hi,
+
+Pleasure mailing you. Please go through the below requirement and let me know if you are comfortable for the position.
+
+Please send me your updated resume along with the best hourly rate, work authorization status and availability.
+
+An early response is really appreciated
+
+Data Analytics engineer
+
+Location: Philadelphia, PA
+
+· Bachelor's or Master's degree in Computer Science, Data Science, Statistics, or a related field.
+
+· Proven experience (6+ years) as a data engineer and data scientist, preferably in a fast-paced technology or analytics-driven environment.
+
+· Telecom Domain must
+
+· Technology Stack for Equipments Swap Eligibility Data:
+
+Big Data- Good at Scala
+
+Cloud Technologies - AWS S3, AWS Athena
+
+SQL - Hive,Teradata,Spark SQL
+
+Databricks
+
+Python - DQ
+
+Job Type: Contract
+
+Salary: $50.70 - $55.88 per hour
+
+Experience level:
+
+10 years
+11+ years
+8 years
+9 years
+
+Schedule:
+
+8 hour shift
+
+Work Location: In person",-1,-1,-1,-1,-1,-1,True
+AWS Cloud Data Engineer & Delivery (REMOTE),"Lincoln Financial
+","Radnor, PA",$88K - $155K (Employer est.),3.7,"Date: Nov 23, 2023
+
+Primary Location: Radnor, PA, US
+
+Company: Lincoln Financial
+
+Alternate Locations: Work from Home
+
+
+Work Arrangement:
+Hybrid/Flexible : Work at home and use the office as appropriate for in-person collaboration.
+
+
+Relocation assistance: is not available for this opportunity.
+
+
+Requisition #: 72250
+
+
+The Role at a Glance
+
+
+This role will provide subject matter expertise and direction on complex projects/initiatives related to the configuration of systems and across operations for LFD IT data in applicable system(s). They will collaborate with business and IT teams and other stakeholders to understand data warehouse design and will focus on maintaining and improving our data environment, as well as providing expertise on system functionality to accommodate requirements. They will configure applicable system(s) when appropriate to provided required capabilities.
+
+This position will consult/analyze, design, and build on data assignments/projects for your assigned area(s) of application design responsibility to build out a data transformation through ETL on AWS to integrate with number of upstream and downstream applications.
+
+What you'll be doing
+
+
+Participates in analysis, design, and build solution as part of Agile / Scrum Develop Team.
+Implement and support large data initiatives for the enterprise (using AWS PostgreSQL, Redshift, Glue and Python to further these objectives).
+Understands data mapping and data modeling methodologies including normal form, star, and snowflake to reduce data redundancy and improve data integrity.
+Consult with internal Lincoln business partners on requirements, design, testing and production topics to create solution proposals and develop code.
+Performs technical tasks including estimating, analysis, technical requirements, design, build and unit & integration testing following SDLC.
+Assist analytical teams with the design and implementation of Data solutions and systems, including integration with Operational Datastores and Data Warehouses, both on-premises and in the Cloud.
+Maintains knowledge on current and emerging developments/trends for assigned area(s) of responsibility, assesses the impact, and collaborates with Scrum Team and Leadership to incorporate new trends and developments in current and future solutions.
+Participates and enhances organizational initiatives by positively influencing and supporting change management and/or departmental/enterprise initiatives within assigned area(s) of responsibility.
+Identifies and directs the implementation of process improvements that significantly improve quality across the team, department and/or business unit for his/her assigned area(s) of responsibility.
+Provides expertise to team members and applicable internal/external stakeholders on complex assignments/projects for his/her assigned area(s) of responsibility.
+Assists on complex assignments, projects, and/or initiatives to build and enhance the capability of his/her assigned area(s) of responsibility.
+Coordinate and release management activities the functions of (continuous integration/continuous delivery) Pipeline and is responsible in creating and maintaining automated CICD build and release pipelines using GitLab DevOps.
+
+
+What we’re looking for
+
+
+4 Year/bachelor’s degree or equivalent work experience (4 years of experience in lieu of Bachelors) _Minimum Required in Computer Science, Computer Information Systems, Information Systems, Information Technology or Computer Engineering or equivalent work experience.
+3+ years developing data movement and engineering applications and worked on integrating disparate systems using batch ETL/API following SDLC and/or Agile methodologies.
+3+ years of experience working on various AWS Cloud services as Data Engineer experience.
+3+ years of experience in creating complex technical specifications from business requirements/specifications.
+2+ years of experience in scheduling jobs using Autosys (or comparable distributed scheduler like Stonebranch)
+Strong understanding of data architecture principles, methodologies, and best practices.
+Proficiency in relational database management systems, particularly AWS RDS and Postgres.
+Experience with data integration technologies and ETL tools a plus
+In-depth knowledge of AWS data services such as AWS Redshift, AWS Athena, AWS S3 and AWS Lambda a plus
+Experience in writing cloud formation templates and build IAM roles and policies.
+Understanding of data governance frameworks, data quality management, and data security practices.
+Strong analytical, problem-solving, and critical-thinking skills.
+Self-starter and highly motivated individual with strong AWS skills, problem solving skills, attention to detail, and ability to work in a fast-paced environment.
+
+
+Must-haves
+Expert in development of cloud base Data analytics solution, adoption cloud architecture, engineering, modeling, enterprise data platforms, based on Event-driven architecture, Microservices Pattern or serverless pattern implementations.
+AWS Glue/ Python/ Cloud Database development experience
+Rest API development experience
+Moderate to senior database knowledge (PostgreSQL, Redshift)
+Effective communication skills of complex solutions to technical and non-technical audience
+Solid understanding of DevOps processes and best practices.
+Knowledge of source control (Git or similar).
+Knowledge of Liquibase deployment patterns.
+Knowledge of MuleSoft API is plus.
+Knowledge of Salesforce CRM is plus.
+Knowledge of MicroStrategy or other BI reporting is plus.
+Knowledge of Master Data Management (MDM)
+
+
+
+Nice-to-haves
+Knowledge of insurance, financial systems/products Life Insurance, Annuity and 401k/ 403K
+AWS Developer or Architect or Specialty Certification (Active certifications)
+
+
+#DICE
+
+
+What’s it like to work here?
+At Lincoln Financial Group, we love what we do. We make meaningful contributions each and every day to empower our customers to take charge of their lives. Working alongside dedicated and talented colleagues, we build fulfilling careers and stronger communities through a company that values our unique perspectives, insights and contributions and invests in programs that empower each of us to take charge of our own future.
+
+
+What’s in it for YOU:
+A clearly defined career framework to help you successfully manage your career
+Leadership development and virtual training opportunities
+PTO/parental leave
+Competitive 401K and employee benefits
+Free financial counseling, health coaching and employee assistance program
+Tuition assistance program
+A leadership team that prioritizes your health and well-being; offering a remote work environment and flexible work hybrid situations
+Effective productivity/technology tools and training
+
+
+Pay Range: $87,700 - $155,000
+
+
+Actual base pay could vary based on non-discriminatory factors including but not limited to work experience, education, location, licensure requirements, proficiency and qualifications required for the role. The base pay is just one component of Lincoln’s total rewards package for employees. In addition, the role may be eligible for the Annual Incentive Program, which is discretionary and based on the performance of the company, business unit and individual. Other rewards may include long-term incentives, sales incentives and Lincoln’s standard benefits package.
+
+
+About The Company
+Lincoln Financial Group helps people to plan, protect and retire with confidence. As of Dec. 31, 2022, approximately 16 million customers trust our guidance and solutions across four core businesses – annuities, life insurance, group protection and retirement plan services. As of September 30, 2023, the company had $290 billion in end-of-period account balances, net of reinsurance. Headquartered in Radnor, Pa., Lincoln Financial Group is the marketing name for Lincoln National Corporation (NYSE: LNC) and its affiliates. Learn more at LincolnFinancial.com.
+
+
+Lincoln is committed to creating a diverse and inclusive environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.
+
+
+Follow us on Facebook, Twitter, LinkedIn, and Instagram.
+
+
+Be Aware of Fraudulent Recruiting Activities
+If you are interested in a career at Lincoln, we encourage you to review our current openings and apply on our website. Lincoln values the privacy and security of every applicant and urges all applicants to diligently protect their sensitive personal information from scams targeting job seekers. These scams can take many forms including fake employment applications, bogus interviews and falsified offer letters.
+Lincoln will not ask applicants to provide their social security numbers, date of birth, bank account information or other sensitive information in job applications. Additionally, our recruiters do not communicate with applicants through free e-mail accounts (Gmail, Yahoo, Hotmail) or conduct interviews utilizing video chat rooms. We will never ask applicants to provide payment during the hiring process or extend an offer without conducting a phone, live video or in-person interview. Please contact Lincoln's fraud team at fraudhotline@lfg.com if you encounter a recruiter or see a job opportunity that seems suspicious.
+
+
+Additional Information
+This position may be subject to Lincoln’s Political Contribution Policy. An offer of employment may be contingent upon disclosing to Lincoln the details of certain political contributions. Lincoln may decline to extend an offer or terminate employment for this role if it determines political contributions made could have an adverse impact on Lincoln’s current or future business interests, misrepresentations were made, or for failure to fully disclose applicable political contributions and or fundraising activities.
+
+
+Any unsolicited resumes/candidate profiles submitted through our web site or to personal e-mail accounts of employees of Lincoln Financial Group are considered property of Lincoln Financial Group and are not subject to payment of agency fees.
+
+
+Lincoln Financial Group (“LFG”) is an Equal Opportunity employer and, as such, is committed in policy and practice to recruit, hire, compensate, train and promote, in all job classifications, without regard to race, color, religion, sex (including pregnancy), age, national origin, disability, sexual orientation, gender identity and expression, Veteran status, or genetic information. Applicants are evaluated on the basis of job qualifications. If you are a person with a disability that impedes your ability to express your interest for a position through our online application process, or require TTY/TDD assistance, contact us by calling 260-455-2558.",1905,Insurance Carriers,$10+ billion (USD),Insurance,10000+ Employees,Company - Public,False
+Data Engineer- 5050306,"Accenture
+","Philadelphia, PA",-1,3.9,"Accenture Flex offers you the flexibility of local fixed-duration project-based work powered by Accenture, a leading global professional services company. Accenture is consistently recognized on FORTUNE's 100 Best Companies to Work For and Diversity Inc's Top 50 Companies For Diversity lists.
+
+As an Accenture Flex employee, you will apply your skills and experience to help drive business transformation for leading organizations and communities. In addition to delivering innovative solutions for Accenture's clients, you will work with a highly skilled, diverse network of people across Accenture businesses who are using the latest emerging technologies to address today's biggest business challenges.
+
+You will receive competitive rewards and access to benefits programs and world-class learning resources. Accenture Flex employees work in their local metro area onsite at the project, significantly reducing and/or eliminating the demands to travel.
+
+Utilize strong SQL Python skills to engineer sound data pipelines and conduct routine and ad hoc analysis to assess the performance of legacy products and the saliency of new features.
+
+Build reporting dashboards and visualizations to design, create and track campaign program KPIs.
+
+Perform analyses on large data sets to understand drivers of operational efficiency.
+
+Manage end to end process of analytic tooling feature development, including request intake, requirements evaluation, cross functional team alignment, feature execution, QA testing, and stakeholder communication.
+
+Consult with business analysts, technical data SMEs, and cross functional partners to understand their reporting and data needs, serving as the point of contact for requests, inquiries, and actions.
+
+Interface with other data engineering, product, and data science teams to implement client needs and initiatives.
+
+
+
+
+Basic Qualifications:
+
+Minimum 2 years experience with Python.
+
+Minimum 3 years experience SQL.
+
+Minimum 3 years experience Big Data Analytics.
+
+High School Diploma or GED.
+
+Preferred Qualifications:
+
+Experience with large enterprise data sets.
+
+Bachelors Degree
+
+Compensation at Accenture varies depending on a wide array of factors, which may include but are not limited to the specific office location, role, skill set and level of experience. As required by local law, Accenture provides a reasonable range of compensation for roles that may be hired in California, Colorado, New York, or Washington as set forth below.
+
+Information on benefits is here.
+
+Role Location
+
+California: $61.53 to $71.53/hour
+
+Colorado: $61.53 to $71.53/hour
+
+New York: $61.53 to $71.53/hour
+
+Washington: $61.53 to $71.53/hour
+
+
+What We Believe
+
+
+We have an unwavering commitment to diversity with the aim that every one of our people has a full sense of belonging within our organization. As a business imperative, every person at Accenture has the responsibility to create and sustain an inclusive environment.
+
+
+Inclusion and diversity are fundamental to our culture and core values. Our rich diversity makes us more innovative and more creative, which helps us better serve our clients and our communities. Read more here
+
+
+Equal Employment Opportunity Statement
+
+
+Accenture is an Equal Opportunity Employer. We believe that no one should be discriminated against because of their differences, such as age, disability, ethnicity, gender, gender identity and expression, religion or sexual orientation.
+
+
+All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law.
+
+
+Accenture is committed to providing veteran employment opportunities to our service men and women.
+
+
+For details, view a copy of the Accenture Equal Employment Opportunity and Affirmative Action Policy Statement.
+
+
+Requesting An Accommodation
+
+
+Accenture is committed to providing equal employment opportunities for persons with disabilities or religious observances, including reasonable accommodation when needed. If you are hired by Accenture and require accommodation to perform the essential functions of your role, you will be asked to participate in our reasonable accommodation process. Accommodations made to facilitate the recruiting process are not a guarantee of future or continued accommodations once hired.
+
+
+If you would like to be considered for employment opportunities with Accenture and have accommodation needs for a disability or religious observance, please call us toll free at 1 (877) 889-9009, send us an email or speak with your recruiter.
+
+
+Other Employment Statements
+
+
+Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States.
+
+
+Candidates who are currently employed by a client of Accenture or an affiliated Accenture business may not be eligible for consideration.
+
+
+Job candidates will not be obligated to disclose sealed or expunged records of conviction or arrest as part of the hiring process.
+
+
+The Company will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. Additionally, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the Company's legal duty to furnish information.",1989,Business Consulting,$10+ billion (USD),Management & Consulting,10000+ Employees,Company - Public,False
+Lead Data Engineer - 90367688 - Philadelphia,"Amtrak
+","Philadelphia, PA",$76K - $117K (Glassdoor est.),3.4,"Your success is a train ride away!
+
+As we move America’s workforce toward the future, Amtrak connects businesses and communities across the country. We employ more than 20,000 diverse, energetic professionals in a variety of career fields throughout the United States. The safety of our passengers, our employees, the public and our operating environment is our priority, and the success of our railroad is due to our employees.
+
+
+Are you ready to join our team?
+
+Our values of ‘Do the Right Thing, Excel Together and Put Customers First’ are at the heart of what matters most to us, and our Core Capabilities, ‘Building Trust, Accountability, Effective Communication, Customer Focus, and Proactive Safety & Security’ are what every employee needs to know and do to be most impactful at Amtrak. By living the Amtrak values, focusing on our capabilities, and actively embracing and fostering diverse ideas, backgrounds, and perspectives, together we will honor our past and make Amtrak a company of the future.
+
+
+SUMMARY OF DUTIES:
+The Lead Data Engineer is responsible for supporting the collection, gathering, and analysis of asset data captured by Amtrak’s Enterprise Asset Management (EAM) system, Enterprise GeoSpatial (GIS) system, the Track Geometry Car and Data Lake, and Amtrak’s Enterprise Data Warehouse. The Lead Data Engineer identifies additional data points required for predictive analytics that are not yet collected to assist IMCS Division Maintenance and Production and the Engineering Disciplines in enhancing their data collection processes. The Lead Data Engineer works to build data pipelines that enable better quality data collection and analysis, working with non-typical sources and helping develop parameters for standardization of the extract, transfer, and load process that considers the nuances of the existing data infrastructure. The Lead Data Engineer’s work allows IMCS to proactively plan infrastructure maintenance activities—reducing asset downtime, extending equipment life, and optimizing system performance—reducing the overall cost of asset management.
+
+
+ESSENTIAL FUNCTIONS:
+
+Lead development of pipelines for data collection and storage to be used in assessment of asset condition, useful life, and predictive failure models.
+Identify new data points that would be useful in enhancing predictive analytics models.
+Automate calculations and analysis used for asset assessment.
+Integrate asset and maintenance information, data collection, and history through Amtrak’s EAM system and make it available to those who need it for decision making. The format of the data must be suitable for the audience, i.e., field technicians will need more granularity than executive management.
+Work with all levels of IMCS management to identify and thoroughly understand the Department’s work and asset management needs and ensure data collection and analytics are in alignment with those needs.
+Gather requirements, analyzing data sets and ensuring delivery of reporting to support strategic decision-making.
+Administer a governance model for identifying, approving, and managing requests for data tools and reporting.
+Lead ongoing quality control activities for data systems and interfaces and develop quality assurance processes to drive continuous improvement in use of predictive analytics to support infrastructure asset management.
+
+
+MINIMUM QUALIFICATIONS:
+
+Bachelor Degree in Statistics, Computer Science, Data Analytics, or related field, or the equivalent combination of education, training and/or experience with a minimum of 6 years’ experience.
+In lieu of education, a minimum of 10 years of relevant work experience, or equivalent combination of education, training, and work experience.
+Must have five years (5) experience in data engineering roles, preferably with infrastructure, transportation, or railroad industries.
+Demonstrated skill and experience manipulating and analyzing data utilizing advanced Structured Query Language (SQL) patterns, R or Python-Statistical Programming.
+Experienced with statistical analysis, building statistical models, and machine learning.
+Ability to navigate new data domains quickly, understand the underlying business problems, and take appropriate actions to ensure data access and availability.
+Ability to effectively communicate with all levels of technological experience, including field and staff with no prior experience in using computer and mobile systems, to enable them to make the best use of data.
+
+
+MINIMUM KNOWLEDGE, SKILLS AND ABILITIES:
+
+Highly developed organizational and issue management and resolution activities.
+Demonstrated ability work as part of a team and independently, and build rapport with co-workers, managers, and supervisors.
+Demonstrated ability to apply strong analytical skills.
+Working knowledge of database and data warehouse design.
+
+
+PREFERRED QUALIFICATIONS:
+
+Advanced Degree in Data Science, Mathematics, Computer Science, Engineering, or Technology management with a minimum of 8 years of experience.
+In lieu of education, a minimum of 12 years of relevant work experience, or equivalent combination of education, training, and work experience.
+Experience with object-oriented programming and developing applications
+Understanding of railroad infrastructure asset management and use of predictive analytics for asset management decision making.
+Working knowledge of asset management systems and Geospatial Information Systems (GIS).
+
+
+WORK ENVIRONMENT:
+
+Office and field work environment.
+Travel up to 20%.
+Travel to other Amtrak offices and right-of-way sites that are not accessible by train travel.
+
+
+COMMUNICATIONS AND INTERPERSONAL SKILLS:
+Must have excellent oral and written communication skills.
+
+
+The salary/hourly range is $103, 700 - $124,500 Pay is based on several factors including but not limited to education, work experience, certifications, internal equity, etc. Depending on an employee’s assigned worksite or location, Amtrak may consider a geo-pay differential to be applied to the employee’s base salary. Amtrak may offer additional incentive and pay programs to recognize and reward our employees, including a short-term incentive bonus based upon factors such as individual and company performance that is commensurate with the level of the position and/or long-term incentive plan compensation. In addition to your salary, Amtrak offers a comprehensive benefit package that includes health, dental, and vision plans; health savings accounts; wellness programs; flexible spending accounts; 401K retirement plan with employer match; life insurance; short and long term disability insurance; paid time off; back-up care; adoption assistance; surrogacy assistance; reimbursement of education expenses; Public Service Loan Forgiveness eligibility; Railroad Retirement sickness and retirement benefits; and rail pass privileges. Learn more about our benefits offerings here.
+
+Requisition ID:160192
+Posting Location(s):Pennsylvania
+Job Family/Function:Engineering
+Relocation Offered:No
+Travel Requirements:Up to 25%
+
+
+You power our progress through your performance.
+
+
+We want your work at Amtrak to be more than a job. We want your career at Amtrak to be a fulfilling experience where you find challenging work, rewarding opportunities, respect among colleagues, and attractive compensation. Amtrak maintains a culture that values high performance and recognizes individual employee contributions.
+
+
+Amtrak is committed to a safe workplace free of drugs and alcohol. All Amtrak positions requires a pre-employment background check that includes prior employment verification, a criminal history check and a pre-employment drug screen.
+
+Candidates who test positive for marijuana will be disqualified, regardless of any state or local statute, ordinance, regulation, or other law that legalizes or decriminalizes the use or possession of marijuana, whether for medical, recreational, or other use. Amtrak's pre-employment drug testing program is administered in accordance with DOT regulations and applicable law.
+
+
+In accordance with DOT regulations (49 CFR § 40.25), Amtrak is required to obtain prior drug and alcohol testing records for applicants/employees intending to perform safety-sensitive duties for covered Department of Transportation positions. If an applicant/employee refuses to provide written consent for Amtrak to obtain these records, the individual will not be permitted to perform safety-sensitive functions.
+
+
+In accordance with federal law governing security checks of covered individuals for providers of public transportation (Title 6 U.S.C. §1143), Amtrak is required to screen applicants for any permanent or interim disqualifying criminal offenses.
+
+
+Note that any education requirement listed above may be deemed satisfied if you have an equivalent combination of education, training and experience.
+
+
+Amtrak is an EOE/Affirmative Action Minority/Female employer, and we welcome all to apply. We consider candidates regardless of race/color, religion, sex (including pregnancy, childbirth and related conditions), national origin/ethnicity, age, disability (intellectual, mental and physical), veteran status, marital status, ancestry, sexual orientation, gender identity and gender expression, genetic information, citizenship or any other personal characteristics protected by law.",1971,Taxi & Car Services,$1 to $5 billion (USD),Transportation & Logistics,10000+ Employees,Self-employed,False
+AWS Data Engineer III,"Credorax
+","Center Valley, PA",$79K - $113K (Glassdoor est.),4.5,"Overview
+Shift4 (NYSE: FOUR) is boldly redefining commerce by simplifying complex payments ecosystems across the world. As the leader in commerce-enabling technology, Shift4 powers billions of transactions annually for hundreds of thousands of businesses in virtually every industry. For more information, visit www.shift4.com.
+Job # 3997
+We are looking for an AWS Engineer to join our team of world-class in-house engineers. As an AWS Engineer II, you will be responsible for designing, developing, and maintaining robust data infrastructure solutions to support the organization's data-driven initiatives. We are looking for self-driven and motivated individuals who take ownership of their projects. You will work closely with cross-functional teams, including project managers, business analysts, and software engineers, to ensure the availability, reliability, and scalability of our systems. This role requires expertise in AWS data engineering. We are looking for individuals that are extremely self-sufficient, available to work flexible hours and hold themselves to the highest standards of professionalism.
+Develop and maintain automated data pipelines and ETL processes to ingest, transform, and load large volumes of data from diverse sources into relational databases utilizing AWS architecture, S3, Glue, Lamba, Step Functions, RDS, Kinesis, DMS, Redshift, PostgreSQL, and other database technologies to move data.
+Ensure the quality, integrity, and security of data by implementing data validation, data cleansing, and data governance processes.
+Work on necessary new system developments, enhancements and bugs utilizing an agile software development lifecycle (SDLC).
+Optimize and fine-tune data processes and systems for performance, scalability, and reliability.
+Monitor and troubleshoot data pipelines, data processing jobs, and database performance issues including off hours support when necessary.
+Stay up-to-date with emerging data engineering technologies, tools, and best practices, and recommend improvements to existing data infrastructure.
+Collaborate with software engineers to integrate data engineering solutions into applications and software products.
+Document data engineering processes, data models, and system configurations for knowledge sharing and future reference.
+Qualifications:
+
+
+Bachelor's or Master's degree in Computer Science, Information Systems, or a related field.
+Minimum 5 years of professional experience in AWS data development or a related field.
+Advanced experience working with AWS: S3, Glue, Lamba, Step Functions, RDS, Kinesis, DMS, Redshift.
+Advanced experience working with various data sources such as AWS S3 and Redshift, Postgres, SQL Server, Amazon Athena, Excel, Flat Files, etc.
+Advanced experience working with large data sets from sources such as AWS S3 and Redshift, Postgres, SQL Server, etc.
+Strong PySpark, Python, CLI proficiency.
+Advanced experience with relational databases like MSSQL, PostgreSQL, or AWS Redshift.
+Strong problem-solving and analytical skills, with a keen attention to detail.
+Experience working with an Enterprise Data Warehouse and Dimensional Databases is a plus.
+Experience working in an agile software development lifecycle (SDLC).
+Experience with Jira and Confluence is a plus.
+Ability to prioritize multiple tasks and easily adjust to changing priorities.
+Ability to identify problems, initiate solutions, and effectively collaborate and communicate with team members.
+Have excellent verbal and written communication skills.
+
+
+We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity and/or expression, status as a veteran, and basis of disability or any other federal, state or local protected class.",2007,Financial Transaction Processing,$5 to $25 million (USD),Financial Services,201 to 500 Employees,Company - Private,False
+Data Engineer,"Audacy, Inc.
+","Philadelphia, PA",$69K - $99K (Glassdoor est.),3.1,"Overview:
+The Audacy Data Engineering team is looking for the right person to join us. At Audacy, you’ll contribute to our growing data warehouse engineering efforts. You’ll have a chance to focus in areas you’re already skilled and take on new challenges over time. Our distributed team has a fun and inclusive environment with a commitment to work life balance.
+
+We are data engineers and we understand what data engineers need. We’ll provide you with a work environment where collaboration is encouraged but you’re not bombarded with superfluous interruptions.. We work in modern agile feature teams that self-organize and work together to build great data solutions. You’ll have the opportunity to contribute to new ideas, learn new technologies, and architect new features. We have fun doing what we do, and you will too.
+
+
+Responsibilities:
+
+What You'll Do:
+
+Designing and developing enterprise level data solutions using Snowflake and AWS tools
+Design, build and deploy scalable streaming and batch data pipelines capable of processing and storing petabytes of data quickly and reliably
+Partnering with product teams, data analysts and data scientists to help design and build data-forward solutions
+Build, maintain, and optimize data infrastructure including dimensional data warehouses in support of business intelligence and optimization product tools
+Build, maintain, and optimize data between data warehouse zones
+Optimize data workflows for speed and efficiency
+Build and maintain foundational semantic level data products for and from our consumption zone for business domain teams use
+Develop data catalogs and data validations to ensure clarity and correctness of key business metrics
+Contributing to technical documentation and overall team culture using your awesome verbal and written communication skills
+Qualifications:
+
+More About You:
+
+
+Required & Preferred:
+
+You possess strong experience with relational data warehouses, Snowflake DB and data models of all kinds
+You are exceptionally skilled at building ETL’s and pipelines using Python and other data services like Airflow and AWS Glue
+You have a solid understanding of cloud technologies and particularly AWS features like S3 policies, IAM, ARN, and EC2
+You understand the difference between a row based storage db like Postgress or MySQL and a columnar database like Snowflake, BigQuery, or Singlestore
+You are strong in understanding data quality issues and have used tools to validate, cleanse, and standardize data, developing data quality frameworks, metrics, and standards
+You take ownership of the data under your purview, and always consider privacy and security first
+You work well with competing tasks, and if things change, you pivot quickly and execute smoothly
+You are strong in documenting data processes, workflows and system changes
+If you have experience in the radio broadcast, streaming, or ad tech industry, that’s a plus
+Degree in Computer Science or related field, or equivalent practical experience
+3+ years of enterprise or related experience
+Additional Information:
+This position will be based in Philadelphia PA, or Remote in the United States.
+About Us:
+Audacy, Inc. (NYSE: AUD; OTC: AUDA) is a leading multi-platform audio content and entertainment company with the country’s best collection of local music, news and sports brands, a premium podcast creator, major event producer, and digital innovator. Audacy engages 200 million consumers each month, bringing people together around content that matters to them. Learn more at www.audacyinc.com, Facebook (Audacy Corp), X (@AudacyCorp), LinkedIn (@Audacy-Inc), Instagram (@lifeataudacy) and Threads (@Audacy_Corp).
+EEO:
+Audacy is an Equal Opportunity and Affirmative Action Employer. Audacy affords equal employment opportunity to qualified individuals regardless of their race, color, religion or religious creed, sex/ gender (including pregnancy, childbirth, breastfeeding, or related medical conditions), sexual orientation, gender identity, gender expression, national origin, ancestry, age (over 40), physical or mental disability, medical condition, genetic information, marital status, military or veteran status, or other classification protected by applicable federal, state, or local law, and to comply with all applicable laws and regulations. Consistent with our commitment to equal employment opportunity, we provide reasonable accommodations to qualified individuals with disabilities who need assistance in applying electronically for a position with Audacy, unless doing so would impose an undue hardship. To request a reasonable accommodation for this purpose, please call 1-610-660-5614. Please note that this phone number is to be used solely to request an accommodation with respect to the online application process. Calls for any other reason will not be returned. Reasonable accommodation requests are considered on a case-by-case basis.",1968,Broadcast Media,$100 to $500 million (USD),Media & Communication,5001 to 10000 Employees,Company - Public,False
+Senior Telecom Engineer - Data Center - US REMOTE,"Jacobs
+",United States,$116K - $191K (Employer est.),4.0,"Our People & Places Solutions business – reinforces our drive to improve the lives of people everywhere and epitomizes the ""why"" of what we do – the tremendous positive impact and value our solutions bring to our communities and society as a whole. From facilities delivering life-saving therapies and ensuring clean water to enabling the connection of people through all modes of transportation and providing access to technology – we're integrating a multitude of these solution elements to build the smart environments of tomorrow.
+
+Start your Jacobs career with a company that inspires and empowers you to deliver your best work so you can evolve, grow and succeed – today and into tomorrow.
+
+
+
+Your Impact:
+
+
+At Jacobs, we’re transforming intangible ideas into innovative solutions designing the future – today. If you are someone who thrives in a fast-paced, collaborative work environment and who also enjoys working closely with clients in the Data Center market, this opportunity is for you!
+
+At Jacobs our Telecommunication Engineers work on various projects as assigned by a Department Manager or Lead Engineer. This position will play a role in the entire design process including but not limited to preliminary assessments, concept creation, design, problem resolution, drawing and specification production, and customer and vendor accessibility. The Telecommunication Engineer may work on several concurrent projects and will be considered the technical expert on a specialized design.
+
+As a Senior Telcom Engineer, you’ll provide technical design of systems for building projects including security, fire alarm, voice, data, audio/visual, and other low voltage systems. Responsibilities include preparation of engineering drawings and specifications, conduct site visits, review technical documents, occasional customer contact and integration of Owner specific installation requirements with site specific applications. You will also learn from more senior team leaders and will be mentored.
+
+Jacobs health and welfare benefits are designed to invest in you, and in the things you care about. Your health. Your well-being. Your security. Your future. Eligible employees and their dependents may elect medical, dental, vision, and basic life insurance. Employees are able to enroll in our company’s 401k plan, and if eligible, a deferred compensation plan, and Executive Deferral Plan. We have an unlimited U.S. Personalized Paid Time Off (PPTO) policy for eligible full-time exempt employees, seven paid holidays, one floating holiday, and caregiver leave. Hired applicants will be able to purchase discounted company stock and have the opportunity to receive a performance discretionary bonus.
+
+
+The base salary range for this position is $116400 to $191100. This range reflects the minimum and maximum target for new hire salaries for the position across all US locations [add if remote]. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training.
+
+#DChotjobs
+
+
+
+
+Here’s What You’ll Need:
+
+Technical or Associates Degree from an accredited institution
+Minimum 8 years’ experience actively designing low voltage and communication systems for buildings
+Familiarity and demonstrated knowledge of ANSI/TIA and BICSI standards
+Experience with Revit software
+Self-motivation to coordinate with other disciplines and clients as necessary
+
+Ideally, You'll Also Have:
+
+Credentials as an RCDD or working towards this title
+Electrical Engineering degree, or related
+
+
+
+
+
+At Jacobs, we’re challenging today to reinvent tomorrow by solving the world’s most critical problems for thriving cities, resilient environments, mission-critical outcomes, operational advancement, scientific discovery and cutting-edge manufacturing, turning abstract ideas into realities that transform the world for good. With $15 billion in revenue and a talent force of more than 60,000, Jacobs provides a full spectrum of professional services including consulting, technical, scientific and project delivery for the government and private sector.",1947,Architectural & Engineering Services,$10+ billion (USD),"Construction, Repair & Maintenance Services",10000+ Employees,Company - Public,False
+"Data Center Electrical Engineer, Google Data Centers","Google
+","Indiana, PA",-1,4.4,"Note: Google’s hybrid workplace includes remote roles. By applying to this position you will have an opportunity to share your preferred working location from the following:
+
+Remote locations: Indiana, USA; Michigan, USA; Ohio, USA; Pennsylvania, USA.
+Minimum qualifications:
+Bachelor's degree in Electrical Engineering, Power Engineering, a related technical field, or equivalent practical experience.
+5 years of experience in mission critical facility design and construction.
+
+Experience in design, construction, and commissioning of medium or low voltage electrical distribution systems, AC/DC systems, and associated power management or SCADA tools.
+
+
+Preferred qualifications:
+Professional Engineering (PE) license.
+
+Experience in mission critical facilities and their electrical/mechanical infrastructure.
+
+Experience in Estimating, Electrical design, Operation and Commissioning of substations, switchgear, ATP/ATS, emergency power systems and their control systems, power monitoring, and electrical protection.
+
+About the job
+
+Our thirst for technology is a part of everything we do. The Data Center Engineering team takes the physical design of our data centers into the future. Our lab mirrors a research and development department - cutting-edge strategies are born, tested and tested again. Along with a team of great minds, you take on complex topics like how we use power or how to run state-of-the-art, environmentally-friendly facilities. You're a visionary who optimizes for efficiencies and never stops seeking improvements - even small changes that can make a huge impact. You generate ideas, communicate recommendations to senior-level executives and drive implementation alongside facilities technicians.
+
+With your technical expertise, you ensure compliance with codes and standards, develop infrastructure improvements and serve as an expert in your specialty (e.g., cooling, electrical).
+
+In this role, you will work with electrical and mechanical engineers, provide project design and field engineering services, project implementation, and participation in all phases of a project life-cycle. You will act as the interface between internal customers and the project team. You will be Involved in all the site capital projects from construction to modification of existing infrastructures in participation and preparation of all types of documents including, Statement of Work (SOW), Total Cost of Ownership (TCO) analysis, drawing markups, budget, schedule, final startup/commissioning reports, and review and acceptance of as-builts and review of submittals.
+
+
+Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google's product portfolio possible. We're proud to be our engineers' engineers and love voiding warranties by taking things apart so we can rebuild them. We keep our networks up and running, ensuring our users have the best and fastest experience possible.
+
+The US base salary range for this full-time position is $136,000-$203,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.
+
+Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google.
+
+
+Responsibilities
+Provide technical support to Data Center Services and Operations teams to define electrical system design requirements for multiple data center projects from inception through completion.
+Develop, implement, and manage the data center electrical designs at site starting from basis of design to issued for construction data center services documents for new data center projects build outs, infrastructure upgrades, and renovations.
+Respond to site specific engineering Requests For Information (RFI) in coordination with the Engineer of Record (EOR).
+Collaborate with the core Engineering team to provide site specific requirements during the development of specific Basis of Design (BOD) and coordinate system level schematics with EOR.
+Own and manage site-level power system issues during the project execution phase. Identify and resolve issues with cross-functional teams, maintain all data center related electrical system design requirements and interface documents.
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.",1998,Internet & Web Services,$10+ billion (USD),Information Technology,10000+ Employees,Company - Public,False
+Data Engineer (Talend),"Customers Bank
+","Malvern, PA",$105K - $115K (Employer est.),4.1,"At Customers Bank, we believe in working hard, working smart, working together to deliver memorable customer experiences and having fun. Our vision, mission, and values guide us along our path to achieve excellence. Passion, attitude, creativity, integrity, alignment, and execution are cornerstones of our behaviors. They define who we are as an organization and as individuals. Everyone is encouraged to have personal development plans. By doing so, our team members are on their way to achieve their highest potential and be successful in their personal and professional lives.
+Work Location: Hybrid at the Malvern, PA location coming into the office at least 3-days per week with Monday, Tuesday and Thursday being set days. Also open to Remote on the East Coast
+The expected salary range for this position is $105,000-$115,000. (this is a good faith estimate of what we expect to pay for this position. The final salary will consider experience, accomplishments, and location.
+Who is Customers Bank?
+Founded in 2009, Customers Bank is a super-community bank with over $22 billion in assets. We believe in dedicated personal service for the businesses, professionals, individuals, and families we work with.
+We get you further, faster.
+Focused on you: We provide every customer with a single point of contact. A dedicated team member who’s committed to meeting your needs today and tomorrow.
+On the leading edge: We’re innovating with the latest tools and technology so we can react to market conditions quicker and help you get ahead.
+Proven reliability: We always ground our innovation in out deep experience and strong financial foundation, we we’re a partner you can trust.
+What you’ll do:
+We are seeking a talented and experienced Data Engineer to join our Data Management and Analytics team at Customers Bank. As a data engineer, you will play a critical role in delivering impactful insights to our business stakeholders by developing models, exposing trusted data and solving challenging data problems.
+Responsibilities:
+Develop and maintain stage and integrate data into our Data Warehouse Model through the use of complex SQL code, SQL DBT, and Talend Enterprises.
+Development Based on Guiding standards and principles.
+Monitor ETL jobs to ensure successful completion.
+Determine root cause and resolution of any production support issues.
+Working in an Agile environment and adhering to the focus on prioritized initiatives.
+What do you need?
+5-7 years experience as a data engineer for a data warehouse
+Experienced Creating ETL processes using an ETL tool such as Talend , SSIS, SQL DBT
+Understanding and creating data models.
+Ability to receive requirements and align development with current data models, standards and guiding principles.
+Experience working in an environment that follows an agile development process.
+Snowflake/ Oracle/Python code
+Talend Enterprises
+SQl DBT
+In depth knowledge of data warehousing ETL processes, Data Architecture, and Data modeling
+Experience working with and understanding Banking / Financial services datasets.
+Excellent communication skills to understand requirements and collaborate to understand their needs and translate them into technical requirements.
+Critical thinking and problem-solving skills to develop logically and efficiently and in alignment with best practices and CUBI standards.
+Ability to work on several projects in an agile environment.
+Technology Skills:
+Microsoft Office applications
+Must be legally eligible to work in the US without sponsorship
+Customers Bank is an Equal Opportunity Employer
+Customers Bank is an Equal Opportunity Employer",1997,Banking & Lending,$500 million to $1 billion (USD),Financial Services,501 to 1000 Employees,Company - Public,False
+Data Engineer / Database Administrator (Hybrid),"Medical Guardian LLC
+","Philadelphia, PA",$84K - $123K (Glassdoor est.),4.2,"General Responsibilities:
+
+We are looking for a skilled Data Engineer/Database Administrator to join our Data & Analytics team. The ideal candidate will have a strong background in database administration, data warehousing, SQL programming, experience with dbt (Data Build Tool), and Microsoft SQL Server. Familiarity with ETL tools is essential for integrating and transforming large sets of data. This position plays a crucial role in turning data into actionable insights to drive business decisions.
+
+You will be working in a fast-paced environment and will build and develop an agile business data environment that will advance the business objectives of the company and include the following duties:
+
+Manages all MS SQL databases and database servers.
+Manage and optimize Microsoft SQL Server databases for operational and analytical workloads.
+Perform database administration tasks, including backup, recovery, performance tuning, and user management to ensure high availability and consistent performance.
+Contributes to the initial and ongoing data warehouse architecture.
+Maintains the meta data and documentation process to support the data warehouse.
+Monitors replications jobs, server and databases and ensures optimal performance.
+Collaborate with data scientists, data analysts, and other stakeholders to understand data needs.
+Write complex SQL queries for data transformation and aggregation.
+Develop and maintain dbt models, tests, and transformations to ensure data accuracy and reliability.
+Use ETL tools to move data between systems and build ETL pipelines for analytical and real-time reporting.
+Work closely with the Information Security team to ensure data privacy and compliance standards are met.
+Participate in architectural reviews, code reviews, and other processes aimed at ensuring data quality and application performance.
+Provide technical guidance and mentorship to junior members of the team.
+
+
+Technical Requirements:
+
+Strong proficiency in SQL is essential, with experience writing complex queries, stored procedures, triggers, and performance tuning.
+Hands-on experience with Microsoft SQL Server management, including performance tuning, backup, and recovery. Familiarity with SQL Server Integration Services (SSIS) or Azure Data Factory is a plus.
+Familiarity with conceptual, logical, and physical data modeling techniques.
+Experience with dbt for data modeling, transformation, and version control.
+Experience with version control tools such as Bitbucket for managing codebase and dbt projects.
+Experience with popular ETL tools such as Apache NiFi, Talend, or Informatica for data integration and transformation. Familiarity with building and maintaining ETL pipelines.
+Experience with data visualization tools such as Tableau, Power BI, or Looker is beneficial.
+Strong expertise in data management, analytics, and visualization tools (e.g., SQL, Python, R, Tableau, Power BI, etc.).
+Proficiency in coding and scripting languages, especially for data manipulation and automation tasks (e.g., Python, Java, Scala).
+Ability to leverage analytics to extract actionable insights from complex datasets.
+Experience with cloud platforms like AWS, Azure, or Google Cloud for data storage, processing, and analytics.
+
+
+Education/Experience:
+
+Bachelor’s degree in Computer Science, Engineering, Mathematics, or a related field.
+Minimum of 5 years of experience working in a Data Engineering role.
+Experience in the healthcare and/or retail industry is a plus.
+Excellent verbal communication, written communication, and social interaction skills.
+Experience with working with offshore teams
+
+
+Work Hours and Travel Requirements:
+
+You must be open to assisting in troubleshooting and analysis in the event of off-hours production problems, as needed. The IT Team works in a hybrid environment that requires a minimum of one to two days per week in the Philadelphia office.
+
+
+Founded in 2005, Medical Guardian is a leading provider of innovative medical alert systems that empower people to live a life without limits. A member of the National Aging in Place Council, Medical Guardian is headquartered in Philadelphia and provides support to hundreds of thousands of people across the country who are ready to take on the next chapter of life while remaining safe living in their own home. Whether it is an in-home system or a mobile device with GPS capabilities, Medical Guardian has the personal medical alert device to meet an array of needs and lifestyles. Medical Guardian has been named “Top Workplaces” by the Philadelphia Media Network, “Best Places to Work” by the Philadelphia Business Journal, ranked number 24 in The Philly 100 fastest growing companies, and has made the Inc. 5000 eight years in a row. Here at Medical Guardian, we believe that we are doing more than selling medical alert devices; we are saving lives. Learn more about Medical Guardian by visiting www.medicalguardian.com .",2005,Health Care Services & Hospitals,$100 to $500 million (USD),Healthcare,201 to 500 Employees,Company - Private,True
+5G Data Transport Engineer,"TeleWorld Solutions Inc
+","Philadelphia, PA",$59K - $91K (Glassdoor est.),3.8,"Overview:
+TeleWorld Solutions is seeking a 5G Data Network Trasnport Engineer. This position is on 5G advance operations team responsible for maintaining, restoring, troubleshooting, and performance of the Transport and IP Networking systems for the 5G network. Comcast is looking for a network engineer who has a solid track record of operating ultra-high capacity backbone and data center networks. The role also involves supporting deployment activities for fronthaul and backhaul networks. The candidate will drive outage restoration efforts to support the Comcast 5G NOC. This is also a training and mentoring position to support the various internal teams with daily operations. Candidate will collaborate with internal teams to develop, implement, and support the end-to-end transport and 5G SA core network.
+
+
+Come join our Team. The Company with Great Benefits and recently certified as ""A Great Place To Work""
+Responsibilities:
+Lead the development of operational support processes for Comcast's 5G SA transport networks and data centers
+Develop troubleshooting playbooks for the 5G SA overlay network including cell site backhaul, local aggregation hubs, distributed regional and national data centers for both user and control plane traffic
+Automate daily health checks for all 5G SA network elements and integrate into Comcast standardization
+Troubleshoot and resolve complex technical problems across datacenter-wide environments supporting Comcast 5G network
+Perform maintenance activities of network devices including the restoration of hardware and software
+Working with the Architecture, Design, and Deployment teams, ensure comprehensive understanding of HLDs and LLDs for 5G SA network
+Working with Comcast OSS and BSS teams, ensure connectivity exists with the 5G SA core and other ancillary equipment/functionality
+Working closely with Architecture and Design teams to define and document standards for the Comcast 5G SA Wireless network
+Perform hands-on technical troubleshooting on escalated Network matters
+Create and maintain comprehensive documentation for all implemented networks
+Write functional requirements/specifications documents
+Assess vendor deployment and test strategies
+Develops & Implement ideas, technical and non-technical, in a logical, compelling manner in a written format and verbally in both small and large group settings.
+Creates new processes/procedures to automate the trouble identification, notification, restoration, and documentation processes.
+Qualifications:
+Proven skill Configuring and Troubleshooting Network Infrastructure, Server Hardware, and Operating Systems, and/or data center fabric solutions
+Able to comprehensively understand artifacts (CIQ, Network Diagram, call flow document, descriptors/HelmCharts, Deployment Procedures, MOPs etc.) during debugging/fault isolation.
+Hands-on experience managing network services for a large wireless network.
+Deep technical experience in high availability data center network design including servers, switching, routing, firewalls, load balancing, VPNs, IP address management, DNS, DHCP, authentication, etc.
+At least 5+ years experience in switches, routers, firewalls, wireless access networks.
+Knowledge of IP and Ethernet, performance optimization techniques and methods, and its applications to wireless networks
+Knowledge or professional experience with any of the following: 5G radio features, large-scale system simulators, 5G associated Protocols, DPDK, NETCONF/YANG, FCAPS in 3GPP
+Knowledge of Kubernetes and containerized platforms.
+Knowledge of Open Stack and EMS platforms.
+Knowledge of RAN fronthaul and backhaul dark fiber transport design and delivery requirements including 3rd party fiber agreements.
+Experience in wide area and access networking including fiber, DOCSIS, etc.
+Knowledge of Internet protocols and services including DNS, DHCP, LDAP, SMTP, and HTTP.
+Experience with programming of dynamic scripting languages (Shell, Python, Perl, Bash, Ruby, etc)
+Knowledge of various authentication and authorizations protocols such as SAML, OAuth, Kerberos, 2FA/MFA, OTP/TOTP, WebAuthn, etc.
+Knowledge of security standards related to PKI, SAML, OAuth, OpenID Connect, SCIM, 2FA/MFA and Federated Identity.
+Knowledge of network devices including switches, access points, and radius servers.
+Alarm Monitoring, Fault Identification, Event Tracking, Event Documentation, Fault Escalation & Fault Remediation.
+Ability to thrive in a High Stress environment while working with field technicians, Vendors and Leadership.
+Conveying a strong sense of urgency, responsiveness, follow-through, and successfully managing outcomes are critical to success in this role.
+Timely, Professional response to emails and phone call/s through routine service impacting events.
+Prior experience w/creating and communicating RCA’s (root cause analysis) to Executive Leadership.
+Verify and Correct Method of Procedure (MOP) documentation for activities to be performed in a production environment.
+Ability to grasp higher-level technology issues and troubleshoot to resolution.
+Ability to span departments to assist in resolving network event outages.
+Ability to multitask, meet objectives and solve issues in stressful situations with high speed of completion and high degree of accuracy.
+Ability to quickly learn new tools and systems.
+
+Education
+Bachelor’s degree in Electronics, Computer Engineering, Computer Science, Vocational/Technical Training with 6 years of relevant work experience; or
+Two-year vocational degree in a technical discipline with a minimum of 8 years of equivalent work experience working in a wireless network operations environment; or
+Technical military IT or communications training with a minimum of 8 years of equivalent work experience working in a wireless network operations environment.
+
+Technologies
+
+
+F5 Firewalls
+
+Juniper switches and routes
+
+Dell EMC switches
+
+Dell Computes
+
+Nokia 5G SA products
+
+Samsung RAN products
+
+
+Key Deliverables
+Discover and developing troubleshooting process documents to support 5G SA network
+Developing Change Management documents for 5G SA Core transport
+Supporting Comcast and Vendor teams with Fault and Outage resolutions
+Develop troubleshooting playbooks for the 5G SA overlay network including cell site backhaul, local aggregation hubs, distributed regional and national data centers for both user and control plane traffic
+
+TeleWorld Solutions is an EEO employer and gives consideration to qualified applicants in regard to race, age, religion, sex, sexual orientation, gender identity, national origin, veteran status, pregnancy or genetic information.",2002,Telecommunications Services,$25 to $100 million (USD),Telecommunications,501 to 1000 Employees,Company - Private,False
+Data Engineer (Free Library of Philadelphia),"City of Philadelphia
+","Philadelphia, PA",$75K (Employer est.),3.6,"Company Description
+
+A best-in-class city that attracts best-in-class talent, Philadelphia is an incredible place to build a career. From our thriving arts scene and rich history to our culture of passion and grit, there are countless reasons to love living and working here. With a workforce of over 30,000 people, and more than 1,000 different job categories, the City of Philadelphia offers boundless opportunities to make an impact.
+As an employer, the City of Philadelphia values inclusion, integrity, innovation, empowerment, and hard work above all else. We offer a vibrant work environment, comprehensive health care and benefits, and the experience you need to grow and excel. If you’re interested in working with a passionate team of people who care about the future of Philadelphia, start here.
+What We Offer:
+
+Impact - The work you do here matters to millions.
+Growth - Philadelphia is growing, why not grow with it?
+Diversity & Inclusion - Find a career in a place where everyone belongs.
+Benefits - We care about your well-being.
+
+
+The Office of Innovation & Technology (OIT) is the central IT agency for the City of Philadelphia headed by the Chief Information Officer (CIO). OIT oversees all major information and communications technology initiatives for the City of Philadelphia - increasing the effectiveness of the information technology infrastructure, where the services provided are advanced, optimized, and responsive to the needs of the City of Philadelphia’s businesses, residents, and visitors. OIT responsibilities include: identifying the most effective approach for implementing new information technology directions throughout city government; improving the value of the city’s technology assets and the return on the city’s technology investments; ensuring data security continuity; planning for continuing operations in the event of disruption of information technology or communications services; and supporting accountable, efficient and effective government across every city department, board, commission and agency.
+
+The Free Library of Philadelphia (FLP) is one of the largest public library systems in the world. As an important cornerstone of the Philadelphia community, FLP has a mission to advance literacy, guide learning, and inspire curiosity. The long-term vision of the FLP is to build an enlightened community devoted to lifelong learning. For over 100 years, the FLP has championed education in and out of the classroom, providing no cost resources for literacy and learning.
+
+
+
+Job Description
+
+
+The Free Library of Philadelphia is looking for an experienced Data Engineer to join the Research & Data Analytics group. The Data Engineer will be responsible for designing, developing, and maintaining data architecture and infrastructure that enable efficient collection, storage, and analysis of data to support Performance Management objectives.
+The Data Engineer will work closely with data scientists, analysts, and other team members to ensure that data is available, reliable, and ready for analysis. Expertise in data pipelines, ETL (Extract, Transform, Load) processes, and data warehousing will be essential in this role.
+Beyond being a key asset to enterprise integration and open data initiatives, the Data Engineer will help develop and support the creation of Open Data initiatives for the Free Library’s data sharing objectives by integrating appropriate City, state, and federal datasets.
+
+
+Essential Functions
+
+Design, build, and maintain data pipelines to automate extraction, transformation, and loading of data from diverse sources.
+Develop and maintain data models that support Performance Management objectives, including designing schema structures, data dictionaries, and defining relationships.
+Integrate data from multiple sources, such as databases, APIs, logs, and third-party data providers, into a unified and accessible format.
+Develop and optimize ETL processes to ensure data quality, consistency, and availability. Handle data cleansing, enrichment, and transformation as needed.
+Maintain and optimize data warehousing solutions (e.g., SQL databases, NoSQL databases) to ensure efficient data storage and availability.
+Monitor and fine-tune data pipelines and database systems for optimal performance, scalability, and reliability.
+Implement data security and privacy measures to protect sensitive information, ensure compliance with appropriate data safety regulations, and establish access controls.
+Create and maintain documentation for data engineering processes, data models, and data flow diagrams to facilitate understanding and collaboration.
+Collaborate with data analysts, software engineers, and FLP Leadership to understand data requirements and provide support for data-driven decision making.
+Implement data governance practices, including data lineage, metadata management, and data cataloging.
+
+Competencies, Knowledge, Skills and Abilities
+
+Required:
+
+Proficiency in programming languages (R, Python) and database query languages (SQL).
+Knowledge of ETL tools and data integration techniques.
+Experience with data warehousing solutions.
+Familiarity with big data technologies (Hadoop, Spark) is a plus.
+Experience with Linux server administration.
+Strong problem-solving skills and attention to detail.
+Excellent communication and collaboration skills.
+Preferred:
+
+Experience with cloud platforms (e.g., AWS, Azure, Google Cloud).
+Experience handling regulatory requirements related to PII.
+Knowledge of containerization and orchestration tools (e.g., Docker, Kubernetes).
+Understanding of data streaming technologies (e.g., Kafka, Apache Flink).
+Familiarity with data governance and data cataloging tools.
+
+
+Qualifications
+
+Bachelor's or higher degree in Computer Science, Information Technology, Information Science, or a related field.
+3 years experience as a Data Engineer or similar role.
+
+Additional Information
+
+
+Salary Range: $75,000 ‐ $85,000
+
+Starting salary to be determined based on experience and qualifications.
+
+
+Important: To apply, candidates must provide a cover letter and a resume.
+
+
+Discover the Perks of Being a City of Philadelphia Employee:
+
+We offer Comprehensive health coverage for employees and their eligible dependents
+Our wellness program offers eligibility into the discounted medical plan
+Employees receive paid vacation, sick leave, and holidays
+Generous retirement savings options are available
+Pay off your student loans faster - As a qualifying employer, City of Philadelphia employees are eligible to participate in the Public Service Loan Forgiveness program. Join the ranks of hundreds of employees who have already benefited from this program and achieved student loan forgiveness.
+Enjoy a Free Commute on SEPTA - Starting September 1, 2023, eligible City employees will no longer have to worry about paying for SEPTA public transportation. Whether you're a full-time, part-time, or provisional employee, you can seize the opportunity to sign up for the SEPTA Key Advantage Program and receive free Key cards for free rides on SEPTA buses, trains, trolleys, and regional rails.
+Unlock Tuition Discounts and Scholarships - The City of Philadelphia has forged partnerships with over a dozen esteemed colleges and universities in the area, ensuring that our employees have access to a wide range of tuition discounts and scholarships. Experience savings of 10% to 40% on your educational expenses, extending not only to City employees but in some cases, spouse and dependents too!
+Join the City of Philadelphia team today and seize these incredible benefits designed to enhance your financial well-being and personal growth!
+The successful candidate must be a city of Philadelphia resident within six months of hire
+
+Effective May 22, 2023, vaccinations are no longer required for new employees that work in non-medical, non-emergency or patient facing positions with the City of Philadelphia. As a result, only employees in positions providing services that are patient-facing medical care (ex: Nurses, doctors, emergency medical personnel), must be fully vaccinated.
+
+The City of Philadelphia is an Equal Opportunity employer and does not permit discrimination based on race, ethnicity, color, sex, sexual orientation, gender identity, religion, national origin, ancestry, age, disability, marital status, source of income, familial status, genetic information or domestic or sexual violence victim status. If you believe you were discriminated against, call the Philadelphia Commission on Human Relations at 215-686-4670 or send an email to faqpchr@phila.gov.",1682,Municipal Agencies,Unknown / Non-Applicable,Government & Public Administration,10000+ Employees,Government,False
+Senior Data Engineer,"GSK
+","Collegeville, PA",$99K - $135K (Glassdoor est.),4.1,"Site Name: USA - Pennsylvania - Upper Providence
+Posted Date: Nov 21 2023
+
+
+The Scientific Digital and Tech organization part of R&D Digital & Tech is an integrated family that powers the GSK R&D discovery, manufacture, and supply of new medicines and vaccines to patients. It focuses on optimizing CMC, informing Vaccine and Medicine design, and delivering a modern laboratory experience.
+
+Scientific Data Engineering is a new organization responsible for enterprise data and architecture, providing thought process and architecture services for all aspects of data across the Scientific area. This includes the use of, and augmentation to, the two GSK data platforms on GCP and Azure, design and creation of data pipelines to surface data as a “product” in a data Mesh architecture across two platforms.
+
+We are looking for a highly skilled and experienced Senior Data Engineer to join our growing CMC Data Engineering team. This software practitioner will work with a team of talented data engineers focused on building data as products following data mesh architecture for CMC. They will drive scale and automation by providing expert technical skills and implementing cloud-based data ingestion and processing patterns i.e., ‘end to end data workflows’ to address specific ‘data as a product’ requirements. This team would partner closely with the Platforms and Data Architecture and Domain functions.
+
+The Senior Data Engineer will contribute to the design, development, testing and release of pipelines, workflows, microservices, within a well-defined architecture and detailed specification. They will carry out common maintenance and support tasks on existing data services.
+
+This role will provide YOU the opportunity to lead key activities to progress YOUR career, these responsibilities include some of the following…
+
+Using Azure cloud services and GSK data platform tools to ingest, egress, and transform data from multiple sources.
+Optimize the design and execution of complex solutions in data ingestion and data transformation.
+Produces well-engineered software, including appropriate automated test suites, technical documentation, and operational strategy
+Provides input into the roadmaps of upstream teams (e.g., Data Platforms, DataOps, DevOps) to help improve the overall program of work
+Ensure consistent application of platform capabilities to ensure quality and consistency concerning logging and lineage
+Fully versed in coding best practices and ways of working, and participates in code reviews and partnering to improve the team’s standards
+Adhere to QMS framework, Security & Regulatory Standards, and CI/CD best practices and helps to guide improvements to them that improve ways of working
+Provide mentoring to team members to help others get the job done right.
+Guiding engineering teams in the adoption and creation of data Mesh best practices.
+Maintains best practices for engineering and architecture on our Confluence site.
+Engage in experimentation and innovation to drive relentless improvement.
+
+Why you?
+
+Basic Qualifications:
+
+We are looking for professionals with these required skills to achieve our goals:
+
+Bachelor’s Degree in Computer Science
+4+ years of experience in data engineering
+3+ years’ experience with MS Azure Cloud
+2+ years’ experience with Python
+
+Preferred Qualifications:
+
+If you have the following characteristics, it would be a plus:
+
+MS in computer science
+Hands-on experience with Azure Data Analytics services e.g., ADLS, Azure Data Factory, Azure Databricks, Purview, Azure Synapse, etc.
+Data Platforms and Domain-driven design.
+Agile, DevOps & Automation [of testing, build, deployment, CI/CD, etc.]
+Data analytics & data quality/integrity
+Testing strategies & frameworks
+Good knowledge of various software paradigms: domain-driven, procedural, data-driven, object-oriented, functional
+Familiar with Big Data technologies like Spark, Hadoop.
+Familiar with Java or Scala
+Demonstrable knowledge depth in more than one area of software engineering and technology
+Track record of applying best data and software engineering practices in Pharma CMC and Scientific domains.
+Known for excellent, rigorous software engineering with full stack role including DevOps on a development team
+Experience in applying data curation, virtualization, workflow, and advanced visualization techniques to enable support across multiple products and assets to drive results across R&D business operations.
+Experience in building products with modern Cloud architectures, platforms, and back-end systems
+
+#LI-GSK
+
+Please visit GSK US Benefits Summary to learn more about the comprehensive benefits program GSK offers US employees.
+
+Why Us?
+
+GSK is a global biopharma company with a special purpose – to unite science, technology and talent to get ahead of disease together – so we can positively impact the health of billions of people and deliver stronger, more sustainable shareholder returns – as an organization where people can thrive. Getting ahead means preventing disease as well as treating it, and we aim to positively impact the health of 2.5 billion people by the end of 2030.
+
+Our success absolutely depends on our people. While getting ahead of disease together is about our ambition for patients and shareholders, it’s also about making GSK a place where people can thrive. We want GSK to be a workplace where everyone can feel a sense of belonging and thrive as set out in our Equal and Inclusive Treatment of Employees policy. We’re committed to being more proactive at all levels so that our workforce reflects the communities we work and hire in, and our GSK leadership reflects our GSK workforce.
+
+If you require an accommodation or other assistance to apply for a job at GSK, please contact the GSK Service Centre at 1-877-694-7547 (US Toll Free) or +1 801 567 5155 (outside US).
+
+GSK is an Equal Opportunity Employer and, in the US, we adhere to Affirmative Action principles. This ensures that all qualified applicants will receive equal consideration for employment without regard to race, color, national origin, religion, sex, pregnancy, marital status, sexual orientation, gender identity/expression, age, disability, genetic information, military service, covered/protected veteran status or any other federal, state or local protected class.
+
+Important notice to Employment businesses/ Agencies
+
+GSK does not accept referrals from employment businesses and/or employment agencies in respect of the vacancies posted on this site. All employment businesses/agencies are required to contact GSK's commercial and general procurement/human resources department to obtain prior written authorization before referring any candidates to GSK. The obtaining of prior written authorization is a condition precedent to any agreement (verbal or written) between the employment business/ agency and GSK. In the absence of such written authorization being obtained any actions undertaken by the employment business/agency shall be deemed to have been performed without the consent or contractual agreement of GSK. GSK shall therefore not be liable for any fees arising from such actions or any fees arising from any referrals by employment businesses/agencies in respect of the vacancies posted on this site.
+
+Please note that if you are a US Licensed Healthcare Professional or Healthcare Professional as defined by the laws of the state issuing your license, GSK may be required to capture and report expenses GSK incurs, on your behalf, in the event you are afforded an interview for employment. This capture of applicable transfers of value is necessary to ensure GSK’s compliance to all federal and state US Transparency requirements. For more information, please visit GSK’s Transparency Reporting For the Record site.",1830,Biotech & Pharmaceuticals,$10+ billion (USD),Pharmaceutical & Biotechnology,10000+ Employees,Company - Public,False
+Big data/ ETL Engineer,UNITED IT Incopration SERVICES,"Philadelphia, PA",$83K - $100K (Employer est.),-1.0,"Hi,
+
+Pleasure mailing you. Please go through the below requirement and let me know if you are comfortable for the position.
+
+Please send me your updated resume along with the best hourly rate, work authorization status and availability.
+
+An early response is really appreciated
+
+Title : Big data/ ETL Engineer
+
+Location: Philadelphia, PA (Onsite)
+
+Duration: Long Term
+
+· Proven experience (6+ years) as a data engineer and data scientist, preferably in a fast-paced technology or analytics-driven environment.
+
+· Telecom Domain must.
+
+· Big Data / ETL Development background needed.
+
+· Big Data(Spark,Scala)
+
+· Cloud Technologies - AWS S3, AWS Athena
+
+· SQL - Hive, Teradata, Spark SQL
+
+· Databricks
+
+· Python - DQ
+
+Job Types: Full-time, Contract
+
+Salary: $82,734.51 - $99,637.26 per year
+
+Benefits:
+
+401(k)
+Dental insurance
+Health insurance
+
+Experience level:
+
+10 years
+11+ years
+8 years
+9 years
+
+Schedule:
+
+8 hour shift
+
+Work Location: In person",-1,-1,-1,-1,-1,-1,True
+Data Engineer,"Contact Government Services, LLC
+","Allentown, PA",$78K - $119K (Glassdoor est.),4.7,"Data Engineer
+Employment Type: Full-Time, Mid-level
+Department: Business Intelligence
+CGS is seeking a passionate and driven Data Engineer to support a rapidly growing Data Analytics and Business Intelligence platform focused on providing solutions that empower our federal customers with the tools and capabilities needed to turn data into actionable insights. The ideal candidate is a critical thinker and perpetual learner; excited to gain exposure and build skillsets across a range of technologies while solving some of our clients’ toughest challenges.
+
+CGS brings motivated, highly skilled, and creative people together to solve the government’s most dynamic problems with cutting-edge technology. To carry out our mission, we are seeking candidates who are excited to contribute to government innovation, appreciate collaboration, and can anticipate the needs of others. Here at CGS, we offer an environment in which our employees feel supported, and we encourage professional growth through various learning opportunities.
+Skills and attributes for success:
+Complete development efforts across data pipeline to store, manage, store, and provision to data consumers.
+Being an active and collaborating member of an Agile/Scrum team and following all Agile/Scrum best practices.
+Write code to ensure the performance and reliability of data extraction and processing.
+Support continuous process automation for data ingest.
+Achieve technical excellence by advocating for and adhering to lean-agile engineering principles and practices such as API-first design, simple design, continuous integration, version control, and automated testing.
+Work with program management and engineers to implement and document complex and evolving requirements.
+Help cultivate an environment that promotes customer service excellence, innovation, collaboration, and teamwork.
+Collaborate with others as part of a cross-functional team that includes user experience researchers and designers, product managers, engineers, and other functional specialists.
+
+Qualifications:
+Must be a US Citizen.
+Must be able to obtain a Public Trust Clearance.
+7+ years of IT experience including experience in design, management, and solutioning of large, complex data sets and models.
+Experience with developing data pipelines from many sources from structured and unstructured data sets in a variety of formats.
+Proficiency in developing ETL processes, and performing test and validation steps.
+Proficiency to manipulate data (Python, R, SQL, SAS).
+Strong knowledge of big data analysis and storage tools and technologies.
+Strong understanding of the agile principles and ability to apply them.
+Strong understanding of the CI/CD pipelines and ability to apply them.
+Experience with relational database, such as, PostgreSQL.
+Work comfortably in version control systems, such as, Git Repositories.
+
+Ideally, you will also have:
+Experience creating and consuming APIs.
+Experience with DHS and knowledge of DHS standards a plus.
+Candidates will be given special consideration for extensive experience with Python.
+Ability to develop visualizations utilizing Tableau or PowerBI.
+Experience in developing Shell scripts on Linux.
+Demonstrated experience translating business and technical requirements into comprehensive data strategies and analytic solutions.
+Demonstrated ability to communicate across all levels of the organization and communicate technical terms to non-technical audiences.
+Our Commitment:
+Contact Government Services (CGS) strives to simplify and enhance government bureaucracy through the optimization of human, technical, and financial resources. We combine cutting-edge technology with world-class personnel to deliver customized solutions that fit our client’s specific needs. We are committed to solving the most challenging and dynamic problems.
+
+For the past seven years, we’ve been growing our government-contracting portfolio, and along the way, we’ve created valuable partnerships by demonstrating a commitment to honesty, professionalism, and quality work.
+
+Here at CGS we value honesty through hard work and self-awareness, professionalism in all we do, and to deliver the best quality to our consumers mending those relations for years to come.
+
+We care about our employees. Therefore, we offer a comprehensive benefits package:
+Health, Dental, and Vision
+Life Insurance
+401k
+Flexible Spending Account (Health, Dependent Care, and Commuter)
+Paid Time Off and Observance of State/Federal Holidays
+
+Contact Government Services, LLC is an Equal Opportunity Employer. Applicants will be considered without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+
+Join our team and become part of government innovation!
+
+Explore additional job opportunities with CGS on our Job Board:
+https://cgsfederal.com/join-our-team/
+
+For more information about CGS please visit: https://www.cgsfederal.com or contact:
+Email: info@cgsfederal.com",-1,-1,Unknown / Non-Applicable,-1,1 to 50 Employees,Company - Public,True
+"Senior Software Engineer, Data Science","Motional
+","Pittsburgh, PA",$159K - $207K (Employer est.),4.1,"Mission Summary:
+
+The Metrics Engine team oversees the extraction of data to evaluate the behavior of our av-stack, all the way from devising the metric formulation based on traffic laws, ethics and safety, to extracting the information necessary to compute these metrics from the logs. Beyond evaluating system-level behavior, we also derive metrics to evaluate subsystems that collectively participate to AV system behavior.
+
+As we are outputting a growing amount of metrics at various stages of the development process, our team is looking for a Senior Engineer to analyze the progression of our av-stack performance with respect to those metrics, and surface key trends. This person will get to make reports and recommendations that are of direct interest to many different teams across the organization, including leadership.
+
+The Motional Pittsburgh office is located in the new Hazelwood Green development, a culmination of the city's goal of restoring an economic driver to the neighborhood in a thoughtful, inclusive, and sustainable way. With views along the Monongahela river, the Pittsburgh office is in the heart of this new state of the art development.
+
+What you'll be doing:
+
+Analyze the output of our metric evaluator to provide high-level insights on the progress of our stack
+Communicate with the Testing, Operations, and Autonomy teams to understand their day-to-day analysis needs
+Provide recommendations on how to design experiments to get a stronger signal from the metrics
+Question the results of certain metrics, dig into their formulations and contribute to improving them regularly
+
+What we're looking for:
+
+Strong Python coding experience
+MSc in Statistics, Math, Physics, Computer Science or equivalent + 3 years of experience in data science in a tech-heavy industry
+Python/Julia experience in statistical analysis
+Commitment to rigorous analysis - if assumptions need to be made to infer results, they should be spelled out
+Ability to communicate clearly to non-domain experts about potentially complex behaviors
+An interest in contributing to the metric formulation and implementation
+
+Bonus points:
+
+Experience in evaluating human or autonomous driving behavior
+Experience in robotics
+
+
+The salary range for this role is an estimate based on a wide range of compensation factors including but not limited to specific skills, experience and expertise, role location, certifications, licenses, and business needs. The estimated compensation range listed in this job posting reflects base salary only. This role may include additional forms of compensation such as a bonus or company equity. The recruiter assigned to this role can share more information about the specific compensation and benefit details associated with this role during the hiring process.
+
+Candidates for certain positions are eligible to participate in Motional's benefits program. Motional's benefits include but are not limited to medical, dental, vision, 401k with a company match, health saving accounts, life insurance, pet insurance, and more.
+
+Salary Range
+
+$159,000—$207,000 USD
+
+Motional is a driverless technology company making autonomous vehicles a safe, reliable, and accessible reality. We're driven by something more.
+
+Our journey is always people first.
+
+We aren't just developing driverless cars; we're creating safer roadways, more equitable transportation options, and making our communities better places to live, work, and connect. Our team is made up of engineers, researchers, innovators, dreamers and doers, who are creating a technology with the potential to transform the way we move.
+
+Higher purpose, greater impact.
+
+We're creating first-of-its-kind technology that will transform transportation. To do so successfully, we must design for everyone in our cities and on our roads. We believe in building a great place to work through a progressive, global culture that is diverse, inclusive, and ensures people feel valued at every level of the organization. Diversity helps us to see the world differently; it's not only good for our business, it's the right thing to do.
+
+Scale up, not starting up.
+
+Our team is behind some of the industry's largest leaps forward, including the first fully-autonomous cross-country drive in the U.S, the launch of the world's first robotaxi pilot, and operation of the world's longest-standing public robotaxi fleet. We're driven to scale; we're moving towards commercialization of our technology, and we need team members who are ready to embrace change and challenges.
+
+Formed as a joint venture between Hyundai Motor Group and Aptiv, Motional is fundamentally changing how people move through their lives. Headquartered in Boston, Motional has operations in the U.S and Asia. For more information, visit www.Motional.com and follow us on Twitter, LinkedIn, Facebook, Instagram and YouTube.
+
+
+
+
+Motional AD Inc. is an EOE. We celebrate diversity and are committed to creating an inclusive environment for all employees. To comply with Federal Law, we participate in E-Verify. All newly-hired employees are queried through this electronic system established by the DHS and the SSA to verify their identity and employment eligibility.",2020,Computer Hardware Development,Unknown / Non-Applicable,Information Technology,501 to 1000 Employees,Company - Private,True
+"Sr. Cloud Data Engineer, Data Operations","CardWorks
+","Pittsburgh, PA",$77K - $118K (Glassdoor est.),3.1,"CardWorks Servicing (""CWS"") is one of the largest privately-held provider of outsourcing services for bankcard-related products to banks and non-bank lenders in North America. CWS offers management expertise across the credit spectrum and supports both MasterCard and Visa accounts as well as a variety of private label debit, credit, stored value, and customer bankcards.
+
+Position Summary:
+As a Senior Cloud Data Engineer, you will support data engineering related initiatives within Data Operations department with a focus on building data & analytics platform and data stores for consumption by data operations, reporting, business intelligence and analytics user community. This role is responsible for developing data ingestion patterns, data pipelines, data extraction, load, and transformation (ETL) programs, ETL test plans, and automating the ETL process through scheduling and exception-handling routines.
+
+Essential Functions:
+
+Works with business teams to understand business use cases, requirements and translate business requirements into data requirements.
+Works with applications specialists (SMEs) to understand data sources and perform data discovery and document the learnings
+Creates ETL system design specifications and data flow diagrams etc.
+Prepares technical and system specifications documents including Source to Target Mapping covering data sources integration patterns, controls, data transformation and load rules.
+Design, develop, test, and deploy ELT programs to extract, stage, cleanse, transform and load the data needed.
+Troubleshoots, maintains, and supports the warehouse and the downstream data feeds sent to consuming applications.
+Supports system, integration and UAT testing.
+Assists with performing source data quality assessments
+Performs root cause analysis, resolves production issues and supports production teams.
+Performs other job duties as assigned and fulfill report and data extraction requests as needed
+Adherence to legal and company standards
+Education and Experience:
+
+Bachelor’s degree in software engineering/computer science/information technology or related field is required.
+Five (5) years’ experience in ETL/ELT development including building data ingestion & integration pipelines.
+Minimum three (3) years’ experience in AWS Cloud technologies and data integration tools such as Amazon S3, Amazon Athena, AWS Glue, AWS Glue Catalog, AWS Lake Formation etc.
+Experience in scripting languages: Python, SQL
+Experience working with Analytics Databases like Snowflake, Redshift
+Experience in Big Data technologies like Data Lakes, Delta Lake, Data Factory, relational data stores in AWS Cloud Platform
+Working knowledge of message queuing, stream processing, and highly scalable ‘big data’ stores
+Experience building and implementing data ingest and egress patterns and pipelines.
+Ability to troubleshoot and solve complex technical problems.
+Strong project management skills
+Clear communication skills
+Consumer Financial Services background, preferably credit card business knowledge
+Summary of Qualifications:
+
+Ability to gather requirements, apply strong analysis and design skills to build ELT and system specifications
+Proficient in designing and developing SQL Queries & ETL Programs using cloud technologies and tools.
+Strong project management & analytical skills
+Ability to work with data warehouse users, IT Business Analysts
+Strong problem solving, written and verbal communication skills
+Hands on experience with SQL-Based databases (e.g., Snowflake)
+Proficiency in Python
+Experience in Informatica ETL Tools will be an added advantage
+We are an equal opportunity employer, and we evaluate qualified applicants without regard to race, color, religion, sex, national origin, disability, veteran status or any other legally protected characteristic. We will conduct a thorough background check for all hires in compliance with applicable law which includes (but may not be limited to) a review of factors including the applicant’s personal credit history, drug testing, and employment/personal references.",1987,Banking & Lending,$25 to $100 million (USD),Financial Services,501 to 1000 Employees,Company - Private,True
+Essentials of Manufacturing Engineer - Data Science,"Saint Gobain
+","Malvern, PA",$94K - $124K (Glassdoor est.),4.1,"The Role
+
+
+The revolution is on—and you can help us shape it
+
+Today is an exciting time to be in manufacturing. At Saint-Gobain North America, we are asking the questions that will ultimately bring our factories to the next level: Manufacturing 4.0. The answers are still being defined, and our Essentials of Manufacturing (EoM) Development Program will provide the access and support you need to help us answer those questions and help innovate the industry in both the near-term and for years to come.
+
+Each challenge you’re given; each insight that’s shared; each lesson you learn over our 18-month program - ALL of it will help shape you into a thought leader of tomorrow. We’ll do this by:
+
+Preparing you for a dynamic career at a pivotal moment in the next manufacturing revolution
+Teaching you to apply educational theory to manufacturing practice.
+Inspiring you to make an impact, bring factories to the next level
+
+Why Join us?
+
+EXPOSURE
+
+Every three months, spend approximately one week at a different plant in North America with the rest of our early-career community—learning about our business, products, and operations and building strong camaraderie.
+
+Work as a full-time Engineer in one of our 150 manufacturing locations in the US.
+
+MENTORSHIP
+
+Navigate through large and diverse business units alongside a dedicated mentor, who shares knowledge and career tips essential to success and career development.
+
+CHALLENGE
+
+Work on projects that are a priority to the business and will challenge your skills as well as the old ways of manufacturing. Upon program completion, have the opportunity to transition into an operational role in one of our nearly 150 sites throughout North America.
+
+IMPACT
+
+Enjoy our program’s focus on impact, from Day 1. You will experience a unique level of empowerment—including responsibility for concrete results—all while gaining invaluable experience within a condensed period of time.
+
+Program Summary:
+
+Our 18-month rotational development program provides participants a full-time operational role, participants will partake in a development program that is designed to increase their manufacturing skills and their exposure to Saint-Gobain. Participants are provided with classroom-based E-learnings, hands-on action-based learning in operational environments as well as a plethora of networking opportunities all designed to accelerate your career development and future career growth.
+
+
+Requirements
+
+Completed B.S. in an engineering discipline (Data Science)
+A desire to relocate and travel
+A desire to learn and leave your comfort zone
+A desire to be a part of a community and cohort
+Ability to work with others in a team environment
+Ability to work remote
+
+About Us
+
+
+At Saint-Gobain, our employees have pride in belonging to an organization whose culture is made up of these core values: Trust, Empowerment, & Collaboration. Our company encourages diversity and inclusion in all its forms while our products make the world a more beautiful, safer, and sustainable home.
+
+
+Legal Statement
+
+
+Saint-Gobain provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, gender, sexual orientation, gender identity or expression, national origin, age, disability, genetic information, marital status, amnesty, or status as a covered veteran in accordance with applicable federal, state and local laws. Saint-Gobain is an equal opportunity employer of individuals with disabilities and supports the hiring of veterans.
+
+
+Benefits
+
+
+What are our perks?
+
+We provide unique options to fit your unique lives! Our Total Rewards Program is customizable to accommodate your needs. Our menu of flexible options includes, but is not limited to:
+
+Excellent healthcare options: Medical, vision, prescription & dental
+Family Focus & Balance: Parental leave, paid time-off and Employee Assistance Program
+Financial Security: Competitive 401(k), Company-funded Retirement Accumulation Plan and Employee Stock Purchase Program (PEG)
+Tuition Reimbursement: Continuing education for every season of your career
+Pet Insurance options: Insurance plan & prescription discount program for your furry friends
+Employee Recognition Programs
+PerkSpot: Our exclusive one-stop online discount marketplace
+LiveWell: Rewarding you for living a healthy lifestyle
+
+Job Reference: USA07311",1665,Construction,$10+ billion (USD),"Construction, Repair & Maintenance Services",10000+ Employees,Company - Public,True
+Data Engineer IV - Max Digital (Data Operations),"ACV Auctions
+",Pennsylvania,-1,3.7,"If you are looking for a career at a dynamic company with a people-first mindset and a deep culture of growth and autonomy, ACV is the right place for you! Competitive compensation packages and learning and development opportunities, ACV has what you need to advance to the next level in your career. We will continue to raise the bar every day by investing in our people and technology to help our customers succeed. We hire people who share our passion, bring innovative ideas to the table, and enjoy a collaborative atmosphere.
+
+Who we are:
+ACV is a technology company that has revolutionized how dealers buy and sell cars online. We are transforming the automotive industry. ACV Auctions Inc. (ACV), has applied innovation and user-designed, data driven applications and solutions. We are building the most trusted and efficient digital marketplace with data solutions for sourcing, selling and managing used vehicles with transparency and comprehensive insights that were once unimaginable. We are disruptors of the industry and we want you to join us on our journey. ACV’s network of brands includes ACV Auctions, ACV Transportation, ClearCar, MAX Digital and ACV Capital within its Marketplace Products, as well as, True360 and Data Services.
+At ACV we focus on the Health, Physical, Financial, Social and Emotional Wellness of our Teammates and to support this we offer:
+
+Multiple medical plans including a high deductible health plan that costs $0 out of your paycheck
+Company-sponsored (paid) Short-Term Disability, Long-Term Disability, and Life Insurance
+Comprehensive optional benefits such as Dental, Vision, Supplemental Life/AD&D, Legal/ID Protection, and Accident and Critical Illness Insurance
+Generous paid time off options, including vacation time, sick days, Company holidays, floating holidays, parental leave, bereavement leave, jury duty leave, voting leave, and other forms of paid leave as required by applicable law or regulation
+Employee Stock Purchase Program with additional opportunities to earn stock in the Company
+Retirement planning through the Company’s 401(k)
+Who we are looking for:
+We are seeking a highly skilled Engineer IV in Data Engineering with a strong foundation in computer science and excellent problem-solving skills. You will be responsible for maintaining and extending our database operations, optimizing SQL queries, and designing scalable data services.
+
+What you will do:
+
+Actively and consistently support all efforts to simplify and enhance the customer experience.
+Maintain and extend (as required) existing database operations solution for backups, index defragmentation, data retention, etc.
+Troubleshoot any SQL Server or ETL stack (SSIS, C#, Web APIs) outages during our operational support window.
+Leverage monitoring tools to ensure high performance and availability; work with operations and engineering to improve as required.
+Leverage DMVs and monitoring tools to ensure system performance; work with data operations and engineering to improve as required.
+Ensure existing HADR (availability groups) solution is functional and meets requirements.
+Support development, integration, and stage SQL Server environments for application development and data science teams.
+Ensure that new database development meets company standards for readability, reliability, and performance. Work with internal teams on transactional and analytical schema design.
+Collaborate with software and DevOps engineers to design scalable services, plan feature roll-out, and ensure high reliability and performance of our products.
+Conduct code reviews, develop high-quality documentation, and build robust test suites.
+Own the overall performance of products and services within a defined area of focus.
+Respond-to and troubleshoot highly complex problems quickly, efficiently, and effectively. This may include being part of the emergency after-hours on-call rotation.
+Mentor junior data engineers.
+Perform additional duties as assigned.
+What you will need:
+
+Bachelor's degree in Computer Science, Information Technology, Computer Information Systems, Management Information Systems, or similar
+5 years' building & supporting the database-tier of SaaS web applications.
+Ability to read, write, speak, and understand English.
+Expert in SQL Query optimization
+ETL workflow implementation (SSIS, Airflow, C#, Python)
+Experience working with Cloud Services (AWS RDS, S3, SQS, SNS)
+Experience working with NoSQL data stores (e.g., MongoDB)
+Experience developing Windows services in C#
+Experience writing unit and integration testing
+Expert SQL and data-layer development experience; OLTP schema design.
+Experience using and integrating with cloud services, specifically: AWS RDS, S3, SQS, SNS.
+Nice to Have
+Experience with Airflow
+Experience with DBT
+Our Values
+Trust & Transparency | People First | Positive Experiences | Calm Persistence | Never Settling
+
+At ACV, we are committed to an inclusive culture in which every individual is welcomed and empowered to celebrate their true selves. We achieve this by fostering a work environment of acceptance and understanding that is free from discrimination. ACV is committed to being an equal opportunity employer regardless of sex, race, creed, color, religion, marital status, national origin, age, pregnancy, sexual orientation, gender, gender identity, gender expression, genetic information, disability, military status, status as a veteran, or any other protected characteristic. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires reasonable accommodation, please let us know.
+
+For information on our collection and use of your personal information, please see our Privacy Notice.",2014,Wholesale,Unknown / Non-Applicable,Retail & Wholesale,1001 to 5000 Employees,Company - Public,True
+"Data Engineer (AWS, Azure, GCP)","CapTech Consulting
+","Philadelphia, PA",$87K - $117K (Glassdoor est.),4.0,"Company Description
+
+
+CapTech is an award-winning consulting firm that collaborates with clients to achieve what’s possible through the power of technology. At CapTech, we’re passionate about the work we do and the results we achieve for our clients. From the outset, our founders shared a collective passion to create a consultancy centered on strong relationships that would stand the test of time. Today we work alongside clients that include Fortune 100 companies, mid-sized enterprises, and government agencies, a list that spans across the country.
+
+
+
+Job Description
+
+
+CapTech Data Engineering consultants enable clients to build and maintain advanced data systems that bring together data from disparate sources in order to enable decision-makers. We build pipelines and prepare data for use by data scientists, data analysts, and other data systems. We love solving problems and providing creative solutions for our clients. Cloud Data Engineers leverage the client’s cloud infrastructure to deliver this value today and to scale for the future. We enjoy a collaborative environment and have many opportunities to learn from and share knowledge with other developers, architects, and our clients.
+
+Specific responsibilities for the Data Engineer – Cloud position include:
+
+Developing data pipelines and other data products using Amazon Web Services (AWS), Microsoft Azure, or Google Cloud Platform (GCP)
+Advising clients on specific technologies and methodologies for utilizing cloud resources to efficiently ingest and process data quickly
+Utilizing your skills in engineering best practices to solve complex data problems
+Collaborating with end users, development staff, and business analysts to ensure that prospective data architecture plans maximize the value of client data across the organization.
+Articulating architectural differences between solution methods and the advantages/disadvantages of each
+
+
+Qualifications
+
+
+Typical experience for successful candidates includes:
+
+Experience delivering solutions on a major cloud platform
+Ability to think strategically and relate architectural decisions/recommendations to business needs and client culture
+Experience in the design and implementation of data architecture solutions
+A wide range of production database experience, usually including substantial SQL expertise, database administration, and scripting data pipelines
+Ability to assess and utilize traditional and modern architectural components required based on business needs.
+A demonstrable ability to deliver production data pipelines and other data products. This could be hands on experience, degree, certification, bootcamp, or other learning.
+
+Skills:
+
+Successful candidates usually have demonstrable experience with technologies in some of these categories:
+
+Languages: SQL, Python, Java, R, C# / C++ / C
+Database: SQL Server, PostgreSQL, Snowflake, Redshift, Aurora, Presto, BigQuery, Oracle
+DevOps: git, docker, subversion, Kubernetes, Jenkins
+Additional Technologies: Spark, Databricks, Kafka, Kinesis, Hadoop, Lambda, EMR
+Popular Certifications: AWS Cloud Practitioner, Microsoft Azure Data Fundamentals, Google Associate Cloud Engineer
+
+Additional Information
+
+
+We want everyone at CapTech to be able to envision a lasting and rewarding career here, which is why we offer a variety of career paths based on your skills and passions. You decide where and how you want to develop, and we help get you there with customizable career progression and a comprehensive benefits package to support you along the way. Alongside our suite of traditional benefits encompassing generous PTO, health coverage, disability insurance, paid family leave and more, we’ve launched extended benefits to help meet our employees’ needs.
+
+CapFlex – Employee-first mentality that supports a remote and hybrid workforce and empowers daily flexibility while servicing our clients
+Learning & Development – Programs offering certification and tuition support, digital on-demand learning courses, mentorship, and skill development paths
+Modern Health –A mental health and well-being platform that provides 1:1 care, group support sessions, and self-serve resources to support employees and their families through life’s ups and downs
+Carrot Fertility –Inclusive fertility and family-forming coverage for all paths to parenthood – including adoption, surrogacy, fertility treatments, pregnancy, and more – and opportunities for employer-sponsored funds to help pay for care
+Fringe –A company paid stipend program for personalized lifestyle benefits, allowing employees to choose benefits that matter most to them – ranging from vendors like Netflix, Spotify, and GrubHub to services like student loan repayment, travel, fitness, and more
+Employee Resource Groups – Employee-led committees that embrace and incorporate diversity and inclusion into our day-to-day operations
+Philanthropic Partnerships – Opportunities to engage in partnerships and pro-bono projects that support our communities.
+401(k) Matching – Generous matching and no vesting period to help you continue to build financial wellness
+
+CapTech is an equal opportunity employer committed to fostering a culture of equality, inclusion and fairness — each foundational to our core values. We strive to create a diverse environment where each employee is encouraged to bring their unique ideas, backgrounds and experiences to the workplace. For more information about our Diversity, Inclusion and Belonging efforts, click HERE. As part of this commitment, CapTech will ensure that persons with disabilities are provided reasonable accommodations. If reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact Laura Massa directly via email lmassa@captechconsulting.com.
+
+At this time, CapTech cannot transfer nor sponsor a work visa for this position. Applicants must be authorized to work directly for any employer in the United States without visa sponsorship.
+
+#LI-LM1",1997,Information Technology Support Services,$100 to $500 million (USD),Information Technology,1001 to 5000 Employees,Company - Private,False
+Principal SME Data Engineer,"Innova Solutions
+","Collegeville, PA",$140K - $160K (Employer est.),4.0,"Position: Principal SME Data Engineer, Scientific Digital & Tech
+
+The Scientific Digital and Tech organization part of R&D Digital & Tech is an integrated family that powers the R&D discovery, manufacture, and supply of new medicines and vaccines to patients. It focuses on optimizing CMC, informing Vaccine and Medicine design, and delivering a competitive, modern laboratory experience.
+
+Scientific Data Engineering is a new organization responsible for enterprise data and architecture, providing thought leadership and architecture services for all aspects of data across the Scientific area. This includes the use of, and augmentation to, the two data platforms on GCP and Azure, design and creation of data pipelines to surface data as a “product” in a data Mesh architecture across two platforms.
+
+Job Purpose
+
+The Principal SME Data Engineer contributes to the construction of the CMC data Mesh and data strategy. This role will interact with architects, engineers, data modelers, product owners as well as other team members in Scientific Tech and R&D.
+
+The Principal SME Data Engineer is a leading technical contributor who can consistently take a poorly defined business or technical problem, work it to a well-defined data problem/specification, and execute it at a high level. They have a strong focus on metrics, both for the impact of their work and for its inner workings/operations.
+
+They are a model for the team on best practices for software development in general (and data engineering in particular), including code quality, documentation, DevOps practices, and testing, and consistently mentor junior members of the team. They ensure the robustness of our services and serve as an escalation point in the operation of existing services, pipelines, and workflows.
+
+The Principal SME Data Engineer should demonstrate core engineering knowledge/experience of industry technologies, practices, and frameworks such as data Mesh and scaling data platforms, containerization, cloud-based platforms, data analytics, and data streaming. Examples of technologies include Java/C#/Python, Denodo, GIT, Azure DevOps, Data Bricks, Spark, Azure Data Factory, ADLS V2, Kafka, Selenium, JUnit/NUnit, SAFe, Kanban, Docker, Azure Cloud Architecture including networking principles and scaling applications.
+
+Primary responsibilities include the following:
+
+Using Azure cloud services and data platform tools to ingest, egress, and transform data from multiple sources.
+Confidently optimizes the design and execution of complex solutions in data ingestion and data transformation
+Produces well-engineered software, including appropriate automated test suites, technical documentation, and operational strategy
+Provides input into the roadmaps of upstream teams (e.g., Data Platforms, DataOps, DevOps) to help improve the overall program of work
+Ensure consistent application of platform capabilities to ensure quality and consistency concerning logging and lineage
+Fully versed in coding best practices and ways of working, and participates in code reviews and partnering to improve the team’s standards
+Adhere to QMS framework, Security & Regulatory Standards, and CI/CD best practices and helps to guide improvements to them that improve ways of working
+Provide leadership to team members to help others get the job done right
+Supporting engineering teams in the adoption and creation of data Mesh best practices.
+Maintains best practices for engineering and architecture on our Confluence site.
+Pro-actively engages in experimentation and innovation to drive relentless improvement
+Provides leadership, technical direction, and expertise to architecture and engineering teams composed of FTEs, strategic partners, and software vendors.
+
+Why you?
+Basic Qualifications:
+We are looking for professionals with these required skills to achieve our goals:
+
+Bachelor’s degree in Computer Science (with a life sciences application focus), Bioinformatics, Biomedical Science, Biomedical Engineering or Molecular Biology
+Experience in a GMP environment; both drug substance and drug product manufacturing in prescription drug setting
+Strong technical understanding of inter-disciplinary nature of drug development, contract manufacturing, analytical development, document control, technology transfer, and CMC regulatory filings
+Proficient with at least 3 of the below skills and can demonstrate knowledge and value with relevant experience in all the following competencies:Data Engineering development, architecture design & technology platforms/frameworks
+
+Hands-on experience with Azure Data Analytics services e.g. ADLS, Azure Data Factory, Azure Databricks, Purview, Azure Synapse, etc.
+Data Platforms and Domain-driven design
+Agile, DevOps & Automation [of testing, build, deployment, CI/CD, etc.]
+Data analytics & data quality/integrity
+Testing strategies & frameworks
+
+Role requires:Demonstrated skill in delivering high-quality engineered data products
+
+Knowledge of industry standards and technology platforms
+Excellent communication, negotiation, influencing, and stakeholder management skills
+Customer focus and excellent problem-solving skills
+
+Familiarity with and use of various open-source ecosystems including JavaScript, Bigdata, java, python, etc.
+Good understanding of various software paradigms: domain-driven, procedural, data-driven, object-oriented, functional
+Familiar with Java, Scala, Python
+Demonstrable knowledge depth in more than one area of software engineering and technology
+
+Preferred Qualifications:
+If you have the following characteristics, it would be a plus:
+
+Understanding of GMPs, GLPs and Biopharmaceutical Product Development.
+Experience in applying data curation, virtualization, workflow, and advanced visualization techniques to enable decision support across multiple products and assets to drive results across R&D business operations.
+Experience in development, manufacturing, release and shipments of drug substance and drug product, analytical method development and transfer, stability, and supply chain related activities
+
+Job Type: Full-time
+
+Pay: $140,000.00 - $160,000.00 per year
+
+Benefits:
+
+401(k)
+401(k) matching
+Dental insurance
+Flexible spending account
+Health insurance
+Health savings account
+Life insurance
+Paid time off
+Referral program
+Retirement plan
+Vision insurance
+
+Compensation package:
+
+Bonus opportunities
+Yearly pay
+
+Experience level:
+
+10 years
+11+ years
+8 years
+9 years
+
+Schedule:
+
+8 hour shift
+
+Work Location: In person",-1,-1,Unknown / Non-Applicable,-1,Unknown,Company - Private,True
+Associate Data Engineer,"Naval Nuclear Laboratory
+","West Mifflin, PA",$68K - $104K (Employer est.),3.5,"Working at the Naval Nuclear Laboratory we foster pride in belonging to an organization whose culture is made up of these core values: Trust, Empowerment, and Collaboration. Our company encourages diversity and inclusion in all its forms while ensuring the safety and reliability of our nation's naval nuclear reactors, and training the Sailors who operate those reactors in the U.S. Navy's submarines and aircraft carrier Fleets. Looking for a lifetime career? Apply today!
+
+Job Description
+
+The Naval Nuclear Laboratory is seeking an entry level data engineer to support various data engineering projects including development of hardware and software infrastructure, data pipelines, and data governance principles. The successful candidate will work with a diverse team to support multiple initiatives that are part of the larger NNL Digital Transformation.
+
+Required Combination of Knowledge and Skill
+Bachelor's degree from an accredited college or university in an engineering or science related field; or Master's degree from an accredited college or university in an engineering or science related field.
+Preferred Skills
+Compensation and Benefits
+Medical, Dental, & Vision Coverage
+401(k) Savings Program
+Capital Accumulation Plan
+Personal & Medical Time Off
+Paid Parental Leave
+Disability, Life and Accident Insurance
+9/80 Work Schedule
+Flexible Start/End Times
+Tuition Assistance for Eligible Employees
+Employee Assistance Program (EAP)
+Visit us online to view all NNL benefits!
+Pay Range
+$67,800 - $103,800 annually
+
+Note the salary information provided above is a general guideline only. Salaries are based upon candidate experience and qualifications, as well as market and business considerations.
+
+The Naval Nuclear Laboratory is operated for the U.S. Department of Energy (DOE) by Fluor Marine Propulsion, LLC (FMP), a wholly owned subsidiary of Fluor Corporation. Naval Nuclear Laboratory personnel are FMP employees who work at four DOE facilities: Bettis Atomic Power Laboratory, Knolls Atomic Power Laboratory, Kenneth A. Kesselring Site, and Naval Reactors Facility, and at the U.S. Department of Defense-owned Nuclear Power Training Unit-Charleston. FMP employees also have an established presence at numerous shipyards and vendor locations. For nearly 70 years, the Naval Nuclear Laboratory has developed advanced nuclear propulsion technology, provided technical support, and trained world-class nuclear operators to ensure the safe and reliable operation of our nation's submarine and aircraft carrier Fleets. The Naval Nuclear Laboratory is a national asset solely dedicated to the Naval Nuclear Propulsion Program. We rely on the dedication and innovation of our nearly 8000 engineers, scientists, technicians, and support personnel.
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or disability.
+
+All candidates must be U.S. citizens. Applicants selected will be subject to a Federal background investigation and must meet eligibility requirements for access to classified matter. FMP is a government contractor and maintains a drug free workplace and workforce. All candidates must be able to pass a drug test in compliance with FMP company policy and 10 CFR 707. Federal regulation requires FMP test for marijuana. Fluor Marine Propulsion is an Equal Opportunity Employer (Veterans/Disabilities) Committed to Workplace Diversity",-1,Energy & Utilities,Unknown / Non-Applicable,"Energy, Mining & Utilities",Unknown,Government,False
+Senior Application Engineer - Data Simulation,"Ansys
+","Canonsburg, PA",$90K - $127K (Glassdoor est.),4.2,"Requisition #: 13274
+
+
+When visionary companies need to know how their world-changing ideas will perform, they close the gap between design and reality with Ansys simulation. For more than 50 years, Ansys software has enabled innovators across industries to push boundaries by using the predictive power of simulation. From sustainable transportation to advanced semiconductors, from satellite systems to life-saving medical devices, the next great leaps in human advancement will be powered by Ansys.
+
+
+Take a leap of certainty … with Ansys.
+
+
+Summary / Role Purpose
+
+Join the Ansys Customer Excellence team to partner with our customers to engineer what's ahead, solve their real-world engineering problems, deploy Ansys software in their design workflows, and grow Ansys’ business. As a hands-on subject matter expert, you will use expert-level engineering knowledge to provide technical pre-sales support, perform professional services, and help translate customer requirements into exciting new product features. You will be working within multi-disciplinary teams to create pervasive simulation solutions, advance your industry knowledge, and grow the business impact.
+
+
+Key Duties and Responsibilities
+
+Lead in coordinating and executing all technical activities throughout the sales opportunity lifecycle such as technical discovery, negotiate technical success criteria, product presentations, demonstrations, and evaluations. Work independently within multi-disciplinary teams
+Interact with customers to understand their product design needs and engineering design workflows; analyze how to address customers’ requirements using Ansys products and platform, articulate Ansys’ value proposition
+Assist in creating differentiating simulation solutions using the Ansys platform and products; deploy the solutions within customers’ design workflows
+Develop competence as a subject matter expert and industry expert
+Collaborate with the Ansys product development teams to translate customer requirements into exciting new product features; test new releases of Ansys products on industrial problems, develop application best practices
+Support Ansys field and digital marketing, author conference presentations
+Contribute to consulting services,
+
+Minimum Education/Certification Requirements and Experience
+
+Required education and degree type: BS or MS or PhD in Mechanical/Chemical/Aerospace/Electrical Engineering or related field
+
+Required minimum years of professional experience in an engineering software environment: BS+5, MS+3, or PhD+0
+
+Proven track record of analyzing customer’s business and technical needs, requirements, and their state of current infrastructure, operations, and simulation & other engineering workflows
+
+Proven track record of designing & proposing enterprise-level solutions based on data management solutions and implementing such solutions
+
+Logical problem-solving, strong interpersonal and communication skills, fluent in writing and speaking English
+Strong organizational and time management skills, possesses a sense of urgency
+Projects a professional image and demonstrates business acumen, driven to succeed
+Ability to travel domestically up to 25% of time
+
+
+Preferred Qualifications and Skills
+
+Preferred education and years of professional experience in an engineering software environment: BS+8, MS+6, or PhD+3
+5 years of experience in application engineering, or consulting services type customer facing roles using engineering software
+Good understanding of enterprise class product development systems like SLM, SPDM, ERP, ALM, TDM, MIM/IMM, PDM, PLM (e.g. Aras Innovator, Siemens Teamcenter, Dassault ENOVIA or 3DEXPERIENCE, MSc SimManager, MSc MaterialCenter)
+Demonstrated use of relevant Ansys software or knowledge of other commercial CAE, CAD, EDA, PLM software packages
+Practical knowledge of agility and agile project management
+Ability to interact effectively with senior business managers and C-level executives
+Ability to travel domestically up to 50% of time
+
+
+This role is not available for sponsorship.
+
+
+At Ansys, we know that changing the world takes vision, skill, and each other. We fuel new ideas, build relationships, and help each other realize our greatest potential in the knowledge that every day is an opportunity to observe, teach, inspire, and be inspired. Together as One Ansys, we are powering innovation that drives human advancement.
+
+
+Our Commitments:
+
+Amaze with innovative products and solutions
+Make our customers incredibly successful
+Act with integrity
+Ensure employees thrive and shareholders prosper
+
+Our Values:
+
+Adaptability: Be open, welcome what’s next
+Courage: Be courageous, move forward passionately
+Generosity: Be generous, share, listen, serve
+Authenticity: Be you, make us stronger
+
+
+Our Actions:
+
+We commit to audacious goals
+We work seamlessly as a team
+We demonstrate mastery
+We deliver outstanding results
+
+
+OUR ONE ANSYS CULTURE HAS INCLUSION AT ITS CORE
+We believe diverse thinking leads to better outcomes. We are committed to creating and nurturing a workplace that fuels this by welcoming people, no matter their background, identity, or experience, to a workplace where they are valued and where diversity, inclusion, equity, and belonging thrive.
+
+
+TAKE A LEAP OF CERTAINTY IN YOUR CAREER AT ANSYS
+
+At Ansys, you will find yourself among the sharpest minds and most visionary leaders across the globe. Collectively we strive to change the world with innovative technology and transformational solutions. With a prestigious reputation in working with well-known, world-class companies, standards at Ansys are high – met by those willing to rise to the occasion and meet those challenges head on. Our team is passionate about pushing the limits of world-class simulation technology, empowering our customers to turn their design concepts into successful, innovative products faster and at a lower cost.
+
+
+At Ansys, it’s about the learning, the discovery, and the collaboration. It’s about the “what’s next” as much as the “mission accomplished.” And it’s about the melding of disciplined intellect with strategic direction and results that have, can, and do impact real people in real ways. All this is forged within a working environment built on respect, autonomy, and ethics.
+
+
+CREATING A PLACE WE’RE PROUD TO BE
+Ansys is an S&P 500 company and a member of the NASDAQ-100. We are proud to have been recognized for the following more recent awards, although our list goes on: America’s Most Loved Workplaces, Gold Stevie Award Winner, America’s Most Responsible Companies, Fast Company World Changing Ideas, Great Place to Work Certified (China, Greece, France, India, Japan, Korea, Spain, Sweden, Taiwan, U.K.).
+
+
+
+For more information, please visit us at www.ansys.com
+
+
+Ansys is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, and other protected characteristics.
+
+Ansys does not accept unsolicited referrals for vacancies, and any unsolicited referral will become the property of Ansys. Upon hire, no fee will be owed to the agency, person, or entity.",1970,Computer Hardware Development,$1 to $5 billion (USD),Information Technology,1001 to 5000 Employees,Company - Public,False
+"Senior Data Engineer, Public Company","Recruiting From Scratch
+","Pittsburgh, PA",$100K - $200K (Employer est.),4.0,"This is for a client of Recruiting from Scratch.
+Who is Recruiting from Scratch:
+Recruiting from Scratch is a premier talent firm that focuses on placing the best product managers, software, and hardware talent at innovative companies. Our team is 100% remote and we work with teams across the United States to help them hire. We work with companies funded by the best investors including Sequoia Capital, Lightspeed Ventures, Tiger Global Management, A16Z, Accel, DFJ, and more.
+Our Client:
+
+Our next evolution is underway as a newly public company looking to expand and continue to build meaningful experiences for our users. From social issues to original content, we’re blazing innovative paths with impact for our community, all while leveraging the latest tech stacks and striving for engineering excellence. At the heart of our work in this new chapter is a shared set of core values: openness and exploration, a bias for action, and strong support of the LGBTQ community.
+
+With a track record of strong financial performance and plans for continued headcount growth, we’re looking to build a team of talented, passionate, and open-minded people who believe in our mission, align with our values, and are excited to work at the intersection of innovative technology and social impact. Come be a part of this exciting journey with us.
+
+What’s so interesting about this role?
+
+Our client is looking to bring on a Senior Data Engineer with chops in cutting edge real-time streaming technologies and ambitions to achieve high quality and reliability with TDD, automation, and continuous delivery. .
+
+In this role, you will have the opportunity to work with our product teams, building models and APIs to drive new features, delivers analysis to further improve engagement in existing features, and empowers our business with real-time insights to drive growth in market share, engagement, and revenue. We see 1 trillion events per year and process 10TB of data daily.
+
+What’s the job?
+
+Design, develop and deliver data products to production, complying with internal data governance, security and scalability of our system.
+Moving implementation to ownership of real-time and batch processing and data governance and policies.
+Maintain and enforce the business contracts on how data should be represented and stored.
+Stay on top of new technologies through R&D and prototyping to continuously improve our big data architectures and systems to streamline how we deliver value with high quality to our end users
+Implementing ETL processes, moving data between systems including S3, Snowflake, Kafka, and Spark.
+Work closely with our Data Scientists, SREs, and Product Managers to ensure software is high quality and meets user requirements.
+
+What we’ll love about you
+
+5+ years of experience working with data at scale, including data engineering, business intelligence, data science, or related field.
+7+ years experience using Python,
+Experience using big data technologies (Snowflake, Airflow, Kubernetes, Docker, Helm, Spark, pySpark, )
+Significant experience with relational databases and query authoring (SQL) in Snowflake or other distributed Databases.
+Experience with agile engineering practices such as TDD, Pair Programming, Continuous Integration, automated testing, and deployment.
+Experience with building stream-processing systems, using solutions such as Kafka, Storm or Spark-Streaming
+Experience with dimensional data modeling and schema design in Data Warehouses
+Familiar with ETL (managing high-quality reliable ETL pipelines)
+Be familiar with legal compliance (with data management tools) data classification, and retention.
+
+Salary Range: $165,000-$210,000 USD base. Equity. Medical, Dental, Vision.
+https://www.recruitingfromscratch.com/",2019,Staffing & Subcontracting,$1 to $5 million (USD),Human Resources & Staffing,1 to 50 Employees,Company - Private,True
+Sr. Data Engineer,"firstPRO Inc.
+","Radnor, PA",$130K - $145K (Employer est.),4.7,"firstPRO is seeking a Sr. Data Engineer for our growing client in the Radnor, Pa area. This is a hybrid role with 3 days onsite. ONLY local candidates will be considered.
+
+No sponsorship is available for this role. US Citizens or Green Card holders only.
+
+Requirements:
+
+- 5+ years of Data engineering
+
+- Snowflake experience
+
+- ETL knowledge and experience
+
+- Talend experience preferred
+
+Job Type: Full-time
+
+Pay: $130,000.00 - $145,000.00 per year
+
+Benefits:
+
+401(k)
+Dental insurance
+Health insurance
+Paid time off
+Vision insurance
+
+Compensation package:
+
+Yearly pay
+
+Experience level:
+
+4 years
+
+Schedule:
+
+Monday to Friday
+
+Ability to commute/relocate:
+
+Radnor, PA 19087: Reliably commute or planning to relocate before starting work (Required)
+
+Experience:
+
+Data Engineering: 3 years (Preferred)
+SQL: 3 years (Preferred)
+
+Work Location: Hybrid remote in Radnor, PA 19087",1986,HR Consulting,$25 to $100 million (USD),Human Resources & Staffing,51 to 200 Employees,Company - Private,True
+Software Engineer (NoSQL- Data Engineer),"Erie Insurance
+","Erie, PA",$75K - $119K (Employer est.),3.7,"Division or Field Office:
+
+
+Corporate Enablement Technology Division
+
+
+
+
+
+Department of Position:
+Data Technology Department
+
+
+
+
+
+Work from:
+
+Corporate Office in Erie, Pa
+
+
+Salary Range:
+
+$74,622.00 - $119,202.00 *
+
+salary range is for this level and may vary based on actual level of role hired for
+
+
+
+
+
+
+
+*This range represents a national range and the actual salary will depend on several factors including the scope and complexity of the role and the skills, education, training, credentials, location, and experience of an applicant, as well as level of role for which the successful candidate is hired. Position may be eligible for an annual bonus payment.
+
+
+
+
+At Erie Insurance, you’re not just part of a Fortune 500 company; you’re also a valued member of a diverse and inclusive team that includes more than 5,000 employees and over 2,200 independent agencies. Our Employees work in the Home Office complex located in Erie, PA, and in our Field Offices that span 12 states and the District of Columbia.
+
+Benefits That Go Beyond The Basics
+
+We strive to be Above all in Service® to our customers—and to our employees. That’s why Erie Insurance offers you an exceptional benefits package, including:
+
+Premier health, prescription, dental, and vision benefits for you and your dependents. Coverage begins your first day of work.
+Low contributions to medical and prescription premiums. We currently pay up to 97% of employees’ monthly premium costs.
+Pension. We are one of only 13 Fortune 500 companies to offer a traditional pension plan. Full-time employees are vested after five years of service.
+401(k) with up to 4% contribution match. The 401(k) is offered in addition to the pension.
+Paid time off. Paid vacation, personal days, sick days, bereavement days and parental leave.
+Career development. Including a tuition reimbursement program for higher education and industry designations.
+
+
+Additional benefits that include company-paid basic life insurance; short-and long-term disability insurance; orthodontic coverage for children and adults; adoption assistance; fertility and infertility coverage; well-being programs; paid volunteer hours for service to your community; and dollar-for-dollar matching of your charitable gifts each year.
+
+
+
+
+Position Summary
+
+Translates and develops requirements into workable software solutions. Maintains and develops programs for use in business and IT automation. Incorporates various accepted methodologies to design software and applications at a moderate risk level to project or release. May perform duties in one or more of the following disciplines: Open Systems Mainframe Application Configuration.
+
+
+
+
+This opportunity is for a Software Engineer and will focus on the Customer project team
+
+
+
+
+Preferred Experience & Skills:
+
+2+ years of NoSQL experience or MarkLogic experience
+Experience of the Tools and Technologies used for the project (Mendix, MarkLogic, Integration Tools etc.)
+Experience of Technical Design, Coding, Code Reviews, Unit Testing
+Good Communication and Coordination skills
+Understanding of Agile & Hybrid Methodologies
+Duties and Responsibilities
+
+Incorporates development standards into outcomes and implements basic code and configuration changes under direction.
+
+
+
+
+Develops program logic for new, basic applications or analyzes and modifies logic in existing applications.
+
+
+
+
+Presents unit tests to an engineer or project leader.
+
+
+
+
+Performs supplementary work that contributes to the end product submitted by more experienced developers. Codes, tests, debugs, documents, implements and maintains software applications. Analyzes requirements, and maintains, tests and integrates application components.
+
+
+
+
+Effectively communicates with customers, teammates or other stakeholders to determine hardware, software or system functional specifications.
+
+
+
+
+Shares knowledge of systems and may mentor or train others.
+
+
+
+
+The first five duties listed are the functions identified as essential to the job. Essential functions are those job duties that must be performed in order for the job to be accomplished.
+
+
+
+
+This position description in no way states or implies that these are the only duties to be performed by the incumbent. Employees are required to follow any other job-related instruction and to perform any other duties as requested by their supervisor, or as become clear.
+
+
+
+
+Competencies
+Self-Development
+Collaborates
+Cultivates Innovation
+Instills Trust
+Decision Quality
+Values Diversity
+Nimble Learning
+Customer Focus
+Optimizes Work Processes
+Ensures Accountability
+Coding And Converting
+Information Management Skills
+Job-Specific Knowledge
+Proofing Text And Numbers
+Using Tables And Graphs
+Qualifications
+
+Minimum Educational Requirements and Experience Equivalencies: Bachelor's degree in IT, MIS, Business or related field, plus two years' related experience; or Associate's degree in technical field, plus four years' related experience; or High school diploma plus six years' related experience.
+
+
+
+
+#LI-KS1
+
+#LI-Hybrid
+
+#DICE-KS1
+
+Physical Requirements
+Lifting/Moving 0-20 lbs; Occasional (<20%)
+Lifting/Moving 20-50 lbs; Occasional (<20%)
+Ability to move over 50 lbs using lifting aide equipment; Rarely
+Driving; Occasional (<20%)
+Pushing/Pulling/moving objects, equipment with wheels; Rarely
+Manual Keying/Data Entry/inputting information/computer use; Frequent (50-80%)
+Climbing/accessing heights; Rarely
+
+
+
+
+Nearest Major Market: Erie",1925,Insurance Carriers,$5 to $10 billion (USD),Insurance,5001 to 10000 Employees,Company - Public,False
+Sr. Data Engineer,"Exelon Corporation
+","Philadelphia, PA",$95K - $129K (Glassdoor est.),4.0,"Description
+
+We're powering a cleaner, brighter future.
+
+Exelon is leading the energy transformation, and we're calling all problem solvers, innovators, community builders and change makers. Work with us to deliver solutions that make our diverse cities and communities stronger, healthier and more resilient.
+
+We're powered by purpose-driven people like you who believe in being inclusive and creative, and value safety, innovation, integrity and community service. We are a Fortune 200 company, 19,000 colleagues strong serving more than 10 million customers at six energy companies - Atlantic City Electric (ACE), Baltimore Gas and Electric (BGE), Commonwealth Edison (ComEd), Delmarva Power & Light (DPL), PECO Energy Company (PECO), and Potomac Electric Power Company (Pepco).
+
+In our relentless pursuit of excellence, we elevate diverse voices, fresh perspectives and bold thinking. And since we know transforming the future of energy is hard work, we provide competitive compensation, incentives, excellent benefits and the opportunity to build a rewarding career.
+
+Join Exelon's Work and Asset Management team to help set direction for the Enterprise Asset Management (EAM) Platform as part of the Solution Delivery Team.
+
+Are you in?
+
+PRIMARY PURPOSE OF POSITION
+
+The EAM Transformation program is a multi-year program intended to transform Exelon's Work, Asset and Supply business capabilities and deliver the Enterprise Asset Management solution. The Sr. Data Engineer will be responsible for leading the effort to capture the data requirements and design in support of the implementation of EAM products to meet the intended business objectives.
+
+The role will lead a team of data engineers and collaborate closely with business stakeholders and project team members to document the data requirements needed for data migration, integrations, and reporting and analytics to support the EAM transformation project.
+
+Performs and/or manages activities relating to planning, designing, building, and maintaining high quality solutions, products and processes. Creates and assigns detailed tasks to subordinates. Has budget responsibility for a small project, sub-project or process component. Expected to work under minimal supervision.
+
+Position may be required to work extended hours, including 24 x 7 coverage during storms (storm duty rotation). Travel to other Exelon locations will also be required.
+
+
+PRIMARY DUTIES AND ACCOUNTABILITIES
+
+Lead data requirements gathering sessions to document requirements needed for the EAM products and platform
+Lead small group of IT data engineers who provide expertise in documentation of data requirements and design
+Collaborate with business stakeholders and project team members to understand business outcomes and alignment to data requirements.
+Partners with technical architects, EU analytics team and other IT and business teams to implement the optimal solutions.
+Perform, manage and appropriately document work activities relating to projects, sub-projects, or processes.
+For projects: plan, design, and build high quality IT software solutions in accordance with IT project management standards.
+For operations and application maintenance and support: plan and lead IT activities required to manage service level agreements. Assist others in planning and prioritizing work and work schedule.
+Assist in creation of documentation for products and services. Use best practices to improve products and services provided to business unit partners, and monitor adherence within Team/Group to standards as defined within the Management Model.
+Maintain and enhance engagement with business and IT partners and other stakeholders.
+Establish positive team environment by proactively assisting and training less experienced personnel. Provide performance and development feedback as required.
+Maintain technical knowledge and business acumen within own discipline or function.
+
+
+JOB SCOPE
+
+Utilize understanding of customer's business needs to determine requirements:
+
+Applies technical expertise to plan, design, build or support required products and processes
+Help other team members learn appropriate theories, practices and principles that relate to their skill set portfolio
+As assigned, manage budget for area of responsibility
+As assigned, manage working relationship with outsourcing partners
+
+Qualifications
+
+MINIMUM QUALIFICATIONS
+
+Bachelor's degree in Computer Science or related discipline and 4-7 years' experience (ex: Data warehouse design, business intelligence reporting, Customer Information Systems, Meter Data Management Systems and/or Outage Management Systems) or in lieu of experience, 8+ years equivalent combination of education and work experience.
+Appropriate technical skills and experience with tools used for data modelling, process modelling, documenting functional and technical requirements.
+Strong knowledge of business practices, processes, data and applications.
+Experience leading small IT projects or sub-teams and knowledge of IT project management.
+Strong problem solving and analysis ability.
+Excellent communications skills (written and verbal).
+Strong facilitation/negotiation skills
+Strong presentation skills.
+Ability to work with remote project teams.
+
+PREFERRED QUALIFICATIONS
+
+Experience writing technical design specifications for data integrations and data transformations with structured and unstructured data.
+Experience with Scrum development methodology
+Experience with writing business cases
+Experience in capturing, analyzing and translating business needs into functional IT requirements.
+Experience developing data integrations and data transformations with structured and unstructured data.
+SQL (DML, DCL, DDL) expertise with Oracle 11g through 12c and Microsoft SQL Server 2008r2 through 2016
+Experience with the setup and configuration of Automic UC4 scheduler on RHEL, Oracle Data Integrator (ODI), Oracle Warehouse Builder (OWB), Oracle Business Intelligence (OBI), Oracle Enterprise Manager (OEM), Oracle HTTP Server (OHS), WebLogic, Informatica, Business Objects, SAS software for data analytics, Kafka, Nifi, UC4, Red Hat Enterprise Linux.
+Application re-engineering, data modeling and performance tuning
+Architecture and design for application disaster recovery and high availability, HP ALM, Microsoft Azure DevOps
+Customer Information Systems (for example: CIMs, CC&B, SAP CRM&B)
+AMI Meter Data Management Systems (for example: Oracle Utilities MDM, Itron IEE)
+Geographic Information Systems (for example: GE Smallworld)
+Outage Management Systems, Itron/SSN UtilityIQ, Xylem/Sensus AMI, OSI Soft PI Historian
+Experience managing IT projects using Agile/Scrum and waterfall methodologies.",2000,Energy & Utilities,$10+ billion (USD),"Energy, Mining & Utilities",10000+ Employees,Company - Public,False
+"Senior Data Engineer, Public Company","Recruiting From Scratch
+","Philadelphia, PA",$100K - $200K (Employer est.),4.0,"This is for a client of Recruiting from Scratch.
+Who is Recruiting from Scratch:
+Recruiting from Scratch is a premier talent firm that focuses on placing the best product managers, software, and hardware talent at innovative companies. Our team is 100% remote and we work with teams across the United States to help them hire. We work with companies funded by the best investors including Sequoia Capital, Lightspeed Ventures, Tiger Global Management, A16Z, Accel, DFJ, and more.
+Our Client:
+
+Our next evolution is underway as a newly public company looking to expand and continue to build meaningful experiences for our users. From social issues to original content, we’re blazing innovative paths with impact for our community, all while leveraging the latest tech stacks and striving for engineering excellence. At the heart of our work in this new chapter is a shared set of core values: openness and exploration, a bias for action, and strong support of the LGBTQ community.
+
+With a track record of strong financial performance and plans for continued headcount growth, we’re looking to build a team of talented, passionate, and open-minded people who believe in our mission, align with our values, and are excited to work at the intersection of innovative technology and social impact. Come be a part of this exciting journey with us.
+
+What’s so interesting about this role?
+
+Our client is looking to bring on a Senior Data Engineer with chops in cutting edge real-time streaming technologies and ambitions to achieve high quality and reliability with TDD, automation, and continuous delivery. .
+
+In this role, you will have the opportunity to work with our product teams, building models and APIs to drive new features, delivers analysis to further improve engagement in existing features, and empowers our business with real-time insights to drive growth in market share, engagement, and revenue. We see 1 trillion events per year and process 10TB of data daily.
+
+What’s the job?
+
+Design, develop and deliver data products to production, complying with internal data governance, security and scalability of our system.
+Moving implementation to ownership of real-time and batch processing and data governance and policies.
+Maintain and enforce the business contracts on how data should be represented and stored.
+Stay on top of new technologies through R&D and prototyping to continuously improve our big data architectures and systems to streamline how we deliver value with high quality to our end users
+Implementing ETL processes, moving data between systems including S3, Snowflake, Kafka, and Spark.
+Work closely with our Data Scientists, SREs, and Product Managers to ensure software is high quality and meets user requirements.
+
+What we’ll love about you
+
+5+ years of experience working with data at scale, including data engineering, business intelligence, data science, or related field.
+7+ years experience using Python,
+Experience using big data technologies (Snowflake, Airflow, Kubernetes, Docker, Helm, Spark, pySpark, )
+Significant experience with relational databases and query authoring (SQL) in Snowflake or other distributed Databases.
+Experience with agile engineering practices such as TDD, Pair Programming, Continuous Integration, automated testing, and deployment.
+Experience with building stream-processing systems, using solutions such as Kafka, Storm or Spark-Streaming
+Experience with dimensional data modeling and schema design in Data Warehouses
+Familiar with ETL (managing high-quality reliable ETL pipelines)
+Be familiar with legal compliance (with data management tools) data classification, and retention.
+
+Salary Range: $165,000-$210,000 USD base. Equity. Medical, Dental, Vision.
+https://www.recruitingfromscratch.com/",2019,Staffing & Subcontracting,$1 to $5 million (USD),Human Resources & Staffing,1 to 50 Employees,Company - Private,True
+Senior Staff AI Data Engineer,"Recruiting From Scratch
+","Philadelphia, PA",$160K (Employer est.),4.0,"Who is Recruiting from Scratch :
+Recruiting from Scratch is a premier talent firm that focuses on placing the best product managers, software, and hardware talent at innovative companies. Our team is 100% remote and we work with teams across the United States to help them hire. We work with companies funded by the best investors including Sequoia Capital, Lightspeed Ventures, Tiger Global Management, A16Z, Accel, DFJ, and more.
+https://www.recruitingfromscratch.com/
+
+This is a hybrid role based in our Palo Alto or San Francisco offices and will require you to be in office Tuesdays and Thursdays.
+
+What’s so interesting about this role?
+
+We believe that AI can revolutionize the dating industry. Our Data Engineer lead is responsible for building high quality ML datasets at scale, used to train ML models that power AI-centric features. In this pivotal role, you will have the opportunity to build foundational tools and data pipelines to ingest, normalize and clean the valuable data that would be fundamental for our ML engineers to build AI tools including recommendations, LLMs, ads, visual search, growth/notifications, trust and safety.
+
+What’s the job?
+
+We’re looking for an exceptional data engineer who is passionate about data for AI and values it can bring to our company, Who loves working with data ops at scale; and who is committed to the hard work necessary to continuously improve our ML data pipelines.
+
+In this position, you will be responsible for establishing and executing the strategy for our organization’s ML Data Engine, with an initial focus on agile ML Data OPs. This includes identification of infrastructure components and data stack to be used, design and implementation of pipelines between data systems and teams, automation workflows, data enrichment and monitoring tools all for AI models. As a tech lead specialized in data engineering, you are expected to code and contribute to the stack.
+
+Responsibilities:
+
+Dive into our dataset and design, implement and scale data pre/post processing pipelines of ML models
+Work on applied ML solutions in the areas of data mining, cleaning, normalizing and modeling
+Be self-motivated in seeking solutions when the correct path isn’t always known
+Collaborate with engineers in conceptualizing, planning and implementing data engineering initiatives working with different stakeholders
+Design and build data platforms & frameworks for processing high volumes of data, in real time as well as batch, that will be used across engineering teams
+Build data processing streams for cleaning and modeling text data for LLMs
+Research and evaluate new technologies in the big data space to guide our continuous improvement
+Collaborate with multi-functional teams to help tune the performance of large data applications
+Work with Privacy and Security team on data governance, risk and compliance initiatives
+Work on initiatives to ensure stability, performance and reliability of our data infrastructure
+
+What we’ll love about you
+
+Bachelors in Computer Science, Mathematics, Physics, or a related fields
+5+ years of experience as a data engineer building production-level pre/post-processing data pipelines for ML/DL models, including 2+ years of technical leadership experience
+Experience in statistical analysis & visualization on datasets using Pandas or R
+Experience designing and building highly available, distributed systems of data extraction, ingestion, normalization and processing of large data sets in real time as well as batch, that will be used across engineering teams using orchestration frameworks like Airflow, KubeFlow or other pipeline tools
+Demonstrated prior experience in creating data pipelines for text data sets NLP/ large language models
+Ability to produce well-engineered software, including appropriate automated test suites, technical documentation, and operational strategy
+Excellent coding skills in Python, Java, bash, SQL, and expertise with Git version control
+Experience using big data technologies (Snowflake, Airflow, Kubernetes, Docker, Helm, Spark, pySpark)
+Experience with any public cloud environment - AWS, GCP or Azure
+Significant experience with relational databases and query authoring (SQL) as well as NoSQL databases like DynamoDB etc
+Experience building and maintaining ETL (managing high-quality reliable ETL pipelines)
+
+We’ll really swoon if you have
+
+2+ years of experience of technical leadership in building data engineering pipelines for AI
+Previous experience in building data pipeline for conversational AI APIs and recommender systems
+Experience with distributed systems and microservices
+Experience with Kubernetes and building Docker images
+Experience with building stream-processing systems, using solutions such as Kafka, Storm or Spark-Streaming
+Strong understanding of applied machine learning topics
+Be familiar with legal compliance (with data management tools) data classification, and retention
+Consistent track record of managing and implementing complex data projects
+
+What you'll love about us
+
+Mission and Impact: We are the world-leading LGBTQ social networking service. Your role will impact the lives of millions of LGBTQ people around the world
+Multiple Locations: We are hiring someone for this role to be based ideally in San Francisco or Palo Alto
+Family Insurance: Insurance premium coverage for health, dental, and vision for you and partial coverage for your dependents
+Retirement Savings: Generous 401K plan with 6% match and immediate vest in the US
+Compensation: Industry-competitive compensation and eligibility for company bonus and equity programs
+Queer-Inclusive Benefits: Industry-leading gender-affirming offerings with up to 90% cost coverage, access to Included Health, monthly stipends for HRT, and more
+Additional Benefits: Flexible vacation policy, monthly stipends for cell phone, internet, wellness, and food, one-time home-office setup stipend, and company-sponsored events
+Base Pay Range
+$160,000—$280,000 USD
+https://www.recruitingfromscratch.com/",2019,Staffing & Subcontracting,$1 to $5 million (USD),Human Resources & Staffing,1 to 50 Employees,Company - Private,True

@@ -1,0 +1,679 @@
+Job Title,Company Name,Location,Salary Estimate,Rating,Job Description,Founded,Industry,Revenue,Sector,Size,Type,Easy Apply
+Data Engineer,CareRing Health,"Louisville, KY",-1,-1.0,"Data Engineer
+
+We are looking for a Data Engineer to be part of our ground-breaking and exciting healthcare company!
+
+About Us
+
+CareRing Health is the healthcare-at-home leader, dedicated to bringing a comprehensive and coordinated ring of care – including home health, home-based primary care, homecare, and hospice care – to the chronically-ill, Medicaid/Medicare-eligible population. Our innovative healthcare delivery model will result in better patient outcomes and bring health equity to this underserved population.
+
+We are seeking talented, passionate individuals to join our mission and help our patients live happier and healthier lives where they want to be…in their homes.
+
+What We Offer:*
+
+We know that, to be the best place for our patients, we must be the best place to work for our employees. We offer the following to our employees:
+
+Be part of a unique healthcare company where we can help those who need our help the most
+Competitive pay
+Paid on a weekly basis
+Medical/dental/vision/life insurance
+Paid holidays/PTO/401(k) match
+Career growth opportunities
+Great and collaborative work environment
+
+What You Will Do:
+
+Data pipeline management – building data systems and pipelines, combining raw information from multiple sources, identifying opportunities for data acquisition
+Architecture design – analyzing and organizing raw data using cloud-based tools
+ELT (extract/load/transform) processes – preparing data for modeling, building algorithms and prototypes, data cleansing
+Cloud management – work with multiple cloud-based services and tools, as well as hosted cloud providers
+Data monitoring – ensure data quality, processes, and routines are optimized for performance and efficiency
+Collaboration – work with data scientists and data analysts on multiple, concurrent projects
+
+Qualifications:
+
+Degree in Computer Science, Information Technology, or similar field (Master’s degree preferred)
+Three or more years of experience as a data engineer or similar role
+Knowledge of cloud-based services and tools (i.e., Azure, AWS, Snowflake, Fivetran, dbt)
+Experience with healthcare transaction data sets, including HL-7, FHIR, and the use of APIs
+Technical expertise with data models, data mining, pipeline construction, process automation, data normalization
+Knowledge of programming languages (i.e., SQL, Java, Python, JSON)
+Hands on experience with SQL database design and development
+Proficiency in Microsoft suite, including Microsoft Access
+Proficiency in data analytics tools (e.g., PowerBI), data modeling, and data visualization techniques
+Familiarity with Robotic Process Automation
+Experience with Mulesoft preferred
+Strong communication skills
+Attention to detail
+
+*Eligibility for certain benefits may depend on employment status
+
+CareRing Health is an equal opportunity employer committed to providing equal employment opportunities without regard to race, color, religion, sex (including pregnancy), sexual orientation, age, national origin, disability, genetic information, veteran status, or any other classification protected by applicable law.
+
+Job Type: Full-time
+
+Education:
+
+Bachelor's (Required)
+
+Ability to Commute:
+
+Louisville, KY 40205 (Required)
+
+Work Location: In person",-1,-1,-1,-1,-1,-1,True
+Senior Data Engineer (Snowflake) - Contractor,"EY
+",United States,$90.00 - $130.00 Per Hour (Employer est.),3.9,"The primary responsibility for the Sr. Data Engineer / Tech Lead is to ensure data accessibility, quality, and reliability within the client's data platform ecosystem.
+
+RESPONSIBILITIES
+
+Design and develop end-to-end data pipelines and ETL processes using Snowflake, Denodo, DBT Cloud, Fivetran, and AWS Glue, ensuring seamless data integration, transformation, and loading.
+Collaborate with cross-functional teams to gather data requirements and implement scalable data models and schemas within Snowflake and Denodo, ensuring optimal performance and data consistency.
+Implement and maintain data orchestration workflows using Stonebranch, ensuring efficient and reliable scheduling and automation of data processes.
+Work with EnterpriseDataLake for ingestion and storage of data from various sources, ensuring the availability and accessibility of data for analytics and reporting purposes.
+Utilize Azure DevOps and Teraform to implement and manage infrastructure as code, ensuring streamlined deployment and scalability of data engineering solutions.
+Skills
+
+snowflake
+
+denodo
+
+dbt cloud
+
+fivetran
+
+Qualifications
+
+REQUIREMENTS
+
+Proficiency in Snowflake and Denodo: Strong understanding and hands-on experience in working with Snowflake and Denodo for data integration, transformation, and analysis.
+Knowledge of DBT Cloud: Familiarity with DBT Cloud, including experience in building and maintaining efficient data transformation workflows and deploying reliable data pipelines.
+Experience with Fivetran: Demonstrated experience in utilizing Fivetran for data ingestion, source connectivity, and ensuring data accuracy and completeness.
+Understanding of EnterpriseDataLake: Knowledge of EnterpriseDataLake principles and practices, including data ingestion, storage, and organization for analytics and reporting purposes.
+Familiarity with Stonebranch: Proficiency in using Stonebranch for data orchestration and scheduling, ensuring efficient and reliable execution of data pipelines and workflows.
+Proficiency in Azure DevOps and Teraform: Experience in leveraging Azure DevOps and Teraform for infrastructure as code, enabling streamlined deployment and scalability of data engineering solutions.
+
+The expected pay rate range for this contract assignment is $90 to $130 per hour. The exact pay rate will vary based on skills, experience, and location. The position is approximately 65-70% remote and 30-35% travel to the client as needed.
+
+#GigNowTechOpportunities
+
+GigNowOpportunities
+
+Equal Employment Opportunity Information
+EY provides equal opportunities to applicants, employees, contractors, vendors, and stakeholders without regard to race, color, religion, age, sex, sexual orientation, gender identity/expression, pregnancy, genetic information, national origin, protected veteran status, disability status, or any other legally protected basis, including arrest and conviction records, in accordance with applicable law. If you are an individual with a disability and either need assistance applying online or need to request an accommodation during any part of the application process, please email gignow.recruiting@ey.com.",-1,-1,Unknown / Non-Applicable,-1,Unknown,Unknown,False
+Data Engineer - Bellarmine University,"Bellarmine University
+","Louisville, KY",,3.5,"Location: Louisville, KY Category: Staff Positions Posted On: Wed Nov 1 2023 Job Description:
+
+
+
+Bellarmine University is seeking a Data Engineer with responsibility for maintaining the data warehouse, pipelines, and models to join the Office of Information Technology. This position will report to the Sr. Director of Enterprise Data and ERP Ecosystem.
+
+The Data Engineer is responsible for designing and maintaining enterprise data warehouses and lakes that store and process critical data for the university. The Data Engineer ensures data integrity, quality, and security throughout the data lifecycle, from data entry, definition, storage, to reporting. The Data Engineer also supports and collaborates with administrators and staff across the institution in the data mapping, integration, and analysis using various tools and techniques. The Data Engineer plays a key role in ensuring the data compliance with state and federal regulations as well as internal reporting to optimize budget and resource efficiency.
+
+ESSENTIAL JOB FUNCTIONS AND RESPONSIBILITIES
+Provide oversight of all data acquired, collected, generated, purchased, or via any other method used by Bellarmine for any purpose. This oversight begins with data creation or acquisition and continues until the data is ultimately disposed of.
+
+Serve as the principal architect of Bellarmine's data warehouse/data lake strategy; and take ownership for the successful implementation of the strategy.
+
+Help to ensure all data is stored, accessed, processed, and transmitted using best available and affordable information security methods; this includes serving as a training resource to help Bellarmine community members learn how to apply these methods to data they or their department / division / school own.
+
+Take ownership of the data usage conversation at Bellarmine and drive the agenda. Provide appropriate guidance to Bellarmine leadership at all levels regarding the appropriate sourcing and use of data. Keep aware of the latest in regulatory requirements regarding privacy.
+
+Continuously research reporting platforms that are available in the higher ed space and be able to clearly explain those platforms to Bellarmine audiences of varying technical capacities.
+
+Serve as a thought leader and key resource for the various data analysts who serve around the Bellarmine community.
+
+Oversee Bellarmine's Data Retention/Purge policy, proposing updates as our data and/or applicable retention / purge regulations change. Serve as a resource to Bellarmine's various departments / divisions / schools and provide an audit function for same.
+
+Ensure system data integrity to support accurate compliance reporting and reliable metrics for institutional data informed decisions.
+
+Drive the creation and validation of dashboards that will support increasing efficiency in time, resources, or supporting student success.
+
+Maintain security and confidentiality regarding all appropriate files, records, and documents.
+
+Clearly and effectively communicate with various groups of Bellarmine community members of varying technical capacities.
+
+Help Bellarmine community members troubleshoot problems, and either directly work toward finding solutions or working with other support resources to solve the problems.
+
+Assume additional duties as assigned by immediate supervisor.
+
+
+Job Requirements:
+
+
+QUALIFICATIONS (EDUCATION / CERTIFICATION / EXPERIENCE)
+Bachelors degree in a relevant technical field and four years of hands-on experience in a similar role, but additional experience in a relevant technical field will be considered.
+
+DESIRED QUALIFICATIONS
+Windows Server administration skills.
+
+SQL Server administration, including a solid functional knowledge of building data queries, data manipulation, data definition, and data control statements.
+
+SQL Server Reporting Services (SSRS) experience.
+
+Ellucian Colleague (R18) administration, including DMI & Envision patch management, Web API, Self-Service, and UI support and troubleshooting.
+
+Colleague Reporting and Operational Analysis (CROA) experience.
+
+Knowledge of Ellucian SaaS technologies is very beneficial, including any of the following:
+
+Data Access
+Data Connect
+Data Model
+Experience
+Extend
+Insights
+Integration
+Intelligent Learning Platform
+Messaging Adaptor & Messaging Service
+Person Service
+
+Additional Information:
+
+
+Bellarmine University is committed to core values of diversity, equity and inclusion and embraces diversity in our workforce among members of faculty, staff and administration. We remain committed to affirmative actions, policies, procedures and attitudes necessary to continue to build and retain a diverse and equitable workforce. We will demonstrate a fully realized and lived commitment to equity and inclusion, empowering all members of our increasingly diverse community and supporting them to achieve their full potential. As part of Bellarmine's commitment to diversity, equity and inclusion, we will seek to ensure that all aspects of employment, including recruitment, selection, job assignment, training, compensation, benefits, discipline, promotion, layoff and termination processes remain free of discrimination based upon race, color, national origin, religion, sex, age, creed, sexual orientation, gender identity/expression, genetic information, disability, veteran status, or any other protected class.",1950,Colleges & Universities,$25 to $100 million (USD),Education,201 to 500 Employees,College / University,False
+Senior Data Engineer,"Archer Daniels Midland Company
+","Erlanger, KY",$101K - $137K (Glassdoor est.),3.9,"Erlanger
+KY - Kentucky
+Information Technology
+
+Job Description
+
+DNA Sr. Data Engineer
+This is an exempt level position.
+
+Position Summary:
+Data Engineer will work on designing, building, and implementing data foundations to support strategic analytics projects that drive strategic growth for ADM. This involves liaising with functional teams that build or acquire the underlying data, application owners to understand raw or source data structures, and end users to accurately design strategic data marts. Finally, designing and building data pipelines, ETL/ELT integrations, constructing and modifying data marts, preparing (cleaning, transforming) data, and collaborating with extended team members to design impactful business solutions. Data Engineer needs to have expert technical knowledge of platforms and software technology (ETL/ELT, SQL, Power BI, Python), deep expertise in data management techniques, ability to drive effective support of data analysis and model management, and experience with IT project management practices
+
+
+Job Description & Responsibilities:
+
+Build Enterprise quality fit for purpose data solutions that integrate relevant information from both structured and unstructured sources meeting business needs
+Standardize data and reporting across businesses and teams to enable consistency and quality of key business data
+Design and develop enterprise data warehouse platform that conforms to consistent methodologies, standards and industry best practices
+Design, develop, test and document data integrations and assist with deployment, validation and hypercare
+Maintain and support ETL/ELT integrations
+Participate in designing overall logical & physical data warehouse and data mart models and architectures to support business requirements
+Develop and maintain SQL, PL/SQL, Python code as needed
+Analyze data and assist with developing insights (e.g., via data visualization tools like Power BI / SAC) to enable business decision making
+Developing prototypes and proof of concepts for required solutions
+Build information security standards into data solutions
+Prepare and present ideas and recommendations to colleagues and management
+Document solutions through high/low level design documentation
+Learn new data engineering and analytic tools as needed
+Contribute to development of the overall solution approach
+Recommend solutions to address gaps
+Supervise and review activities of consultants
+Lead and mentor more junior staff
+
+Education Qualification & Skill Requirements:
+
+Bachelor’s degree in Analytics, Data Engineering, Data Science, AI/ML, Computer Science, Engineering, Statistics, Mathematics or related field
+Typically requires minimum of 7-10 years work experience
+Experience with Data Virtualization technologies and tools, Denodo preferred
+Experience with MPP systems, Azure Synapse preferred
+Experience building Cloud based Data Solutions in Azure
+Experience in data processing using SQL, Python
+Working knowledge of BI architecture, dimensional modeling, data warehousing best practices, and data integration standard methodologies
+Experience working with Big Data technologies such as Spark, Kafka, DataBricks, Hive, or equivalent
+Experience with visualization technologies and services including Microsoft Power BI, SAP Analytics Cloud, Oracle Business Intelligence is a plus
+Working knowledge of Python ML libraries like Scikit-learn/PyTorch or Azure ML
+Experience working in DevOps / CICD framework is a plus
+High accountability with a demonstrated ability to deliver
+Strong communication skills including design documentation
+Strong collaboration skills working with architecture, design and development teams
+
+#LI-Hybrid
+
+About ADM:
+
+ADM unlocks the power of nature to enrich the quality of life. We're a premier global human and animal nutrition company, delivering solutions today with an eye to the future. We're blazing new trails in health and well-being as our scientists develop groundbreaking products to support healthier living. We're a cutting-edge innovator leading the way to a new future of plant-based consumer and industrial solutions to replace petroleum-based products. We're an unmatched agricultural supply chain manager and processor, providing food security by connecting local needs with global capabilities. And we're a leader in sustainability, scaling across entire value chains to help decarbonize our industry and safeguard our planet. From the seed of the idea to the outcome of the solution, we give customers an edge in solving the nutritional and sustainability challenges of today and tomorrow. Learn more at www.adm.com.
+REQ: 77022BR AJCIND
+
+Ref ID
+
+#LI-SU1",1902,Food & Beverage Manufacturing,$10+ billion (USD),Manufacturing,10000+ Employees,Company - Public,False
+Design and Development Engineer,"Topy America Inc
+","Frankfort, KY",$78K - $85K (Employer est.),2.9,"SUMMARY:
+
+Under supervision of D&D Manager or Assistant Manager, design and develop products based on customer requirements, industry standards, regulations and manufacturing requirements for cost and productivity in accord with development schedules.
+
+RESPONSIBLITIES:
+
+Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+
+1. Establish development plans for new products including plan, design, verification, process confirmation and validation.
+
+Plan and design new products, confirming customer requirements, industry standards, regulations and in-house requirements.
+
+Conduct these activities:
+
+a) Communicate customer for requirements, reporting and approval including trip to customer site.
+
+b) Communicate in-house for process requirements and development procedures.
+
+c) Confirm industry standards and regulations and apply them to the design activity.
+
+d) 2D & 3D drawing / modeling.
+
+e) Evaluation product design by strength and/or fatigue analysis.
+
+f) FEA modeling, analysis, data summary and reporting.
+
+g) Attending, conduct, report, any related meetings.
+
+h) Verification activities including trial arrangement, evaluation planning, arrangement and summary.
+
+i) Documentations (Meeting minutes, Trial requests, Test requests, work and logistic instructions, etc.)
+
+j) Review, verification and validation where appropriate to each stage.
+
+k) Miscellaneous task support.
+
+2. Conduct VA&VE activity.
+
+3. Other duties as required.
+
+a) Communicate with related company located in Japan or other location as needed.
+
+KNOWLEDGE AND SKILLS REQUIREMENTS
+
+Previous experience working with or as a supplier for large auto manufacturing organizations with preference to experience with multiple auto manufacturers
+
+CATIA V5, NX and/or other parametric modeling experience
+
+Teamcenter PLM experience
+
+Following experience is desired:
+
+Material Mechanic. FEM analysis. Fatigue design. Quality engineering, TS-16949/ APQP
+
+SUPERVISORY RESPONSIBILITY
+
+This position does not have any direct reports.
+
+WORK ENVIRONMENT
+
+This job operates in a professional office environment. The role routinely uses standard office equipment such as computes, phones, photocopiers, filing cabinets and fax machines. While performing some duties of this job, the employee is exposed to fumes or airborne particles, moving mechanical parts and vibration. The noise level on the job site can be loud
+
+PHYSICAL DEMANDS
+
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job.
+
+This is largely a sedentary role; however, the position does access the manufacturing facility. To navigate the area the individual will need to be able to walk moderate distances, climb a limited amount of stairs, and have the ability to communicate with operators safely.
+
+POSITION TYPE / EXPECTED HOURS OF WORK
+
+This is a full-time position, and hours of work and days are Monday through Friday, 8:00 a.m. to 4:45 p.m. Occasional evening and weekend work may be required as job duties demand.
+
+TRAVEL
+
+This position requires up to 10% travel. Some of the travel is international.
+
+EDUCATION
+
+Mechanical Engineering degree or equivalent
+
+Additional Eligibility Qualifications
+
+None.
+
+AAP/EEO
+
+The management of TOPY America, Inc. reaffirms its policy of providing equal employment at this facility. Employment, training, advancement, and compensation will always be given on the basis of qualifications, without regard to race, color, sex, age, religion, national origin, handicap, or veteran status.
+
+Job Type: Full-time
+
+Pay: $78,000.00 - $85,000.00 per year
+
+Benefits:
+
+401(k)
+401(k) matching
+Dental insurance
+Employee assistance program
+Employee discount
+Health insurance
+Life insurance
+Paid time off
+Retirement plan
+Vision insurance
+
+Schedule:
+
+8 hour shift
+Day shift
+Monday to Friday
+Overtime
+
+Ability to commute/relocate:
+
+Frankfort, KY 40601: Reliably commute or planning to relocate before starting work (Required)
+
+Application Question(s):
+
+What is your desired salary?
+
+Education:
+
+Bachelor's (Required)
+
+Work Location: In person",-1,Metal & Mineral Manufacturing,$10+ billion (USD),Manufacturing,5001 to 10000 Employees,Company - Public,True
+Process Technology Engineer,"PMC Organometallix, Inc.","Carrollton, KY",$65K - $100K (Employer est.),-1.0,"Brief Job Description:
+
+Develop technical knowledge of the processes practiced at this location to become a plant resource for continuous improvement for the manufacture of Organotin compounds for Advastab and Thermolite PVC stabilizers, Fascat Catalyst and glass coatings.
+
+Essential Job Functions & Responsibilities
+
+· Scoping capital and expense projects to meet operations improvement goals.
+
+· Managing small to medium capital projects (typically < $1MM)
+
+· Finding solutions for low-cost operations and options for increased production rates
+
+· Assisting operations with root cause analysis, including troubleshooting and making recommendations to resolve plant process issues
+
+· Data acquisition and evaluation from data historian
+
+· Evaluating existing and new processes for safety impact
+
+· Facilitating Process Hazard Analysis
+
+· Control System (Allen Bradley) troubleshooting and programming.
+
+· Providing material and energy balances
+
+· Process development for new products; taking lab scale to pilot plant scale and defining commercial plant scale.
+
+· Pilot plant planning and testing to improve existing products as well as to support small scale commercial production.
+
+· Developing design basis for and sizing new equipment such as heat exchangers, dryers, reactors etc.
+
+· Modeling involving distillation, heat transfer, reaction, and other common chemical engineering unit operations.
+
+· Pressure relief design basis
+
+· Conducting feasibility analysis including cost estimates for manufacturing new products
+
+· Networking to obtain industry best practices.
+
+· Teamwork and good communication with peers to reach goals with all involved.
+
+· Use of process modeling tools
+
+· Equipment design tools
+
+Knowledge, Skills & Abilities
+
+· PHA leader experience
+
+· Use of engineering tools for pressure drop calculations, developing heat and material balances, sizing equipment such as pumps and heat exchangers
+
+Working Conditions
+
+The Process Technology Engineer works in an office environment for research and document generation. Visits the commercial plant for data gathering and process evaluation and works in a Pilot Plant with hands-on operation for training and setup. Must be able to climb stairs and navigate around operating equipment.
+
+Education, Training, and Experience Required
+
+· Bachelor’s Degree in Chemical Engineering
+
+Job Types: Permanent, Full-time
+
+Pay: $65,000.00 - $100,000.00 per year
+
+Benefits:
+
+401(k)
+401(k) matching
+Dental insurance
+Employee assistance program
+Flexible spending account
+Health insurance
+Health savings account
+Life insurance
+Paid time off
+Professional development assistance
+Relocation assistance
+Tuition reimbursement
+Vision insurance
+
+Experience level:
+
+2 years
+
+Schedule:
+
+10 hour shift
+8 hour shift
+Day shift
+Monday to Friday
+
+Work setting:
+
+In-person
+Manufacturing facility
+
+Education:
+
+Bachelor's (Required)
+
+Work Location: In person",-1,-1,-1,-1,-1,-1,True
+Service Engineer - Conveyors and PLC's,M-Team Solutions,"Lexington, KY",$55K - $70K (Employer est.),-1.0,"We are currently searching for a Service Engineer with experience in the material handling industry. This is a direct hire opportunity for our customer in the Lexington, KY, area.
+
+You will install, troubleshoot, and maintain products and equipment by performing electrical, electronic, and mechanical repairs, identifying, analyzing, and repairing product failures, and ordering & replacing parts as needed.
+
+Responsibilities Include:
+
+Observing the equipment in operation; listening for problems; executing various test cycle operations, and using precision measuring and testing instruments
+Complete preventive maintenance requirements on equipment, following site-specific procedures & operations/maintenance manuals
+Ensure proper tracking of parts used to ensure consignment inventory accuracy. Follow proper stock handling procedures.
+Interpret engineering drawings and assist site installation crews as necessary throughout the installation phase of a project thru customer final acceptance.
+Must create bid documents and facilitate meetings and negotiations with subcontractors on small projects
+Understand project schedules and site activities required for the successful implementation of material handling systems.
+Familiar with structural design and analysis, including calculations
+Must be available to work weekends, nights, overtime, and holidays, as needed
+Must be flexible as the position may require traveling to job sites within the US, Canada, or Mexico
+Must be able to negotiate through an industrial conveyor system requiring climbing access ladders, scaffolding, screen guards, etc. Physically capable of standing and/or walking for lengthy periods of time. The ability to lift 25-50 lbs.
+
+Requirements:
+
+The ability to choose and manage sub-contractors, manage schedules and budgets
+Requires debugging skills during the commissioning of new equipment and/or modifications to existing equipment
+Display broad-based customer focus and commitment to resolve problems and make decisions based upon the priority of the problem in relation to business needs
+Strong communication skills for interfacing with customer engineers in gathering system requirements and then translating the requirements into functional technical specifications
+Proficiency with MS office, particularly Excel, Word, PowerPoint, MS Project, and general computer skills
+AutoCAD, Inventor, or other 3D modeling software
+PLC programming skills a plus
+
+Education and Experience
+
+BS technical degree in electrical, mechanical, or automation engineering or equivalent experience
+1-3+ years' experience in material handling and conveyor engineering for the automotive industry
+
+Additional Info:
+
+Health Care Plan (Medical, Dental & Vision)
+Retirement Plan (401k)
+Paid Time Off
+Paid Holidays
+Life Insurance
+
+M-Team Solutions provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, M-Team Solutions complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+
+Job Type: Full-time
+
+Pay: $55,000.00 - $70,000.00 per year
+
+Benefits:
+
+401(k)
+Dental insurance
+Health insurance
+Paid time off
+Vision insurance
+
+Experience level:
+
+1 year
+
+Schedule:
+
+Holidays
+Monday to Friday
+Overtime
+Weekends as needed
+
+Work setting:
+
+In-person
+
+Ability to commute/relocate:
+
+Lexington, KY 40511: Reliably commute or planning to relocate before starting work (Required)
+
+Education:
+
+Associate (Required)
+
+Experience:
+
+AutoCAD, Inventor, or other 3D modeling software: 1 year (Preferred)
+Programmable logic controllers: 1 year (Required)
+material handling and conveyor engineering: 1 year (Required)
+
+Work Location: In person",-1,-1,Unknown / Non-Applicable,-1,1 to 50 Employees,Company - Public,True
+Mechanical Engineer,Thermex-Thermatron Systems,"Louisville, KY",$80K - $85K (Employer est.),-1.0,"JOB TITLE: Mechanical Engineer DEPARTMENT: Engineering
+
+SUPERVISOR: Engineering Manager WORKING HOURS: 8:00-4:30pm
+
+CATEGORY: Exempt
+
+PURPOSE OF THE JOB: To design, simulate, and troubleshoot mechanical components, equipment, and systems related to the products designed and manufactured by the Company, such as RF and Microwave Generators and Applicators, Control Cabinets, Conveyors, Ovens, Presses, etc.
+
+BASIC DUTIES AND RESPONSIBILITIES: Creative / critical thinking, innovation, and advanced problem-solving skills are required. Must be organized, possess a positive attitude, and thrive in a team environment with excellent communication skills. Commercial awareness, including understanding of target users / markets are crucial to this role. Duties / requirements include but not limited to the following:
+
+1. Design, simulation (structural stress analysis / FEA, CG calcs, thermal analysis, etc.), 3D solid modeling, and documentation utilizing SolidWorks and AutoCAD.
+
+2. Material selection and understanding of mechanical shielding techniques for electromagnetic shielding required.
+
+3. Design with product safety, quality, standardization, modularity, serviceability, ergonomics, and internal / external processes in mind.
+
+4. Detailed drawings for fabrication, machining, and assembly of the above-listed Company products.
+
+5. Entering BOMs and routers into the Company ERP system.
+
+6. Awareness and adherence to overall project schedules and priorities.
+
+7. Assist on-site Production during the fabrication / machining / assembly process.
+
+8. Facilitating design reviews and release meetings with customers, peers, and on-site manufacturing.
+
+9. Work with suppliers/vendors to source the best components or systems for the purpose of improving the quality, cost, and delivery of the designed equipment.
+
+MINIMUM EDUCATION REQUIRED: Bachelor’s Degree in Mechanical Engineering. Knowledge of fluid mechanics, thermodynamics, stress analysis, pneumatics, etc. a plus.
+
+MINIMUM EXPERIENCE REQUIRED: 3-5 years’ experience in the Mechanical Engineering field designing industrial equipment (automation, presses, etc.).
+
+TRAVEL: Some travel may be required to assist or supervise the installation process of the designed equipment.
+
+SUPERVISION: Should perform regular duties with a minimum of supervision.
+
+OCCASIONAL DUTIES: As requested by Management.
+
+Revised 05/2023
+
+Job Type: Full-time
+
+Pay: $80,000.00 - $85,000.00 per year
+
+Benefits:
+
+401(k)
+Dental insurance
+Health insurance
+Life insurance
+Paid time off
+Vision insurance
+
+Schedule:
+
+8 hour shift
+Overtime
+
+Ability to commute/relocate:
+
+Louisville, KY 40299: Reliably commute or planning to relocate before starting work (Required)
+
+Application Question(s):
+
+Are you able to read and interpret blueprints?
+Are you willing to undergo a background check and drug test, in accordance with local law and regulations?
+
+Experience:
+
+Electrical: 3 years (Preferred)
+Panel building: 2 years (Required)
+Manufacturing: 3 years (Preferred)
+
+Work Location: In person",-1,-1,-1,-1,-1,-1,True
+Data Engineer,CareRing Health,"Louisville, KY",-1,-1.0,"Data Engineer
+
+We are looking for a Data Engineer to be part of our ground-breaking and exciting healthcare company!
+
+About Us
+
+CareRing Health is the healthcare-at-home leader, dedicated to bringing a comprehensive and coordinated ring of care – including home health, home-based primary care, homecare, and hospice care – to the chronically-ill, Medicaid/Medicare-eligible population. Our innovative healthcare delivery model will result in better patient outcomes and bring health equity to this underserved population.
+
+We are seeking talented, passionate individuals to join our mission and help our patients live happier and healthier lives where they want to be…in their homes.
+
+What We Offer:*
+
+We know that, to be the best place for our patients, we must be the best place to work for our employees. We offer the following to our employees:
+
+Be part of a unique healthcare company where we can help those who need our help the most
+Competitive pay
+Paid on a weekly basis
+Medical/dental/vision/life insurance
+Paid holidays/PTO/401(k) match
+Career growth opportunities
+Great and collaborative work environment
+
+What You Will Do:
+
+Data pipeline management – building data systems and pipelines, combining raw information from multiple sources, identifying opportunities for data acquisition
+Architecture design – analyzing and organizing raw data using cloud-based tools
+ELT (extract/load/transform) processes – preparing data for modeling, building algorithms and prototypes, data cleansing
+Cloud management – work with multiple cloud-based services and tools, as well as hosted cloud providers
+Data monitoring – ensure data quality, processes, and routines are optimized for performance and efficiency
+Collaboration – work with data scientists and data analysts on multiple, concurrent projects
+
+Qualifications:
+
+Degree in Computer Science, Information Technology, or similar field (Master’s degree preferred)
+Three or more years of experience as a data engineer or similar role
+Knowledge of cloud-based services and tools (i.e., Azure, AWS, Snowflake, Fivetran, dbt)
+Experience with healthcare transaction data sets, including HL-7, FHIR, and the use of APIs
+Technical expertise with data models, data mining, pipeline construction, process automation, data normalization
+Knowledge of programming languages (i.e., SQL, Java, Python, JSON)
+Hands on experience with SQL database design and development
+Proficiency in Microsoft suite, including Microsoft Access
+Proficiency in data analytics tools (e.g., PowerBI), data modeling, and data visualization techniques
+Familiarity with Robotic Process Automation
+Experience with Mulesoft preferred
+Strong communication skills
+Attention to detail
+
+*Eligibility for certain benefits may depend on employment status
+
+CareRing Health is an equal opportunity employer committed to providing equal employment opportunities without regard to race, color, religion, sex (including pregnancy), sexual orientation, age, national origin, disability, genetic information, veteran status, or any other classification protected by applicable law.
+
+Job Type: Full-time
+
+Education:
+
+Bachelor's (Required)
+
+Ability to Commute:
+
+Louisville, KY 40205 (Required)
+
+Work Location: In person",-1,-1,-1,-1,-1,-1,True

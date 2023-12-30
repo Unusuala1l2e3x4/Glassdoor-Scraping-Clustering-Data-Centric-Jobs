@@ -1,0 +1,121 @@
+column,ngram range,ngram min,ngram max,stopwords,num tokens detected by vectorizer
+Job Description,"1, 1",1,1,no,67695
+Job Description,"1, 1",1,1,nltk,67557
+Job Description,"1, 1",1,1,sklearn,67400
+Job Description,"1, 1",1,1,nltk sklearn union,67378
+Job Description,"1, 1",1,1,nltk sklearn intersect,67579
+Job Description,"1, 2",1,2,no,1586888
+Job Description,"1, 2",1,2,nltk,1924770
+Job Description,"1, 2",1,2,sklearn,1885504
+Job Description,"1, 2",1,2,nltk sklearn union,1881728
+Job Description,"1, 2",1,2,nltk sklearn intersect,1928322
+Job Description,"1, 3",1,3,no,6233896
+Job Description,"1, 3",1,3,nltk,6603039
+Job Description,"1, 3",1,3,sklearn,6435895
+Job Description,"1, 3",1,3,nltk sklearn union,6423429
+Job Description,"1, 3",1,3,nltk sklearn intersect,6614995
+Job Description,"2, 2",2,2,no,1519193
+Job Description,"2, 2",2,2,nltk,1857213
+Job Description,"2, 2",2,2,sklearn,1818104
+Job Description,"2, 2",2,2,nltk sklearn union,1814350
+Job Description,"2, 2",2,2,nltk sklearn intersect,1860743
+Job Description,"2, 3",2,3,no,6166201
+Job Description,"2, 3",2,3,nltk,6535482
+Job Description,"2, 3",2,3,sklearn,6368495
+Job Description,"2, 3",2,3,nltk sklearn union,6356051
+Job Description,"2, 3",2,3,nltk sklearn intersect,6547416
+Job Description,"3, 3",3,3,no,4647008
+Job Description,"3, 3",3,3,nltk,4678269
+Job Description,"3, 3",3,3,sklearn,4550391
+Job Description,"3, 3",3,3,nltk sklearn union,4541701
+Job Description,"3, 3",3,3,nltk sklearn intersect,4686673
+job_description_cleaned,"1, 1",1,1,no,52449
+job_description_cleaned,"1, 1",1,1,nltk,52315
+job_description_cleaned,"1, 1",1,1,sklearn,52158
+job_description_cleaned,"1, 1",1,1,nltk sklearn union,52137
+job_description_cleaned,"1, 1",1,1,nltk sklearn intersect,52336
+job_description_cleaned,"1, 2",1,2,no,1376965
+job_description_cleaned,"1, 2",1,2,nltk,1654278
+job_description_cleaned,"1, 2",1,2,sklearn,1614979
+job_description_cleaned,"1, 2",1,2,nltk sklearn union,1611575
+job_description_cleaned,"1, 2",1,2,nltk sklearn intersect,1657483
+job_description_cleaned,"1, 3",1,3,no,5756088
+job_description_cleaned,"1, 3",1,3,nltk,6101598
+job_description_cleaned,"1, 3",1,3,sklearn,5925885
+job_description_cleaned,"1, 3",1,3,nltk sklearn union,5914353
+job_description_cleaned,"1, 3",1,3,nltk sklearn intersect,6112661
+job_description_cleaned,"2, 2",2,2,no,1324516
+job_description_cleaned,"2, 2",2,2,nltk,1601963
+job_description_cleaned,"2, 2",2,2,sklearn,1562821
+job_description_cleaned,"2, 2",2,2,nltk sklearn union,1559438
+job_description_cleaned,"2, 2",2,2,nltk sklearn intersect,1605147
+job_description_cleaned,"2, 3",2,3,no,5703639
+job_description_cleaned,"2, 3",2,3,nltk,6049283
+job_description_cleaned,"2, 3",2,3,sklearn,5873727
+job_description_cleaned,"2, 3",2,3,nltk sklearn union,5862216
+job_description_cleaned,"2, 3",2,3,nltk sklearn intersect,6060325
+job_description_cleaned,"3, 3",3,3,no,4379123
+job_description_cleaned,"3, 3",3,3,nltk,4447320
+job_description_cleaned,"3, 3",3,3,sklearn,4310906
+job_description_cleaned,"3, 3",3,3,nltk sklearn union,4302778
+job_description_cleaned,"3, 3",3,3,nltk sklearn intersect,4455178
+Job Title,"1, 1",1,1,no,5159
+Job Title,"1, 1",1,1,nltk,5109
+Job Title,"1, 1",1,1,sklearn,5077
+Job Title,"1, 1",1,1,nltk sklearn union,5072
+Job Title,"1, 1",1,1,nltk sklearn intersect,5114
+Job Title,"1, 2",1,2,no,26051
+Job Title,"1, 2",1,2,nltk,25090
+Job Title,"1, 2",1,2,sklearn,24856
+Job Title,"1, 2",1,2,nltk sklearn union,24838
+Job Title,"1, 2",1,2,nltk sklearn intersect,25108
+Job Title,"1, 3",1,3,no,55281
+Job Title,"1, 3",1,3,nltk,52448
+Job Title,"1, 3",1,3,sklearn,51791
+Job Title,"1, 3",1,3,nltk sklearn union,51759
+Job Title,"1, 3",1,3,nltk sklearn intersect,52480
+Job Title,"2, 2",2,2,no,20892
+Job Title,"2, 2",2,2,nltk,19981
+Job Title,"2, 2",2,2,sklearn,19779
+Job Title,"2, 2",2,2,nltk sklearn union,19766
+Job Title,"2, 2",2,2,nltk sklearn intersect,19994
+Job Title,"2, 3",2,3,no,50122
+Job Title,"2, 3",2,3,nltk,47339
+Job Title,"2, 3",2,3,sklearn,46714
+Job Title,"2, 3",2,3,nltk sklearn union,46687
+Job Title,"2, 3",2,3,nltk sklearn intersect,47366
+Job Title,"3, 3",3,3,no,29230
+Job Title,"3, 3",3,3,nltk,27358
+Job Title,"3, 3",3,3,sklearn,26935
+Job Title,"3, 3",3,3,nltk sklearn union,26921
+Job Title,"3, 3",3,3,nltk sklearn intersect,27372
+Job Title clean,"1, 1",1,1,no,3848
+Job Title clean,"1, 1",1,1,nltk,3809
+Job Title clean,"1, 1",1,1,sklearn,3781
+Job Title clean,"1, 1",1,1,nltk sklearn union,3777
+Job Title clean,"1, 1",1,1,nltk sklearn intersect,3813
+Job Title clean,"1, 2",1,2,no,20864
+Job Title clean,"1, 2",1,2,nltk,20104
+Job Title clean,"1, 2",1,2,sklearn,19856
+Job Title clean,"1, 2",1,2,nltk sklearn union,19841
+Job Title clean,"1, 2",1,2,nltk sklearn intersect,20119
+Job Title clean,"1, 3",1,3,no,44816
+Job Title clean,"1, 3",1,3,nltk,42517
+Job Title clean,"1, 3",1,3,sklearn,41609
+Job Title clean,"1, 3",1,3,nltk sklearn union,41583
+Job Title clean,"1, 3",1,3,nltk sklearn intersect,42543
+Job Title clean,"2, 2",2,2,no,17016
+Job Title clean,"2, 2",2,2,nltk,16295
+Job Title clean,"2, 2",2,2,sklearn,16075
+Job Title clean,"2, 2",2,2,nltk sklearn union,16064
+Job Title clean,"2, 2",2,2,nltk sklearn intersect,16306
+Job Title clean,"2, 3",2,3,no,40968
+Job Title clean,"2, 3",2,3,nltk,38708
+Job Title clean,"2, 3",2,3,sklearn,37828
+Job Title clean,"2, 3",2,3,nltk sklearn union,37806
+Job Title clean,"2, 3",2,3,nltk sklearn intersect,38730
+Job Title clean,"3, 3",3,3,no,23952
+Job Title clean,"3, 3",3,3,nltk,22413
+Job Title clean,"3, 3",3,3,sklearn,21753
+Job Title clean,"3, 3",3,3,nltk sklearn union,21742
+Job Title clean,"3, 3",3,3,nltk sklearn intersect,22424

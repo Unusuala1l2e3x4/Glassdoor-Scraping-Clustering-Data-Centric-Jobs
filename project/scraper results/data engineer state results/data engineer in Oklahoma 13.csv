@@ -1,0 +1,707 @@
+Job Title,Company Name,Location,Salary Estimate,Rating,Job Description,Founded,Industry,Revenue,Sector,Size,Type,Easy Apply
+Data Engineer,"First Fidelity Bank
+","Oklahoma City, OK",$71K - $101K (Glassdoor est.),3.6,"SUMMARY
+
+The Data Engineer is part of the Data Analytics team that supports the entire organization in developing, programming, and supporting the FFB Enterprise Data Environment. Duties entail developing and maintaining the enterprise data and data integration points and pipelines for both on-premises and cloud environments. In addition, the Data Engineer will write and maintain scripts and programs to manage the various enterprise data objects. They must be self-directed and comfortable supporting the data needs of multiple teams, systems, and products.
+
+
+PRIMARY DUTIES/RESPONSIBILITIES:
+
+Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities, and activities may change at any time with or without notice.
+
+Create and maintain optimal data pipeline architecture.
+Assemble large, complex data sets that meet functional/non-functional business requirements.
+Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
+Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL and/or MS Azure ‘big data’ technologies.
+Build analytics tools that utilize the data pipeline to provide actionable insights into customer acquisition, operational efficiency, and other key business performance metrics.
+Work with stakeholders to assist with data-related technical issues and support their data infrastructure needs.
+Ensure that our data is appropriately separated and secure across national boundaries through multiple data centers and MS Azure regions.
+Analyze and interpret complex data sets to identify trends, patterns, and insights that inform business decisions.
+Develop and maintain reports and dashboards that provide stakeholders with actionable insights into key business performance metrics.
+Develop and implement data quality standards and processes to ensure the accuracy, completeness, and consistency of enterprise data.
+Work with stakeholders to define and enforce data governance policies and procedures.
+Design and develop data models that support business requirements and enable efficient data analysis.
+Create visualizations and other data representations that effectively communicate insights to stakeholders.
+Stay up to date with emerging trends and technologies in data management and analytics and make recommendations for their adoption.
+Work with stakeholders to develop and execute a data strategy that supports business objectives and drives innovation.
+Create data tools for analytics and data scientist team members that assist them in building and optimizing our product into an innovative industry leader.
+Develop and support development operations (DevOps) and data operations (DataOps) principles and processes.
+Work with data and analytics experts to strive for greater functionality in our data systems.
+Perform other related duties as assigned. Regular and reliable attendance is a requirement of the job.
+
+QUALIFICATIONS
+
+EXPERIENCE REQUIREMENTS:
+
+2+ years of experience in a Data Engineer, Data Programmer/Analyst or similar role.
+
+Experience in the following is a plus:
+
+NoSQL databases, including Postgres and Cassandra.
+Object-oriented/object function scripting languages: Python, Java, C++, Scala, etc.
+Cloud platforms: AWS, MS Azure, Google Cloud.
+Big data tools: Hadoop, Spark, Kafka, etc.
+Data pipeline and workflow management tools: Azkaban, Luigi, Airflow, etc.
+Stream-processing systems: Storm, Spark-Streaming, etc.
+
+
+EDUCATION REQUIREMENTS:
+
+Bachelor’s and/or Graduate degree in Computer Science, Statistics, Informatics, Information Systems ,or another quantitative field.
+
+
+OTHER REQUIREMENTS (SKILLS, ABILITIES, CHARACTERISTICS):
+
+Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases.
+Experience building and optimizing ‘big data’ data pipelines, architectures and data sets.
+Strong analytic skills related to working with unstructured datasets.
+Build processes supporting data transformation, data structures, metadata, dependency and workload management.
+Strong project management and organizational skills.
+Experience supporting and working with cross-functional teams in a dynamic environment.
+Excellent interpersonal skills in working with all levels of colleagues within the bank.
+
+
+ADDITIONAL INFORMATION
+
+SUPERVISORY RESPONSIBILITY: None
+
+PHYSICAL REQUIREMENTS:
+
+Must be able to work within a routine office environment.
+Ability to travel from one office location to another.
+
+EOE disability/vet",1920,Banking & Lending,$25 to $100 million (USD),Financial Services,201 to 500 Employees,Company - Private,True
+Data Engineer - Full Time,"NORTHEASTERN HEALTH SYSTEM
+","Tahlequah, OK",$70K - $98K (Glassdoor est.),3.3,"Position Summary
+
+The Data Engineer works primarily with members of Decision Support and Information Technology to develop, maintain and monitor data flows for the organization. At times, the Data Engineer will meet with stakeholders and vendors to clarify requirements in order to successfully bring projects to fruition. The position is responsible for performing ETL functions, setting up automation, establishing FTP file transfers with vendors, writing scripts to transform and move data, performing data analysis, developing reports, presenting updates to stakeholders, maintaining recurring reports, and developing tools to further these activities.
+
+Position Accountabilities
+
+Maintains departmental policies, procedures, objectives, performance improvement programs, safety, and environmental and infection control standards.
+
+Manages and communicates project requirements and functional specifications through collaboration with stakeholders, vendors, and team members.
+
+Designs, develops and maintains data flows and transformations using various methods and technologies, in solo and team environments.
+
+Develops data ETL processes between various systems.
+
+Designs, develops and maintains reports and analyses using various methods and technologies, in solo and team environments.
+
+Manages and monitors Decision Support infrastructure to ensure optimum performance and security.
+
+Manages and optimizes data retrieval, storage and distribution for Decision Support activities.
+
+Validates data for accuracy and relevance.
+
+Identify ways to improve data reliability, efficiency and quality.
+
+Identifies new opportunities for automation and data management that could bring efficiency and value to NHS.
+
+Maintains a supportive and productive relationship with Decision Support and Information Technology staff.
+
+Tracks and documents work using the department’s issue tracking system.
+
+Maintains professional growth and development through activities such as training, workshops, and professional affiliations, to stay up-to-date with best practices and trends in the field of Decision Support and data analytics.
+
+Performs other related duties as assigned or requested.
+
+Minimum Education - Bachelors Degree in Computer Science or related field or equivalent work experience
+
+Minimum Experience - 3 years experience working in technical data management role
+
+Preferred Education - Degree in Computer Science or Data Science
+
+Preferred Experience - Five years of progressive data management and engineering experience; Three years healthcare experience; SQL, database management, multiple programming languages, server administration, VM management, FTP configuration
+
+Do you have questions about starting your career with Northeastern Health System? Our healthcare recruiter is available to answer all of your questions related to any position.
+
+Sharee Maggard
+
+918-207-2699 Call or Text
+
+recruiter@nhs-ok.org",-1,Health Care Services & Hospitals,Unknown / Non-Applicable,Healthcare,Unknown,Company - Public,False
+Data Engineer,"Life.Church
+","Edmond, OK",$74K - $109K (Glassdoor est.),4.6,"At Life.Church, we exist to lead people to become fully devoted followers of Christ. It’s been our mission since 1996 and has guided us every day. Leading people isn’t just an expectation; it’s a necessity. It’s a cornerstone of our culture. That's why we’re always seeking leaders—leaders like you—to bring your skills to life. We are one church meeting in multiple locations, and we want to help you become the person God made you to be.
+
+The Technology Solutions Team equips the Life.Church staff with the resources and technology that allow the team to know people, tell their stories, and invite others to use their gifts to build the church. We work to empower ministry through the use of technology.
+
+The Data Insights Data Engineer is responsible for implementing methods to improve data reliability and quality. This role combines raw information from different sources to create consistent and machine-readable formats. Data Engineers are responsible for the processes of installation, data back up, and routine updates for databases. They will also develop and test architectures that enable data extraction and transformation for predictive or prescriptive modeling.
+What You'll Do
+Data management.
+Responsible for installation, back-ups, and performing routine updates on organizational databases.
+Maintain data integrity through high-performance optimization.
+Manage system integrations to ensure an accurate flow of data while maintaining uptime rates.
+Data modeling.
+Build and implement data mapping, forecasting, and queries.
+Machine Learning and AI.
+Implement and manage ETL and data warehouse processes to ensure clean sources of data for analysts to report from.
+Skills Needed to Succeed
+Excellent verbal, written, and interpersonal communication skills to maintain relationships and partnerships.
+Analytical and problem-solving skills.
+Maintain a systematic and organized approach to completing assignments accurately, thoroughly, and timely.
+Clearly explain complicated and detailed processes in a concise and simple way.
+Ability to self-motivate, take initiative, make independent decisions, and problem-solve.
+Ability to collaborate in a team environment and work independently.
+Strong programming skills, particularly in languages such as Python and SQL.
+Cloud computing skills(Google Cloud).
+Benefits We Offer
+Paid parental leave, including maternity, paternity, and adoption leave.
+Generous employer-paid leave for the use of vacation, sick time, and other qualifying reasons.
+Innovative and comprehensive Medical, Dental, and Vision insurance that provides team members with useful resources and savings to navigate their holistic health.
+Life insurance policy provided for all staff members at 2x annual salary at no cost. Additional life insurance coverage is available to purchase.
+Short-Term and Long-Term disability is covered at 100% for full-time qualified staff members.
+Comprehensive wellness and mental health benefits allow staff to proactively invest in their physical and emotional health.
+Generous 401(k) retirement plan allowing a team member to have up to 12.5% (including employee contribution, employer match, and employer discretionary contribution) contributed into their account in their first year. It doesn’t stop there—the more years on staff, the greater the investment!
+$160 annually in development dollars for team members to invest in their professional growth.
+Casual dress and work environment.
+Flexible work schedule.
+And much more!
+Our Beliefs, Culture, and Commitment to Diversity
+At Life.Church, every staff member, and intern is a minister and is expected to engage in the church's ministry fully. We consider ministry readiness and an individual’s capacity to represent Life.Church’s beliefs as a minister during the selection process for all staff and intern positions. An essential function within every position held by a staff member or intern at Life.Church is to uphold and represent the beliefs of Life.Church. Learn more about what we believe at Life.Church.
+
+While we unite around our mission, we know unity doesn’t mean uniformity. Our calling is too great, and our mission is too important not to be intentional about strengthening our team through diversity. We know that diverse perspectives in race, ethnicity, background, age, and gender are essential to reaching the world for Christ. To learn more about how we strengthen our team through diversity, visit our careers page.
+
+All data collected in our application process, from resume collection to application questions, is used for recruitment purposes only.",1996,Religious Institutions,Unknown / Non-Applicable,Nonprofit & NGO,501 to 1000 Employees,Nonprofit Organization,False
+DATA ENGINEER-INFORMATION TECHNOLOGY,"Oklahoma Blood Institute
+","Oklahoma City, OK",$59K - $87K (Glassdoor est.),3.0,"ADVANCE YOUR CAREER WHILE SAVING LIVES
+
+
+Location: Oklahoma City, OK
+
+Pay: Competitive slary based on education and/or experience and $500 bonus after 6 months and $1,000 bonus after 1 year!
+
+Benefits: Health, dental, vision, life insurance, long term disability, 401(k), paid-time off, $5,000 annual tuition reimbursement, holiday pay, etc.
+
+
+Days: Monday through Friday
+
+Hours: 8:00 a.m. to 5:00 p.m.
+
+Position:
+
+OBI is looking for a Data Engineer to help lead and guide the transformation of OBI's reporting capabilities. This role is focused on data engineering, data optimization, research, and implementation. The primary responsibilities include fulfilling data engineering and research requests and developing dashboards and reports. The Data Engineer will work on translating business needs into data-driven technology strategies to support strategic decision-making. They will be responsible for discovering data patterns, identifying opportunities for operational efficiency improvement, driving new technology directions, and providing subject matter expertise to decision-makers. Some development experience is preferred but not required. Experience with ETL tools and Data Warehouse development is preferred. The ability to learn new technologies is important to this position. This includes but is not limited to open-source tool experience used with data engineering.
+
+Qualifications:
+
+High school diploma or GED required, bachelors in related field preferred.
+2 Years experience with Oracle Database.
+2 Years experience building data models using R, Python or other statistical and/or mathematical programming packages.
+2 Years experience with engineering data intensive software using streaming and resource-based design principles.
+Technical expertise and advocate of software development best practices (Version Control, Code Documentation and Review, Cloud Based Sequence Analysis, Database Management).
+Understanding of data management and data governance practices, including data stewards, data custodians, data lineage, data quality, data cleansing, metadata management, etc.
+Experience with DevOps methodologies including Infrastructure as Code concept.
+Experience with technologies for processing data at scale and delivering data pipelines including Kafka, Spark, AWS SQS, Lambda, Step functions, ECS, Fargate, Athena, BigQuery, GCP PubSub, Cloud functions, Cloud Run, Kubernetes.
+Creative, proactive, bold and out-of-box thinking.
+High school diploma or GED required, bachelors in related field preferred.
+Knowledge of SCRUM.
+Ability to work collaboratively in a team environment.
+Develop requirements and deliver projects in a direct working relationship with end-users, stakeholders, and team members.
+Excellent written and oral communication skills.
+Ability to translate business requirements into a technical architecture using common business tool sets. Ability to manage multiple priorities, operate and perform with little or no supervision and strong attention to detail.
+Strong oral and written communication skills and the ability to communicate effectively with technical and non-technical people.
+Strong customer service skills.
+Experience in the Healthcare industry or technology consulting, including experience in Database Architecture and/or Software Development a plus.
+
+Primary Responsibilities:
+
+Assist with database planning, deployment, configuration, design, testing, and maintenance, ensuring high-quality standards and best practices are followed.
+Optimize database deployments and ensure scalability and performance.
+Document database deployments.
+Assist with developing advanced database recovery and replication strategies, with a focus on disaster recovery.
+Monitor database resource utilization and query performance.
+Facilitate the transfer of unstructured and structured data.
+Develop data delivery systems for data analysts and software engineers.
+Develop complex SQL queries, reports, scorecards, and dashboards.
+Assist with the design, development, and implementation of reports, scorecards, and dashboards.
+Analyze and interpret complex data, producing compelling reports.
+Build reports, scorecards, and dashboards using SQL skills.
+Proficiency in problem-solving and adherence to standards.
+Understand agile principles and practices.
+Demonstrate ability to use analytics language/development tool (e.g., Python, R, F#).
+Apply data mining experience and data quality planning.
+Database deployment, data replication, and parallel processing.
+Experience with distributed systems and scaling.
+Writing stored procedures, views, scripting, and job configuration.",1976,Civic & Social Services,$25 to $100 million (USD),Nonprofit & NGO,501 to 1000 Employees,Nonprofit Organization,True
+Business Process & Data Engineer,"Canoo Technologies Inc.
+","Oklahoma City, OK",$74K - $106K (Glassdoor est.),3.0,"About Canoo:
+Canoo’s mission is to bring EVs to Everyone and build a world-class team to deploy this sustainable mobility revolution. We have developed breakthrough electric vehicles that are reinventing the automotive landscape with pioneering technologies, award-winning designs, and a unique business model that spans all owners in the full lifecycle of the vehicle. Canoo is starting production and is distinguished by its pioneering and experienced team of technologists, engineers, and designers. With offices around the country, the company is scaling quickly and seeking candidates who love to challenge themselves, are motivated by purpose, and possess a strong desire to get things done.
+
+The “Canoo Way”
+
+Canoo’s success is the direct result of our disciplined application of our core operating principles and drills, which are based on three main principles: Think 80/20 (“Important versus less important”), Act 30/30 (“Reduce waste and increase output”), and Live 90/10 (“We have each other’s back”). We hire based on “MET” - Mindset, Equipment, and willingness to Train - and seek individuals that take accountability and deliver results while being Humble, Hungry to succeed, and Hunting for opportunities to win. We train our team to engage with each other by modulating between their intellect (iQ) and emotional intelligence (eQ), applying Facts, Finesse, and Force when they communicate. The principles and drills of the CANOO Way have been fundamental to our success, our ability to grow, continuously improve, and innovate are at the core of our day-to-day operations.
+Overview:
+The Business Process and Data Engineer is a key function within the Supply Chain & Management Organization at Canoo. Responsibilities will include data entry, data gathering, organizing, and analyzing data from various Canoo internal & external Systems to tell impactful stories, find areas of opportunity, supporting business decisions, creating tables /charts/Graphs that help in decision making/intelligence. In addition to being a subject matter expert on these various datasets, this role will be responsible for performing and presenting various ad-hoc analyses including cost studies, location and optimization analyses and root cause analyses.
+
+The ideal candidate can understand and communicate complex issues and ideas to a variety of audiences, manage competing priorities through effective communication and documentation, and work effectively with cross-functional team members. We are looking for an organized self-starter with an analytical mind and experience with various analytical tools.
+Responsibilities:
+Responsibilities (The 80's of the position)
+Analyze complex business problems using data from internal and external sources to provide insight to decision-makers for various supply chain operations.
+Interpret business requirements and perform analysis to support strategic and tactical objectives
+Create ad-hoc reports for various stakeholders to support strategic and tactical initiatives in SCM environment
+Enter, Develop, manage, and maintain data, KPIs and processes for the logistics group ensuring reliability, integrity, and accuracy of data
+Analyze user requirements, procedures, and problems to automate or improve data collection processes
+Identify and interpret trends and patterns in datasets to locate root-cause drivers
+Automate non-value-added tasks and data collection for dashboards in collaboration with IT
+Support Logistics Systems teammates testing implementations and enhancements
+Other details
+Develop and enhance current SCM Cost Model Forecasting and Metrics
+Perform ad-hoc studies on various tactical and strategic initiatives, reporting out on recommendations and results
+Establish control processes and guidelines for data maintenance for Production, Pre-series and other products
+Facilitate and coordinate logistics data integrity concerns and provide a regular communication link back to stakeholders
+Support systems data entry and analysis including Oracle, Compass, dBeaver and Integration Point systems
+Partner with SCM planning, SCM operations, Purchasing, Engineering and IT to continuously improve data accuracy and maintain data integrity
+#LI-MS2
+Qualifications:
+
+Required Experience:
+
+
+
+Excellent communication and interpersonal skills with success in working across organizations at all levels.
+Proactive self-starter with strong organizational skills, attention to detail and the ability to work in a dynamic, fast-paced environment.
+Excellent computer skills with high degree of expertise in MS office tools
+Analytical background preferred
+Relocation to Factory Production or Logistics Planning Center may be required
+
+Preferred Experience:
+
+3-5 years’ experience in structuring, analyzing, and visualizing large data sets.
+Working or practical knowledge of manufacturing, supply chain and logistics is preferred
+Understands Operations planning, forecasting, inputs, and assumptions necessary to complete Supply chain analysis
+Practical experience leading/managing collaborative projects with extremely complex/technical detail subject matter
+Experience with Data visualization tools (Tableau, PowerBI) and data transformation tools (Alteryx, Knime) – Knowledge of SQL, R and/or Python is a plus
+Experience with JIRA, Confluence and/or other project management and documentation tool
+
+Travel Requirements: 35%
+
+Physical Requirements:
+
+While performing the duties of this job, employees may be required to sit for prolonged periods of time, occasionally bending or stooping, lifting up to 10 pounds, and prolonged periods of computer use.
+
+Reasonable Accommodations:
+
+Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions of the position.
+What's Cool About Working Here...:
+
+Meaningful, challenging work that will redefine the automotive landscape and make EVs available to everyone
+Comprehensive Health Insurance
+Equity Compensation
+Flexible Paid Time Off
+Casual workplace with an unbelievable feeling of energy
+Canoo is an equal opportunity-affirmative action employer and considers all qualified applicants for employment based on business needs, job requirements and individual qualifications, without regard to race, color, religion, sex, age, disability, sexual orientation, gender identity or expression, marital status, past or present military service or any other status protected by the laws or regulations in the locations where we operate. We also consider qualified applicants with criminal histories consistent with applicable federal, state and local law.
+
+Any unsolicited resumes or candidate profiles submitted in response to our job posting shall be considered the property of Canoo Inc. and its subsidiaries and are not subject to payment of referral or placement fees if any such candidate is later hired by Canoo unless you have a signed written agreement in place with us which covers the applicable job posting.
+
+Canoo maintains compliance with the OFCCP. As such, please feel free to review the following information:
+
+https://www.dol.gov/agencies/ofccp/posters
+
+https://www.dol.gov/agencies/olms/poster/labor-rights-federal-contractors
+
+If you are a person with a disability needing assistance with the application process, please call (214) 529-8055 or email us at talentacquisitionteam@canoo.com
+Equal Employment Opportunity Posters
+Equal Employment Opportunity Posters | U.S. Department of Labor (dol.gov)",-1,Vehicle Dealers,Unknown / Non-Applicable,Retail & Wholesale,Unknown,Company - Private,False
+Senior Data Engineer,"Compsource Mutual Insurance Company
+","Oklahoma City, OK",$92K - $124K (Glassdoor est.),4.0,"Are you an experienced data engineer looking for a new opportunity in the OKC area? Are you passionate about data quality, accuracy, SQL, and Python? Do you enjoy troubleshooting to resolve defects and supporting data warehouse operations? Let me introduce you to CompSource Mutual! CompSource has been proudly serving Oklahoma workers since 1933, providing workers’ comp protection and support in good times and bad. We are passionate about providing a great place to work and are consistently awarded as a “best” and “top” place to work in Oklahoma!
+
+
+What we’re offering:
+
+Full-time Senior Data Engineer position in Oklahoma City. Salary range determined based on experience and internal salary equity. Benefit package includes: free employee medical/dental/vision/life/ad&d insurance, company match 401k, generous paid time off and wellness leave, hybrid work schedule, and voluntary benefits.
+
+
+What you’ll do:
+
+The Senior Data Engineer designs, develops, and supports the enterprise data warehouse and data integration solutions. Use standard data warehouse design methodologies, develop technical requirements to support corporate reporting and analytics needs. Ensures data quality and accuracy, troubleshoots, and resolves defects in support of data warehouse operations. Understands and utilizes tools like Informatica and programming languages like SQL as well as scripting tools such as Python. Acts as liaison between information technology and business units to develop data warehouse products based on business requirements.
+
+
+Who we’re looking for:
+
+Bachelor’s degree preferred or equivalent combination of education and experience
+Required experience:
+5+ years’ designing and developing data integrations for data warehouses
+5+ years’ with Oracle Database Management Systems and Structured Query Language (SQL)
+Data integration tools and dimensional modeling
+Preferred experience with:
+Wherescape RED, 3D and Data Vault Express
+Data related to workers compensation and insurance
+Cloud-based data warehouse products, such as Snowflake, Amazon Web Services and/or Microsoft Azure
+SAFe Agile and SCRUM methodologies
+
+An Equal Opportunity Employer",1933,Insurance Carriers,$100 to $500 million (USD),Insurance,201 to 500 Employees,Company - Private,True
+Information Technology - Data Engineer II 130-2050,"CommunityCare
+","Tulsa, OK",$55K - $80K (Glassdoor est.),3.4,"JOB SUMMARY:
+The Data Engineer II will be responsible for expanding and optimizing our data and data pipeline architecture, as well as optimizing data flow and collection across organizational teams. The Data Engineer will support our software engineers, database architects and data analysts on data initiatives and will ensure optimal data delivery architecture is consistent throughout ongoing projects.
+
+KEY RESPONSIBILITIES:
+
+Create and maintain optimal data pipeline architecture to support our next generation of products and data initiatives.
+Assemble large, complex data sets that meet functional business requirements.
+Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability.
+Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using Oracle, SQL and Azure.
+Highly skilled in the development of SSIS, ETL and other standardized data management tools.
+Build analytics tools that utilize the data pipeline to provide actionable insights into customer acquisition, operational efficiency and other key business performance metrics.
+Performs other duties as required.
+QUALIFICATIONS:
+
+Build processes supporting data transformation, data structures, metadata, dependency and workload management.
+A successful history of manipulating, processing and extracting value from large disconnected datasets.
+Strong project management and organizational skills.
+Ability to work independently, handle multiple tasks and projects simultaneously.
+Experience building and optimizing ‘big data’ data pipelines, architectures and data sets.
+EDUCATION/EXPERIENCE:
+
+College degree or equivalent experience required.
+Minimum three years of related experience developing data pipelines.
+Minimum three years supporting data warehouses.
+Demonstrated experience preparing analytical reports and developing data models.
+Project management skills preferred.
+Willingness to work in a high-tech, continually evolving, innovative environment.",2009,Health Care Services & Hospitals,$100 to $500 million (USD),Healthcare,1001 to 5000 Employees,Nonprofit Organization,True
+Senior Data Engineer,"BambooHR
+","Oklahoma City, OK",$103K - $138K (Glassdoor est.),3.8,"About Us
+
+Our mission is simple: we want to set people free to do meaningful work. People love our software—and it turns out that people love working here too. We've been recognized as a ""Best Company to Work For"" and we're proud of our team for creating software that makes an impact in the lives of HR pros and employees all over the world.
+
+What You'll Do
+
+As a Senior Data Engineer on the data platform team, we'll rely on your expertise across multiple disciplines to develop, deploy and support data systems, data pipelines, data lakes, and lakehouses. Your ability to automate, performance tune, and scale the data platform will be key to your success.
+
+Your initial areas of focus will include:
+
+Collaborate with stakeholders to make effective use of core data assets
+With Spark and Pyspark libraries, load both streaming and batched data
+Engineer lakehouse models to support defined data patterns and use cases
+Leverage a combination of tools, engines, libraries, and code to build scalable data pipelines
+Work within an IT managed AWS account and VPC to stand up and maintain data platform development, staging, and production environments
+Documentation of data pipelines, cloud infrastructure, and standard operating procedures
+Express data platform cloud infrastructure, services, and configuration as code
+Automate load, scaling, and performance testing of data platform pipelines and infrastructure
+Monitor, operate, and optimize data pipelines and distributed applications
+Help ensure appropriate data privacy and security
+Automate continuous upgrades and testing of data platform infrastructure and services
+Build data pipeline unit, integration, quality, and performance tests
+Participate in peer code reviews, code approvals, and pull requests
+Identify, recommend, and implement opportunities for improvement in efficiency, resilience, scale, security, and performance
+
+
+
+What You Need to Get the Job Done (if you don't have all, apply anyway!)
+
+Experience developing, scaling, and tuning data pipelines in Spark with PySpark
+Understanding of data lake, lakehouse, and data warehouse systems, and related technologies
+Knowledge and understanding of data formats, data patterns, models, and methodologies
+Experience storing data objects in hadoop or hadoop like environments such as S3
+Demonstrated ability to deploy, configure, secure, performance tune, and scale EMR and Spark
+Experience working with streaming technologies such as Kafka and Kinesis
+Experience with the administration, configuration, performance tuning, and security of database engines like Snowflake, Databricks, Redshift, Vertica, or Greenplum
+Ability to work with cloud infrastructure including resource scaling, S3, RDS, IAM, security groups, AMIs, cloudwatch, cloudtrail, and secrets manager
+Understanding of security around cloud infrastructure and data systems
+Git-based team coding workflows
+
+
+
+Bonus Skills (Not Required, So Apply Anyway!)
+
+Experience deploying and implementing lakehouse technologies such as Hudi, Iceberg, and Delta
+Experience with Flink, Presto, Dremio, Databricks, or Kubernetes
+Experience with expressing infrastructure as code leveraging tools like Terraform
+Experience and understanding of a zero trust security framework
+Experience developing CI/CD pipelines for automated testing and code deployment
+Experience with QA and test automation
+Exposure to visualization tools like Tableau
+
+
+
+Beyond the technical skills, we're looking for individuals who are:
+
+Clear communicators with team members and stakeholders
+Analytical and perceptive of patterns
+Creative in coding
+Detail-oriented and persistent
+Productive in a dynamic setting
+
+If you love to learn, you'll be in good company. You'll likely have a Bachelor's degree in computer science, information systems, or equivalent working experience.
+
+
+
+
+An Equal Opportunity Employer-M/F/D/V
+Because our team members are trusted to handle sensitive information, we require all candidates that receive and accept employment offers to complete a background check before being hired.
+
+For information on our Privacy Policy, click here.",2008,Enterprise Software & Network Solutions,Unknown / Non-Applicable,Information Technology,1001 to 5000 Employees,Company - Private,True
+On-Site Mechanical Engineer - Data Center,"Olsson
+","Oklahoma City, OK",$58K - $78K (Glassdoor est.),3.8,"Company Description
+
+
+We are Olsson, a team-based, purpose-driven engineering and design firm. Our solutions improve communities and our people make it possible.
+
+Our most meaningful asset is our people, and we are dedicated to providing an environment where they can continue to learn, grow, and thrive. Our entrepreneurial spirit is what has allowed us — and will continue to allow us — to grow. The result? Inspired people, amazing designs, and projects with purpose.
+
+
+
+Job Description
+
+
+As an On-Site Mechanical Engineer, you will work directly with some of the world’s largest technology companies and other mission-critical clients. You will serve as a mechanical engineer on projects, design calculations, write technical reports, and prepare documents. You will also coordinate with other Olsson teams, professional staff, technical staff, and clients. You may travel to job sites for observation and attend client meetings.
+
+
+
+Qualifications
+
+
+You are passionate about:
+
+Working collaboratively with others
+Having ownership in the work you do
+Using your talents to positively affect communities
+
+You bring to the team:
+
+Strong communication skills
+Ability to contribute and work well on a team
+Bachelor’s degree in engineering preferred
+3+ years of experience
+
+Additional Information
+
+
+Olsson is a nationally recognized, employee-owned firm specializing in planning and design, engineering, field services, environmental, and technology. Founded in 1956 on the very mindset that drives us today, we’re here to improve communities by making them more sustainable, better connected, and more efficient. Simply put, we work to leave the world better than we found it.
+
+As an Olsson employee, you’ll receive our traditional benefits package (health care, vision, dental, paid time off, etc.), plus you’ll:
+
+Become an owner in the company after your first year through our Employee Stock Ownership Plan (ESOP)
+Engage in work that has a positive impact in communities
+Receive an excellent 401(k) match
+Participate in a wellness program promoting balanced lifestyles
+Benefit from a bonus system that rewards performance
+Have the possibility for flexible work arrangements
+
+Olsson is an EEO employer. We encourage qualified minority, female, veteran and disabled candidates to apply and be considered for open positions. We do not discriminate against any applicant for employment, or any employee because of race, color, religion, national origin, age, sex, sexual orientation, gender identity, gender, disability, age, or military status.
+
+#LI-MP1",1956,Architectural & Engineering Services,$100 to $500 million (USD),"Construction, Repair & Maintenance Services",1001 to 5000 Employees,Private Practice / Firm,True
+Senior Electrical Engineer - Data Center,"Olsson
+","Oklahoma City, OK",$80K - $112K (Glassdoor est.),3.8,"Company Description
+
+
+We are Olsson, a team-based, purpose-driven engineering and design firm. Our solutions improve communities and our people make it possible.
+
+Our most meaningful asset is our people, and we are dedicated to providing an environment where they can continue to learn, grow, and thrive. Our entrepreneurial spirit is what has allowed us — and will continue to allow us — to grow. The result? Inspired people, amazing designs, and projects with purpose.
+
+
+
+Job Description
+
+
+As an Electrical Engineer, you will work directly with some of the world’s largest technology companies and other mission-critical clients. You will serve as an electrical engineer on projects, design calculations, write technical reports, and prepare documents. Experience in the Data Center industry is preferred. You will also coordinate with other Olsson teams, professional staff, technical staff, and clients.
+
+
+
+Qualifications
+
+
+You are passionate about:
+
+Working collaboratively with others
+Having ownership in the work you do
+Using your talents to positively affect communities
+
+You bring to the team:
+
+Strong communication skills
+Ability to contribute and work well on a team
+Bachelor's degree in electrical engineering
+8+ years of electrical engineering experience
+Licensed PE
+Ability to be a self-starter to take on a variety of tasks to best serve the client and their project work
+Investigation and troubleshooting of problems to find solutions
+
+Additional Information
+
+
+Olsson is a nationally recognized, employee-owned firm specializing in planning and design, engineering, field services, environmental, and technology. Founded in 1956 on the very mindset that drives us today, we’re here to improve communities by making them more sustainable, better connected, and more efficient. Simply put, we work to leave the world better than we found it.
+
+As an Olsson employee, you’ll receive our traditional benefits package (health care, vision, dental, paid time off, etc.), plus you’ll:
+
+Become an owner in the company after your first year through our Employee Stock Ownership Plan (ESOP)
+Engage in work that has a positive impact in communities
+Receive an excellent 401(k) match
+Participate in a wellness program promoting balanced lifestyles
+Benefit from a bonus system that rewards performance
+Have the possibility for flexible work arrangements
+
+Olsson is an EEO employer. We encourage qualified minority, female, veteran and disabled candidates to apply and be considered for open positions. We do not discriminate against any applicant for employment, or any employee because of race, color, religion, national origin, age, sex, sexual orientation, gender identity, gender, disability, age, or military status.
+
+#LI-MP1",1956,Architectural & Engineering Services,$100 to $500 million (USD),"Construction, Repair & Maintenance Services",1001 to 5000 Employees,Private Practice / Firm,True
+Senior Data & Analytics Engineer,"AHS Staffing
+","Edmond, OK",$79K - $111K (Glassdoor est.),4.1,"It's fun to work in a company where people truly believe in what they're doing!
+We're committed to bringing passion and customer focus to the business.
+About AHTG
+American Health Technology Group (AHTG) is a software startup based on Edmond, Oklahoma. We offer two SaaS products focused on different segments of the Healthcare Staffing industry. We are the only company that has products in both key segments and as such, our products are disrupting the industry due to a pleasing UX and unprecedented integration from end-to-end. Our VMS product was launched in 2018, has over $1.5B in total throughput, and is used by some of the largest healthcare systems in the nation. We are focused on delivering value quickly with technical excellence and enjoying life. Learn more at
+ahtgsolutions.com
+.
+
+About this role
+In this role, you will join our team reporting to the Director of Data & Analytics. Your primary focus will be owning the front-end analytics and data visualization function of the team. This role promises a high degree of ownership, responsibility, and creative freedom to maintain and advance AHTG’s analytics technology and customer product offerings.
+
+We’re seeking candidates who are excited to deliver rich, visual insights to customers using Power BI. Ideal candidates have a track record of diving deep into the Power BI platform and delivering analytics solutions that utilize the Power BI API, optimize DAX and M for performance, and that use Power BI embedded capacities for hosting. Bringing enthusiasm for Power BI as a career path with several years of advanced experience dedicated to the Power BI platform are essential to qualify for this senior role.
+
+Over the past 3 years, the AHTG Data & Analytics team has designed and built a cloud data warehouse using Fivetran, Snowflake, dbt-core, Azure and Power BI for embedded analytics in our SaaS products. The team has also delivered a data-as-a-service (DaaS) product to facilitate data integration and new revenue streams. The person hired for this role will support and enhance AHTG’s existing Power BI investment and drive future investments in related product and analytics software efforts.
+
+In the AHTG Data & Analytics team, we make smart decisions that enable us to do a lot with a little. We have a high value for good architecture, code design, UX and automating processes. We expect our team to utilize software engineering principles of DRY, Single-Responsibility and modularity in our everyday thinking and design work. We harness automation, CI/CD and consistent coding standards to scale our capabilities. We invite all ideas in the solutioning process having a strong belief that the best ideas rise to the top through collaborative and iterative discussion. We rely on each team member to do their part while collectively owning the success or failure of the solutions we deliver.
+We invite experienced candidates to apply for this remote role.
+Our Tech Stack
+Azure SQL, Fivetran, dbt-core, Snowflake, Power BI, Power BI Embedded Capacity, pbi-tools, Azure, Azure DevOps (Agile), Git, PowerShell, C#
+
+What You’ll Do
+Design intuitive and pleasing analytics user experiences based on proven visual design patterns that enable users to answer their most important questions.
+Build embedded and stand-alone Power BI analytics that deliver cohesive insights into operational performance to SaaS customers and internal stakeholders.
+Design efficient Power BI data models that utilize Snowflake dimensional data.
+Troubleshoot Power BI, DAX, M issues to resolve errors and optimize performance using tools such as DAX Studio.
+Conduct detailed data analyses in SQL, dbt-core, and Power BI to understand data and resolve issues.
+Maintain and extend Azure Functions that support Power BI embedded capacity scale and refresh operations using C# and the Power BI API.
+Manage Power BI assets as code using Git and the pbi-tools open-source project.
+Create analytics mockups and facilitate requirements gathering discussions with stakeholders to define product roadmaps.
+Collaborate with data & analytics engineers, product owners, software engineers, sales, and other business stakeholders to improve the analytics capabilities embedded in AHTG SaaS products and internal company reporting.
+Influence the data product roadmap and co-create new analytics data products for the healthcare staffing market.
+Improve analytics tooling and infrastructure performance through optimization and monitoring.
+Support and improve team DevOps and CI/CD processes related to Power BI.
+Plan and work with the data team and other teams in 2-week sprints, quarterly cross-team PI planning events utilizing agile values, principles, and practices.
+Education
+Bachelor’s degree or equivalent combination of education and experience
+Experience
+8 years of related experience.
+Additional Must Haves
+4+ years designing and building enterprise-grade Power BI reports and dashboards.
+Previous experience having key responsibilities for report delivery lifecycle.
+Software engineering habits and personal practices that exhibit analytical thinking, problem solving, attention to detail, curiosity, creativity, an intrinsic motivation, and a readiness to ask questions and share opinions.
+Excellent verbal and written communication skills and the ability to explain, discuss and question abstract ideas with a variety of audiences.
+Hands-on experience designing pleasing and efficient BI user experiences.
+Experience developing enterprise-grade analytics with Power BI, DAX, M.
+Experienced technical troubleshooting skills – particularly in Power BI and Vertipaq tuning.
+Excellent SQL and data analysis skills.
+Experience modeling and working with relational and dimensional data models.
+Experience building software products in a collaborative Agile and DevOps-oriented team.
+Source code management with Git.
+Your informed opinions and creative ideas to help the team and find the best solutions.
+A passion to get things done efficiently and with technical excellence.
+Nice to Haves
+Hands-on experience developing software with C# or other object-oriented programming languages.
+Hands-on experience designing and implementing cloud-based solutions in Azure utilizing Azure Functions (C#), Storage Accounts (blob), Event Grid, Azure Table Storage, etc.
+1+ years hands-on experience building data transformations with dbt (Core or Cloud).
+Power BI DevOps development approach using pbi-tools.
+A degree in Computer Science or a related field is preferred. Related experience in other fields will be considered.
+AHS Staffing is an equal employment opportunity and affirmative action employer.",2010,Health Care Services & Hospitals,Unknown / Non-Applicable,Healthcare,201 to 500 Employees,Company - Private,False
+Project Engineer - Structural Design - Data Center,"Olsson
+","Tulsa, OK",$68K - $92K (Glassdoor est.),3.8,"Company Description
+
+
+We are Olsson, a team-based, purpose-driven engineering and design firm. Our solutions improve communities and our people make it possible.
+
+Our most meaningful asset is our people, and we are dedicated to providing an environment where they can continue to learn, grow, and thrive. Our entrepreneurial spirit is what has allowed us — and will continue to allow us — to grow. The result? Inspired people, amazing designs, and projects with purpose.
+
+
+
+Job Description
+
+
+We are currently seeking a Project Engineer - Structural Design to work with a confidential client near Tulsa, OK. You will perform various engineering and project management duties related to evaluating, designing, and constructing projects for one of the worlds largest technology companies. You may assist with developing project scopes and schedules and have the opportunity to coordinate work of other staff members. Opportunities to travel may arise for client meetings or site visits.
+
+
+
+Qualifications
+
+
+You are passionate about:
+
+Working collaboratively with others
+Having ownership in the work you do
+Using your talents to positively affect communities
+
+You bring to the team:
+
+Strong communication skills.
+Ability to contribute and work well on a team.
+Masters degree in Civil or Architectural Engineering (structural emphasis) is preferred, but not required.
+Experience utilizing structural design and drafting software packages preferred.
+6+ years of relevant experience.
+Must be a registered professional engineer.
+Proficient in Autodesk Revit.
+
+Additional Information
+
+
+Olsson is a nationally recognized, employee-owned firm specializing in planning and design, engineering, field services, environmental, and technology. Founded in 1956 on the very mindset that drives us today, we’re here to improve communities by making them more sustainable, better connected, and more efficient. Simply put, we work to leave the world better than we found it.
+
+As an Olsson employee, you’ll receive our traditional benefits package (health care, vision, dental, paid time off, etc.), plus you’ll:
+
+Become an owner in the company after your first year through our Employee Stock Ownership Plan (ESOP)
+Engage in work that has a positive impact in communities
+Receive an excellent 401(k) match
+Participate in a wellness program promoting balanced lifestyles
+Benefit from a bonus system that rewards performance
+Have the possibility for flexible work arrangements
+
+Olsson is an EEO employer. We encourage qualified minority, female, veteran and disabled candidates to apply and be considered for open positions. We do not discriminate against any applicant for employment, or any employee because of race, color, religion, national origin, age, sex, sexual orientation, gender identity, gender, disability, age, or military status.
+
+#LI-MP1",1956,Architectural & Engineering Services,$100 to $500 million (USD),"Construction, Repair & Maintenance Services",1001 to 5000 Employees,Private Practice / Firm,True
+Licensed Electrical Engineer - Arc Flash - Data Center (Remote),"Olsson
+","Oklahoma City, OK",$59K - $85K (Glassdoor est.),3.8,"Company Description
+
+
+We are Olsson, a team-based, purpose-driven engineering and design firm. Our solutions improve communities and our people make it possible.
+
+Our most meaningful asset is our people, and we are dedicated to providing an environment where they can continue to learn, grow, and thrive. Our entrepreneurial spirit is what has allowed us — and will continue to allow us — to grow. The result? Inspired people, amazing designs, and projects with purpose.
+
+
+
+Job Description
+
+
+As an Electrical Engineer, you will work directly with some of the world’s largest technology companies and other mission-critical clients. You will serve as an electrical engineer on projects, design calculations, write technical reports, and prepare documents. Experience in performing short circuit analysis and producing arc flash studies is required. You will also coordinate with other Olsson teams, professional staff, technical staff, and clients. You may travel to job sites for observation and attend client meetings.
+
+We currently have one opening and will consider candidates interested in being located in most locations across the United States.
+
+
+
+Qualifications
+
+
+You are passionate about:
+
+Working collaboratively with others
+Having ownership in the work you do
+Using your talents to positively affect communities
+Electrical Engineering knowledge
+
+You bring to the team:
+
+Strong communication skills
+Ability to contribute and work well on a team
+Ability to be a self-starter to take on a variety of tasks to best serve the client and their project work
+Investigation and troubleshooting of problems to find solutions
+Ability to contribute and work well on a team
+Bachelor's Degree in electrical engineering
+5+ years or related electrical engineering experience
+Registered professional engineer (PE) required
+SKM and ETAP software experience is preferred
+
+Additional Information
+
+
+Olsson is a nationally recognized, employee-owned firm specializing in planning and design, engineering, field services, environmental, and technology. Founded in 1956 on the very mindset that drives us today, we’re here to improve communities by making them more sustainable, better connected, and more efficient. Simply put, we work to leave the world better than we found it.
+
+As an Olsson employee, you’ll receive our traditional benefits package (health care, vision, dental, paid time off, etc.), plus you’ll:
+
+Become an owner in the company after your first year through our Employee Stock Ownership Plan (ESOP)
+Engage in work that has a positive impact in communities
+Receive an excellent 401(k) match
+Participate in a wellness program promoting balanced lifestyles
+Benefit from a bonus system that rewards performance
+Have the possibility for flexible work arrangements
+
+Olsson is an EEO employer. We encourage qualified minority, female, veteran and disabled candidates to apply and be considered for open positions. We do not discriminate against any applicant for employment, or any employee because of race, color, religion, national origin, age, sex, sexual orientation, gender identity, gender, disability, age, or military status.
+
+#LI-MP1
+
+#LI-REMOTE",1956,Architectural & Engineering Services,$100 to $500 million (USD),"Construction, Repair & Maintenance Services",1001 to 5000 Employees,Private Practice / Firm,True

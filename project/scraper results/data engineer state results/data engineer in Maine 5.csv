@@ -1,0 +1,220 @@
+Job Title,Company Name,Location,Salary Estimate,Rating,Job Description,Founded,Industry,Revenue,Sector,Size,Type,Easy Apply
+Data Engineer Sr.,"IDEXX
+","Westbrook, ME",$78K - $114K (Glassdoor est.),3.6,"IDEXX Laboratories, Inc. seeks a Data Engineer Sr. in Westbrook, ME (telecommuting may be permitted) to build robust, fault-tolerant data pipelines that collect, assemble, and potentially transform and aggregate unorganized data distributed into databases or data sources such as operational data stores, data integration hubs and data lakes or estuaries. The Data Engineer Sr. compiles and installs database systems, writes queries, scales to multiple machines and puts disaster recovery systems into place; builds groundwork for data consumers (software or human) to easily retrieve needed data for evaluations and experiments; builds operational data use cases such as moving large volumes of data across applications via operational data stores, data hubs and data lakes, and builds private/segregated data pipelines between specific applications. Duties include designing and implementing scalable, reliable distributed data processing frameworks and analytical infrastructure using multiple technologies, including data sets or data warehouses, data virtualization and services and repositories of semi-structured data sets; designing metadata and schemas for assigned projects based on a logical model; creating scripts for physical data layout; writing scripts to load test data; validating schema design; developing and implementing node cluster models for unstructured data storage and metadata to meet performance and financial guidelines; designing advanced level Structured Query Language (SQL), data definition language (DDL) and Python scripts to assist in data validation or performance tuning steps; defining, designing, and implementing data management, storage, backup and recovery solutions that ensure high performance of the organization's enterprise data; designing automated software deployment functionality that allows efficient management of applications across distributed platforms; understanding structural requirements and defining standards for how data will be stored, consumed, integrated and managed; monitoring structural performance and utilization, identifying problems and implements solutions; leading the creation of standards, best practices and new processes for operational integration of new technology solutions; ensures environments are compliant with defined standards and operational procedures; and implementing measures to ensure data accuracy and accessibility, constantly monitoring and refining the performance of data management systems; and completing problem tickets including bug fixes, design modification and enhancement based on customer requirements.
+
+The minimum requirements are a Bachelor’s degree in Computer Science, Computer Engineering, Information Systems or a related field; 3 years of related professional experience building and managing data solutions; and the following proficiencies and skills: Hadoop-based technologies including Hive and Presto; database modeling tools including DBeaver, SQL based technologies including Oracle, PostgreSQL and MySQL; Python or equivalent high-level language; NoSQL technologies including MongoDB; data warehousing solutions including Snowflake; building distributed and cloud-based data pipelines; AWS infrastructure components including CodeCommit, RDS, and Lambda; data integration tools including Talend; analytics tools including Tableau; and Agile and Scrum methodologies. This position is eligible for IDEXX’s Employee Referral Program. Apply at https://careers.idexx.com/us/en/ or e-mail hireme@idexx.com",1983,Biotech & Pharmaceuticals,$1 to $5 billion (USD),Pharmaceutical & Biotechnology,10000+ Employees,Company - Public,False
+Data Engineer,"Northeastern University
+","Portland, ME",$79K - $120K (Glassdoor est.),4.2,"About the Opportunity
+About the Institute
+Do you want to be part of an exciting new Institute focused on the fusion of human and machine intelligence into working AI solutions?
+We are launching a pioneering research and innovation hub in AI—one that will shape the way humans and machines collaborate. Led by Dr. Usama Fayyad, the Institute for Experiential AI (IEAI) is built around the challenges and opportunities made possible by human-machine collaboration. The institute provides a framework to design, implement, and scale AI-driven technologies in ways that make a true difference to society. Our ability to respond to the opportunities afforded to society will depend on training and building a workforce that is AI-capable. Located in Portland, Maine, with the goal of growing the Maine tech economy, the Roux Institute will be a center of activity for the Institute’s efforts.
+Founded in 1898, Northeastern is a global research university and the recognized leader in experience-driven lifelong learning. Our world-renowned experiential approach empowers our students, faculty, alumni, and partners to create impact far beyond the confines of discipline, degree, and campus.
+This role collaborates with researchers and data scientists from various fields including Applied Analytics, Bioinformatics, Biotechnology, Computer Science, Cybersecurity, Genomics, Health Data Analytics, Law & ethics, Neuroscience and Therapeutics discovery. General research and interpersonal skills are especially valued. We are building a new team together to deliver the true promise of AI, which lies at the intersection of humans and intelligent machines.
+The Culture
+Here at the Institute of Experiential AI (IEAI) we are committed to the highest of standards in all that we do. Working at the Institute of Experiential AI offers opportunities, an environment, a culture that just aren’t found together anywhere else. This is the right place for you if you’re curious, motivated by the future of technology and want to be part of a unique community that works on high-impact business and societal problems
+
+Summary
+In this role, you will be responsible for building out key components of data ingestion and transformation, using a combination of strong Java/Scala development skills as well as Big Data processing technologies. As a member of the team, you will be expected to take ownership of individual platform components and help set the vision and architecture for it. In the process, you will identify the requirements of new features, and propose design and drive the solution.
+Minimum Requirements:
+Education & Experience: Bachelor’s degree in Computer Science, Engineering, or similar disciplines and 5 or more years of professional experience, or can convincingly demonstrate this level of skill.
+Knowledge and Skills:
+Expertise writing clear, maintainable, production-level code in Python.
+Experience with cloud platforms such as Azure, AWS, or Google Cloud.
+Experience with containerized application development with Docker or Podman.
+Expertise on ETL pipelines, data migration, data cleaning.
+Experience with big data pipelines (Apache Spark, Kafka, AirFlow) is a plus
+Experience with deep learning frameworks, such as Pytorch, is a plus
+Experience with machine learning frameworks such as SKLearn, AutoML is a plus
+Experience with vectors, matrix, dataframe libraries such as Numpy, Pandas is a plus
+Expertise on best practices for data governance, curation, validation, integrity.
+Expertise on version control best practices.
+Experience with relational and non-relational databases.
+Experience preparing well-documented, reproducible results for external stakeholders.
+Preferred Experience:
+Expertise in setting up cloud architecture, particularly in AWS
+Experience working on a collaborative codebase with data science and engineering
+Data science, analytics, or machine learning.
+Experience within a particular domain such as healthcare, logistics, genomics.
+Open source ecosystem contributions or expertise.
+Values & Abilities:
+Aptitude to independently learn new technologies, prototype and propose software design and solutions.
+Ability to communicate effectively across academia and industry.
+Team-player who can collaborative effectively across many teams within the University.
+Open-minded and assertive when collaborating and working within our team and with other groups within Northeastern University.
+Entrepreneurial mind-set with an ability to navigate complex structures and processes.
+Key Responsibilities & Accountabilities:
+40% - Build, maintain and improve data pipelines, infrastructure and tools to support Institute projects and operations in data science and AI
+10% - Support data scientists and other end users such as faculty and postdocs
+20% - Support delivery of practicum courses and other academic programs as subject matter expert
+30% - Participate in delivery of projects at the AI Solutions Factory to solve AI problems of industry partners
+Position Type
+Information Technology
+Additional Information
+Northeastern University considers factors such as candidate work experience, education and skills when extending an offer.
+Northeastern has a comprehensive benefits package for benefit eligible employees. This includes medical, vision, dental, paid time off, tuition assistance, wellness & life, retirement- as well as commuting & transportation. Visit
+https://hr.northeastern.edu/benefits/
+for more information.
+Northeastern University is an equal opportunity employer, seeking to recruit and support a broadly diverse community of faculty and staff. Northeastern values and celebrates diversity in all its forms and strives to foster an inclusive culture built on respect that affirms inter-group relations and builds cohesion.
+All qualified applicants are encouraged to apply and will receive consideration for employment without regard to race, religion, color, national origin, age, sex, sexual orientation, disability status, or any other characteristic protected by applicable law.
+To learn more about Northeastern University’s commitment and support of diversity and inclusion, please see
+www.northeastern.edu/diversity
+.",1898,Colleges & Universities,$100 to $500 million (USD),Education,1001 to 5000 Employees,College / University,False
+Data Center Engineer - Platform Services,"MaineHealth - Corporate
+","Portland, ME",$69K - $99K (Glassdoor est.),3.9,"Position Summary
+
+The Data Center Engineer is a hybrid position supporting the data center infrastructure of MaineHealth. This position will require travel to the 15 data center facilities within Maine and New Hampshire.
+
+This is the second level of a three-level career path. Data Center Engineers provide technical maintenance and support of the equipment and systems contained in MaineHealth Data Centers and associated facilities. They deliver technical solutions per specified plans, deliverables, costs, and timelines. They gather business requirements and translate them into IT solutions. They maintain and support the core systems infrastructure, to include procurement, provisioning, configuration, ongoing maintenance, inventory, documentation, and decommissioning of servers, storage/archive/backup systems, racks/consoles/structured cabling systems, specialty appliances, UPS units, chillers, and related infrastructure. In partnership with other groups inside and outside of Information Services, they are attentive to requirements such as physical security, monitoring/alerting, 24x7 operations, environmental conditions and facilities cleanliness, system availability, and disaster recoverability. They act as liaison with vendor support resources for support and troubleshooting purposes.
+
+On Call: three-week on call rotation
+
+Required Minimum Knowledge, Skills, and Abilities (KSAs)
+
+Education: Bachelor's degree in Information Technology or a related field, or equivalent work experience.
+License/Certifications: N/A
+Experience: 4+ years of significant hands-on enterprise-level experience in the following disciplines.
+Lifecycle management for computer systems hardware, including capacity planning, procurement, deployment, maintenance, updates, upgrades, and decommissioning.
+Implementing, managing, and supporting structured cabling systems for electrical power, networking, fiber channel-based storage, out-of-band management, and keyboard-video-mouse (KVM) access in an enterprise environment.
+Troubleshooting systems for functionality, stability, performance, availability, security, etc.
+Documentation, inventory control, and as-built diagrams for racks, servers, power, and various forms of connectivity.
+Monitoring and alerting for availability and performance.
+Risk mitigation, systems planning, and change control.
+Configuring, supporting, and monitoring delivery of electrical power to equipment through the use of uninterruptible power systems (UPS).
+Strong interpersonal, verbal and written communication skills.
+Strong problem-solving skills.
+Demonstrated the ability to effectively train or present to small groups.
+Demonstrated ability to effectively convey and articulate concepts and ideas to both technical and non-technical staff.
+
+
+
+Additional Information
+
+With a career at any of the MaineHealth locations across Maine and New Hampshire, you’ll be working with health care professionals that truly value the people around them – both within the walls of the organization and the communities that surround it.
+
+We offer benefits that support an individual's needs for today and flexibility to plan for tomorrow – programs such as paid parental leave, a flexible work policy, student loan assistance, training and education, along with well-being resources for you and your family.
+
+
+Location: MaineHealth · Integ IS - Platform Services
+Schedule: Full Time, Day Shift, 40",1997,Health Care Services & Hospitals,$1 to $5 billion (USD),Healthcare,10000+ Employees,Nonprofit Organization,False
+Staff Data Engineer [Snowflake/ETL],"WEX Inc.
+","Portland, ME",-1,3.8,"WEX Inc. is a leading and growing global provider of payment processing, information management and fleet card payment solutions. We hire people who share our passion for continuous innovation and client service that is unparalleled in the industry.
+We're presenting individuals like you with an opportunity in which you can thrive in a dynamic, compassionate, and friendly work environment. We are a Great Place To Work-Certified and we take it seriously!
+About Us:
+We are the cloud data platform team at WEX. We empower business by providing cutting-edge data platform and solutions that drive innovation, enhance decision-making. Our platform is built on a foundation of innovation , security and scalability, and we are looking for a highly skilled and experienced Principal Snowflake SME to join our dynamic team and help us continue to push the boundaries of what is possible.
+As a Staff Data Engineer [Snowflake/ETL] at WEX you will drive the implementation, optimization of our Snowflake data platform. As a key member of our organization, you will play a critical role in designing and implementing industry leading data solutions that meet the needs of our business. You will play a pivotal role in architecting, and implementing data solutions that underpins our data platform.
+As an SME you will be at the forefront of driving transformative change in our data architecture and analytics capabilities. You will leverage your product expertise, along with your extensive experience in AWS, Snowflake, Big Data technologies, and DataOps, to design and implement cutting-edge data solutions. Your role will involve making design decisions that optimize performance, scalability, and data governance while meeting the unique requirements of WEX.
+
+What you will do:
+Lead the design and implementation of scalable, robust, and high-performance data pipelines, ETL processes, and analytics solutions using AWS services, Snowflake, and other Big Data technologies.
+Design and implement complex Data Warehousing/Data Lake solutions on Snowflake
+Collaborate closely with business stakeholders, data scientists, and other cross-functional teams to understand their requirements and translate them into innovative data solutions.
+Optimizing with the capability to do performance tune complex SQL queries on Snowflake along with deep understanding of cost optimization strategies in Snowflake.
+Working with Data Analysts to ensure that all data feeds are optimized and available at the required times. This can include Change Capture, Change Data Control and other “delta loading” approaches
+Design solution for data integration, data management, metadata management, and data quality ,including technical delivery review, resolution of design issues and the migration of the existing on-premises applications to Snowflake platform.
+What you bring
+Proficiency with data platform architecture, design, data dictionaries, multi-dimensional models, objects, star and snowflake schemas as well as structures for data lakes, data science and data warehouses using Snowflake.
+Strong expertise in designing and building scalable data pipelines, ETL processes, and analytics solutions using AWS services (e.g., S3, Glue, Lambda) , ETL tools [ e.g., Qlik, Firetran, Informatica IICS] and Snowflake.
+Experience with increasing responsibilities implementing data solutions with a focus on Snowflake or similar warehouse
+Good understanding of Cloud based data solution components and architecture covering data ingestion, data processing, data cataloging, security, devops, consumption, etc
+Experience implementing core Snowflake concepts such as data sharing, UDFs, zero copy clones, time travel, micro partition, stored procedures, data import/export, external tables focus on snowflake
+Experience with python, governance tool (e.g., Alation, Collibra) or data quality tool (e.g. Great Expectations, Monte Carlo) will be added advantage
+Exceptional communication and collaboration skills, with the ability to work effectively with senior stakeholders and cross-functional teams.
+Qualifications:
+Bachelor's or Master's degree in Computer Science, Data Science, or a related field.
+Proven track record with at least 10+ years of experience in Data engineering, DataOps preferably in a senior or lead capacity.
+2+ years of experience in designing solutions on High trust/PCI compliant cloud data platform
+Desirable Skills:
+We are heavily dependent on Snowflake, Airflow, Fivetran, dbt , Tableau for our business intelligence and embrace AWS as a key partner across our engineering teams. Experience working with any or some of these tools is preferred
+Experience using AWS/Snowflake features for improving developer productivity and experience
+Prior leadership experience in leading data solution delivery in cloud is a plus
+The base pay range represents the anticipated low and high end of the pay range for this position. Actual pay rates will vary and will be based on various factors, such as your qualifications, skills, competencies, and proficiency for the role. Base pay is one component of WEX's total compensation package. Most sales positions are eligible for commission under the terms of an applicable plan. Non-sales roles are typically eligible for a quarterly or annual bonus based on their role and applicable plan. WEX's comprehensive and market competitive benefits are designed to support your personal and professional well-being. Benefits include health, dental and vision insurances, retirement savings plan, paid time off, health savings account, flexible spending accounts, life insurance, disability insurance, tuition reimbursement, and more. For more information, check out the ""About Us"" section.
+Salary Pay Range: $129.000,00 - $172.000,00",1983,Investment & Asset Management,$1 to $5 billion (USD),Financial Services,1001 to 5000 Employees,Company - Public,False
+Data Center ACI-Arista Fabric Network Engineer IV,"Retail Business Services
+","Scarborough, ME",$53K - $87K (Glassdoor est.),3.8,"Address: USA-ME-Scarborough-145 Pleasant Hill Rd
+Store Code: Infrastructure-Network (5118718)
+
+
+
+
+Retail Business Services, ranked No. 25 on Fast Company’s 2022 100 Best Workplaces for Innovators, is the services company of leading grocery retail group Ahold Delhaize USA, which includes Food Lion, Giant Food, The GIANT Company, Hannaford and Stop & Shop.
+
+
+Primary Purpose:
+
+A Sr Data Center ACI-Arista Fabric Network Engineer will provide expertise and leadership in the design, configuration, and management of all corporate, distribution center and retail digital media devices and associated supporting services. They are expected to work in a fast-paced and challenging environment leveraging forward-thinking technical engineering expertise in the media device and services area of the enterprise.
+
+Duties and Responsibilities:
+
+Lead the overall design and implementation of the technology stack within the RBS Data Centers.
+
+Develop process, procedures, and maintain documentation for RBS managed data centers.
+
+Document network infrastructure and environment design and keep updated with changes to the environment.
+
+Report on the health of the RBS data centers by performing capacity planning and proactively provide recommendations for future growth.
+
+Manage day to day activities and provide guidance of Managed Service Provider engineers.
+
+Provide escalated technical support for Managed Service Providers.
+
+Manage vendor relationship.
+
+Provide subject matter expertise in the analysis, design and preparation of technology solutions to meet business needs
+
+Recommends components for solutions that will work well together across business domains, partner with domain architect or act as the domain architect to ensure adherence to the architectural roadmap
+
+Accountable for projects/applications/infrastructure meeting business needs are delivered in a timely, cost-effective manner considering all budget aspects including total cost of ownership.
+
+Ensures project artifacts are developed as required, this includes working with support organizations and suppliers to ensure proper documentation is created and stored in the procedure’s manual or document repository.
+
+Facilitates/completes the creation of communication plans, ensuring that appropriate information is exchanged among key stakeholders.
+
+Develops complete and robust test plans, cases, and scripts, ensures defects are properly resolved and user acceptance is obtained. Ensures the test scripts and defects are entered and tracked in our department tools.
+
+Acts as communication point keeping the supplier and business partners informed of infrastructure changes, application changes, data changes or upcoming implementations and ensures business specific impacts are addressed.
+
+Ensures integration and consideration of assigned business areas against critical business processing, freeze periods, schedule changes, weather events and significant refresh activities.
+
+Review’s business processes to understand capability gaps and opportunities
+
+Recommends Innovations and business processes /systems simplifications
+
+Builds close relationships with the function heads and their teams. Advise these teams on how technology can be used to match or outpace competitor performance.
+
+Works as 3rd level support to help resolve issues within area of responsibility
+
+Maintains a high level of individual contribution, professional growth, and ability to function effectively and independently, challenges others to do the same
+
+Qualifications:
+
+Bachelor's Degree in Computer Science or Technical field and master's degree in Technology and/or Business-related field equivalent trainings/certifications/experience equivalency will be considered
+
+5 or more years of equivalent experience in relevant job or field of technology.
+
+2 or more years of equivalent experience in an advanced role or technical capacity, leading teams directly or indirectly.
+
+2 or more years' experience directly responsible for guiding, training or onboarding team members in relevant technologies, capabilities or skills
+
+Preferred Qualifications:
+
+Post graduate degree advanced training and or certifications in relevant field/s of study preferred.
+
+3 or more years experience in Agile teams and Product/Platform based operating model.
+
+3 or more years of experience in leading teams or advancing technical capability in teams.
+
+Experience in retail or grocery preferred.
+
+#LI-RV1 #DiceJobs #LI-Hybrid
+
+
+Retail Business Services currently provides services to five omnichannel grocery brands, including Food Lion, Giant Food, The GIANT Company, Hannaford and Stop & Shop. Retail Business Services leverages the scale of the local brands to drive synergies and provide industry-leading expertise, insights and analytics to local brands to support their strategies. We are committed to diversity, equity and inclusion and we foster a community of belonging where everyone is valued.
+
+Retail Business Services is an equal opportunity employer. We comply with all applicable federal, state and local laws. Qualified applicants are considered without regard to sex, race, color, ancestry, national origin, citizenship status, religion, age, marital status (including civil unions), military service, veteran status, pregnancy (including childbirth and related medical conditions), genetic information, sexual orientation, gender identity, legally recognized disability, domestic violence victim status or any other characteristic protected by law. We provide reasonable accommodations to applicants and employees with disabilities. As important as what we do is how we do it. Our team embodies our values of Courage, Care, Teamwork, Integrity and Humor in everything that they do. We have a culture of care that values and celebrates the qualities and perspectives that make us all unique.
+
+If you have a disability and require assistance in the application process, please contact our Talent Acquisition Department at tad@retailbusinessservices.com.
+
+For more information, visit https://www.retailbusinessservices.com.
+
+
+Job Requisition: 313850_external_USA-ME-Scarborough_9172023",-1,Food & Beverage Stores,$25 to $100 million (USD),Retail & Wholesale,1001 to 5000 Employees,Company - Public,False

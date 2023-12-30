@@ -1,0 +1,1262 @@
+Job Title,Company Name,Location,Salary Estimate,Rating,Job Description,Founded,Industry,Revenue,Sector,Size,Type,Easy Apply
+Data Engineer II - Enterprise Analytics,"The Venetian Las Vegas
+","Las Vegas, NV",$84K - $124K (Glassdoor est.),3.8,"Position Overview:
+
+The primary responsibility of the Data Engineer II – Enterprise Analytics is assisting in designing, developing, and deploying data-driven solutions as part of Enterprise Analytics data strategy and goals. Data Engineer II – Enterprise Analytics is responsible for creating reliable ETLs and scalable data pipelines to support Analytics and BI environment (including modeling and machine learning, visualizations, reports, cubes & applications, etc.). Data Engineer II – Enterprise Analytics participates in data modeling and development of data models and data marts by interpreting business logic required to turn complex ideas into a sustainable value add processes.
+
+All duties are to be performed in accordance with departmental and The Venetian Resort’s policies, practices, and procedures.
+
+Essential Duties & Responsibilities:
+Collaborate with Enterprise Analytics BI Analysts and Data Scientists, and other business stakeholders to understand business problems and build/automate data structures ingested by analytics products (e.g.: reports, dashboards, cubes, etc.).
+Create BI solutions, including dashboards (Power BI) and reports (SSRS, Excel, and Cognos).
+Development of logic for KPIs requested by the business leadership.
+Troubleshoot existing and create new ETLs, SSIS packages, SQL stored procedures and jobs.
+Assist in Star and Snowflake modeling, creating dimensional models and ETL processes.
+Write an efficient SQL code for use in data pipelines and data processing.
+Drive data quality processes like data profiling, data cleansing, etc.
+Develop best practices and approaches to support continuous process automation for data ingestion and data pipelines.
+Use innovative problem solving and critical thinking approaches to troubleshoot challenging data obstacles.
+Additional Duties & Responsibilities:
+Test, optimize, troubleshoot, and fine-tune queries for maximum efficiency.
+Maintain existing and create new Microsoft Power Apps solutions (including but not limited to Power Apps, Power Automate, Power BI, Flows, etc.) according to business needs.
+Perform QA and UAT processes to foster an agile development cycle.
+Create documentation on table design, mapping out steps and underlying logic within data marts to facilitate data adoption with minimum guidance from the Enterprise Analytics management.
+Identify areas of improvement not just in owned work, but also other areas of the business.
+Mentor and train junior Data Engineers on best practices, query and ETL optimization techniques.
+Create and maintain daily, weekly, monthly, quarterly reports and dashboards.
+Consolidate fractured enterprise reporting into a standardized product for easy visualization and cross-departmental understanding.
+Additional Duties & Responsibilities:
+Create reporting structures that accurately link cross-departmental data, which allows for on demand delivery of ad-hoc reports.
+Safety is an essential function of this job.
+Consistent and regular attendance is an essential function of this job.
+Performs other related duties as assigned.
+
+
+Company Standards of Conduct
+
+All The Venetian Resort Team Members are expected to conduct and carry themselves in a professional manner at all times. Team Members are required to observe the Company’s standards, work requirements and rules of conduct.
+
+Additional Duties & Responsibilities:
+
+Minimum Qualifications:
+
+21 years of age.
+Proof of authorization/eligibility to work in the United States.
+Bachelor’s degree in Computer Science, Information Systems, Engineering, Analytics, or related field is required.
+Master’s degree in related discipline is preferred.
+Must be able to obtain and maintain a Nevada Gaming Control Board registration and any other certification or license, as required by law or policy.
+2+ years of experience in building data pipelines and ETL processes is required.
+2+ years of experience creating visualizations and reports (Power BI, Tableau, MicroStrategy, Google Analytics) is required.
+2+ years of experience in writing advanced SQL, data mining and working with traditional relational databases (tables, views, window functions, scalar and aggregate functions, primary/foreign keys, indexes DML/DDL statements, joins and unions) and/or distributed systems (Hadoop, Big Query) is required.
+Minimum Qualifications:
+1+ years of experience with programming/scripting languages such as Python, R or Big Query is required.
+Experience in either Microsoft Power Suite (Power Apps, Power Automate, Power BI, etc.), Microsoft Azure, Google Cloud Platform, or RPA tools is preferred.
+Excellent understanding of data types, data structures and database systems and their specific use cases is required.
+Strong understanding of data modeling principles including Dimensional modeling, and Data Normalization principles is required.
+Extensive knowledge of Microsoft Excel (Excel formulas, data wrangling, VBA macros, graphs, and pivot tables) is required.
+Excellent critical thinker and effective problem solver with creative solutions.
+Physical Requirements:
+
+Must be able to:
+
+Lift or carry 10 pounds, unassisted, in the performance of specific tasks, as assigned.
+Physically access all areas of the property and drive areas with or without a reasonable accommodation.
+Maintain composure under pressure and consistently meet deadlines with internal and external customers and contacts.
+Ability to interact appropriately and effectively with guests, management, other team members, and outside contacts.
+Ability for prolonged periods of time to walk, stand, stretch, bend and kneel.
+Work in a fast-paced and busy environment.
+Work indoors and be exposed to various environmental factors such as, but not limited to, CRT, noise, dust, and cigarette smoke.",-1,Hotels & Resorts,$100 to $500 million (USD),Hotels & Travel Accommodation,10000+ Employees,Subsidiary or Business Segment,False
+Data Center Engineer,"World Wide Technology
+","Reno, NV",$61K - $89K (Glassdoor est.),4.0,"Job Title: Data Center Engineer
+
+Location: Reno, NV
+
+Duration: 6 months Contract
+
+Job Description:
+
+Our client is working on their existing data center and they need technical help to make sure the servers are connected correctly and that they are pulling addresses as they should.
+
+Qualifications include:
+
+Strong data center experience with rack and stack Minimum of 5 years on-prem large scale data center experience supporting the Data Center equipment and/or infrastructure (Power, Space, Cooling, Equipment) Strong cabling skills, cable management and dressing Strong NW troubleshooting experience, ideally with Supermicro Servers, Infiniband Fabric and Mellanox, Arista Hardware Strong attention to detail, independent and out of box thinking Solid skills in UNIX (Ubuntu or RedHat) administration and knowledge of basic commands including logging into the server’s to monitor for disk failures, etc.
+
+Break fix server expertise
+
+Job Type: Full-time
+
+Schedule:
+
+8 hour shift
+
+Ability to commute/relocate:
+
+Reno, NV 89521: Reliably commute or planning to relocate before starting work (Required)
+
+Experience:
+
+Computer networking: 1 year (Preferred)
+LAN: 1 year (Preferred)
+
+Security clearance:
+
+Confidential (Preferred)
+
+Work Location: In person",1990,Computer Hardware Development,$10+ billion (USD),Information Technology,5001 to 10000 Employees,Company - Private,True
+Data Engineer 2/3 (Database Administrator),"MidAmerican Energy
+","Las Vegas, NV",,4.0,"This is a multi-level posting. Candidates may be considered for any of the posted levels, depending on their level of experience and depth of expertise.
+
+
+
+Responsible for the design, implementation, maintenance and monitoring of database technologies and related software. Conducts analysis, creates system specifications, develops, tests and implements engineering, scientific and business applications, operating systems, and file/database servers. Utilizes existing or new technology in the automation of processes. Evaluates software packages and provides recommendations to management. Provides actionable recommendations for improvements in application performance after analyzing underlying database-related infrastructure components.
+
+
+
+
+Primary Job Duties and Responsibilities (Essential Job Functions)
+
+Designs, codes, tests documents, implements and maintains database utilities. (25%)
+
+Performs top expert-level database analysis and design reviews. (20%)
+
+Research and fact-finding to develop or modify database structures. (10%)
+
+Works with vendors to review quality, adaptability and compatibility of their products. (10%)
+
+Provides support for vendor-developed database implementation and periodic maintenance releases as required. (10%)
+
+Provides technical input to assist in development of project planning. (10%)
+
+Performs additional responsibilities as requested or assigned. (5%)
+
+Maintains RDBMS software at appropriate vendor-supported levels. (10%)
+
+
+
+Qualifications
+
+
+Position Requirements
+
+Bachelor’s degree in computer science, information technology or related field; or equivalent work experience. (Typically six years of related, progressive work experience would be needed for candidates applying for this position who do not possess a bachelor’s degree.)
+
+A minimum of two years of additional directly-related experience is required.
+
+Educational experience in database administration or systems analysis on one of the following or any combination: Oracle and Oracle Cloud products.
+
+A strong understanding of database fundamentals
+Experience on Maximum Availability Architecture components like Oracle RAC, Oracle ASM, Oracle Grid Control, Oracle Data Guard & Oracle Goldengate
+Hand on experience with Database Upgrade/Migration
+Preferred hands-on experience with CDB/PDB multitenant architecture (create, cloning, dropping, CDBs and PDBs),
+Preferred hands-on experience with Database migration from conventional database to CDB/PDB multitenant architecture
+Preferred Experience multiple Unix Flavors like AIX/SOLARIS/LINUX
+A knowledge of RMAN backup and recovery processes
+Proficiency in using SRVCTL and CRSCTL for listeners, adding databases, shutdown/startup
+Experience using Oracle Enterprise Manager
+Oracle Fleet Maintenance experience a plus
+Experience on Exadata a plus
+Position requires 24/7 production on call in a group rotation.
+Night /weekend work required periodically for patching activities or similar.
+Employees must be able to perform the essential functions of the position, with or without an accommodation. We celebrate diversity, equity and inclusion, and we are proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion or religious creed, age, national origin, ancestry, citizenship status (except as required by law), gender (including gender identity and expression), sex (including pregnancy), sexual orientation, genetic information, physical or mental disability, veteran or military status, familial or parental status, marital status or any other category protected by applicable local, state or U.S. federal law.",2000,Energy & Utilities,$1 to $5 billion (USD),"Energy, Mining & Utilities",1001 to 5000 Employees,Subsidiary or Business Segment,False
+Data Pipeline Engineer,"TTC, Inc.
+","Nellis AFB, NV",$78K - $108K (Glassdoor est.),4.4,"Position: Data Pipeline Engineer
+Location: Hughes Center, Las Vegas / Nellis AFB, NV
+Clearance: Secret Clearance
+Travel: 5%
+TTC is currently accepting applications for a Data Pipeline Engineer. Selected Candidates will work within dynamic leading-edge-technology environments enabling the 805th Combat Training Squadron/Shadow Operations Center – Nellis (ShOC-N) to conduct integration, experimentation, and assessments of emerging technologies and mission procedures to meet warfighter requirements in Joint All Domain Command and Control (JADC2) and the Advanced Battle Management System (ABMS), providing the USAF resilient and integrated joint C2 solutions sets. This is an on-site position located at Nellis Air Force Base in Las Vegas, NV.
+This excellent opportunity requires that the ideal candidate to be customer focused, and willing to join a winning team.
+Responsibilities:
+Support the data instrumentation and analysis pipeline for the 805 CTS
+Create and maintain optimal data pipeline architecture
+Assemble large, complex data sets that meet functional organizational requirements
+Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability
+Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL and other ‘big data’ technologies
+Work with stakeholders and design teams to assist with data-related technical issues and support their data infrastructure needs
+Keep data separated and secure across multiple data centers
+Work with data and analytics experts to strive for greater functionality in our data systems
+Preferred Skills & Experience:
+4+ years of experience in a Data Engineer role desired
+Data engineering certification desired (e.g., IBM Certified Data Engineer)
+Experience with cloud services desired
+Strong project management and organizational skills desired
+Experience supporting and working with cross-functional teams in a dynamic environment desired
+Required Skills, Abilities and Competencies:
+Bachelor’s degree required in Computer Science, Statistics, Informatics, Information Systems or another quantitative field required
+Must have advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases
+Must have experience building and optimizing ‘big data’ data pipelines, architectures and data sets
+Must have experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement
+Must have strong analytic skills related to working with unstructured datasets
+Build processes supporting data transformation, data structures, metadata, dependency and workload management
+Must have working knowledge of message queuing, stream processing, and highly scalable ‘big data’ data stores
+Experience with big data tools: Hadoop, Spark, Kafka, etc.
+Experience with relational SQL and NoSQL databases, including Postgres and Cassandra
+Experience with data pipeline and workflow management tools: Azkaban, Luigi, Airflow, etc
+Experience with stream-processing systems: Storm, Spark-Streaming, etc.
+Experience with object-oriented/object function scripting languages: Python, Java, C++, Scala, etc
+Must maintain a Secret security clearance with Top Secret eligibility
+At TTC, Inc., we value diversity and have worked diligently to create a workforce that reflects this. As an Equal Opportunity and Affirmative Action Employer, we are committed to providing an environment based on mutual respect which is free of discrimination and harassment. TTC's employment opportunities are available to all teammates and applicants, without regard to race, color, religion, sex, pregnancy, national origin, age, physical or mental disability, marital status, sexual orientation, gender identity, gender expression, genetic information, military and veteran status, and any status protected by federal, state, and local laws. Diversity, inclusion and genuine respect for each other are key contributors to our success as an employer.
+
+[Equal Opportunity/Affirmative Action Employer – minorities/females/veterans/individuals with disabilities/sexual orientation/gender identity]
+
+Information Assurance and Information System Security are the responsibility of each and every TTC, Inc. employee. All TTC employees shall comply with TTC Information Assurance and Information Management System policies and procedures. Additionally, employees with access to Government systems and information will comply with all Government laws, regulation, instructions and rules. TTC employees will do everything within their abilities to safeguard information and systems, to include issued/authorized devices such as computers, cellular phones, notebooks, tablets, iPad, etc. In the event of an information systems security incident, TTC employees will immediately report the situation to one of the TTC corporate members.
+
+
+Should you require assistance or an accommodation to complete your application, please contact our Human Resources Department at HR@ttcin.com or 1-571-319-7516.",-1,Information Technology Support Services,Unknown / Non-Applicable,Information Technology,Unknown,Company - Private,True
+Data Engineer,"Photon
+","Las Vegas, NV",$97K - $156K (Glassdoor est.),3.8,"Greetings Everyone
+
+Who are we?
+
+For the past 20 years, we have powered many Digital Experiences for the Fortune 500. Since 1999, we have grown from a few people to more than 4000 team members across the globe that are engaged in various Digital Modernization. For a brief 1 minute video about us, you can check
+
+https://youtu.be/uJWBWQZEA6o
+
+.
+
+What will you do?
+
+List out the Instructions
+
+What are we looking for?
+
+Seeking for a strong data analyst who can perform independent.
+
+Good to have Prior experience in banking domain is plus and understanding the finance various data transactions.
+
+Should be strong in the below:
+Python
+
+Pyspark
+
+SQL
+
+Airflow
+
+Trino
+
+Hive
+
+Offshore Cordination
+
+LLD
+
+Agile Scrum
+
+Linux
+
+Openshift
+
+Kubernentes
+
+Superset
+
+Optional skill set:
+Linux
+
+Openshift
+
+Kubernentes
+
+Superset",2007,Information Technology Support Services,$100 to $500 million (USD),Information Technology,5001 to 10000 Employees,Company - Private,False
+Enterprise Data Strategy & Governance - Data Engineer II - P2,"Credit One Bank
+","Las Vegas, NV",$73K - $115K (Glassdoor est.),3.1,"Description
+
+
+
+
+
+Position Summary
+
+This position is a part of the Data Strategy, Governance, and Analytics (DSGA) group. The Data Ops team is part of the DSGA, and its principal responsibility is to build and run the processes to capture the data created during the business’s day-to-day operations, validate, integrate, and bring it all together to make it available across the business for analytical purposes. The key success factor for data ops is that business can get their hands on high-quality, well-curated data in a timely, accurate, and integrated fashion.
+
+The mission of the data ops team is to support the data and analytical needs of the business which are growing rapidly with the business growth, new products, partners, technological ecosystem, and expectations of a data-driven business environment.
+
+The Data Ops Data Engineer is an experienced data / IT professional with a demonstrable background in data warehouses/data lakes and has been involved in analysis, design, development, and delivery tasks for data applications supporting very large volumes.
+
+
+In addition to strong technical skills, the successful candidate also exhibits a highly collaborative and team-oriented attitude and has good interpersonal skills, oral and written presentation skills, and critical thinking skills. The successful technical lead is open and flexible to new ideas, and a fast learner who does not hesitate to dive into learning new tools, and practices to upgrade the bank’s data applications to the future state of data analytics.
+
+Essential Job Functions:
+Lead, develop, and maintain high-quality and optimal solutions related to data ingestion, loading, and data curation.
+Design and develop data pipelines and the underlying architecture to support disparate patterns of analytical usage by partner teams within DSGA and business, in a stable and high-performant way.
+Work with Scrum masters, product owners, Subject Matter Experts, and other data engineers within the team to drive agile data programs.
+Ensure adherence to published development standards and database best practices resulting in consistent and efficient implementation of solutions.
+Translate business requirements into data solutions leading the development team’s data analysis and ETL design efforts.
+Provide crisp communication to stakeholders on the progress of data projects and escalates issues in a timely manner.
+Ensure that work and processes are well documented.
+Interact with process SMEs and senior/executive leaders across the business.
+Anticipate issues based on knowledge of internal data trends and propose solutions.
+Serve as an expert consultant to internal technical and line of business teams.
+Promote data validation, data quality, and governance goals, ensure the accuracy of deliverables, and communicate precisely.
+Perform other duties as assigned.
+Position Requirements:
+3+ years’ experience building Data Warehouse and Business intelligence solutions.
+1+ years of experience with Big Data tools (Python, Spark, HDFS, Hive) and technologies.
+Expertise in Data Analysis, Database Design, and Data Architecture; strong SQL skills.
+Should be able to effectively identify test scenarios to assist with systems and user testing.
+Provides input on the development of project plans, test plans, and implementation plans including determining estimates on time frames and needed resources.
+Ability to work in a collaborative environment on complex problems.
+Ability to troubleshoot Code and Data quality issues.
+Strong communication and documentation skills.
+Solid planning, priority setting, and time management skills
+
+Preferred
+Experience in financial industry, like retail banking or credit card business.
+
+
+Credit One Bank, N.A. is a data-driven financial services company based in Las Vegas. Founded in 1984, Credit One Bank offers a spectrum of credit card products for people in all stages of financial life. Credit One Bank is an equal opportunity employer committed to diversity and inclusion and does not discriminate against any employee or applicant for employment because of age, race, religion, color, disability, sex, sexual orientation, or national origin. Reasonable accommodations can be made for those who require them, including access to job applications and workplace accommodations. Employment at Credit One Bank is based on mutual consent (also known as at-will). This means that employees and the Bank may terminate the employment relationship at any time, with or without cause and with or without notice. Please contact the recruiter for this position to learn more. Credit One Bank does not accept unsolicited resumes from agencies and is not responsible for related fees.",1984,Banking & Lending,Unknown / Non-Applicable,Financial Services,501 to 1000 Employees,Company - Private,False
+Data Center Engineer,"NVIDIA
+",Nevada,$140K - $288K (Employer est.),4.6,"Are you a person who likes to work in a fast-paced organization? For two decades, NVIDIA has pioneered visual computing, the art and science of computer graphics. With our invention of the GPU - the engine of modern visual computing - the field has expanded to encompass personal computer games, movie production, product design, medical diagnosis, and scientific research. Today, visual computing is becoming increasingly central to how people harmonize with technology, and there has never been a more exciting time to join our excellent team. NVIDIA is now passionate about innovation at the intersection of visual processing, high performance computing, and artificial intelligence.
+Our data centers, and the thousands of servers installed in them, are the foundation upon which our creative products and services are delivered. Our customer base consists of hundreds of deeply intelligent engineers who continually provide us with complex problems to be solved. We are looking for a highly motivated senior Data Center technician to join our team. Having depth and breadth knowledge of working in data center facilities in a large-scale distributed environment is a strength you'll need. You should have deep knowledge and experience in at least one of the following core areas: Project Management, Hardware Operations, Network Operations or Data Center Operations.
+What you'll be doing:
+Act as technical liaison for our partner organizations
+Lead installation, monitoring, maintenance, support, and optimization of all production server hardware
+Contribute to the development of the global DC knowledge base
+Build plans to optimize power, cooling, and network resources
+Analyzing forecast to efficiently match supply to demand. Predict data center growth and scaling issues before they occur and implement solutions
+You will hunt for and resolve issues, analyze data looking for trends and systemic issues. Implement process improvements and develop a cutting-edge operational environment through automation
+What we need to see:
+You will have 6+ years proven ability in large-scale data center hardware deployments and server relocation projects
+BS, BA, or BEng degree in a technical field, or equivalent experience
+Sophisticated knowledge in diagnosing servers, hardware repair, and component replacement
+Experience with Data Center Build or Operations. You will be able to demonstrate a successful track record
+Ability to understand internal customer problem and provide technical solution in timely manner
+Good interpersonal skills and ability to communicate efficiently with a diverse group of customers and staff
+Experience providing client-facing direct customer support and service
+Ability to work in a constantly evolving, hands-on, startup environment
+Ways to stand out of the crowd:
+Deep understanding of data center power and cooling infrastructure, of network and cabling infrastructure
+Experience in Inventory Management and Excel tools
+You're a self-starter with a demeanor for growth, continuous learning, and constantly looking to improve the team
+Attention to detail with superb communication skills and the ability to optimally lead multiple priorities
+Constantly look to improve the team and build strong business relationships
+NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us. If you're creative and autonomous, we want to hear from you!
+The base salary range is 140,000 USD - 287,500 USD. Your base salary will be determined based on your location, experience, and the pay of employees in similar positions.
+You will also be eligible for equity and
+benefits
+. NVIDIA accepts applications on an ongoing basis.
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.",1993,Computer Hardware Development,$5 to $10 billion (USD),Information Technology,10000+ Employees,Company - Public,False
+DATA ENGINEER II,"Boyd Gaming Corporate
+","Las Vegas, NV",$85K - $121K (Glassdoor est.),3.2,"Position Description:
+Design, plan and engineer Data Warehouse and Data Integration solutions to acquire, harmonize, and consolidate company data assets producing efficient and supportable high-quality solutions.
+
+
+
+Minimum of 1 year of cloud experience.
+Responsible for ETL and database development, documentation, and compliance using best practices and agile development methodologies
+Create, maintain and optimize SQL stored procedures, queries and functions
+Work closely with Data Architects and Bl Team to design data and analytics solutions to increase the usability, completeness, and accuracy of enterprise data
+Perform development activities such as Source to target mapping validations, identify, document and execute unit test cases/scripts, peer and lead code reviews per code review checklist and document test and review results
+Analyze user requirements and translate into database and ETL requirements and implement in code
+Ensure solutions are well engineered, operable, maintainable, performant, and delivered on schedule.
+Interface with the other IT operational teams (Architecture/BA/Bl/OBA) and functional areas to ensure that the most efficient solution is designed to meet business needs.
+Monitor and tune ETL's, Databases and processes for application performance; and protocol compatibility
+Provide tier II or tier Ill support; perform root cause analysis and develops checklists and playbooks
+Provide ongoing proactive technical support for ETL and data warehouse systems to ensure business continuity
+
+Position Requirements:
+
+
+Bachelor's Degree preferred in a related discipline; significant applied experience or a combination of education and experience may be substituted
+5+ years' experience of Data Warehouse and ETL application development using Microsoft SQL Server Integration Services (SSIS)
+5+ years' experience building stored procedures, functions, schema objects using Microsoft SQL Server T-SQL
+5+ years' experience with data warehouse technical architectures,
+ETL, data structures, and reporting tools and environments; thorough understanding of dimensional modelling concepts
+1+ years’ of Cloud warehouse experience
+
+We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any other federal, state or local protected class.",1975,Gambling,$1 to $5 billion (USD),"Arts, Entertainment & Recreation",10000+ Employees,Company - Public,False
+Data Analyst/Data Engineer,RakirS Systems,"Henderson, NV",$76K - $110K (Glassdoor est.),-1.0,"Data Analyst/Data Engineer
+Job ID: 1362
+Job Posted: 11/16/2020
+
+Responsibilities:
+Conceptualize, build and maintain pre-aggregated datasets, reports and other analytical products
+Collaborate with business stakeholders to understand business problems and build/automate analytics products such as:
+Well architected (re-usable, scalable) aggregate tables that meet current and future reporting needs in the EDW
+Intuitive and actionable dashboards and data visualizations for data-drive decision making using presentation layer BI tools like Tableau, SSRS etc.,
+Develop a deep understanding of the Snowflake EDW, dimensional models and ETL business logic
+Become a subject matter expert in TFG’s upstream source systems over time
+Translate data and insights into a meaningful story to drive strategy, action, and decision-making at an executive level
+Work closely with the Data Platforms team to determine the best strategy for process scheduling and follow best practices set by the team
+Required Skills: Expert SQL skills, particularly in an analytics / reporting capacity. Significant experience creating and maintaining DW and reporting processes
+Advanced Data modeling skills (hands-on experience + theoretical understanding)
+Implementing star-schemas/snowflake-schemas
+Slowly changing dimensions
+Advanced SQL skills required
+Primary/foreign keys, indexes (when to use them)
+Joins and unions
+Tables and Views (How are they different? Pros and cons of using)
+Be able to describe differences between DML/DDL statements
+Window functions
+Scalar and aggregate functions
+
+
+
+
+
+Requirements: Master's degree or equivalent in Computer Science, Engineering, Information Technology or Related field.
+
+How to Apply: Mail resume to Rakirs Systems LLC, Attn: HR,
+Work Hours: 9:00 a.m. to 5:00 p.m.
+HR@rakirssystems.com",-1,-1,Unknown / Non-Applicable,-1,1 to 50 Employees,Company - Private,False
+Azure Administrator / Data Engineer,"Agama Solutions
+","Las Vegas, NV",$82K - $116K (Glassdoor est.),4.5,"Azure Administrator /Data Engineer
+
+Can be remote but in one of the approved states (CA/FL/NV/TX)
+
+Long Term
+
+
+Top 3 Responsibilities.
+
+The Azure Administrator will be responsible for maintaining, supporting, and improving Microsoft Azure and DevOps environments
+
+Communication & collaboration with development and infrastructure teams to provide efficient and reliable web app solutions
+Day-to-day management and troubleshooting of issues that arise within the Azure environment
+Monitoring and reporting across the Azure infrastructure environment
+Requirements analysis and task breakdown for new infrastructure deployments
+Maintaining and introducing new processes where required
+Stay updated on the platform's new tools, capabilities, and updates
+Provides design, development, security, and performance testing.
+
+Skills:
+
+Experience in at least minimum 3 skills below:
+
+Azure PaaS databases administration (hyperscale, synapse ).
+IAM roles and config.
+Data factory knowledge – SHIR, AIR, performance monitoring, and tuning.
+Azure Databricks – cluster config, tuning, administration.
+On-prem to cloud migration knowledge.
+Azure DevOps
+Virtual machine configuration
+VNET / Subnets configuration
+Azure SecOps knowledge",-1,Computer Hardware Development,$5 to $25 million (USD),Information Technology,51 to 200 Employees,Contract,False
+"Senior Software Engineer, Data Science","Motional
+","Las Vegas, NV",$159K - $207K (Employer est.),4.1,"Mission Summary:
+
+The Metrics Engine team oversees the extraction of data to evaluate the behavior of our av-stack, all the way from devising the metric formulation based on traffic laws, ethics and safety, to extracting the information necessary to compute these metrics from the logs. Beyond evaluating system-level behavior, we also derive metrics to evaluate subsystems that collectively participate to AV system behavior.
+
+As we are outputting a growing amount of metrics at various stages of the development process, our team is looking for a Senior Engineer to analyze the progression of our av-stack performance with respect to those metrics, and surface key trends. This person will get to make reports and recommendations that are of direct interest to many different teams across the organization, including leadership.
+
+The Motional Las Vegas office is located less than 10 miles from the Las Vegas strip at 730 E Pilot Road, the Las Vegas office is home to one of the largest fleets of self-driving vehicles. The city's grid system of roads and being one of America's ""smart cities"" allows for extensive research and development testing.
+
+What you'll be doing:
+
+Analyze the output of our metric evaluator to provide high-level insights on the progress of our stack
+Communicate with the Testing, Operations, and Autonomy teams to understand their day-to-day analysis needs
+Provide recommendations on how to design experiments to get a stronger signal from the metrics
+Question the results of certain metrics, dig into their formulations and contribute to improving them regularly
+
+What we're looking for:
+
+Strong Python coding experience
+MSc in Statistics, Math, Physics, Computer Science or equivalent + 3 years of experience in data science in a tech-heavy industry
+Python/Julia experience in statistical analysis
+Commitment to rigorous analysis - if assumptions need to be made to infer results, they should be spelled out
+Ability to communicate clearly to non-domain experts about potentially complex behaviors
+An interest in contributing to the metric formulation and implementation
+
+Bonus points:
+
+Experience in evaluating human or autonomous driving behavior
+Experience in robotics
+
+
+The salary range for this role is an estimate based on a wide range of compensation factors including but not limited to specific skills, experience and expertise, role location, certifications, licenses, and business needs. The estimated compensation range listed in this job posting reflects base salary only. This role may include additional forms of compensation such as a bonus or company equity. The recruiter assigned to this role can share more information about the specific compensation and benefit details associated with this role during the hiring process.
+
+Candidates for certain positions are eligible to participate in Motional's benefits program. Motional's benefits include but are not limited to medical, dental, vision, 401k with a company match, health saving accounts, life insurance, pet insurance, and more.
+
+Salary Range
+
+$159,000—$207,000 USD
+
+Motional is a driverless technology company making autonomous vehicles a safe, reliable, and accessible reality. We're driven by something more.
+
+Our journey is always people first.
+
+We aren't just developing driverless cars; we're creating safer roadways, more equitable transportation options, and making our communities better places to live, work, and connect. Our team is made up of engineers, researchers, innovators, dreamers and doers, who are creating a technology with the potential to transform the way we move.
+
+Higher purpose, greater impact.
+
+We're creating first-of-its-kind technology that will transform transportation. To do so successfully, we must design for everyone in our cities and on our roads. We believe in building a great place to work through a progressive, global culture that is diverse, inclusive, and ensures people feel valued at every level of the organization. Diversity helps us to see the world differently; it's not only good for our business, it's the right thing to do.
+
+Scale up, not starting up.
+
+Our team is behind some of the industry's largest leaps forward, including the first fully-autonomous cross-country drive in the U.S, the launch of the world's first robotaxi pilot, and operation of the world's longest-standing public robotaxi fleet. We're driven to scale; we're moving towards commercialization of our technology, and we need team members who are ready to embrace change and challenges.
+
+Formed as a joint venture between Hyundai Motor Group and Aptiv, Motional is fundamentally changing how people move through their lives. Headquartered in Boston, Motional has operations in the U.S and Asia. For more information, visit www.Motional.com and follow us on Twitter, LinkedIn, Facebook, Instagram and YouTube.
+
+
+
+
+Motional AD Inc. is an EOE. We celebrate diversity and are committed to creating an inclusive environment for all employees. To comply with Federal Law, we participate in E-Verify. All newly-hired employees are queried through this electronic system established by the DHS and the SSA to verify their identity and employment eligibility.",2020,Computer Hardware Development,Unknown / Non-Applicable,Information Technology,501 to 1000 Employees,Company - Private,True
+Data Engineer II - Enterprise Analytics (On-site/Hybrid),"Venetian Resort Hotel and Casino
+","Las Vegas, NV",$85K - $110K (Employer est.),3.8,"Position Overview:
+
+The primary responsibility of the Data Engineer II – Enterprise Analytics is assisting in designing, developing, and deploying data-driven solutions as part of Enterprise Analytics data strategy and goals. Data Engineer II – Enterprise Analytics is responsible for creating reliable ETLs and scalable data pipelines to support Analytics and BI environment (including modeling and machine learning, visualizations, reports, cubes & applications, etc.). Data Engineer II – Enterprise Analytics participates in data modeling and development of data models and data marts by interpreting business logic required to turn complex ideas into a sustainable value add processes.
+
+All duties are to be performed in accordance with departmental and The Venetian Resort’s policies, practices, and procedures.
+
+Essential Duties & Responsibilities:
+
+Collaborate with Enterprise Analytics BI Analysts and Data Scientists, and other business stakeholders to understand business problems and build/automate data structures ingested by analytics products (e.g.: reports, dashboards, cubes, etc.).
+Create BI solutions, including dashboards (Power BI) and reports (SSRS, Excel, and Cognos).
+Development of logic for KPIs requested by the business leadership.
+Troubleshoot existing and create new ETLs, SSIS packages, SQL stored procedures and jobs.
+Assist in Star and Snowflake modeling, creating dimensional models and ETL processes.
+Write an efficient SQL code for use in data pipelines and data processing.
+Drive data quality processes like data profiling, data cleansing, etc.
+Develop best practices and approaches to support continuous process automation for data ingestion and data pipelines.
+Use innovative problem solving and critical thinking approaches to troubleshoot challenging data obstacles.
+Test, optimize, troubleshoot, and fine-tune queries for maximum efficiency.
+Maintain existing and create new Microsoft Power Apps solutions (including but not limited to Power Apps, Power Automate, Power BI, Flows, etc.) according to business needs.
+Perform QA and UAT processes to foster an agile development cycle.
+Create documentation on table design, mapping out steps and underlying logic within data marts to facilitate data adoption with minimum guidance from the Enterprise Analytics management.
+Identify areas of improvement not just in owned work, but also other areas of the business.
+Mentor and train junior Data Engineers on best practices, query and ETL optimization techniques.
+Create and maintain daily, weekly, monthly, quarterly reports and dashboards.
+Consolidate fractured enterprise reporting into a standardized product for easy visualization and cross-departmental understanding.
+Create reporting structures that accurately link cross-departmental data, which allows for on demand delivery of ad-hoc reports.
+Safety is an essential function of this job.
+Consistent and regular attendance is an essential function of this job.
+Performs other related duties as assigned.
+
+Company Standards of Conduct
+
+All The Venetian Resort Team Members are expected to conduct and carry themselves in a professional manner at all times. Team Members are required to observe the Company’s standards, work requirements and rules of conduct.
+
+Minimum Qualifications:
+
+21 years of age.
+Proof of authorization/eligibility to work in the United States.
+Bachelor’s degree in Computer Science, Information Systems, Engineering, Analytics, or related field is required.
+Master’s degree in related discipline is preferred.
+Must be able to obtain and maintain a Nevada Gaming Control Board registration and any other certification or license, as required by law or policy.
+2+ years of experience in building data pipelines and ETL processes is required.
+2+ years of experience creating visualizations and reports (Power BI, Tableau, MicroStrategy, Google Analytics) is required.
+2+ years of experience in writing advanced SQL, data mining and working with traditional relational databases (tables, views, window functions, scalar and aggregate functions, primary/foreign keys, indexes DML/DDL statements, joins and unions) and/or distributed systems (Hadoop, Big Query) is required.
+1+ years of experience with programming/scripting languages such as Python, R or Big Query is required.
+Experience in either Microsoft Power Suite (Power Apps, Power Automate, Power BI, etc.), Microsoft Azure, Google Cloud Platform, or RPA tools is preferred.
+Excellent understanding of data types, data structures and database systems and their specific use cases is required.
+Strong understanding of data modeling principles including Dimensional modeling, and Data Normalization principles is required.
+Extensive knowledge of Microsoft Excel (Excel formulas, data wrangling, VBA macros, graphs, and pivot tables) is required.
+Excellent critical thinker and effective problem solver with creative solutions.
+
+Physical Requirements:
+
+Must be able to:
+
+Lift or carry 10 pounds, unassisted, in the performance of specific tasks, as assigned.
+Physically access all areas of the property and drive areas with or without a reasonable accommodation.
+Maintain composure under pressure and consistently meet deadlines with internal and external customers and contacts.
+Ability to interact appropriately and effectively with guests, management, other team members, and outside contacts.
+Ability for prolonged periods of time to walk, stand, stretch, bend and kneel.
+Work in a fast-paced and busy environment.
+Work indoors and be exposed to various environmental factors such as, but not limited to, CRT, noise, dust, and cigarette smoke.
+
+Job Type: Full-time
+
+Pay: $85,000.00 - $110,000.00 per year
+
+Benefits:
+
+401(k)
+401(k) matching
+Dental insurance
+Employee discount
+Flexible spending account
+Health insurance
+Health savings account
+Life insurance
+Paid time off
+Relocation assistance
+Tuition reimbursement
+Vision insurance
+
+Education:
+
+Bachelor's (Required)
+
+Work Location: Hybrid remote in Las Vegas, NV 89109",-1,Hotels & Resorts,$100 to $500 million (USD),Hotels & Travel Accommodation,10000+ Employees,Subsidiary or Business Segment,True
+Data Engineer,"P3 Health Partners
+","Henderson, NV",$72K - $107K (Glassdoor est.),2.8,"People. Passion. Purpose.
+
+At P3 Health Partners, our promise is to guide our communities to better health, unburden clinicians, align incentives and engage patients.
+
+We are a physician-led organization relentless in our mission to overcome all obstacles by positively disrupting the business of health care, transforming it from sickness care into wellness guidance.
+
+We are looking for a Data Engineer. If you are passionate about your work; eager to have fun; and motivated to be part of a fast-growing organization in Las Vegas, Nevada, then you should consider joining our team.
+
+Data Engineer
+
+Overall Purpose:
+
+The Data Engineer provides value-added analysis of population healthcare medical and pharmacy data. The incumbent demonstrates business and data understanding; provides advanced comprehensive reporting of healthcare data, statistical analysis, including predictive analytics, data manipulation, interpretation, presentation, and recommendations on specific courses of action. The Data Engineer is responsible to design and develop reports and analyze data to measure clinical outcomes, network performance and methodology levers. You will investigate key business problems through quantitative analyses of utilization and health care costs data. The Data Engineer is responsible for building and deploying Medicare Risk Adjustment and CMS Hierarchal Condition Code models into scoring tools as well as reports.
+
+Education and Experience:
+
+Bachelor’s degree in Business, Finance, Statistics or Health care-related field required.
+Master’s degree strongly preferred.
+A minimum of 3 years of experience in a healthcare analytic role demonstrating the ability to provide value-add analysis to compiled data.
+A minimum of 2 years of experience in medical risk modeling and risk reporting.
+Understanding of healthcare terminology and knowledgeable/experienced with some or all of the following: provider data, claims data, pharmacy data, lab data, and enrollment data.
+
+Knowledge, Skills and Abilities:
+
+3+ years of experience with Business Intelligence tools preferred.
+3+ years of experience creating stored procedures and functions preferred.
+2+ years of experience with Risk Adjustment methodologies; such as CMS HCCs, or similar strongly preferred.
+Knowledge and experience of working on SQL Queries and database scripting (procedures, functions, jobs, physical data model creation).
+Experience with Data Warehouse lifecycle data analysis, data modeling and design.
+Strong aptitude for quickly troubleshooting and identifying the cause of questionable results within extracts and reports.
+Demonstrated business analyst experience; communicating effectively with business clients to identify needs and evaluate alternative solutions.
+Possesses outstanding oral and written communication skills.
+
+Education
+Required
+Bachelors or better
+Preferred
+Masters or better
+
+Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities
+
+The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information. 41 CFR 60-1.35(c)",2015,Health Care Services & Hospitals,$10+ billion (USD),Healthcare,501 to 1000 Employees,Company - Public,True
+Data Engineer - Data Science (Corporate),"Caesars Entertainment
+","Las Vegas, NV",$109K - $146K (Glassdoor est.),3.4,"The Director – Data Engineer position will develop new APIs and web-based products to consume and execute machine learning models. Primary focus will be to integrate data science models with Caesars Digital Product team and develop internal web-based consumption tool.
+
+KEY JOB FUNCTIONS :
+
+Efficiently collect, process and access data necessary for Data Science team
+Build infrastructure and “pipelines” for handling data, using generalization and abstraction layers to improve efficiency and sustainability of data architecture
+Design redundancies, automated monitoring and robust architecture to minimize data downtime
+Working with distributed clusters of variety of servers
+Collaborate with data scientists to productionalize machine learning models
+Collaborate with digital product teams to align with product road maps and ensure API feeds are always working
+Develop web-based tools to serve data science insights to internal stakeholders
+
+EDUCATION and/or EXPERIENCE:
+
+MS or PhD in quantitative field, preferred computer science
+Graduation from a top-tier program or other evidence of high performance/potential preferred
+Demonstrated experience in developing data solutions
+Previous experience working in a cloud environment
+2+ years relevant experience preferred
+Real time data (ie Spark, Kafka) experience required
+Web development, client and server side scripting (ie HTML, Javascript, PHP, Python Flask) experience required
+Javascript libraries JQuery, Vue.js, chart.js preferred
+Relational Database (ie SQL) experience required
+Must possess very strong interpersonal, communication and consensus building skills; willing to work on developing and managing key relationships across the organization.
+Must be able to work in a deadline-oriented environment, ensuring decisions and management communication is occurring in a timely fashion across all geographical areas of operations
+Ability to uphold and demonstrate the highest level of integrity in all situations and recognize standards required by a regulated business",1937,Gambling,$5 to $10 billion (USD),"Arts, Entertainment & Recreation",10000+ Employees,Company - Public,False
+Artificial Intelligence or Big Data Engineer,KTI - Kari Technologies International,"Las Vegas, NV",$81K - $127K (Glassdoor est.),-1.0,"Job Description
+
+
+Responsibilities:
+
+KTI now constructs an innovative and tackled R&D team in Las Vegas, which will focus on the applications of artificial intelligence and big data technology in the industries in which the company operates (such as facial recognition, object recognition, ad. design, data acquisition, analysis, use, etc.). The team will support multiple R&D centers. You will be part of the team.
+
+MAIN DUITIES
+
+To study core algorithms in deep learning (including various neural network structures and applications) or in all fields of computer vision (target detection and recognition, especially face recognition, etc.)
+
+Engaged in research and analysis of cutting-edge algorithms in the field of artificial intelligence, explored the innovative application of artificial intelligence in the field of video surveillance, and worked with the product development team to optimize algorithm practicability and gain competitive advantages in practical applications;
+
+Base on the market demand, develop the core technologies and road map of artificial intelligence or big data applications including algorithms;
+
+Improve core technology competitiveness through innovation;
+
+Hands on, to achieve these core technologies;
+
+Use these core technologies to support the product development of R&D centers
+
+QUALIFICATIONS
+
+At least 5 years working experience in the research and development of artificial intelligence or big data application, with profound and solid technical foundation and performance record;
+
+Proficiency in one or more programming languages, including but not limited to Java, CC, C, Python, Shell, R, SCALA, Matlab, Lua, etc. Familiar with common machine learning and computer vision open source libraries;
+
+Have a solid foundation in mathematics and machine learning algorithms, familiar with decision tree, clustering, time series, classification tree, Boosting, SVM, random forest, collaborative filtering, regression, Bayesian networks, stochastic processes, Markov chain and other related Traditional machine learning algorithms;
+
+Familiar with neural network theory, at least able to use Caffe, TensorFlow, Keras, MxNet, Torch, Theano any one of the framework for modeling and training;
+
+Familiar with CNN, RNN, LSTM, Reinforced Learning and other principles to optimize the latest model in the industry;
+
+Smart, dedicated and innovative. Quick learner of new technologies. Leader of core technologies;
+
+Strong communication and coordination skills;
+
+Electronic security industry experience is preferred.
+
+Relevant dissertation is preferred in the top academic conference journals such as CVPR, ICCV, ECCV, NIPS, ICLR, TPAMI, etc.,
+
+EDUCATIONAL REQUIREMENTS
+
+Master's degree or above in Computer Science, Software Engineering, or equivalent from a top university.
+
+
+
+
+Job ID - 47787924223
+
+Location - Las Vegas, NV
+
+Posted Date - 7/14/2022
+
+Company - KTI
+
+Position Category - Artificial Intelligence or Big Data Engineer",-1,-1,Unknown / Non-Applicable,-1,Unknown,Company - Public,False
+Flight Test Data Processing Engineer - Level 4,"Lockheed Martin Corporation
+","Henderson, NV",-1,4.1,"JOB ID: 651432BR
+
+Date posted: Sep. 06, 2023
+
+
+
+
+Description:
+
+We are Lockheed Martin.
+
+
+
+Our products play an important role in the national security of the United States and more than 70 other countries, ensuring peace and stability around the world. Highly trained and specialized personnel and facilities are key to the company's unrivaled success in the aeronautics industry. Our workforce of more than 25,000 has preeminent expertise in advanced aircraft design and production, modification and support, stealth technology, and systems integration.
+
+Join us as a Lockheed Martin Aeronautics Flight Test Data Processing Engineer. In this role, you’ll interact directly with the customer as you perform tasks in preparing pre- and post-processing flight test data products, troubleshoot real-time systems, and act as the system administration and IT system build expert in support of the world’s premier aircraft.
+
+Some shift, extended hours, weekend work and travel may be required.
+
+** Must be a US Citizen. This position is located at a facility that requires special access. No dual citizenship will be considered. **
+
+
+
+
+A level 4 employee
+
+typically has 9-14 years
+
+of professional experience.
+
+
+
+What’s In It For You
+
+
+
+Our employees play an active role in strengthening the quality of life where we live and work by volunteering more than 850,000 hours annually.
+
+
+
+
+Here are some of the benefits you can enjoy:
+
+Medical
+
+
+Dental
+
+
+401k
+
+
+Paid time off
+
+
+Work/life balance
+
+
+Career development
+
+
+Mentorship opportunities
+
+
+Rewards & recognition
+
+
+REF: Engineering, Aeronautics, aeroTE, aeroFTDPE
+
+
+
+
+
+Basic Qualifications:
+
+
+
+Bachelor's degree.
+
+
+At least nine years of professional experience.
+
+
+Data processing expertise in preparing for flight tests, supporting real-time operations, and post-processing including experience in finding anomalies, troubleshooting missing data to IRIG 106 Standards, evaluating telemetry, resolving network system issues, and leveraging Curtiss-Wright IADS and Omega Engineering instrumentation.
+
+
+
+Desired Skills:
+
+
+
+ABET-accredited bachelor's or higher degree in computer science, engineering, or related field.
+
+
+System administration abilities such as software installation, server and workstation administration, Active Directory management, user account setup, database support, scripting, Linux and Solaris use, backups, security audit compliance, etc.
+
+
+Software programming and scripting experience.
+
+
+Hardware design and troubleshooting background in communication protocols such as Ethernet, MIL-STD-1553, ARINC 429, Fibre Channel, IEEE-1394, CAIS Bus, RS-485, etc., using related test equipment and tools.
+
+
+Security+ certification within three months of hire.
+
+
+
+Security Clearance Statement:
+
+This position requires a government security clearance, you must be a US Citizen for consideration.
+
+
+Clearance Level:
+
+Top Secret
+
+
+Other Important Information You Should Know
+
+
+
+
+Expression of Interest:
+
+By applying to this job, you are expressing interest in this position and could be considered for other career opportunities where similar skills and requirements have been identified as a match. Should this match be identified you may be contacted for this and future openings.
+
+
+Ability to Work Remotely:
+
+Onsite Full-time: The work associated with this position will be performed onsite at a designated Lockheed Martin facility.
+
+
+Work Schedules:
+
+Lockheed Martin supports a variety of alternate work schedules that provide additional flexibility to our employees. Schedules range from standard 40 hours over a five day work week while others may be condensed. These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits.
+
+
+Schedule for this Position:
+
+4x10 hour day, 3 days off per week
+
+
+Lockheed Martin is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.
+
+
+Join us at Lockheed Martin, where your mission is ours. Our customers tackle the hardest missions. Those that demand extraordinary amounts of courage, resilience and precision. They’re dangerous. Critical. Sometimes they even provide an opportunity to change the world and save lives. Those are the missions we care about.
+
+As a leading technology innovation company, Lockheed Martin’s vast team works with partners around the world to bring proven performance to our customers’ toughest challenges. Lockheed Martin has employees based in many states throughout the U.S., and Internationally, with business locations in many nations and territories.
+
+
+Experience Level:
+
+Experienced Professional
+
+
+Business Unit:
+
+AERONAUTICS COMPANY
+
+
+Relocation Available:
+
+Possible
+
+
+Career Area:
+
+Aeronautical Engineering
+
+
+Type:
+
+Full-Time
+
+
+Shift:
+
+Multiple shifts available
+
+
+
+At Lockheed Martin, we apply our passion for purposeful innovation to keep people safe and solve the world's most complex challenges.
+
+Mission-Focused Innovation: From aerospace to outer space to cyber space, you can solve the world's most complex challenges for our customers.
+
+Foundational Values: Our culture of performance excellence, ethics, teamwork and inclusion is embedded in everything we do.
+
+Diverse Career Opportunities with Meaningful Work: Grow your career and skills for life. Our technology-driven learning platforms and programs enable your development and agility.
+
+Your Health, Your Wealth, Your Life: Our flexible schedules, competitive pay and comprehensive benefits enable you to live a healthy, fulfilling life at and outside of work.
+
+Empowered to Be Your Best: Use your strengths to make a difference in the lives of one another, our customers, our communities and our planet.
+
+Commitment to Sustainability: We foster innovation, integrity and security to preserve the environment, strengthen diverse communities and propel growth.
+
+Here, the possibilities are endless because we offer:
+
+Flexible Schedules, dependent on role
+Levels: Student, Entry, Mid, Senior, Management
+Locations: Nationwide & OCONUS Positions",1995,Aerospace & Defense,$10+ billion (USD),Aerospace & Defense,10000+ Employees,Company - Public,False
+Data Engineer,"Contact Government Services, LLC
+","Las Vegas, NV",$79K - $123K (Glassdoor est.),4.7,"Data Engineer
+Employment Type: Full-Time, Mid-level
+Department: Business Intelligence
+CGS is seeking a passionate and driven Data Engineer to support a rapidly growing Data Analytics and Business Intelligence platform focused on providing solutions that empower our federal customers with the tools and capabilities needed to turn data into actionable insights. The ideal candidate is a critical thinker and perpetual learner; excited to gain exposure and build skillsets across a range of technologies while solving some of our clients’ toughest challenges.
+
+CGS brings motivated, highly skilled, and creative people together to solve the government’s most dynamic problems with cutting-edge technology. To carry out our mission, we are seeking candidates who are excited to contribute to government innovation, appreciate collaboration, and can anticipate the needs of others. Here at CGS, we offer an environment in which our employees feel supported, and we encourage professional growth through various learning opportunities.
+Skills and attributes for success:
+Complete development efforts across data pipeline to store, manage, store, and provision to data consumers.
+Being an active and collaborating member of an Agile/Scrum team and following all Agile/Scrum best practices.
+Write code to ensure the performance and reliability of data extraction and processing.
+Support continuous process automation for data ingest.
+Achieve technical excellence by advocating for and adhering to lean-agile engineering principles and practices such as API-first design, simple design, continuous integration, version control, and automated testing.
+Work with program management and engineers to implement and document complex and evolving requirements.
+Help cultivate an environment that promotes customer service excellence, innovation, collaboration, and teamwork.
+Collaborate with others as part of a cross-functional team that includes user experience researchers and designers, product managers, engineers, and other functional specialists.
+
+Qualifications:
+Must be a US Citizen.
+Must be able to obtain a Public Trust Clearance.
+7+ years of IT experience including experience in design, management, and solutioning of large, complex data sets and models.
+Experience with developing data pipelines from many sources from structured and unstructured data sets in a variety of formats.
+Proficiency in developing ETL processes, and performing test and validation steps.
+Proficiency to manipulate data (Python, R, SQL, SAS).
+Strong knowledge of big data analysis and storage tools and technologies.
+Strong understanding of the agile principles and ability to apply them.
+Strong understanding of the CI/CD pipelines and ability to apply them.
+Experience with relational database, such as, PostgreSQL.
+Work comfortably in version control systems, such as, Git Repositories.
+
+Ideally, you will also have:
+Experience creating and consuming APIs.
+Experience with DHS and knowledge of DHS standards a plus.
+Candidates will be given special consideration for extensive experience with Python.
+Ability to develop visualizations utilizing Tableau or PowerBI.
+Experience in developing Shell scripts on Linux.
+Demonstrated experience translating business and technical requirements into comprehensive data strategies and analytic solutions.
+Demonstrated ability to communicate across all levels of the organization and communicate technical terms to non-technical audiences.
+Our Commitment:
+Contact Government Services (CGS) strives to simplify and enhance government bureaucracy through the optimization of human, technical, and financial resources. We combine cutting-edge technology with world-class personnel to deliver customized solutions that fit our client’s specific needs. We are committed to solving the most challenging and dynamic problems.
+
+For the past seven years, we’ve been growing our government-contracting portfolio, and along the way, we’ve created valuable partnerships by demonstrating a commitment to honesty, professionalism, and quality work.
+
+Here at CGS we value honesty through hard work and self-awareness, professionalism in all we do, and to deliver the best quality to our consumers mending those relations for years to come.
+
+We care about our employees. Therefore, we offer a comprehensive benefits package:
+Health, Dental, and Vision
+Life Insurance
+401k
+Flexible Spending Account (Health, Dependent Care, and Commuter)
+Paid Time Off and Observance of State/Federal Holidays
+
+Contact Government Services, LLC is an Equal Opportunity Employer. Applicants will be considered without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+
+Join our team and become part of government innovation!
+
+Explore additional job opportunities with CGS on our Job Board:
+https://cgsfederal.com/join-our-team/
+
+For more information about CGS please visit: https://www.cgsfederal.com or contact:
+Email: info@cgsfederal.com",-1,-1,Unknown / Non-Applicable,-1,1 to 50 Employees,Company - Public,True
+Sr Engineer - Data Security,"Wynn Las Vegas
+","Las Vegas, NV",$80K - $124K (Glassdoor est.),3.9,"Job Description
+
+
+Wynn Las Vegas is looking for a Senior Data Security Engineer to join Wynn's core Security team. Partnering and collaborating closely with other passionate technical professionals to build the best-in-class data management applications. Responsible for expanding and optimizing data, data pipeline architecture, controls, information life-cycle management, and optimizing data flow by collecting data to enhance the organization's data governance.
+
+Key Job Responsibilities:
+
+Ensure that infrastructure is secure via controls and documentation
+In conjunction with the access management team, establish and manage effective identity and access management for all data sources
+Create and maintain optimal and secure data pipeline architecture and methodologies
+Assemble large, complex data sets that meet functional / non-functional security requirements
+Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, extensibility, and security
+Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL, commercial products and cloud technologies
+Build analytics tools that utilize the data pipelines to provide actionable insights into data security and other key GRC (Governance, Risk and Compliance) metrics
+Work with stakeholders to assist with data-related technical and security issues and support their data needs
+Meet the necessary regulatory and jurisdictional requirements to keep our data separated and secure across national and international boundaries through multiple data centers
+Assist with GRC, mitigating risks and establishing controls
+Other job duties as assigned
+
+
+Qualifications
+
+Bachelor of Science in Computer Science, Statistic, Information Systems, or similar quantitative disciplines with a minimum of five (5) years of experience in a Data Engineer role
+Advanced SQL knowledge and experience working with relational databases, query authoring (SQL), and familiarity with a variety of databases
+Solid foundation in cloud data architecture and data warehouses
+Working experience building and optimizing data pipelines, architectures, and data sets
+Ability to perform root cause analysis on internal and external data, processes to answer specific security and regulatory questions and identifying opportunities for improvement
+Must have strong analytic and attention to detail skills
+Build processes supporting data transformation, data structures, metadata, dependency, and workload management
+Experience in Data Governance, Data Management policies, procedures, standards and methodologies
+A successful history of manipulating, processing, and extracting value from large, disconnected datasets
+Working knowledge of message queuing, stream processing, and highly scalable data stores
+Ability to establish strong partnerships to collaborate with cross-functional teams in a dynamic environment
+
+Must be experience using the following software/tools:
+
+Experience with relational SQL and NoSQL databases: Postgres, SQL Server, Oracle, Snowflake
+Experience with data pipeline and workflow management tools: Azkaban, Luigi, Airflow, Databricks
+Experience with stream-processing systems: Storm, Spark-Streaming, GoldenGate, Qlik
+Experience with object-oriented/object function scripting languages: Python, Java, C++, Scala
+Experience with Data Security and identity management tools: Database Activity Monitor, IAM, DLP (Data Loss Prevention)
+Experience with Metadata Management: Data Lineage, Impact Analysis, Semantic Analysis, Classification and Taxonomy (Oracle Enterprise Metadata Manager, Alation, IBM)
+Experience with Information Lifecycle Management: Records retention, classification, destruction
+Experience with Data Management tools: OneTrust, Collibra
+Familiarity with relevant data regulations: Gambling regulations, NIST, ISO27001, PCI (Payment Card Industry) DSS, GDPR and CCPA
+
+Additional Information
+
+
+Wynn Resorts is an equal opportunity employer committed to hiring a diverse workforce and sustaining an inclusive culture. Wynn Resorts does not discriminate on the basis of disability, veteran status or any other basis protected under federal, state or local laws.",2002,Gambling,$1 to $5 billion (USD),"Arts, Entertainment & Recreation",10000+ Employees,Company - Public,True
+"Senior Data Engineer, Public Company","Recruiting From Scratch
+","Las Vegas, NV",$100K - $200K (Employer est.),4.0,"This is for a client of Recruiting from Scratch.
+Who is Recruiting from Scratch:
+Recruiting from Scratch is a premier talent firm that focuses on placing the best product managers, software, and hardware talent at innovative companies. Our team is 100% remote and we work with teams across the United States to help them hire. We work with companies funded by the best investors including Sequoia Capital, Lightspeed Ventures, Tiger Global Management, A16Z, Accel, DFJ, and more.
+Our Client:
+
+Our next evolution is underway as a newly public company looking to expand and continue to build meaningful experiences for our users. From social issues to original content, we’re blazing innovative paths with impact for our community, all while leveraging the latest tech stacks and striving for engineering excellence. At the heart of our work in this new chapter is a shared set of core values: openness and exploration, a bias for action, and strong support of the LGBTQ community.
+
+With a track record of strong financial performance and plans for continued headcount growth, we’re looking to build a team of talented, passionate, and open-minded people who believe in our mission, align with our values, and are excited to work at the intersection of innovative technology and social impact. Come be a part of this exciting journey with us.
+
+What’s so interesting about this role?
+
+Our client is looking to bring on a Senior Data Engineer with chops in cutting edge real-time streaming technologies and ambitions to achieve high quality and reliability with TDD, automation, and continuous delivery. .
+
+In this role, you will have the opportunity to work with our product teams, building models and APIs to drive new features, delivers analysis to further improve engagement in existing features, and empowers our business with real-time insights to drive growth in market share, engagement, and revenue. We see 1 trillion events per year and process 10TB of data daily.
+
+What’s the job?
+
+Design, develop and deliver data products to production, complying with internal data governance, security and scalability of our system.
+Moving implementation to ownership of real-time and batch processing and data governance and policies.
+Maintain and enforce the business contracts on how data should be represented and stored.
+Stay on top of new technologies through R&D and prototyping to continuously improve our big data architectures and systems to streamline how we deliver value with high quality to our end users
+Implementing ETL processes, moving data between systems including S3, Snowflake, Kafka, and Spark.
+Work closely with our Data Scientists, SREs, and Product Managers to ensure software is high quality and meets user requirements.
+
+What we’ll love about you
+
+5+ years of experience working with data at scale, including data engineering, business intelligence, data science, or related field.
+7+ years experience using Python,
+Experience using big data technologies (Snowflake, Airflow, Kubernetes, Docker, Helm, Spark, pySpark, )
+Significant experience with relational databases and query authoring (SQL) in Snowflake or other distributed Databases.
+Experience with agile engineering practices such as TDD, Pair Programming, Continuous Integration, automated testing, and deployment.
+Experience with building stream-processing systems, using solutions such as Kafka, Storm or Spark-Streaming
+Experience with dimensional data modeling and schema design in Data Warehouses
+Familiar with ETL (managing high-quality reliable ETL pipelines)
+Be familiar with legal compliance (with data management tools) data classification, and retention.
+
+Salary Range: $165,000-$210,000 USD base. Equity. Medical, Dental, Vision.
+https://www.recruitingfromscratch.com/",2019,Staffing & Subcontracting,$1 to $5 million (USD),Human Resources & Staffing,1 to 50 Employees,Company - Private,True
+Data Engineer IV - Max Digital (Data Engineering),"ACV Auctions
+",Nevada,-1,3.7,"If you are looking for a career at a dynamic company with a people-first mindset and a deep culture of growth and autonomy, ACV is the right place for you! Competitive compensation packages and learning and development opportunities, ACV has what you need to advance to the next level in your career. We will continue to raise the bar every day by investing in our people and technology to help our customers succeed. We hire people who share our passion, bring innovative ideas to the table, and enjoy a collaborative atmosphere.
+
+Who we are:
+ACV is a technology company that has revolutionized how dealers buy and sell cars online. We are transforming the automotive industry. ACV Auctions Inc. (ACV), has applied innovation and user-designed, data driven applications and solutions. We are building the most trusted and efficient digital marketplace with data solutions for sourcing, selling and managing used vehicles with transparency and comprehensive insights that were once unimaginable. We are disruptors of the industry and we want you to join us on our journey. ACV’s network of brands includes ACV Auctions, ACV Transportation, ClearCar, MAX Digital and ACV Capital within its Marketplace Products, as well as, True360 and Data Services.
+At ACV we focus on the Health, Physical, Financial, Social and Emotional Wellness of our Teammates and to support this we offer:
+
+Multiple medical plans including a high deductible health plan that costs $0 out of your paycheck
+Company-sponsored (paid) Short-Term Disability, Long-Term Disability, and Life Insurance
+Comprehensive optional benefits such as Dental, Vision, Supplemental Life/AD&D, Legal/ID Protection, and Accident and Critical Illness Insurance
+Generous paid time off options, including vacation time, sick days, Company holidays, floating holidays, parental leave, bereavement leave, jury duty leave, voting leave, and other forms of paid leave as required by applicable law or regulation
+Employee Stock Purchase Program with additional opportunities to earn stock in the Company
+Retirement planning through the Company’s 401(k)
+Who we are looking for:
+We are seeking a highly skilled Engineer IV in Data Engineering with a strong foundation in computer science and excellent problem-solving skills. You will be responsible for maintaining and extending our database operations, optimizing SQL queries, and designing scalable data services.
+
+What you will do:
+
+Actively and consistently support all efforts to simplify and enhance the customer experience.
+Maintain and extend (as required) existing database operations solution for backups, index defragmentation, data retention, etc.
+Troubleshoot any SQL Server or ETL stack outages during our operational support window.
+Triage any issues with data stack (SSIS, C#, Web APIs).
+Support development, integration, and stage SQL Server environments for application development and data science teams.
+Ensure that new database development meets company standards for readability, reliability, and performance. Work with internal teams on transactional and analytical schema design.
+Collaborate with software and DevOps engineers to design scalable services, plan feature roll-out, and ensure high reliability and performance of our products.
+Architect and build entire services including but not limited to; data modeling, storage, message brokers, protocols and interfaces.
+Design, build and maintain complex systems that can scale rapidly with little maintenance.
+Conduct code reviews, develop high-quality documentation, and build robust test suites.
+Own the overall performance of products and services within a defined area of focus.
+Be empowered to lead and complete software projects with minimal guidance from managers.
+Lead team discussions to define technical requirements on new and current products.
+Respond-to and troubleshoot highly complex problems quickly, efficiently, and effectively.
+Mentor junior engineers.
+Perform additional duties as assigned.
+What you will need:
+
+Bachelor's degree in Computer Science, Information Technology, Computer Information Systems, Management Information Systems, or similar
+5 years' building & supporting the database-tier of SaaS web applications.
+Ability to read, write, speak, and understand English.
+Expert understanding of SQL query execution fundamentals and query optimization principles.
+Experience maintaining and extending an existing codebase, adapting to pre-existing patterns and tracing the code’s path of execution.
+ETL workflow implementation (SSIS, Airflow, C#, Python)
+Experience working with Cloud Services (AWS RDS, S3, SQS, SNS)
+Experience working with NoSQL data stores (MongoDB)
+Experience writing unit and integration testing (DBT, C#)
+Expert SQL and data-layer development experience; OLTP schema design.
+Experience integrating 3rd-party APIs, implementing authentication & authorization and developing asynchronous data flows.
+Nice to Have
+OLAP schema design experience.
+Experience with Airflow, Snowflake, etc.
+Experience with DBT
+Our Values
+Trust & Transparency | People First | Positive Experiences | Calm Persistence | Never Settling
+
+At ACV, we are committed to an inclusive culture in which every individual is welcomed and empowered to celebrate their true selves. We achieve this by fostering a work environment of acceptance and understanding that is free from discrimination. ACV is committed to being an equal opportunity employer regardless of sex, race, creed, color, religion, marital status, national origin, age, pregnancy, sexual orientation, gender, gender identity, gender expression, genetic information, disability, military status, status as a veteran, or any other protected characteristic. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires reasonable accommodation, please let us know.
+
+For information on our collection and use of your personal information, please see our Privacy Notice.",2014,Wholesale,Unknown / Non-Applicable,Retail & Wholesale,1001 to 5000 Employees,Company - Public,True
+Senior Staff AI Data Engineer,"Recruiting From Scratch
+","Las Vegas, NV",$160K (Employer est.),4.0,"Who is Recruiting from Scratch :
+Recruiting from Scratch is a premier talent firm that focuses on placing the best product managers, software, and hardware talent at innovative companies. Our team is 100% remote and we work with teams across the United States to help them hire. We work with companies funded by the best investors including Sequoia Capital, Lightspeed Ventures, Tiger Global Management, A16Z, Accel, DFJ, and more.
+https://www.recruitingfromscratch.com/
+
+This is a hybrid role based in our Palo Alto or San Francisco offices and will require you to be in office Tuesdays and Thursdays.
+
+What’s so interesting about this role?
+
+We believe that AI can revolutionize the dating industry. Our Data Engineer lead is responsible for building high quality ML datasets at scale, used to train ML models that power AI-centric features. In this pivotal role, you will have the opportunity to build foundational tools and data pipelines to ingest, normalize and clean the valuable data that would be fundamental for our ML engineers to build AI tools including recommendations, LLMs, ads, visual search, growth/notifications, trust and safety.
+
+What’s the job?
+
+We’re looking for an exceptional data engineer who is passionate about data for AI and values it can bring to our company, Who loves working with data ops at scale; and who is committed to the hard work necessary to continuously improve our ML data pipelines.
+
+In this position, you will be responsible for establishing and executing the strategy for our organization’s ML Data Engine, with an initial focus on agile ML Data OPs. This includes identification of infrastructure components and data stack to be used, design and implementation of pipelines between data systems and teams, automation workflows, data enrichment and monitoring tools all for AI models. As a tech lead specialized in data engineering, you are expected to code and contribute to the stack.
+
+Responsibilities:
+
+Dive into our dataset and design, implement and scale data pre/post processing pipelines of ML models
+Work on applied ML solutions in the areas of data mining, cleaning, normalizing and modeling
+Be self-motivated in seeking solutions when the correct path isn’t always known
+Collaborate with engineers in conceptualizing, planning and implementing data engineering initiatives working with different stakeholders
+Design and build data platforms & frameworks for processing high volumes of data, in real time as well as batch, that will be used across engineering teams
+Build data processing streams for cleaning and modeling text data for LLMs
+Research and evaluate new technologies in the big data space to guide our continuous improvement
+Collaborate with multi-functional teams to help tune the performance of large data applications
+Work with Privacy and Security team on data governance, risk and compliance initiatives
+Work on initiatives to ensure stability, performance and reliability of our data infrastructure
+
+What we’ll love about you
+
+Bachelors in Computer Science, Mathematics, Physics, or a related fields
+5+ years of experience as a data engineer building production-level pre/post-processing data pipelines for ML/DL models, including 2+ years of technical leadership experience
+Experience in statistical analysis & visualization on datasets using Pandas or R
+Experience designing and building highly available, distributed systems of data extraction, ingestion, normalization and processing of large data sets in real time as well as batch, that will be used across engineering teams using orchestration frameworks like Airflow, KubeFlow or other pipeline tools
+Demonstrated prior experience in creating data pipelines for text data sets NLP/ large language models
+Ability to produce well-engineered software, including appropriate automated test suites, technical documentation, and operational strategy
+Excellent coding skills in Python, Java, bash, SQL, and expertise with Git version control
+Experience using big data technologies (Snowflake, Airflow, Kubernetes, Docker, Helm, Spark, pySpark)
+Experience with any public cloud environment - AWS, GCP or Azure
+Significant experience with relational databases and query authoring (SQL) as well as NoSQL databases like DynamoDB etc
+Experience building and maintaining ETL (managing high-quality reliable ETL pipelines)
+
+We’ll really swoon if you have
+
+2+ years of experience of technical leadership in building data engineering pipelines for AI
+Previous experience in building data pipeline for conversational AI APIs and recommender systems
+Experience with distributed systems and microservices
+Experience with Kubernetes and building Docker images
+Experience with building stream-processing systems, using solutions such as Kafka, Storm or Spark-Streaming
+Strong understanding of applied machine learning topics
+Be familiar with legal compliance (with data management tools) data classification, and retention
+Consistent track record of managing and implementing complex data projects
+
+What you'll love about us
+
+Mission and Impact: We are the world-leading LGBTQ social networking service. Your role will impact the lives of millions of LGBTQ people around the world
+Multiple Locations: We are hiring someone for this role to be based ideally in San Francisco or Palo Alto
+Family Insurance: Insurance premium coverage for health, dental, and vision for you and partial coverage for your dependents
+Retirement Savings: Generous 401K plan with 6% match and immediate vest in the US
+Compensation: Industry-competitive compensation and eligibility for company bonus and equity programs
+Queer-Inclusive Benefits: Industry-leading gender-affirming offerings with up to 90% cost coverage, access to Included Health, monthly stipends for HRT, and more
+Additional Benefits: Flexible vacation policy, monthly stipends for cell phone, internet, wellness, and food, one-time home-office setup stipend, and company-sponsored events
+Base Pay Range
+$160,000—$280,000 USD
+https://www.recruitingfromscratch.com/",2019,Staffing & Subcontracting,$1 to $5 million (USD),Human Resources & Staffing,1 to 50 Employees,Company - Private,True
+Data Center Services Electrical Commissioning Engineer II,"CAI
+","Reno, NV",$90K - $115K (Employer est.),4.1,"CAI seeks DC Services Electrical Commissioning Engineers with a minimum of two years' experience in Data Center Commissioning to support development and execution of all electrical aspects of commissioning projects.
+
+Position Description:
+This position supports development and execution of all electrical aspects of assigned commissioning projects from initial engagement, design reviews, checklists, safety support, script development, vendor coordination, testing and report development through turn over to the client. The Electrical Commissioning Engineer will support the development of the electrical test schedule, finalize electrical test procedures, review project submittals for consistency with the design intent, basis of design and the owner’s project requirements, and maintain project cadence for electrical systems testing and associated Building Automation Systems. The Electrical Commissioning Engineer is to support the planning and execution of commissioning for the electrical infrastructure of the mission critical facility. They will be expected to execute against the project schedule through the coordination of contractors and/or vendors to complete the desired electrical systems testing.
+CAI DC Electrical Commissioning Engineer will be exposed to cutting edge technologies in the Hyperscale and other spaces. You will have an opportunity to work with recognized subject matter experts allowing YOU to be a key player in bringing data technologies to market. As part of our company culture, we invest in YOUR future, and commit to hands on certifications as well as professional training. Our collaborative culture ensures that our customers benefit from exemplary work across our entire range of professional services.
+
+Responsibilities:
+Support all aspects of safety for all electrical tests.
+Support complete commissioning and performance acceptance testing of the electrical infrastructure systems.
+QA/QC of all electrical test procedures.
+Provide input and insight to the overall commissioning plan.
+Develop reports for the electrical commissioning engineers and contribute to a daily report to the Commissioning Project Manager.
+Attend and be an active participant of customer equipment Factory Witness Test
+Assist with vendor coordination and management.
+Perform equipment inspection to ensure build adherence to vendor submittal.
+Provide test documentation that equipment is delivered, installed, and tested correctly and set to function properly for the customer.
+Support and perform design specification review, manufacturer submittals, one line drawing sets, and project schedule documentation.
+QA/QC of electrical equipment installation\startup
+Execute test scripts to confirm equipment and system operation to design specification.
+Ensure safe work practices are followed by all on commissioning team and customer site.
+Engage with customers to ensure a positive experience, goals achievement, and schedule adherence.
+Provide daily reports for electrical commissioning team status.
+Conduct facility walk downs, turnover, and punch list reviews.
+General understanding of LEED specifications and requirements.
+Look for new opportunities for CAI to provide service and value to customer.
+Duties may be increased as experience and skill allow.
+
+Requirements include:
+Position Requirements:
+Bachelor’s degree or equivalent experience
+Minimum of 2 years Data Center Commissioning experience.
+Knowledge of OSHA and NFPA 70E safety requirements.
+Good written and spoken communication skills.
+Ability to read and interpret electrical schematics and specifications.
+Knowledge of data center design concepts.
+Knowledge and commissioning experience with Electrical Distribution Switchgear, Substations, Uninterruptable Power Supplies (UPS), Automatic Transfer Switches (ATS), Batteries, Emergency Diesel Generators & Load Banks.
+Knowledge of power quality analysis.
+Strong experience with Word, Excel and PowerPoint.
+Ability to effectively write electrical commissioning scripts, daily reports, and final commissioning reports.
+
+Other Requirements:
+Excellent oral and written English is required
+Extensive travel may be required (75%)
+Candidates must have a Passport or the ability to immediately get a Passport.
+Work under construction site conditions
+Able to work in the US without sponsorship now or any time in the future.
+
+About CAI
+CAI is a 100% employee-owned company established in 1996, that has grown year over year to more than 800 people worldwide. We provide commissioning, qualification, validation, start-up, project management and consulting services related to operational readiness to FDA regulated and other mission critical industries.
+
+Meeting a Higher Standard
+Our approach is simple; we put the client’s interests first, we do not stop until it is right, and we will do whatever it takes to get there.
+As owners of CAI, we are committed to living our Foundational Principles, both professionally and personally:
+We act with integrity
+We serve each other
+We serve society
+We work for our future
+
+With employee ownership, one person’s success is everyone’s success; we work diligently to accomplish team goals. We place Team Before Self, demonstrate Respect for Others, and possess a can-do attitude. That is how we have grown exponentially.
+
+
+
+Benefits
+Our full-time positions offer competitive compensation and benefits which include: up to 15% retirement contribution, 24 days PTO and 5 sick days per year, health insurance at extremely low cost to employee, financial support for both internal and external professional education as well as 70% long term disability paid for by the company.
+#LI-MR1
+Average salary range, not including benefits or compensatory time and possible discretionary bonuses.
+We are an equal opportunity employer; we are proud to employ veterans and promote a diverse culture in our workplace. Diversity is a strength for our global company. We pledge that CAI will be operated in a way that is fair and equitable to all – our employees, our customers, and the broader society.
+This job description is not all inclusive and you may be asked to do other duties. CAI will also consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the FCO.",1996,Architectural & Engineering Services,$25 to $100 million (USD),"Construction, Repair & Maintenance Services",501 to 1000 Employees,Company - Private,True
+Senior Data Base Administrator (Senior Data Base Engineer),"Clark County Department of Aviation
+","Las Vegas, NV",$77K - $120K (Employer est.),3.6,"JOB
+The Clark County Department of Aviation is seeking qualified candidates to apply for the Senior Data Base Administrator (Senior Data Base Engineer) position within the Business Intelligence Team. This position provides support in data analysis, technology, and domain knowledge. Further, this position: Builds required infrastructure for optimal extraction, transformation and loading of data from various data sources. Manages data warehouse and data pipelines. Provides and prepares data sets for prescriptive and predictive modeling. Designs, manages and maintains data architectures. Explores ways to enhance data quality and reliability. Works with stakeholders to support data infrastructure needs and technical issues. The ideal candidate will have knowledge of programming languages such as SQL, Python and R. experience with data management tools such as Microsoft SQL Server, Azure Synapse and Power BI. This examination will establish an Open Competitive Eligibility list to fill current and/or future vacancies that may occur within the next six (6) months or may be extended as needed by Human Resources. Human Resources reserves the right to call only the most qualified applicants to the selection process. This position is a non-union position and excluded from membership in the union.
+
+EXAMPLE OF DUTIES
+Education and Experience: Bachelor's Degree in Computer Science, Management Information Systems, or a closely related field and four years of full-time professional level experience in complex data base definition and installation in a large-scale computer system environment. Professional level experience that has provided the skills and knowledge necessary to perform all job functions at this level may be substituted for the education on a year-for-year basis to a maximum of two years. Qualifying education and experience must be clearly documented in the “Education” and “Work Experience” sections of the application. Do not substitute a resume for your application or write ""see attached resume"" on your application. Pre-Employment Drug Testing: Employment is contingent upon the results of a pre-employment drug examination. Residency Requirement: Permanent employees must maintain a principal place of residency within the boundaries of Clark County and provide proof of compliance with Nevada motor vehicle registration and driver's license laws within 90 days of employment. Background Check: Employment with the Department of Aviation is contingent upon completion of an education/experience background investigation, a fingerprint-based criminal history record check processed by the FBI, and upon the ability to be granted a security badge as mandated by the Transportation Security Administration. Note: all prospective hires must present two original government issued ID's upon acceptance of job offer. Examples of acceptable ID's include a Passport, Driver's License or DMV issued ID, birth certificate, Social Security card, Voter Registration card, school issued ID with picture, etc.
+
+SUPPLEMENTAL INFORMATION
+Provides lead direction, training and work review to a team; organizes and assigns work, sets priorities and follows-up and controls project status to ensure coordination and completion of assigned work. Plans, prepares, defines, structures, develops and implements data base systems. Defines and implements interfaces to insure that various applications and user-installed or vendor-developed systems interact with the required data base systems. Tests, troubleshoots, refines and documents systems; applies quality assurance and security standards to ensure against the loss of data and a minimal interruption of usage in the event of equipment failure. Plans and develops test data to validate new or modified data base applications; monitors system performance by the use of appropriate utilities, online capabilities and batch reports. Confers with programmer/analyst and customer staff to define functional requirements, perform data modeling and implement final products; resolves errors and interface problems and ensures integrated systems in accordance with development standards. Writes program documentation and user procedures and instructions and assists user departments and staff in implementing new or modified data base applications; tracks and evaluates project and systems progress. Confers with customer staff regarding assigned functional program areas; serves on a variety of committees, project teams and task forces and provides ""help desk"" support, as assigned. Maintains records and prepares periodic and special reports of work performed. Maintains current knowledge of technology and data base applications and systems. Contributes to the efficiency and effectiveness of the unit's service to its customers by offering suggestions and directing or participating as an active member of a work team. Uses standard office equipment in the course of the work; may drive a motor vehicle or be able to provide for appropriate transportation between different work sites.",-1,Municipal Agencies,Unknown / Non-Applicable,Government & Public Administration,51 to 200 Employees,Government,False

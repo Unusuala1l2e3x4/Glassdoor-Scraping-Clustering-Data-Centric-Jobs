@@ -1,0 +1,439 @@
+Job Title,Company Name,Location,Salary Estimate,Rating,Job Description,Founded,Industry,Revenue,Sector,Size,Type,Easy Apply
+Data/DevOps Engineer,"Vermont Information Technology Leaders
+",Vermont,-1,4.0,"The Data/DevOps Engineer is responsible for designing, implementing, and maintaining cloud-based solutions and technologies that support complex health data initiatives for the Vermont Health Information Exchange (HIE) and VITL. The ideal candidate will have proven experience with both cloud architecture and database technologies. This position will support data driven initiatives using technologies such as S3, Lambda, Kafka, SQS, Docker, Redshift, Postgres, and Couchbase. The Data/DevOps Engineer will also be responsible for building systems in alignment with the security controls, governance processes, and compliance measures of VITL’s system security planning processes.
+
+Responsibilities:
+
+Build, package, and deploy cloud systems utilizing automated functions in a DevOps framework.
+Ensure the availability, performance, security, and scalability of services and systems.
+Build and support both relational and non-relational databases.
+Diagnose and resolve database performance issues.
+Perform queries, data analyses, and generate data visualizations.
+Write and review code in a version-controlled environment.
+Support data quality initiatives and the development of test plans and benchmarking routines.
+Define, configure, and implement monitoring, metrics, and logging systems.
+Implement security and disaster recovery according to established standards policy and guidelines.
+Collaborate across teams to understand system needs, design, and implement solutions.
+Evaluate and recommend new technology products and services for cloud solutions.
+Provide technical guidance and ensure best practices for cloud solutions.
+Troubleshoot and resolve complex cloud issues.
+
+Characteristics of an Ideal Candidate:
+
+Bachelor’s degree in computer science, software engineering, or related field of study preferred, relevant industry experience may be substituted for degree requirements.
+Two or more years’ experience provisioning, operating, and managing cloud-based services and environments such as AWS, Azure, or GCP.
+Two or more years’ experience working with relational and non-relational databases, specific experience with MSSQL, Postgres, Redshift, and/or Couchbase is a plus.
+Proficient in database design, indexing, query, and optimization.
+Proficient with tools such as Kubernetes, Ansible, Terraform, Docker, Git, Ansible, Terraform, etc.
+Proficient in scripting languages such as C#, Python, Java, Ruby, Bash, etc.
+Intermediate knowledge of administering Linux or Windows systems.
+Excellent network analysis fundamentals and robust troubleshooting skills.
+Excellent technical, analytical, and project management skills.
+Ability to articulate technology strategy.
+Strong communication and interpersonal skills.
+
+Location:
+
+The VITL team is currently working remotely. The ideal candidate will live in Vermont and be available for in-person meetings. However, the Data/DevOps Engineer position can be performed remotely by a candidate willing to travel as necessary. All VITL employees must live in and work from the United States; VITL’s preference is someone located in the Eastern or Central times zones.
+
+Additional:
+
+VITL is committed to the health and well-being of its employees, customers, and community, and requires employees be up to date on COVID-19 vaccinations, as recommended by federal and local health authorities, subject to accommodations provided in accordance with the law. Individuals will be required to submit proof of COVID-19 vaccination, or have requested and received a waiver, as a condition of employment.
+
+VITL is an equal opportunity employer and prohibits discrimination or harassment of any kind. We are committed to compliance with all applicable fair employment practices laws and a policy of equal opportunity without regard to race, gender, color, religion, sex, sexual orientation, gender identity, age, national origin, place of birth, crime victim status, ancestry, physical or mental condition, disability, pregnancy, citizenship or immigration status, status as a veteran, military service or obligation, a positive test result from an HIV-related blood test, genetic information, or any other characteristic protected by such laws (“Protected Characteristics”). VITL’s policy of anti-discrimination applies to all terms and conditions of employment, including but not limited to recruiting, hiring, training, compensation, benefits, advancement, and termination of employment. VITL prohibits and does not tolerate discrimination against any employee, applicant, worker, or service provider on the basis of any Protected Characteristic.
+
+Apply
+
+Interested candidates may email their resume and cover letter to hr@vitl.net.
+
+VITL
+802-861-1800
+www.vitl.net
+hr@vitl.net",-1,-1,$5 to $25 million (USD),-1,1 to 50 Employees,Company - Private,False
+"Lead Software Engineer, Data Engineering","S&P Global
+","Montpelier, VT",$85K - $170K (Employer est.),4.1,"The Role: Data Engineer
+Location: Team is in Boston, but is available for remote or on-site throughout CST and EST Time zones
+GL (for internal use only): 11
+
+Panjiva is a data-driven technology company that uses machine learning to provide powerful search, analysis, and visualization of billions of shipping records from nearly every country in the world. More than 3,000 customers in over 100 countries, ranging from Fortune 500 companies and startups to government agencies and hedge funds, rely on our platform for supply chain intelligence. In global trade, better insight means better decision making and stronger connections between companies and governments across the globe.
+Recognizing Panjiva’s cutting-edge technology, S&P Global acquired Panjiva in 2018. This acquisition has grown our resources, dramatically expanded our access to data, and accelerated our growth plans. People are Panjiva’s greatest strength – join our engineering team as we map out a key part of the world economy!
+Job Description
+As a data engineer on our team, you will play a key role in developing our next-generation data science infrastructure and underlying core technologies. You will work with Panjiva’s world-class data scientists, analysts, and engineers to create products that solve important real-world business problems in a collaborative, fast-paced, and fun environment.
+
+You’ll work closely with our data science team to develop new platforms, infrastructure, and tools that will allow for machine learning applications at production scale over ever-growing datasets.
+You’ll design and leverage distributed computing technologies, data schemas, and APIs to construct data science pipelines. In addition, you’ll be expected to participate in augmenting our infrastructure to seamlessly integrate new data sets through constant R&D of the technologies and systems we use.
+Join us in building the next generation of products as we continue to deliver valuable and actionable insights to decision-makers in the $15 trillion global trade industry.
+
+Responsibilities
+Architect and implement distributed systems that perform complex transformations, processing, and analysis over very large scale datasets
+Develop processes to monitor and automate detection of quality regressions in raw data or in the output of Panjiva’s machine learning models
+Working with our data scientists to turn large-scale messy, diverse, and often unstructured data into a source of meaningful insights for our customers
+Optimizing slow-running database queries and data pipelines
+Helping enhance our search engine, capable of running sophisticated user queries quickly and efficiently
+Building internal tools and backend services to enable our data scientists and product engineers to improve efficiency
+
+Qualifications
+B.S., M.S., or Ph.D. in Computer Science (or a related field) or equivalent work experience
+7+ years of experience working with data-at-scale in a production environment
+Experience designing and implementing large-scale, distributed systems
+Experience in multi-threaded software development (or some form of parallelism)
+Significant performance engineering experience (e.g., profiling slow code, understanding complicated query plans, etc.)
+Solid understanding of core algorithms and data structures, including the ability to select (and apply) the optimal ones to computationally expensive operations over data-at-scale
+Strong understanding of relational databases and proficiency with SQL
+Deep knowledge of at least one scripting language (e.g., Python, Ruby, JavaScript)
+Deep knowledge of at least one compiled language (e.g., Scala, C++, Java, Go)
+Experience developing software on Linux-based operating systems
+Experience with distributed version control systems
+Nice-to-Haves
+Familiarity with relational database internals (especially PostgreSQL)
+Proficiency with cloud computing platforms, specifically AWS
+Working knowledge of probability & statistics
+Contributions to open-source software
+Experience building customer-centric products
+
+Compensation/Benefits Information (US Applicants Only):
+S&P Global states that the anticipated base salary range for this position is $85,300 - $170,000 . Base salary ranges may vary by geographic location.
+In addition to base compensation, this role is eligible for an annual incentive bonus plan.
+
+This role is eligible to receive additional S&P Global benefits. For more information on the benefits we provide to our employees, visit https://www.spgbenefitessentials.com/newhires .
+About S&P Global
+S&P Global delivers essential intelligence that powers decision making. We provide the world’s leading organizations with the right data, connected technologies and expertise they need to move ahead. As part of our team, you’ll help solve complex challenges that equip businesses, governments and individuals with the knowledge to adapt to a changing economic landscape.
+
+S&P Global Market Intelligence partners with customers to broaden their perspective and operate with confidence by bringing them leading data sources and technologies that embed insight in their daily work.
+We pride ourselves on our agility and diversity, and we welcome requests to work flexibly. For most roles, flexible hours and/or an element of remote working are usually possible. Please talk to us at interview about the type of arrangement that is best for you. We will always try to be adaptable wherever we can.
+
+-----------------------------------------------------------
+
+Equal Opportunity Employer
+S&P Global is an equal opportunity employer and all qualified candidates will receive consideration for employment without regard to race/ethnicity, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, marital status, military veteran status, unemployment status, or any other status protected by law. Only electronic job submissions will be considered for employment.
+
+If you need an accommodation during the application process due to a disability, please send an email to: EEO.Compliance@spglobal.com and your request will be forwarded to the appropriate person.
+
+US Candidates Only: The EEO is the Law Poster http://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf describes discrimination protections under federal law.
+
+----------------------------------------------------------- 20 - Professional (EEO-2 Job Categories-United States of America), IFTECH202.2 - Middle Professional Tier II (EEO Job Group), SWP Priority – Ratings - (Strategic Workforce Planning)
+
+Job ID: 277527
+Posted On: 2023-09-21
+Location: Cambridge, Massachusetts, United States",1860,Research & Development,$10+ billion (USD),Management & Consulting,10000+ Employees,Company - Public,False
+Data Architecture and Engineering Director,,United States,-1,-1.0,"Job Summary:
+
+WELLBE INTRODUCTION
+
+The WellBe care model is a Physician Led Advanced Practice clinician driven geriatric care (care of older adults) team focused on the care of the frail, poly-chronic, elderly Medicare Advantage patients. This population is typically underserved and very challenged with access to care. To address these problems, we have elected to bring the care to the patient, instead of trying to bring the patient to the care. Care is provided throughout the entire continuum of care – from chronic care and urgent care in the home, to hospital, to skilled nursing facility, to assisted living, to palliative care, to end of life care. WellBe's physician/advanced practicing clinician led geriatric care teams’ partner with the patient’s primary care physician to provide concierge level geriatric medical care and social support in the home as well as delivering and coordinating across the entire care continuum.
+
+
+GENERAL SUMMARY
+
+We are seeking a skilled and experienced Director of Healthcare Data Warehouse Architect to join our team. In this role, you will be responsible for designing, implementing, and maintaining a robust healthcare data warehouse that serves as the foundation for actuarial services, data analytics, reporting, and insights. As a key member of our team, you will play a critical role in shaping our data architecture and ensuring that it supports our healthcare data needs effectively. The hire will be responsible for directing the data engineering team as they build tooling to support analytics, extend our Data Warehouse platform, expand and optimize our data pipeline architecture, and work with the Development team to create cross-team solutions. The ideal candidate is an experienced data engineer and data wrangler who enjoys optimizing data systems and building them from the ground up. They must be self-directed and comfortable supporting the data needs of multiple teams, systems, and products. Experience in analytics and statistics is a major bonus. Experience with claims data specification is a must.
+Job Description:
+
+SKILLS & COMPETENCIES
+
+Coach and mentor the data engineering and Analytics team: guiding, planning, and reviewing the team’s work.
+Develop and implement a healthcare data warehouse architecture that meets the organization's data storage and reporting requirements while ensuring data quality and integrity.
+Create and maintain data models that facilitate the storage and retrieval of healthcare data, ensuring it is structured for efficient analytics.
+Oversee the integration of data from various sources, including electronic health records (EHRs), claims data, CMS datasets, and more into the data warehouse.
+Implement Extract, Transform, Load (ETL) processes to cleanse, transform, and load data into the data warehouse efficiently.
+Establish and maintain rigorous data security protocols and encryption standards to protect sensitive healthcare information in compliance with regulations like HIPAA.
+Continuously monitors and optimize the data warehouse's performance, ensuring fast query response times and scalability.
+Work closely with data analysts, data scientists, actuaries and other stakeholders to understand their data needs and design the data warehouse to meet those requirements effectively.
+Create and maintains documentation for the data warehouse architecture, data flows, and transformation processes.
+Collaborate with and manages third-party vendors to acquire and maintain data warehousing tools and solutions.
+Stays current on healthcare data regulations and ensure that the data warehouse complies with all relevant industry standards.
+Job Requirements:
+QUALIFICATIONS
+
+Educational/Experience Requirements:
+
+Bachelor's or advanced degree in Computer Science, Information Management, Data Science, or a related field. Master's degree preferred
+10+ years of experience in data management required.
+5+ years of experience in health care data analysis experience required.
+Subject matter expertise with healthcare datasets (Claims, MMR, membership), standards and regulations, such as HIPAA required
+Strong leadership and team management skills, with the ability to motivate and develop team members.
+Snowflake and DBT experience preferred
+Proficiency in using data management tools and technologies such as data cataloging tools, ETL tools, and data lineage tools.
+Excellent communication and interpersonal skills, with the ability to collaborate effectively across departments.
+Required Skills and Abilities:
+Proficiency in data modeling techniques, including Entity-Relationship Diagrams (ERD) and Dimensional Data Modeling, to design data structures that support business needs.
+Expertise in database management systems (DBMS) such as SQL Server, Oracle, MySQL, PostgreSQL, NoSQL databases, and cloud-based solutions like Snowflake and Azure SQL Database.
+Knowledge of ETL processes and tools to extract data from source systems, transform it for analysis, and load it into data repositories.
+Ability to integrate data from various sources, both structured and unstructured, to create a unified and accessible data ecosystem.
+Experience in designing and maintaining data warehouses, including knowledge of data warehouse architecture and methodologies.
+Understanding of healthcare systems, including insurance plans, Medicare, Medicaid, and commercial payers.
+Proficiency in processing various types of healthcare claims, such as medical, dental, vision, and pharmacy claims.
+Knowledge of the claims adjudication process and claim submission requirements.
+Exceptional attention to detail to accurately review and validate claims data, ensuring they meet compliance and regulatory standards.
+Ability to interpret complex claims data and extract meaningful insights.
+Foster a data-driven culture by promoting the use of data insights to drive business decisions and innovation.
+Lead and mentor a team of data professionals, providing guidance, performance evaluations, and professional development opportunities.
+Foster a collaborative and inclusive work environment that encourages knowledge-sharing and innovation.
+Advanced knowledge in SQL or other similar programming languages. Some development experience in at least one scripting language (Python, R, etc.) is a plus.
+
+
+Supervisory Responsibility: This position will have supervisory responsibilities.
+
+
+
+
+Travel requirements: Travel may be required up to 15% locally or nationally.
+
+
+Physical Demands: The physical demands described here are representative of those that must be met by a colleague to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. While performing the duties of this job, the colleague is regularly required to use hands to finger, handle, or feel; talk and hear. The colleague frequently is required to stand, sit, and reach with hands and arms. The colleague is occasionally required to walk; climb or balance; stoop, kneel, crouch, or crawl; and taste or smell. The colleague must frequently lift and/or move more than 35 pounds. Specific vision abilities required by this job include close vision.
+
+The preceding functions may not be comprehensive in scope regarding work performed by an employee assigned to this position classification. Management reserves the right to add, modify, change or rescind the work assignments of this position. Management also reserves the right to make reasonable accommodations so that a qualified employee(s) can perform the essential functions of this role.",-1,-1,Unknown / Non-Applicable,-1,1 to 50 Employees,Company - Public,True
+Wireless Interference Engineer,"RKF Engineering Solutions LLC
+",United States,-1,3.9,"Description:
+
+RKF Engineering specializes in the design of next generation communication systems and software for today’s most advanced satellite and terrestrial communication networks. Based in Bethesda MD, RKF is seeking exceptional software and communications developers to work in a dynamic team environment on an array of challenging problems. Our firm is always seeking experienced and innovative individuals who are looking for an exciting challenge.
+
+RKF Engineering LLC provides electromagnetic environmental effects (E3) analysis support to the Defense Information Systems Agency (DISA) and the Defense Spectrum Organization (DSO) Joint Spectrum Center (JSC) in accordance with the Telecommunications Act of 1996.
+
+Under this directive all Federal government departments and agencies are directed to provide access to mobile service providers (MSP) for the installation and operation of cellular telecommunications systems on military bases in the United States.
+
+This project supports the JSC by determining whether the operation of proposed MSP cellular transmission systems will interfere with government and Department of Defense (DoD) communications-electronic systems. The position requires knowledge of basic or advanced communications systems theory, database management, and communications-electronics (C-E) design and functionality. Some familiarity with domestic regulations governing the use of the radio frequency spectrum is desirable
+
+As an RF Interference Engineer the hired individual will report to the MSP Project Manager. The responsibilities of the job include, but are not limited to:
+
+Performing electromagnetic compatibility analyses to determine if new MSP installations can operate compatibly in a specific geographical area without posing conflicts to nearby DoD C-E systems operations. When interference is predicted the engineer will develop methods to mitigate predicted electromagnetic interference issues (EMI).
+Perform the above tasks and document the progress and results of the analysis according to RKF and JSC report guidelines within the scheduled time period and allocated budget of each task.
+The principal qualifications and abilities needed for this position include:
+
+o Ability to discuss and understand the technical design and operation of wireless RF (telecommunications and cellular communications) systems and the operation of wireless DoD C-E receiver systems.
+
+o Perform sub-database searches of technical records for government C-E systems from DoD and government master frequency databases
+
+o Familiarity with basic radio frequency propagation equations and the operation principles of transmitters and antennas
+
+o Perform linear and intermodulation E3 compatibility predictions using computer propagation models.
+
+Depending on the level of experience, on-the job training will be provided to fulfill the above requirements.
+
+Requirements:
+
+Qualifications: Applicant must have the following minimum education:
+
+A Bachelors in Electrical Engineering, Physics, or Mathematics.
+4 years experience and training in the engineering and design of cellular communications systems and other RF systems is desirable.
+DOD software development experience and computer programming is a plus.
+Additional Preferred Qualifications:
+-Prior military service in the field of Spectrum management and DoD systems operation,
+-Experience working in the DoD and US military spectrum community to design communication networks,
+-Experience working in the commercial telecommunications industry, especially cellular systems,
+Knowledge of DoD spectrum management process and procedures; knowledge regarding use
+of DoD spectrum management tools (e.g., Spectrum XXI)
+-A Masters in Electrical Engineering, Physics or Mathematics. Experience with designing and
+running complex analysis tools, data management skills, and ability to work in a collaborative,
+team-based environment are also desirable.
+
+Security Clearance - Active Secret clearance or the candidate to be able to obtain a SECRET level security clearance. In order to obtain a clearance you need to be a US Citizen and show proof of citizenship.
+
+RKF Engineering LLC is an Equal Opportunity/Affirmative Action Employer. We consider applicants without regard to race, color, religion, age, national origin, ancestry, ethnicity, gender, gender identity, gender expression, sexual orientation, marital status, veteran status, disability, genetic information, citizenship status, or membership in any other group protected by federal, state or local law.",-1,-1,Unknown / Non-Applicable,-1,1 to 50 Employees,Company - Private,True
+Senior System Integration Engineer C4iSR and C5iSR,"Horizon Global Partners LLC
+",United States,$99K - $150K (Employer est.),5.0,"The Senior System Integration Engineer specializing in Command, Control, Communication, Computers, Intelligence, Surveillance and Reconnaissance (C4iSR) and Command, Control, Communication, Computers, Cyber, Intelligence, Surveillance and Reconnaissance (C5iSR) is responsible for designing, implementing, and integrating complex systems and solutions within the defense and intelligence domain.
+
+Responsibilities
+
+· Lead the design, integration, and testing of C4iSR and C5iSR systems and solutions.
+
+· Develop system architecture requirements and specification based on customer needs and industry standards.
+
+· Collaborate with cross-functional teams, including software developers, system engineers and project managers to ensure successful system integration.
+
+· Conduct system analysis and performance assessment to identify areas for improvement and optimize system functionality.
+
+· Identify and mitigate technical risk and issues during system integration and deployment.
+
+· Provide technical guidance and mentorship to junior engineers and team members.
+
+· Stay up to date with emerging technologies and trends in the C4iSR and C5iSR domain.
+
+· Ensure compliance with relevant industry standards, security protocols, and regulatory requirements.
+
+· Prepare and present technical reports documentation and presentation to internal and external stakeholders.
+
+· Other tasks assigned by HgP.
+
+Requirements
+
+· Active Top-Secret Clearance
+
+· Degree in Engineering and experience in system integration
+
+· Minimum of 8 years of experience in system integration preferably in the defense and intelligence domain.
+
+· Proficient in system integration tools and methodologies.
+
+· Experience with system engineering processes including requirements analysis, system design, integration, testing and documentation.
+
+· Strong Operational and Engineering background that fully understands the connectivity required (i.e., how C2 system interacts) with and within the operational kill chain of airborne threats.
+
+· Strong candidates possess some experience and relevant knowledge and understanding of operating in the NATO/ USAFE/ EUCOM environment.
+
+· Have the right contacts (e.g know the right JICO to work with) in the European environment.
+
+· Strong analytical and problem-solving skills, with the ability to troubleshoot complex technical issues.
+
+· Excellent communication and interpersonal skills with the ability to collaborate effectively with cross functional teams and customers.
+
+· Must be willing to travel internationally if needed.
+
+· Strong leadership and team management skills.
+
+· Should be able to lead projects & team.
+
+Location
+
+CUNOS/ OCUNOS.
+
+Job Type: Full-time
+
+Pay: $99,000.00 - $150,000.00 per year
+
+Benefits:
+
+401(k)
+Dental insurance
+Health insurance
+
+Compensation package:
+
+Performance bonus
+
+Experience level:
+
+8 years
+
+Schedule:
+
+8 hour shift
+
+Experience:
+
+System Integration for C4iSR and C5iSR: 8 years (Required)
+
+Security clearance:
+
+Top Secret (Required)
+
+Work Location: On the road",-1,-1,Unknown / Non-Applicable,-1,1 to 50 Employees,Company - Public,True
+Mechanical Design Engineer - Propulsion | Motors,"Beta Technologies
+","South Burlington, VT",$56K - $77K (Glassdoor est.),4.0,"onsite
+South Burlington, VT
+
+Description
+
+At Beta Technologies, together we apply our intellectual curiosity, passion for aviation, and commitment to sustainability toward a shared mission of revolutionizing electric aviation. Regardless of the position one holds, each team member brings their talent and desire to positively impact the environment and lives of others in a refreshing, vibrant, and inclusive culture.
+
+The Propulsion Mechanical Design Engineer will contribute to the development of propulsion system components used in the motors and inverters, from a blank page to a certified product. Not only do we design, build and test the motors and inverters, we also develop manufacturing tooling and validation equipment such as propeller stands, dynos, and benchtop test rigs. Our design to validation cycle is extremely rapid and we own it all. If you love to design, analyze, build, and test your ideas at a fast pace, you’ll be happy at Beta.
+
+
+
+How you will contribute to revolutionizing electric aviation:
+
+Design products with CATIA, create drawings, and manage BOMs
+Perform hand calculations and or FEA to ensure product integrity at minimum weight
+Develop and build prototypes and run experiments to inform future designs
+Collaborate with internal and external fabricators and the supply chain team to see parts through manufacturing
+Develop scalable manufacturing processes in parallel with product design
+Collaborate with the manufacturing team to bring products to production
+Collaborate with the systems and certification team to ensure certifiability of products
+
+Minimum Qualifications we are seeking:
+
+Minimum 3 years experience in mechanical design (Internships and other projects absolutely count here)
+Ability to design parts that are lightweight, strong, and manufacturable, with a demonstrated track record (seeing your portfolio of great designs will get us excited)
+Mastery of 3D CAD (Catia preferred or Solidworks or NX)
+Experience making drawings with pragmatic GD&T
+Experience with prototype testing
+Good team, communication, and leadership skills are required. The ability to work with minimal supervision and identify strategies to remove roadblocks is paramount. Mental flexibility and the ability to change direction based on new information is an absolute must in our fast-paced environment
+Google G -Suite including drive, mail, calendar, docs, sheets, slides, charts, hangouts; slack, application lifecycle
+
+Above and Beyond Qualifications that will distinguish you:
+
+Experience in FEA (ANSYS preferred)
+Experience in CFD (Solidworks Flow Sim or FloEFD preferred)
+GD&T master
+Matlab (data analysis, AppDesigner for GUIs)
+Strong knowledge of vibration
+Experience with rotating machinery
+Experience with electrical motors, inverters
+Experience with controls of Surface Permanent Magnet Synchronous Machine (SPMSM)
+Ability to work hard to meet our ambitious goals and tight deadlines
+
+
+
+Physical Demands and Work Environment:
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this position. Reasonable accommodations may be made to enable individuals with disabilities to perform the functions. While performing the duties of this position, the employee is regularly required to talk or hear. The employee frequently is required to use hands or fingers, handle or feel objects, tools, or controls. The employee is occasionally required to stand; walk; sit; and reach with hands and arms. The employee must occasionally lift and/or move up to 25 pounds. Specific vision abilities required by this position include close vision, distance vision, and the ability to adjust focus. The noise level in the work environment is usually low to moderate.
+
+Video Interview:
+
+Please be aware that you may be invited to complete a Video Screening interview. This invite will be sent by email (users@hireflix.com). We highly recommend completing this step of the application process within the following 48 hours should you be invited.
+
+
+
+Note: Be sure to check your Junk folder
+
+BETA Technologies provides equal employment opportunity to all individuals regardless of their race, color, religion, age, sex, sexual orientation, gender identity, national origin, ancestry, place of birth, citizenship, disability, veteran or military status, health coverage status, HIV status, genetic information, crime victim status, pregnancy or a pregnancy-related condition or any other characteristic protected by state, federal, or local law. The company does not discriminate, and will not discriminate, and will not tolerate discrimination, based on any of these characteristics during the application process or in employment.
+
+All offers of employment at BETA Technologies are contingent upon favorable results of a thorough background check.
+
+BETA Technologies is an E-Verify employer.",-1,-1,Unknown / Non-Applicable,-1,1 to 50 Employees,Company - Private,False
+Systems Engineer - General,"Beta Technologies
+","South Burlington, VT",$88K - $133K (Glassdoor est.),4.0,"onsite
+South Burlington, VT
+
+Description
+
+The ideal Systems Engineer candidate has a BS in a relevant engineering discipline and is a systems engineering guru that understands the critical importance of a clear and unambiguous requirement set. 2+ years of experience on Part 23 or 27 aircraft or rotorcraft programs and demonstrated experience with Application Lifecycle Management software tools preferred. The individual should have an in-depth understanding of SAE ARP 4754A and ARP 4761 and a passion for safety and safety analysis in the form of Functional Hazard Assessments, Fault Tree Analysis, and FMEA’s.
+
+The candidate should be comfortable working with a team of certification engineers, DER’s, systems engineers, and other design engineers and be able to provide critical design feedback as it relates to safety and requirements verification. The candidate should expect to contribute as a team member to establish, manage and ensure compliance to the customer, regulatory, aircraft, and system-level requirements including demonstrating compliance through safety assessment.
+
+Essential Duties and Responsibilities:
+
+Aircraft, Systems and Component requirements development and validation
+Aircraft and Systems requirement generation.
+Modeling for system behavior validation activities.
+ALM environment workflows and requirement management.
+Test coordination and execution with fellow system and test engineers resources.
+
+
+
+Minimum Qualifications (Knowledge, Skills, and Abilities):
+
+Google G-Suite including Drive, Mail, Calendar, Docs, Sheets, Slides, Charts, Hangouts; Slack
+Solid Modeling (On-Shape, Solidworks, Catia, etc)
+ARP4754A
+APR4761
+Aerospace certification process including FAA order 8110.4C
+RTCA DO-160G, DO-331, and DO-178C
+
+
+
+Preferred Qualifications (Knowledge, Skills, and Abilities):
+
+Polarion ALM
+CATIA
+ANSYS
+Mil-HDBK-217, Reliability Software (PTC Windchill, Isograph, Relyence, etc)
+Mil-HDBK-21
+LabView
+Python or other test automation approaches
+
+
+
+Minimum physical onsite presence of 50% required.
+
+Video Interview:
+
+Please be aware that you may be invited to complete a Video Screening interview. This invite will be sent by email (users@hireflix.com). We highly recommend completing this step of the application process within the following 48 hours should you be invited.
+
+
+
+Note: Be sure to check your Junk folder
+
+BETA Technologies provides equal employment opportunity to all individuals regardless of their race, color, religion, age, sex, sexual orientation, gender identity, national origin, ancestry, place of birth, citizenship, disability, veteran or military status, health coverage status, HIV status, genetic information, crime victim status, pregnancy or a pregnancy-related condition or any other characteristic protected by state, federal, or local law. The company does not discriminate, and will not discriminate, and will not tolerate discrimination, based on any of these characteristics during the application process or in employment.
+
+All offers of employment at BETA Technologies are contingent upon favorable results of a thorough background check.
+
+BETA Technologies is an E-Verify employer.",-1,-1,Unknown / Non-Applicable,-1,1 to 50 Employees,Company - Private,False

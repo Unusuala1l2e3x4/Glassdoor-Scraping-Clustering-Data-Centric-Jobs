@@ -1,0 +1,374 @@
+Job Title,Company Name,Location,Salary Estimate,Rating,Job Description,Founded,Industry,Revenue,Sector,Size,Type,Easy Apply
+Data Engineer,"Contact Government Services, LLC
+","Pierre, SD",$73K - $114K (Glassdoor est.),4.7,"Data Engineer
+Employment Type: Full-Time, Mid-level
+Department: Business Intelligence
+CGS is seeking a passionate and driven Data Engineer to support a rapidly growing Data Analytics and Business Intelligence platform focused on providing solutions that empower our federal customers with the tools and capabilities needed to turn data into actionable insights. The ideal candidate is a critical thinker and perpetual learner; excited to gain exposure and build skillsets across a range of technologies while solving some of our clients’ toughest challenges.
+
+CGS brings motivated, highly skilled, and creative people together to solve the government’s most dynamic problems with cutting-edge technology. To carry out our mission, we are seeking candidates who are excited to contribute to government innovation, appreciate collaboration, and can anticipate the needs of others. Here at CGS, we offer an environment in which our employees feel supported, and we encourage professional growth through various learning opportunities.
+Skills and attributes for success:
+Complete development efforts across data pipeline to store, manage, store, and provision to data consumers.
+Being an active and collaborating member of an Agile/Scrum team and following all Agile/Scrum best practices.
+Write code to ensure the performance and reliability of data extraction and processing.
+Support continuous process automation for data ingest.
+Achieve technical excellence by advocating for and adhering to lean-agile engineering principles and practices such as API-first design, simple design, continuous integration, version control, and automated testing.
+Work with program management and engineers to implement and document complex and evolving requirements.
+Help cultivate an environment that promotes customer service excellence, innovation, collaboration, and teamwork.
+Collaborate with others as part of a cross-functional team that includes user experience researchers and designers, product managers, engineers, and other functional specialists.
+
+Qualifications:
+Must be a US Citizen.
+Must be able to obtain a Public Trust Clearance.
+7+ years of IT experience including experience in design, management, and solutioning of large, complex data sets and models.
+Experience with developing data pipelines from many sources from structured and unstructured data sets in a variety of formats.
+Proficiency in developing ETL processes, and performing test and validation steps.
+Proficiency to manipulate data (Python, R, SQL, SAS).
+Strong knowledge of big data analysis and storage tools and technologies.
+Strong understanding of the agile principles and ability to apply them.
+Strong understanding of the CI/CD pipelines and ability to apply them.
+Experience with relational database, such as, PostgreSQL.
+Work comfortably in version control systems, such as, Git Repositories.
+
+Ideally, you will also have:
+Experience creating and consuming APIs.
+Experience with DHS and knowledge of DHS standards a plus.
+Candidates will be given special consideration for extensive experience with Python.
+Ability to develop visualizations utilizing Tableau or PowerBI.
+Experience in developing Shell scripts on Linux.
+Demonstrated experience translating business and technical requirements into comprehensive data strategies and analytic solutions.
+Demonstrated ability to communicate across all levels of the organization and communicate technical terms to non-technical audiences.
+Our Commitment:
+Contact Government Services (CGS) strives to simplify and enhance government bureaucracy through the optimization of human, technical, and financial resources. We combine cutting-edge technology with world-class personnel to deliver customized solutions that fit our client’s specific needs. We are committed to solving the most challenging and dynamic problems.
+
+For the past seven years, we’ve been growing our government-contracting portfolio, and along the way, we’ve created valuable partnerships by demonstrating a commitment to honesty, professionalism, and quality work.
+
+Here at CGS we value honesty through hard work and self-awareness, professionalism in all we do, and to deliver the best quality to our consumers mending those relations for years to come.
+
+We care about our employees. Therefore, we offer a comprehensive benefits package:
+Health, Dental, and Vision
+Life Insurance
+401k
+Flexible Spending Account (Health, Dependent Care, and Commuter)
+Paid Time Off and Observance of State/Federal Holidays
+
+Contact Government Services, LLC is an Equal Opportunity Employer. Applicants will be considered without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+
+Join our team and become part of government innovation!
+
+Explore additional job opportunities with CGS on our Job Board:
+https://cgsfederal.com/join-our-team/
+
+For more information about CGS please visit: https://www.cgsfederal.com or contact:
+Email: info@cgsfederal.com",-1,-1,Unknown / Non-Applicable,-1,1 to 50 Employees,Company - Public,True
+Data Architecture and Engineering Director,"Wellbe Senior Medical
+",United States,-1,3.7,"Job Summary:
+
+WELLBE INTRODUCTION
+
+The WellBe care model is a Physician Led Advanced Practice clinician driven geriatric care (care of older adults) team focused on the care of the frail, poly-chronic, elderly Medicare Advantage patients. This population is typically underserved and very challenged with access to care. To address these problems, we have elected to bring the care to the patient, instead of trying to bring the patient to the care. Care is provided throughout the entire continuum of care – from chronic care and urgent care in the home, to hospital, to skilled nursing facility, to assisted living, to palliative care, to end of life care. WellBe's physician/advanced practicing clinician led geriatric care teams’ partner with the patient’s primary care physician to provide concierge level geriatric medical care and social support in the home as well as delivering and coordinating across the entire care continuum.
+
+
+GENERAL SUMMARY
+
+We are seeking a skilled and experienced Director of Healthcare Data Warehouse Architect to join our team. In this role, you will be responsible for designing, implementing, and maintaining a robust healthcare data warehouse that serves as the foundation for actuarial services, data analytics, reporting, and insights. As a key member of our team, you will play a critical role in shaping our data architecture and ensuring that it supports our healthcare data needs effectively. The hire will be responsible for directing the data engineering team as they build tooling to support analytics, extend our Data Warehouse platform, expand and optimize our data pipeline architecture, and work with the Development team to create cross-team solutions. The ideal candidate is an experienced data engineer and data wrangler who enjoys optimizing data systems and building them from the ground up. They must be self-directed and comfortable supporting the data needs of multiple teams, systems, and products. Experience in analytics and statistics is a major bonus. Experience with claims data specification is a must.
+Job Description:
+
+SKILLS & COMPETENCIES
+
+Coach and mentor the data engineering and Analytics team: guiding, planning, and reviewing the team’s work.
+Develop and implement a healthcare data warehouse architecture that meets the organization's data storage and reporting requirements while ensuring data quality and integrity.
+Create and maintain data models that facilitate the storage and retrieval of healthcare data, ensuring it is structured for efficient analytics.
+Oversee the integration of data from various sources, including electronic health records (EHRs), claims data, CMS datasets, and more into the data warehouse.
+Implement Extract, Transform, Load (ETL) processes to cleanse, transform, and load data into the data warehouse efficiently.
+Establish and maintain rigorous data security protocols and encryption standards to protect sensitive healthcare information in compliance with regulations like HIPAA.
+Continuously monitors and optimize the data warehouse's performance, ensuring fast query response times and scalability.
+Work closely with data analysts, data scientists, actuaries and other stakeholders to understand their data needs and design the data warehouse to meet those requirements effectively.
+Create and maintains documentation for the data warehouse architecture, data flows, and transformation processes.
+Collaborate with and manages third-party vendors to acquire and maintain data warehousing tools and solutions.
+Stays current on healthcare data regulations and ensure that the data warehouse complies with all relevant industry standards.
+Job Requirements:
+QUALIFICATIONS
+
+Educational/Experience Requirements:
+
+Bachelor's or advanced degree in Computer Science, Information Management, Data Science, or a related field. Master's degree preferred
+10+ years of experience in data management required.
+5+ years of experience in health care data analysis experience required.
+Subject matter expertise with healthcare datasets (Claims, MMR, membership), standards and regulations, such as HIPAA required
+Strong leadership and team management skills, with the ability to motivate and develop team members.
+Snowflake and DBT experience preferred
+Proficiency in using data management tools and technologies such as data cataloging tools, ETL tools, and data lineage tools.
+Excellent communication and interpersonal skills, with the ability to collaborate effectively across departments.
+Required Skills and Abilities:
+Proficiency in data modeling techniques, including Entity-Relationship Diagrams (ERD) and Dimensional Data Modeling, to design data structures that support business needs.
+Expertise in database management systems (DBMS) such as SQL Server, Oracle, MySQL, PostgreSQL, NoSQL databases, and cloud-based solutions like Snowflake and Azure SQL Database.
+Knowledge of ETL processes and tools to extract data from source systems, transform it for analysis, and load it into data repositories.
+Ability to integrate data from various sources, both structured and unstructured, to create a unified and accessible data ecosystem.
+Experience in designing and maintaining data warehouses, including knowledge of data warehouse architecture and methodologies.
+Understanding of healthcare systems, including insurance plans, Medicare, Medicaid, and commercial payers.
+Proficiency in processing various types of healthcare claims, such as medical, dental, vision, and pharmacy claims.
+Knowledge of the claims adjudication process and claim submission requirements.
+Exceptional attention to detail to accurately review and validate claims data, ensuring they meet compliance and regulatory standards.
+Ability to interpret complex claims data and extract meaningful insights.
+Foster a data-driven culture by promoting the use of data insights to drive business decisions and innovation.
+Lead and mentor a team of data professionals, providing guidance, performance evaluations, and professional development opportunities.
+Foster a collaborative and inclusive work environment that encourages knowledge-sharing and innovation.
+Advanced knowledge in SQL or other similar programming languages. Some development experience in at least one scripting language (Python, R, etc.) is a plus.
+
+
+Supervisory Responsibility: This position will have supervisory responsibilities.
+
+
+
+
+Travel requirements: Travel may be required up to 15% locally or nationally.
+
+
+Physical Demands: The physical demands described here are representative of those that must be met by a colleague to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. While performing the duties of this job, the colleague is regularly required to use hands to finger, handle, or feel; talk and hear. The colleague frequently is required to stand, sit, and reach with hands and arms. The colleague is occasionally required to walk; climb or balance; stoop, kneel, crouch, or crawl; and taste or smell. The colleague must frequently lift and/or move more than 35 pounds. Specific vision abilities required by this job include close vision.
+
+The preceding functions may not be comprehensive in scope regarding work performed by an employee assigned to this position classification. Management reserves the right to add, modify, change or rescind the work assignments of this position. Management also reserves the right to make reasonable accommodations so that a qualified employee(s) can perform the essential functions of this role.",-1,-1,Unknown / Non-Applicable,-1,1 to 50 Employees,Company - Public,True
+Manufacturing Engineer,,"Yankton, SD",,-1.0,"Description:
+
+Lead operation improvement for purpose of eliminating waste and increase value of overall manufacturing process
+Drive Continuous improvement with data-based decision making
+Incorporate safety into processes, equipment, and operating procedures
+Communicate effectively with all members to streamline processes associated with creating a team environment to implement improvements
+Analyze data to justify continuous improvement efforts and validate results
+Communicate goals and current state of process through the chain of command through use of production board and other communication tools
+Implement lean principles and the effective use of 5S in areas of responsibility
+Drive the development and use of lean toolsets to maintain systemic improvements
+Implement lean tools and procedures to determine and eliminate root cause
+Strong involvement with each line (assembly, fab, weld, etc)
+Involved from start to finish
+
+Hours: typical 40 hours/week
+
+Skills:
+
+Manufacturing engineering, Process improvement, Continuous improvement, Lean manufacturing, Six sigma, data analysis, erp system, Process engineering, Manufacturing process, strategic planning, cad
+
+Top Skills Details:
+
+Manufacturing engineering,Process improvement,Continuous improvement,Lean manufacturing,Six sigma,data analysis
+
+Additional Skills & Qualifications:
+
+3-5 years experience in manufacturing environment (heavy equipment preferred)
+
+Bachelor's in engineering preferred
+
+Lean manufacturing
+
+Six Sigma
+
+Experience Level:
+
+Intermediate Level
+
+Diversity, Equity & Inclusion
+
+At Actalent, diversity and inclusion are a bridge towards the equity and success of our people. DE&I are embedded into our culture through:
+
+Hiring diverse talent
+Maintaining an inclusive environment through persistent self-reflection
+Building a culture of care, engagement, and recognition with clear outcomes
+Ensuring growth opportunities for our people
+
+Actalent is an equal opportunity employer.
+
+About Actalent
+
+Actalent connects passion with purpose. We help visionary companies advance their engineering and science initiatives through access to specialized experts that drive scale, innovation, and speed to market. With a network of almost 30,000 engineering and sciences consultants and more than 4,500 clients across the U.S., Canada, Asia, and Europe, Actalent serves many of the Fortune 500. An operating company of Allegis Group, the global leader in talent solutions, Actalent launched as a new specialized engineering and sciences services and workforce solutions brand in 2021.",1983,Information Technology Support Services,$1 to $5 billion (USD),Information Technology,10000+ Employees,Company - Private,True
+Sr Cloud Engineer,"HealthFirst
+",South Dakota,-1,3.3,"The Senior Cloud Engineer is an experienced member and informal leader within the Healthfirst cloud operational excellence strategy. This role deploys and manages enterprise solutions in both public and private clouds, while also developing tools to automate system deployment and configuration management tasks. The Senior Cloud Engineer provides informal first-level guidance and leadership while working independently and/or collaboratively with other engineers to create solutions. He/she works with diverse technologies to build tools and automation to eliminate manual operations and create reliable and repeatable orchestration. The role is responsible for establishing standards of usage across our public and private cloud footprint. This individual works with other engineers to identify efficiency opportunities, eliminate waste, and improve the resiliency of our infrastructure platforms, while working with application development teams to support continuous delivery of new capabilities.
+
+Duties and Responsibilities:
+Work as a senior member of the cloud engineering team
+Develop automated capabilities to deliver capabilities more efficiently
+Drive solutions to problems impacting mission critical systems and implement automation to prevent reoccurrence
+Execute changes on production systems
+Work in center of excellence for cloud usage and cloud development standards
+Work closely with other development and operations team members to understand complex product requirements and translate them into automated solutions
+Maintain an accurate picture of existing server, storage, networking software/ hardware and virtual environments to support scaling against various project requirements
+Ensure all usage of cloud environments meet governance standards and contribute to improving standards for security and operational efficiency
+Other duties as assigned or required
+
+Minimum Qualification:
+Demonstrated expertise in designing, building, and managing Linux/Unix-based and/or Windows systems
+Certification in Development, Architecture, and/or DevOps or equivalent work experience (AWS, GCP, Nutanix, etc.)
+Deep understanding of Core Cloud Competencies (Virtualization, DNS, Access Control, Environment Management, etc.)
+Automation scripting expertise in at least one language (BASH, Python, Ruby, PowerShell, etc.)
+Experience documenting implementations using Microsoft Word, Excel, and Visio for presentations in PowerPoint or similar tools
+Work experience demonstrating written, verbal and presentation communication skills with ability to communicate complex information
+Experience developing green-field technology through a mixture of experimentation and guided learning
+HS Diploma / GED from an accredited institution with relevant work experience.
+
+Preferred Qualifications:
+Work experience on a cloud center of excellence team driving business innovation.
+Experience implementing cloud services with an infrastructure as code methodology using AWS CloudFormation, Ansible, or Terraform
+Experience supporting infrastructure code and CI/CD integration with Jenkins, GitHub, Artifactory, etc.
+In-depth and broad experience with several AWS cloud services like EC2, ECS, EMR, EKS, S3, RDS, Glue, Lambda, CloudFront, etc.
+Strong understanding of cloud security best practices, and implementing a least privileged model of access in AWS
+Deep troubleshooting skills that involve analysis of logs, traffic trace, configuration data, automation tools to resolve issues until end-to-end systems are functioning
+Experience with Kubernetes and/or Docker
+Experience working with development teams to create cloud-native applications
+Experience with system health monitoring and optimizing performance (CloudWatch, New Relic, Dynatrace, Splunk, Opsview, ExtraHop, CloudTrail, etc.)
+Experience working in regulated and/or high-security environments and industries (PCI, HIPAA, HITRUST, etc.).
+
+Compliance and Regulatory Responsibilities: N/A
+License/Certification: N/A
+
+WE ARE AN EQUAL OPPORTUNITY EMPLOYER. Applicants and employees are considered for positions and are evaluated without regard to race, color, religion, gender, gender identity, sexual orientation, national origin, age, genetic information, military or veteran status, marital status, mental or physical disability or any other protected Federal, State/Province or Local status unrelated to the performance of the work involved.
+
+If you have a disability under the Americans with Disability Act or a similar law and want a reasonable accommodation to assist with your job search or application for employment, please contact us by sending an email to careers@Healthfirst.org or calling 212-519-1798 . In your email please include a description of the accommodation you are requesting and a description of the position for which you are applying. Only reasonable accommodation requests related to applying for a position within Healthfirst Management Services will be reviewed at the e-mail address and phone number supplied. Thank you for considering a career with Healthfirst Management Services.
+
+EEO Law Poster and Supplement
+
+All hiring and recruitment at Healthfirst is transacted with a valid “@healthfirst.org” email address only or from a recruitment firm representing our Company. Any recruitment firm representing Healthfirst will readily provide you with the name and contact information of the recruiting professional representing the opportunity you are inquiring about. If you receive a communication from a sender whose domain is not @healthfirst.org, or not one of our recruitment partners, please be aware that those communications are not coming from or authorized by Healthfirst. Healthfirst will never ask you for money during the recruitment or onboarding process.
+
+Hiring Range*:
+Greater New York City Area (NY, NJ, CT residents): $129,900 - $187,680
+
+All Other Locations (within approved locations): $114,400 - $170,170
+
+As a candidate for this position, your salary and related elements of compensation will be contingent upon your work experience, education, licenses and certifications, and any other factors Healthfirst deems pertinent to the hiring decision.
+
+In addition to your salary, Healthfirst offers employees a full range of benefits such as, medical, dental and vision coverage, incentive and recognition programs, life insurance, and 401k contributions (all benefits are subject to eligibility requirements). Healthfirst believes in providing a competitive compensation and benefits package wherever its employees work and live.
+
+
+The hiring range is defined as the lowest and highest salaries that Healthfirst in “good faith” would pay to a new hire, or for a job promotion, or transfer into this role.",1993,Insurance Carriers,Unknown / Non-Applicable,Insurance,5001 to 10000 Employees,Nonprofit Organization,False
+Senior System Integration Engineer C4iSR and C5iSR,"Horizon Global Partners LLC
+",United States,$99K - $150K (Employer est.),5.0,"The Senior System Integration Engineer specializing in Command, Control, Communication, Computers, Intelligence, Surveillance and Reconnaissance (C4iSR) and Command, Control, Communication, Computers, Cyber, Intelligence, Surveillance and Reconnaissance (C5iSR) is responsible for designing, implementing, and integrating complex systems and solutions within the defense and intelligence domain.
+
+Responsibilities
+
+· Lead the design, integration, and testing of C4iSR and C5iSR systems and solutions.
+
+· Develop system architecture requirements and specification based on customer needs and industry standards.
+
+· Collaborate with cross-functional teams, including software developers, system engineers and project managers to ensure successful system integration.
+
+· Conduct system analysis and performance assessment to identify areas for improvement and optimize system functionality.
+
+· Identify and mitigate technical risk and issues during system integration and deployment.
+
+· Provide technical guidance and mentorship to junior engineers and team members.
+
+· Stay up to date with emerging technologies and trends in the C4iSR and C5iSR domain.
+
+· Ensure compliance with relevant industry standards, security protocols, and regulatory requirements.
+
+· Prepare and present technical reports documentation and presentation to internal and external stakeholders.
+
+· Other tasks assigned by HgP.
+
+Requirements
+
+· Active Top-Secret Clearance
+
+· Degree in Engineering and experience in system integration
+
+· Minimum of 8 years of experience in system integration preferably in the defense and intelligence domain.
+
+· Proficient in system integration tools and methodologies.
+
+· Experience with system engineering processes including requirements analysis, system design, integration, testing and documentation.
+
+· Strong Operational and Engineering background that fully understands the connectivity required (i.e., how C2 system interacts) with and within the operational kill chain of airborne threats.
+
+· Strong candidates possess some experience and relevant knowledge and understanding of operating in the NATO/ USAFE/ EUCOM environment.
+
+· Have the right contacts (e.g know the right JICO to work with) in the European environment.
+
+· Strong analytical and problem-solving skills, with the ability to troubleshoot complex technical issues.
+
+· Excellent communication and interpersonal skills with the ability to collaborate effectively with cross functional teams and customers.
+
+· Must be willing to travel internationally if needed.
+
+· Strong leadership and team management skills.
+
+· Should be able to lead projects & team.
+
+Location
+
+CUNOS/ OCUNOS.
+
+Job Type: Full-time
+
+Pay: $99,000.00 - $150,000.00 per year
+
+Benefits:
+
+401(k)
+Dental insurance
+Health insurance
+
+Compensation package:
+
+Performance bonus
+
+Experience level:
+
+8 years
+
+Schedule:
+
+8 hour shift
+
+Experience:
+
+System Integration for C4iSR and C5iSR: 8 years (Required)
+
+Security clearance:
+
+Top Secret (Required)
+
+Work Location: On the road",-1,-1,Unknown / Non-Applicable,-1,1 to 50 Employees,Company - Public,True
+Wireless Interference Engineer,"RKF Engineering Solutions LLC
+",United States,-1,3.9,"Description:
+
+RKF Engineering specializes in the design of next generation communication systems and software for today’s most advanced satellite and terrestrial communication networks. Based in Bethesda MD, RKF is seeking exceptional software and communications developers to work in a dynamic team environment on an array of challenging problems. Our firm is always seeking experienced and innovative individuals who are looking for an exciting challenge.
+
+RKF Engineering LLC provides electromagnetic environmental effects (E3) analysis support to the Defense Information Systems Agency (DISA) and the Defense Spectrum Organization (DSO) Joint Spectrum Center (JSC) in accordance with the Telecommunications Act of 1996.
+
+Under this directive all Federal government departments and agencies are directed to provide access to mobile service providers (MSP) for the installation and operation of cellular telecommunications systems on military bases in the United States.
+
+This project supports the JSC by determining whether the operation of proposed MSP cellular transmission systems will interfere with government and Department of Defense (DoD) communications-electronic systems. The position requires knowledge of basic or advanced communications systems theory, database management, and communications-electronics (C-E) design and functionality. Some familiarity with domestic regulations governing the use of the radio frequency spectrum is desirable
+
+As an RF Interference Engineer the hired individual will report to the MSP Project Manager. The responsibilities of the job include, but are not limited to:
+
+Performing electromagnetic compatibility analyses to determine if new MSP installations can operate compatibly in a specific geographical area without posing conflicts to nearby DoD C-E systems operations. When interference is predicted the engineer will develop methods to mitigate predicted electromagnetic interference issues (EMI).
+Perform the above tasks and document the progress and results of the analysis according to RKF and JSC report guidelines within the scheduled time period and allocated budget of each task.
+The principal qualifications and abilities needed for this position include:
+
+o Ability to discuss and understand the technical design and operation of wireless RF (telecommunications and cellular communications) systems and the operation of wireless DoD C-E receiver systems.
+
+o Perform sub-database searches of technical records for government C-E systems from DoD and government master frequency databases
+
+o Familiarity with basic radio frequency propagation equations and the operation principles of transmitters and antennas
+
+o Perform linear and intermodulation E3 compatibility predictions using computer propagation models.
+
+Depending on the level of experience, on-the job training will be provided to fulfill the above requirements.
+
+Requirements:
+
+Qualifications: Applicant must have the following minimum education:
+
+A Bachelors in Electrical Engineering, Physics, or Mathematics.
+4 years experience and training in the engineering and design of cellular communications systems and other RF systems is desirable.
+DOD software development experience and computer programming is a plus.
+Additional Preferred Qualifications:
+-Prior military service in the field of Spectrum management and DoD systems operation,
+-Experience working in the DoD and US military spectrum community to design communication networks,
+-Experience working in the commercial telecommunications industry, especially cellular systems,
+Knowledge of DoD spectrum management process and procedures; knowledge regarding use
+of DoD spectrum management tools (e.g., Spectrum XXI)
+-A Masters in Electrical Engineering, Physics or Mathematics. Experience with designing and
+running complex analysis tools, data management skills, and ability to work in a collaborative,
+team-based environment are also desirable.
+
+Security Clearance - Active Secret clearance or the candidate to be able to obtain a SECRET level security clearance. In order to obtain a clearance you need to be a US Citizen and show proof of citizenship.
+
+RKF Engineering LLC is an Equal Opportunity/Affirmative Action Employer. We consider applicants without regard to race, color, religion, age, national origin, ancestry, ethnicity, gender, gender identity, gender expression, sexual orientation, marital status, veteran status, disability, genetic information, citizenship status, or membership in any other group protected by federal, state or local law.",-1,-1,Unknown / Non-Applicable,-1,1 to 50 Employees,Company - Private,True

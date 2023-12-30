@@ -1,0 +1,101 @@
+cluster_size,token_wordfreq,wordfreq,token_tfidf,tfidf
+22056,-1,0.11570547696771313,-1,0.11570547696771313
+22056,Information Technology Support Services,0.0901342038447566,Information Technology Support Services,0.0901342038447566
+22056,Health Care Services & Hospitals,0.0719985491476243,Health Care Services & Hospitals,0.0719985491476243
+22056,Business Consulting,0.0453391367428372,Business Consulting,0.0453391367428372
+22056,Aerospace & Defense,0.04416031918752342,Aerospace & Defense,0.04416031918752342
+22056,Banking & Lending,0.04075988393181059,Banking & Lending,0.04075988393181059
+22056,Computer Hardware Development,0.039898440333696675,Computer Hardware Development,0.039898440333696675
+22056,Colleges & Universities,0.03590859630032696,Colleges & Universities,0.03590859630032696
+22056,Enterprise Software & Network Solutions,0.03527384838592723,Enterprise Software & Network Solutions,0.03527384838592723
+22056,Internet & Web Services,0.030059847660500898,Internet & Web Services,0.030059847660500898
+22056,Insurance Carriers,0.026976786361987935,Insurance Carriers,0.026976786361987935
+22056,Investment & Asset Management,0.024573812114617538,Investment & Asset Management,0.024573812114617538
+22056,Biotech & Pharmaceuticals,0.02276024664490403,Biotech & Pharmaceuticals,0.02276024664490403
+22056,HR Consulting,0.02162676822633309,HR Consulting,0.02162676822633309
+22056,Energy & Utilities,0.021536089952847413,Energy & Utilities,0.021536089952847413
+22056,State & Regional Agencies,0.01768226332970621,State & Regional Agencies,0.01768226332970621
+22056,National Agencies,0.01668480232136378,National Agencies,0.01668480232136378
+22056,Consumer Product Manufacturing,0.01595937613347838,Consumer Product Manufacturing,0.01595937613347838
+22056,Municipal Agencies,0.015369967355821499,Municipal Agencies,0.015369967355821499
+22056,Machinery Manufacturing,0.014327167210736272,Machinery Manufacturing,0.014327167210736272
+22056,Software Development,0.011516140732680443,Software Development,0.011516140732680443
+22056,Advertising & Public Relations,0.011153427638737756,Advertising & Public Relations,0.011153427638737756
+22056,Transportation Equipment Manufacturing,0.01110808850199492,Transportation Equipment Manufacturing,0.01110808850199492
+22056,Accounting & Tax,0.011062749365252084,Accounting & Tax,0.011062749365252084
+22056,Food & Beverage Manufacturing,0.01042800145085238,Food & Beverage Manufacturing,0.01042800145085238
+22056,Civic & Social Services,0.009838592673195513,Civic & Social Services,0.009838592673195513
+22056,Financial Transaction Processing,0.008659775117881779,Financial Transaction Processing,0.008659775117881779
+22056,Electronics Manufacturing,0.00820638375045342,Electronics Manufacturing,0.00820638375045342
+22056,Health Care Products Manufacturing,0.008025027203482075,Health Care Products Manufacturing,0.008025027203482075
+22056,Real Estate,0.007889009793253568,Real Estate,0.007889009793253568
+22056,Staffing & Subcontracting,0.007798331519767895,Staffing & Subcontracting,0.007798331519767895
+22056,Wholesale,0.007707653246282221,Wholesale,0.007707653246282221
+22056,Shipping & Trucking,0.00729960101559669,Shipping & Trucking,0.00729960101559669
+22056,Research & Development,0.0071635836053681795,Research & Development,0.0071635836053681795
+22056,Construction,0.006846209648168322,Construction,0.006846209648168322
+22056,Telecommunications Services,0.006256800870511443,Telecommunications Services,0.006256800870511443
+22056,Insurance Agencies & Brokerages,0.0059394269133115855,Insurance Agencies & Brokerages,0.0059394269133115855
+22056,Architectural & Engineering Services,0.005622052956111728,Architectural & Engineering Services,0.005622052956111728
+22056,"Department, Clothing & Shoe Stores",0.005531374682626054,"Department, Clothing & Shoe Stores",0.005531374682626054
+22056,Restaurants & Cafes,0.004261878853826623,Restaurants & Cafes,0.004261878853826623
+22056,Taxi & Car Services,0.0042165397170837865,Taxi & Car Services,0.0042165397170837865
+22056,Chemical Manufacturing,0.0038991657598839292,Chemical Manufacturing,0.0038991657598839292
+22056,Primary & Secondary Schools,0.0038991657598839292,Primary & Secondary Schools,0.0038991657598839292
+22056,Film Production,0.0035817918026840746,Film Production,0.0035817918026840746
+22056,General Merchandise & Superstores,0.0034457743924555654,General Merchandise & Superstores,0.0034457743924555654
+22056,Home Furniture & Housewares Stores,0.0033097569822270563,Home Furniture & Housewares Stores,0.0033097569822270563
+22056,Other Retail Stores,0.0030830612985128744,Other Retail Stores,0.0030830612985128744
+22056,Grocery Stores,0.002538991657598838,Grocery Stores,0.002538991657598838
+22056,Metal & Mineral Manufacturing,0.002448313384113165,Metal & Mineral Manufacturing,0.002448313384113165
+22056,Hotels & Resorts,0.0024029742473703286,Hotels & Resorts,0.0024029742473703286
+22056,Legal,0.0023576351106274923,Legal,0.0023576351106274923
+22056,Security & Protective,0.002221617700398983,Security & Protective,0.002221617700398983
+22056,Broadcast Media,0.002221617700398983,Broadcast Media,0.002221617700398983
+22056,Membership Organizations,0.0021762785636561467,Membership Organizations,0.0021762785636561467
+22056,Beauty & Wellness,0.0021309394269133104,Beauty & Wellness,0.0021309394269133104
+22056,Culture & Entertainment,0.002085600290170474,Culture & Entertainment,0.002085600290170474
+22056,"Cable, Internet & Telephone Providers",0.0020402611534276376,"Cable, Internet & Telephone Providers",0.0020402611534276376
+22056,Vehicle Dealers,0.0018135654697134557,Vehicle Dealers,0.0018135654697134557
+22056,Education & Training Services,0.0018135654697134557,Education & Training Services,0.0018135654697134557
+22056,Publishing,0.0017682263329706193,Publishing,0.0017682263329706193
+22056,Grantmaking & Charitable Foundations,0.001722887196227783,Grantmaking & Charitable Foundations,0.001722887196227783
+22056,"Airlines, Airports & Air Transportation",0.0016322089227421102,"Airlines, Airports & Air Transportation",0.0016322089227421102
+22056,Automotive Parts & Accessories Stores,0.0016322089227421102,Automotive Parts & Accessories Stores,0.0016322089227421102
+22056,Preschools & Child Care Services,0.0016322089227421102,Preschools & Child Care Services,0.0016322089227421102
+22056,Gambling,0.0016322089227421102,Gambling,0.0016322089227421102
+22056,Food & Beverage Stores,0.0015415306492564374,Food & Beverage Stores,0.0015415306492564374
+22056,Crop Production,0.001496191512513601,Crop Production,0.001496191512513601
+22056,Video Game Publishing,0.001496191512513601,Video Game Publishing,0.001496191512513601
+22056,Sports & Recreation,0.001496191512513601,Sports & Recreation,0.001496191512513601
+22056,Hospitals & Health Clinics,0.0014055132390279283,Hospitals & Health Clinics,0.0014055132390279283
+22056,Commercial Equipment Services,0.0013148349655422555,Commercial Equipment Services,0.0013148349655422555
+22056,Building & Personnel Services,0.0012694958287994191,Building & Personnel Services,0.0012694958287994191
+22056,Biotechnology,0.00113347841857091,Biotechnology,0.00113347841857091
+22056,Religious Institutions,0.0010881392818280736,Religious Institutions,0.0010881392818280736
+22056,Rail Transportation,0.0010428001450852372,Rail Transportation,0.0010428001450852372
+22056,Stock Exchanges,0.0009974610083424008,Stock Exchanges,0.0009974610083424008
+22056,Catering & Food Service Contractors,0.0009521218715995644,Catering & Food Service Contractors,0.0009521218715995644
+22056,Convenience Stores,0.0009067827348567281,Convenience Stores,0.0009067827348567281
+22056,Sporting Goods Stores,0.0008614435981138917,Sporting Goods Stores,0.0008614435981138917
+22056,Consumer Electronics & Appliances Stores,0.0008161044613710553,Consumer Electronics & Appliances Stores,0.0008161044613710553
+22056,Mining & Metals,0.0007707653246282189,Mining & Metals,0.0007707653246282189
+22056,Commercial Printing,0.0007707653246282189,Commercial Printing,0.0007707653246282189
+22056,Farm Support,0.0007707653246282189,Farm Support,0.0007707653246282189
+22056,Travel Agencies,0.0007254261878853825,Travel Agencies,0.0007254261878853825
+22056,Wood & Paper Manufacturing,0.0006347479143997098,Wood & Paper Manufacturing,0.0006347479143997098
+22056,Beauty & Personal Accessories Stores,0.0005894087776568734,Beauty & Personal Accessories Stores,0.0005894087776568734
+22056,Pharmaceutical,0.000544069640914037,Pharmaceutical,0.000544069640914037
+22056,Pet & Pet Supplies Stores,0.00045339136742836425,Pet & Pet Supplies Stores,0.00045339136742836425
+22056,General Repair & Maintenance,0.00045339136742836425,General Repair & Maintenance,0.00045339136742836425
+22056,Drug & Health Stores,0.00045339136742836425,Drug & Health Stores,0.00045339136742836425
+22056,Car & Truck Rental,0.0004080522306855278,Car & Truck Rental,0.0004080522306855278
+22056,Law Firms,0.0004080522306855278,Law Firms,0.0004080522306855278
+22056,Debt Relief,0.0003627130939426914,Debt Relief,0.0003627130939426914
+22056,Event Services,0.00031737395719985494,Event Services,0.00031737395719985494
+22056,Consumer Product Rental,0.00031737395719985494,Consumer Product Rental,0.00031737395719985494
+22056,Marine Transportation,0.0002720348204570185,Marine Transportation,0.0002720348204570185
+22056,Office Supply & Copy Stores,0.00022669568371418207,Office Supply & Copy Stores,0.00022669568371418207
+22056,Waste Management,0.00022669568371418207,Waste Management,0.00022669568371418207
+22056,Pet Care & Veterinary,0.00022669568371418207,Pet Care & Veterinary,0.00022669568371418207
+22056,Medical Testing & Clinical Laboratories,0.00022669568371418207,Medical Testing & Clinical Laboratories,0.00022669568371418207

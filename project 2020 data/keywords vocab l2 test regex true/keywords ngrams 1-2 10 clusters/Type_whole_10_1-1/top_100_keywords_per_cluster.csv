@@ -1,0 +1,141 @@
+cluster_assignment,cluster_size,token_wordfreq,wordfreq,token_tfidf,tfidf
+1,250,Company - Private,0.9080000000000007,Company - Private,0.9080000000000007
+1,250,Company - Public,0.032,Company - Public,0.032
+1,250,,0.028,,0.028
+1,250,Nonprofit Organization,0.016,Nonprofit Organization,0.016
+1,250,Subsidiary or Business Segment,0.008,Subsidiary or Business Segment,0.008
+1,250,Contract,0.004,Contract,0.004
+1,250,School / School District,0.004,School / School District,0.004
+1,250,College / University,0.0,College / University,0.0
+1,250,Franchise,0.0,Franchise,0.0
+1,250,Government,0.0,Government,0.0
+1,250,Hospital,0.0,Hospital,0.0
+1,250,Other Organization,0.0,Other Organization,0.0
+1,250,Private Practice / Firm,0.0,Private Practice / Firm,0.0
+1,250,Self-employed,0.0,Self-employed,0.0
+2,2001,Company - Private,0.7176411794102879,Company - Private,0.7176411794102879
+2,2001,Company - Public,0.1179410294852569,Company - Public,0.1179410294852569
+2,2001,,0.07646176911544227,,0.07646176911544227
+2,2001,Subsidiary or Business Segment,0.038480759620189965,Subsidiary or Business Segment,0.038480759620189965
+2,2001,Nonprofit Organization,0.02598700649675165,Nonprofit Organization,0.02598700649675165
+2,2001,Contract,0.008495752123938029,Contract,0.008495752123938029
+2,2001,Government,0.004997501249375311,Government,0.004997501249375311
+2,2001,Other Organization,0.003998000999500249,Other Organization,0.003998000999500249
+2,2001,Hospital,0.002498750624687656,Hospital,0.002498750624687656
+2,2001,Private Practice / Firm,0.002498750624687656,Private Practice / Firm,0.002498750624687656
+2,2001,School / School District,0.0009995002498750624,School / School District,0.0009995002498750624
+2,2001,College / University,0.0,College / University,0.0
+2,2001,Franchise,0.0,Franchise,0.0
+2,2001,Self-employed,0.0,Self-employed,0.0
+3,768,Company - Private,0.5898437499999997,Company - Private,0.5898437499999997
+3,768,Company - Public,0.22656250000000053,Company - Public,0.22656250000000053
+3,768,,0.058593750000000035,,0.058593750000000035
+3,768,Nonprofit Organization,0.04557291666666668,Nonprofit Organization,0.04557291666666668
+3,768,Subsidiary or Business Segment,0.031249999999999986,Subsidiary or Business Segment,0.031249999999999986
+3,768,Hospital,0.010416666666666666,Hospital,0.010416666666666666
+3,768,Other Organization,0.009114583333333332,Other Organization,0.009114583333333332
+3,768,Contract,0.007812499999999999,Contract,0.007812499999999999
+3,768,College / University,0.006510416666666666,College / University,0.006510416666666666
+3,768,Government,0.005208333333333333,Government,0.005208333333333333
+3,768,Private Practice / Firm,0.005208333333333333,Private Practice / Firm,0.005208333333333333
+3,768,School / School District,0.0026041666666666665,School / School District,0.0026041666666666665
+3,768,Franchise,0.0013020833333333333,Franchise,0.0013020833333333333
+3,768,Self-employed,0.0,Self-employed,0.0
+4,2113,Company - Private,0.5513487931850283,Company - Private,0.5513487931850283
+4,2113,Company - Public,0.25035494557501226,Company - Public,0.25035494557501226
+4,2113,,0.0553715097018458,,0.0553715097018458
+4,2113,Nonprofit Organization,0.04448651206814962,Nonprofit Organization,0.04448651206814962
+4,2113,Subsidiary or Business Segment,0.04448651206814962,Subsidiary or Business Segment,0.04448651206814962
+4,2113,Government,0.026029342167534344,Government,0.026029342167534344
+4,2113,Hospital,0.00709891150023663,Hospital,0.00709891150023663
+4,2113,Contract,0.005679129200189304,Contract,0.005679129200189304
+4,2113,College / University,0.004259346900141978,College / University,0.004259346900141978
+4,2113,Other Organization,0.004259346900141978,Other Organization,0.004259346900141978
+4,2113,Private Practice / Firm,0.003786086133459536,Private Practice / Firm,0.003786086133459536
+4,2113,Self-employed,0.001893043066729768,Self-employed,0.001893043066729768
+4,2113,Franchise,0.000473260766682442,Franchise,0.000473260766682442
+4,2113,School / School District,0.000473260766682442,School / School District,0.000473260766682442
+5,111,Company - Public,0.5765765765765771,Company - Public,0.5765765765765771
+5,111,Company - Private,0.34234234234234245,Company - Private,0.34234234234234245
+5,111,Subsidiary or Business Segment,0.07207207207207207,Subsidiary or Business Segment,0.07207207207207207
+5,111,,0.009009009009009009,,0.009009009009009009
+5,111,College / University,0.0,College / University,0.0
+5,111,Contract,0.0,Contract,0.0
+5,111,Franchise,0.0,Franchise,0.0
+5,111,Government,0.0,Government,0.0
+5,111,Hospital,0.0,Hospital,0.0
+5,111,Nonprofit Organization,0.0,Nonprofit Organization,0.0
+5,111,Other Organization,0.0,Other Organization,0.0
+5,111,Private Practice / Firm,0.0,Private Practice / Firm,0.0
+5,111,School / School District,0.0,School / School District,0.0
+5,111,Self-employed,0.0,Self-employed,0.0
+6,3984,Company - Private,0.41767068273092844,Company - Private,0.41767068273092844
+6,3984,Company - Public,0.3677208835341407,Company - Public,0.3677208835341407
+6,3984,Subsidiary or Business Segment,0.06601405622489999,Subsidiary or Business Segment,0.06601405622489999
+6,3984,,0.05898594377510071,,0.05898594377510071
+6,3984,Nonprofit Organization,0.029618473895582295,Nonprofit Organization,0.029618473895582295
+6,3984,Government,0.020582329317269055,Government,0.020582329317269055
+6,3984,College / University,0.017319277108433718,College / University,0.017319277108433718
+6,3984,Hospital,0.0075301204819277065,Hospital,0.0075301204819277065
+6,3984,Contract,0.006777108433734936,Contract,0.006777108433734936
+6,3984,Private Practice / Firm,0.004518072289156626,Private Practice / Firm,0.004518072289156626
+6,3984,Other Organization,0.0020080321285140565,Other Organization,0.0020080321285140565
+6,3984,School / School District,0.001004016064257028,School / School District,0.001004016064257028
+6,3984,Franchise,0.000251004016064257,Franchise,0.000251004016064257
+6,3984,Self-employed,0.0,Self-employed,0.0
+7,1245,Company - Private,0.30843373493975645,Company - Private,0.30843373493975645
+7,1245,Company - Public,0.1783132530120476,Company - Public,0.1783132530120476
+7,1245,Nonprofit Organization,0.1783132530120476,Nonprofit Organization,0.1783132530120476
+7,1245,,0.10522088353413672,,0.10522088353413672
+7,1245,College / University,0.08353413654618487,College / University,0.08353413654618487
+7,1245,Government,0.06265060240963864,Government,0.06265060240963864
+7,1245,Hospital,0.036947791164658676,Hospital,0.036947791164658676
+7,1245,Subsidiary or Business Segment,0.020080321285140573,Subsidiary or Business Segment,0.020080321285140573
+7,1245,School / School District,0.014457831325301205,School / School District,0.014457831325301205
+7,1245,Contract,0.004819277108433735,Contract,0.004819277108433735
+7,1245,Other Organization,0.00321285140562249,Other Organization,0.00321285140562249
+7,1245,Private Practice / Firm,0.00321285140562249,Private Practice / Firm,0.00321285140562249
+7,1245,Franchise,0.0008032128514056225,Franchise,0.0008032128514056225
+7,1245,Self-employed,0.0,Self-employed,0.0
+8,1841,Company - Private,0.606735469853331,Company - Private,0.606735469853331
+8,1841,Company - Public,0.2601846822379118,Company - Public,0.2601846822379118
+8,1841,,0.055947854426941966,,0.055947854426941966
+8,1841,Subsidiary or Business Segment,0.03259098316132534,Subsidiary or Business Segment,0.03259098316132534
+8,1841,Nonprofit Organization,0.022813688212927737,Nonprofit Organization,0.022813688212927737
+8,1841,Contract,0.006518196632265073,Contract,0.006518196632265073
+8,1841,Other Organization,0.0043454644215100485,Other Organization,0.0043454644215100485
+8,1841,Government,0.0032590983161325366,Government,0.0032590983161325366
+8,1841,Private Practice / Firm,0.0032590983161325366,Private Practice / Firm,0.0032590983161325366
+8,1841,College / University,0.001629549158066268,College / University,0.001629549158066268
+8,1841,School / School District,0.0010863661053775121,School / School District,0.0010863661053775121
+8,1841,Self-employed,0.0010863661053775121,Self-employed,0.0010863661053775121
+8,1841,Franchise,0.0005431830526887561,Franchise,0.0005431830526887561
+8,1841,Hospital,0.0,Hospital,0.0
+9,657,Company - Private,0.5372907153729085,Company - Private,0.5372907153729085
+9,657,Company - Public,0.2998477929984779,Company - Public,0.2998477929984779
+9,657,,0.0806697108066971,,0.0806697108066971
+9,657,Subsidiary or Business Segment,0.0334855403348554,Subsidiary or Business Segment,0.0334855403348554
+9,657,Nonprofit Organization,0.030441400304414,Nonprofit Organization,0.030441400304414
+9,657,Contract,0.0060882800608828,Contract,0.0060882800608828
+9,657,Government,0.0060882800608828,Government,0.0060882800608828
+9,657,College / University,0.0030441400304414,College / University,0.0030441400304414
+9,657,Private Practice / Firm,0.0015220700152207,Private Practice / Firm,0.0015220700152207
+9,657,Self-employed,0.0015220700152207,Self-employed,0.0015220700152207
+9,657,Franchise,0.0,Franchise,0.0
+9,657,Hospital,0.0,Hospital,0.0
+9,657,Other Organization,0.0,Other Organization,0.0
+9,657,School / School District,0.0,School / School District,0.0
+10,642,Company - Private,0.6666666666666607,Company - Private,0.6666666666666607
+10,642,Company - Public,0.1791277258566978,Company - Public,0.1791277258566978
+10,642,,0.08878504672897196,,0.08878504672897196
+10,642,Subsidiary or Business Segment,0.03115264797507788,Subsidiary or Business Segment,0.03115264797507788
+10,642,Nonprofit Organization,0.018691588785046728,Nonprofit Organization,0.018691588785046728
+10,642,Contract,0.004672897196261682,Contract,0.004672897196261682
+10,642,Government,0.003115264797507788,Government,0.003115264797507788
+10,642,Other Organization,0.003115264797507788,Other Organization,0.003115264797507788
+10,642,Hospital,0.001557632398753894,Hospital,0.001557632398753894
+10,642,Private Practice / Firm,0.001557632398753894,Private Practice / Firm,0.001557632398753894
+10,642,Self-employed,0.001557632398753894,Self-employed,0.001557632398753894
+10,642,College / University,0.0,College / University,0.0
+10,642,Franchise,0.0,Franchise,0.0
+10,642,School / School District,0.0,School / School District,0.0

@@ -1,0 +1,261 @@
+cluster_assignment,cluster_size,token_wordfreq,wordfreq,token_tfidf,tfidf
+1,187,Information Technology,1.0000000000000027,Information Technology,1.0000000000000027
+1,187,,0.0,,0.0
+1,187,Telecommunications,0.0,Telecommunications,0.0
+1,187,Retail,0.0,Retail,0.0
+1,187,"Restaurants, Bars & Food Services",0.0,"Restaurants, Bars & Food Services",0.0
+1,187,Real Estate,0.0,Real Estate,0.0
+1,187,"Oil, Gas, Energy & Utilities",0.0,"Oil, Gas, Energy & Utilities",0.0
+1,187,Non-Profit,0.0,Non-Profit,0.0
+1,187,Mining & Metals,0.0,Mining & Metals,0.0
+1,187,Media,0.0,Media,0.0
+1,187,Manufacturing,0.0,Manufacturing,0.0
+1,187,Insurance,0.0,Insurance,0.0
+1,187,Health Care,0.0,Health Care,0.0
+1,187,Government,0.0,Government,0.0
+1,187,Finance,0.0,Finance,0.0
+1,187,Education,0.0,Education,0.0
+1,187,Consumer Services,0.0,Consumer Services,0.0
+1,187,"Construction, Repair & Maintenance",0.0,"Construction, Repair & Maintenance",0.0
+1,187,Business Services,0.0,Business Services,0.0
+1,187,Biotech & Pharmaceuticals,0.0,Biotech & Pharmaceuticals,0.0
+1,187,"Arts, Entertainment & Recreation",0.0,"Arts, Entertainment & Recreation",0.0
+1,187,Agriculture & Forestry,0.0,Agriculture & Forestry,0.0
+1,187,Aerospace & Defense,0.0,Aerospace & Defense,0.0
+1,187,Accounting & Legal,0.0,Accounting & Legal,0.0
+1,187,Transportation & Logistics,0.0,Transportation & Logistics,0.0
+1,187,Travel & Tourism,0.0,Travel & Tourism,0.0
+2,598,Information Technology,0.4364548494983275,Information Technology,0.4364548494983275
+2,598,Business Services,0.16722408026755844,Business Services,0.16722408026755844
+2,598,,0.1505016722408026,,0.1505016722408026
+2,598,Finance,0.04180602006688962,Finance,0.04180602006688962
+2,598,Media,0.02675585284280936,Media,0.02675585284280936
+2,598,Manufacturing,0.02675585284280936,Manufacturing,0.02675585284280936
+2,598,Biotech & Pharmaceuticals,0.023411371237458192,Biotech & Pharmaceuticals,0.023411371237458192
+2,598,Accounting & Legal,0.01839464882943144,Accounting & Legal,0.01839464882943144
+2,598,Insurance,0.016722408026755856,Insurance,0.016722408026755856
+2,598,"Arts, Entertainment & Recreation",0.01505016722408027,"Arts, Entertainment & Recreation",0.01505016722408027
+2,598,Retail,0.013377926421404684,Retail,0.013377926421404684
+2,598,Aerospace & Defense,0.011705685618729098,Aerospace & Defense,0.011705685618729098
+2,598,Telecommunications,0.011705685618729098,Telecommunications,0.011705685618729098
+2,598,"Oil, Gas, Energy & Utilities",0.008361204013377926,"Oil, Gas, Energy & Utilities",0.008361204013377926
+2,598,Health Care,0.008361204013377926,Health Care,0.008361204013377926
+2,598,Non-Profit,0.006688963210702341,Non-Profit,0.006688963210702341
+2,598,Education,0.005016722408026756,Education,0.005016722408026756
+2,598,Government,0.0033444816053511705,Government,0.0033444816053511705
+2,598,Consumer Services,0.0033444816053511705,Consumer Services,0.0033444816053511705
+2,598,"Restaurants, Bars & Food Services",0.0016722408026755853,"Restaurants, Bars & Food Services",0.0016722408026755853
+2,598,"Construction, Repair & Maintenance",0.0016722408026755853,"Construction, Repair & Maintenance",0.0016722408026755853
+2,598,Transportation & Logistics,0.0016722408026755853,Transportation & Logistics,0.0016722408026755853
+2,598,Mining & Metals,0.0,Mining & Metals,0.0
+2,598,Real Estate,0.0,Real Estate,0.0
+2,598,Agriculture & Forestry,0.0,Agriculture & Forestry,0.0
+2,598,Travel & Tourism,0.0,Travel & Tourism,0.0
+3,2462,Information Technology,0.30341186027619577,Information Technology,0.30341186027619577
+3,2462,Business Services,0.17059301380990963,Business Services,0.17059301380990963
+3,2462,Finance,0.12835093419983698,Finance,0.12835093419983698
+3,2462,,0.11210398050365518,,0.11210398050365518
+3,2462,Retail,0.05117790414297329,Retail,0.05117790414297329
+3,2462,Media,0.037367993501218534,Media,0.037367993501218534
+3,2462,Manufacturing,0.028432168968318423,Manufacturing,0.028432168968318423
+3,2462,Insurance,0.02437043054427294,Insurance,0.02437043054427294
+3,2462,"Oil, Gas, Energy & Utilities",0.023964256701868393,"Oil, Gas, Energy & Utilities",0.023964256701868393
+3,2462,Health Care,0.020714865962632008,Health Care,0.020714865962632008
+3,2462,Biotech & Pharmaceuticals,0.017465475223395623,Biotech & Pharmaceuticals,0.017465475223395623
+3,2462,Real Estate,0.012185215272136481,Real Estate,0.012185215272136481
+3,2462,Transportation & Logistics,0.011372867587327381,Transportation & Logistics,0.011372867587327381
+3,2462,Accounting & Legal,0.011372867587327381,Accounting & Legal,0.011372867587327381
+3,2462,"Construction, Repair & Maintenance",0.007311129163281883,"Construction, Repair & Maintenance",0.007311129163281883
+3,2462,Telecommunications,0.006498781478472785,Telecommunications,0.006498781478472785
+3,2462,Non-Profit,0.005686433793663687,Non-Profit,0.005686433793663687
+3,2462,Education,0.005686433793663687,Education,0.005686433793663687
+3,2462,Consumer Services,0.004874086108854589,Consumer Services,0.004874086108854589
+3,2462,Travel & Tourism,0.004061738424045491,Travel & Tourism,0.004061738424045491
+3,2462,Aerospace & Defense,0.0036555645816409416,Aerospace & Defense,0.0036555645816409416
+3,2462,"Arts, Entertainment & Recreation",0.0032493907392363926,"Arts, Entertainment & Recreation",0.0032493907392363926
+3,2462,"Restaurants, Bars & Food Services",0.0028432168968318436,"Restaurants, Bars & Food Services",0.0028432168968318436
+3,2462,Agriculture & Forestry,0.0020308692120227455,Agriculture & Forestry,0.0020308692120227455
+3,2462,Government,0.0012185215272136475,Government,0.0012185215272136475
+3,2462,Mining & Metals,0.0,Mining & Metals,0.0
+4,1124,Business Services,0.25622775800711695,Business Services,0.25622775800711695
+4,1124,Information Technology,0.22597864768683215,Information Technology,0.22597864768683215
+4,1124,,0.17526690391459032,,0.17526690391459032
+4,1124,Health Care,0.06405693950177928,Health Care,0.06405693950177928
+4,1124,Finance,0.061387900355871806,Finance,0.061387900355871806
+4,1124,Manufacturing,0.02935943060498222,Manufacturing,0.02935943060498222
+4,1124,Accounting & Legal,0.028469750889679728,Accounting & Legal,0.028469750889679728
+4,1124,Insurance,0.026690391459074744,Insurance,0.026690391459074744
+4,1124,Retail,0.021352313167259794,Retail,0.021352313167259794
+4,1124,Education,0.01957295373665481,Education,0.01957295373665481
+4,1124,Media,0.012455516014234877,Media,0.012455516014234877
+4,1124,Telecommunications,0.010676156583629894,Telecommunications,0.010676156583629894
+4,1124,Non-Profit,0.009786476868327402,Non-Profit,0.009786476868327402
+4,1124,Transportation & Logistics,0.00889679715302491,Transportation & Logistics,0.00889679715302491
+4,1124,Government,0.007117437722419928,Government,0.007117437722419928
+4,1124,"Construction, Repair & Maintenance",0.007117437722419928,"Construction, Repair & Maintenance",0.007117437722419928
+4,1124,Consumer Services,0.006227758007117437,Consumer Services,0.006227758007117437
+4,1124,Aerospace & Defense,0.006227758007117437,Aerospace & Defense,0.006227758007117437
+4,1124,Biotech & Pharmaceuticals,0.006227758007117437,Biotech & Pharmaceuticals,0.006227758007117437
+4,1124,"Oil, Gas, Energy & Utilities",0.006227758007117437,"Oil, Gas, Energy & Utilities",0.006227758007117437
+4,1124,Real Estate,0.005338078291814946,Real Estate,0.005338078291814946
+4,1124,"Restaurants, Bars & Food Services",0.0035587188612099642,"Restaurants, Bars & Food Services",0.0035587188612099642
+4,1124,"Arts, Entertainment & Recreation",0.0008896797153024911,"Arts, Entertainment & Recreation",0.0008896797153024911
+4,1124,Travel & Tourism,0.0008896797153024911,Travel & Tourism,0.0008896797153024911
+4,1124,Agriculture & Forestry,0.0,Agriculture & Forestry,0.0
+4,1124,Mining & Metals,0.0,Mining & Metals,0.0
+5,610,Information Technology,0.40983606557376884,Information Technology,0.40983606557376884
+5,610,,0.23442622950819697,,0.23442622950819697
+5,610,Business Services,0.15573770491803268,Business Services,0.15573770491803268
+5,610,Finance,0.03770491803278689,Finance,0.03770491803278689
+5,610,Accounting & Legal,0.02295081967213115,Accounting & Legal,0.02295081967213115
+5,610,Media,0.021311475409836068,Media,0.021311475409836068
+5,610,Health Care,0.019672131147540985,Health Care,0.019672131147540985
+5,610,Consumer Services,0.018032786885245903,Consumer Services,0.018032786885245903
+5,610,Retail,0.01475409836065574,Retail,0.01475409836065574
+5,610,Insurance,0.013114754098360657,Insurance,0.013114754098360657
+5,610,Manufacturing,0.011475409836065575,Manufacturing,0.011475409836065575
+5,610,Education,0.009836065573770493,Education,0.009836065573770493
+5,610,Telecommunications,0.009836065573770493,Telecommunications,0.009836065573770493
+5,610,Transportation & Logistics,0.009836065573770493,Transportation & Logistics,0.009836065573770493
+5,610,Biotech & Pharmaceuticals,0.0049180327868852455,Biotech & Pharmaceuticals,0.0049180327868852455
+5,610,Aerospace & Defense,0.001639344262295082,Aerospace & Defense,0.001639344262295082
+5,610,Government,0.001639344262295082,Government,0.001639344262295082
+5,610,Non-Profit,0.001639344262295082,Non-Profit,0.001639344262295082
+5,610,Real Estate,0.001639344262295082,Real Estate,0.001639344262295082
+5,610,"Restaurants, Bars & Food Services",0.0,"Restaurants, Bars & Food Services",0.0
+5,610,"Construction, Repair & Maintenance",0.0,"Construction, Repair & Maintenance",0.0
+5,610,Mining & Metals,0.0,Mining & Metals,0.0
+5,610,Agriculture & Forestry,0.0,Agriculture & Forestry,0.0
+5,610,"Arts, Entertainment & Recreation",0.0,"Arts, Entertainment & Recreation",0.0
+5,610,"Oil, Gas, Energy & Utilities",0.0,"Oil, Gas, Energy & Utilities",0.0
+5,610,Travel & Tourism,0.0,Travel & Tourism,0.0
+6,69,Information Technology,0.4202898550724639,Information Technology,0.4202898550724639
+6,69,,0.27536231884057977,,0.27536231884057977
+6,69,Business Services,0.23188405797101455,Business Services,0.23188405797101455
+6,69,Finance,0.028985507246376812,Finance,0.028985507246376812
+6,69,Accounting & Legal,0.014492753623188406,Accounting & Legal,0.014492753623188406
+6,69,Consumer Services,0.014492753623188406,Consumer Services,0.014492753623188406
+6,69,Manufacturing,0.014492753623188406,Manufacturing,0.014492753623188406
+6,69,Telecommunications,0.0,Telecommunications,0.0
+6,69,Retail,0.0,Retail,0.0
+6,69,"Restaurants, Bars & Food Services",0.0,"Restaurants, Bars & Food Services",0.0
+6,69,Real Estate,0.0,Real Estate,0.0
+6,69,"Oil, Gas, Energy & Utilities",0.0,"Oil, Gas, Energy & Utilities",0.0
+6,69,Non-Profit,0.0,Non-Profit,0.0
+6,69,Mining & Metals,0.0,Mining & Metals,0.0
+6,69,Media,0.0,Media,0.0
+6,69,Health Care,0.0,Health Care,0.0
+6,69,Transportation & Logistics,0.0,Transportation & Logistics,0.0
+6,69,Government,0.0,Government,0.0
+6,69,Education,0.0,Education,0.0
+6,69,"Construction, Repair & Maintenance",0.0,"Construction, Repair & Maintenance",0.0
+6,69,Biotech & Pharmaceuticals,0.0,Biotech & Pharmaceuticals,0.0
+6,69,"Arts, Entertainment & Recreation",0.0,"Arts, Entertainment & Recreation",0.0
+6,69,Agriculture & Forestry,0.0,Agriculture & Forestry,0.0
+6,69,Aerospace & Defense,0.0,Aerospace & Defense,0.0
+6,69,Insurance,0.0,Insurance,0.0
+6,69,Travel & Tourism,0.0,Travel & Tourism,0.0
+7,2392,Information Technology,0.35242474916388616,Information Technology,0.35242474916388616
+7,2392,Business Services,0.33486622073579136,Business Services,0.33486622073579136
+7,2392,,0.1605351170568561,,0.1605351170568561
+7,2392,Finance,0.027173913043478246,Finance,0.027173913043478246
+7,2392,Manufacturing,0.023411371237458182,Manufacturing,0.023411371237458182
+7,2392,Accounting & Legal,0.01923076923076922,Accounting & Legal,0.01923076923076922
+7,2392,Insurance,0.014214046822742469,Insurance,0.014214046822742469
+7,2392,Health Care,0.013795986622073573,Health Care,0.013795986622073573
+7,2392,Media,0.009197324414715716,Media,0.009197324414715716
+7,2392,Retail,0.005434782608695652,Retail,0.005434782608695652
+7,2392,"Oil, Gas, Energy & Utilities",0.005434782608695652,"Oil, Gas, Energy & Utilities",0.005434782608695652
+7,2392,Education,0.005016722408026756,Education,0.005016722408026756
+7,2392,Government,0.005016722408026756,Government,0.005016722408026756
+7,2392,Consumer Services,0.004180602006688964,Consumer Services,0.004180602006688964
+7,2392,Biotech & Pharmaceuticals,0.0037625418060200674,Biotech & Pharmaceuticals,0.0037625418060200674
+7,2392,Telecommunications,0.0037625418060200674,Telecommunications,0.0037625418060200674
+7,2392,Transportation & Logistics,0.003344481605351171,Transportation & Logistics,0.003344481605351171
+7,2392,Non-Profit,0.0029264214046822745,Non-Profit,0.0029264214046822745
+7,2392,"Construction, Repair & Maintenance",0.0020903010033444815,"Construction, Repair & Maintenance",0.0020903010033444815
+7,2392,Agriculture & Forestry,0.001254180602006689,Agriculture & Forestry,0.001254180602006689
+7,2392,Aerospace & Defense,0.001254180602006689,Aerospace & Defense,0.001254180602006689
+7,2392,Real Estate,0.0008361204013377926,Real Estate,0.0008361204013377926
+7,2392,Mining & Metals,0.0004180602006688963,Mining & Metals,0.0004180602006688963
+7,2392,"Restaurants, Bars & Food Services",0.0004180602006688963,"Restaurants, Bars & Food Services",0.0004180602006688963
+7,2392,"Arts, Entertainment & Recreation",0.0,"Arts, Entertainment & Recreation",0.0
+7,2392,Travel & Tourism,0.0,Travel & Tourism,0.0
+8,2303,Business Services,0.21059487624837286,Business Services,0.21059487624837286
+8,2303,Information Technology,0.1841076856274434,Information Technology,0.1841076856274434
+8,2303,Finance,0.18367346938775603,Finance,0.18367346938775603
+8,2303,,0.14459400781589288,,0.14459400781589288
+8,2303,Health Care,0.04081632653061221,Health Care,0.04081632653061221
+8,2303,Manufacturing,0.03777681285280068,Manufacturing,0.03777681285280068
+8,2303,Insurance,0.03169778549717762,Insurance,0.03169778549717762
+8,2303,Accounting & Legal,0.0208423795049935,Accounting & Legal,0.0208423795049935
+8,2303,Biotech & Pharmaceuticals,0.017802865827181946,Biotech & Pharmaceuticals,0.017802865827181946
+8,2303,Retail,0.01650021710811985,Retail,0.01650021710811985
+8,2303,Education,0.014763352149370393,Education,0.014763352149370393
+8,2303,Government,0.013460703430308299,Government,0.013460703430308299
+8,2303,"Oil, Gas, Energy & Utilities",0.013460703430308299,"Oil, Gas, Energy & Utilities",0.013460703430308299
+8,2303,Transportation & Logistics,0.012158054711246204,Transportation & Logistics,0.012158054711246204
+8,2303,Aerospace & Defense,0.00998697351280938,Aerospace & Defense,0.00998697351280938
+8,2303,Consumer Services,0.009552757273122015,Consumer Services,0.009552757273122015
+8,2303,"Construction, Repair & Maintenance",0.00825010855405992,"Construction, Repair & Maintenance",0.00825010855405992
+8,2303,Non-Profit,0.007381676074685191,Non-Profit,0.007381676074685191
+8,2303,Real Estate,0.005210594876248371,Real Estate,0.005210594876248371
+8,2303,Telecommunications,0.005210594876248371,Telecommunications,0.005210594876248371
+8,2303,Media,0.004776378636561007,Media,0.004776378636561007
+8,2303,"Restaurants, Bars & Food Services",0.0030395136778115506,"Restaurants, Bars & Food Services",0.0030395136778115506
+8,2303,Agriculture & Forestry,0.0017368649587494573,Agriculture & Forestry,0.0017368649587494573
+8,2303,"Arts, Entertainment & Recreation",0.0017368649587494573,"Arts, Entertainment & Recreation",0.0017368649587494573
+8,2303,Mining & Metals,0.0004342162396873643,Mining & Metals,0.0004342162396873643
+8,2303,Travel & Tourism,0.0004342162396873643,Travel & Tourism,0.0004342162396873643
+9,411,Biotech & Pharmaceuticals,0.46228710462287054,Biotech & Pharmaceuticals,0.46228710462287054
+9,411,,0.18734793187347915,,0.18734793187347915
+9,411,Health Care,0.15571776155717748,Health Care,0.15571776155717748
+9,411,Business Services,0.09489051094890504,Business Services,0.09489051094890504
+9,411,Information Technology,0.031630170316301706,Information Technology,0.031630170316301706
+9,411,Accounting & Legal,0.024330900243309004,Accounting & Legal,0.024330900243309004
+9,411,Manufacturing,0.0170316301703163,Manufacturing,0.0170316301703163
+9,411,Government,0.0072992700729927005,Government,0.0072992700729927005
+9,411,Agriculture & Forestry,0.004866180048661801,Agriculture & Forestry,0.004866180048661801
+9,411,Education,0.004866180048661801,Education,0.004866180048661801
+9,411,Non-Profit,0.004866180048661801,Non-Profit,0.004866180048661801
+9,411,Retail,0.0024330900243309003,Retail,0.0024330900243309003
+9,411,Aerospace & Defense,0.0024330900243309003,Aerospace & Defense,0.0024330900243309003
+9,411,Telecommunications,0.0,Telecommunications,0.0
+9,411,"Restaurants, Bars & Food Services",0.0,"Restaurants, Bars & Food Services",0.0
+9,411,Real Estate,0.0,Real Estate,0.0
+9,411,"Oil, Gas, Energy & Utilities",0.0,"Oil, Gas, Energy & Utilities",0.0
+9,411,Insurance,0.0,Insurance,0.0
+9,411,Media,0.0,Media,0.0
+9,411,Transportation & Logistics,0.0,Transportation & Logistics,0.0
+9,411,Finance,0.0,Finance,0.0
+9,411,Consumer Services,0.0,Consumer Services,0.0
+9,411,"Construction, Repair & Maintenance",0.0,"Construction, Repair & Maintenance",0.0
+9,411,"Arts, Entertainment & Recreation",0.0,"Arts, Entertainment & Recreation",0.0
+9,411,Mining & Metals,0.0,Mining & Metals,0.0
+9,411,Travel & Tourism,0.0,Travel & Tourism,0.0
+10,3456,Information Technology,0.18489583333333398,Information Technology,0.18489583333333398
+10,3456,Business Services,0.16550925925925936,Business Services,0.16550925925925936
+10,3456,,0.11747685185185096,,0.11747685185185096
+10,3456,Health Care,0.1064814814814808,Health Care,0.1064814814814808
+10,3456,Aerospace & Defense,0.07552083333333326,Aerospace & Defense,0.07552083333333326
+10,3456,Government,0.055844907407407565,Government,0.055844907407407565
+10,3456,Insurance,0.05526620370370386,Insurance,0.05526620370370386
+10,3456,Education,0.05381944444444459,Education,0.05381944444444459
+10,3456,Biotech & Pharmaceuticals,0.04253472222222232,Biotech & Pharmaceuticals,0.04253472222222232
+10,3456,Manufacturing,0.03125000000000005,Manufacturing,0.03125000000000005
+10,3456,Finance,0.0309606481481482,Finance,0.0309606481481482
+10,3456,Non-Profit,0.014178240740740726,Non-Profit,0.014178240740740726
+10,3456,Media,0.012731481481481469,Media,0.012731481481481469
+10,3456,"Oil, Gas, Energy & Utilities",0.011284722222222212,"Oil, Gas, Energy & Utilities",0.011284722222222212
+10,3456,Accounting & Legal,0.007233796296296292,Accounting & Legal,0.007233796296296292
+10,3456,Retail,0.006944444444444441,Retail,0.006944444444444441
+10,3456,Telecommunications,0.006076388888888886,Telecommunications,0.006076388888888886
+10,3456,Transportation & Logistics,0.005497685185185184,Transportation & Logistics,0.005497685185185184
+10,3456,"Restaurants, Bars & Food Services",0.004629629629629629,"Restaurants, Bars & Food Services",0.004629629629629629
+10,3456,"Construction, Repair & Maintenance",0.004340277777777778,"Construction, Repair & Maintenance",0.004340277777777778
+10,3456,Consumer Services,0.0026041666666666665,Consumer Services,0.0026041666666666665
+10,3456,Travel & Tourism,0.0023148148148148147,Travel & Tourism,0.0023148148148148147
+10,3456,Real Estate,0.0014467592592592592,Real Estate,0.0014467592592592592
+10,3456,"Arts, Entertainment & Recreation",0.0011574074074074073,"Arts, Entertainment & Recreation",0.0011574074074074073
+10,3456,Mining & Metals,0.0,Mining & Metals,0.0
+10,3456,Agriculture & Forestry,0.0,Agriculture & Forestry,0.0

@@ -1,0 +1,1496 @@
+Job Title,Company Name,Location,Salary Estimate,Rating,Job Description,Founded,Industry,Revenue,Sector,Size,Type,Easy Apply
+Data Engineer - Hybrid Role,"Veracity Insurance Solutions LLC
+","Pleasant Grove, UT",$95K - $110K (Employer est.),4.4,"Are you an expert in AWS, Azure, or BigQuery? Does the design, development, and automation of the data warehouse/BI environment drive your excitement? If you have at least 3 years of professional experience in the data engineering field and SQL relations database experience, odds are, you'd make a great addition to our team.
+
+
+
+
+About Veracity
+Penicillin changed medicine. The Beatles changed music. And Veracity Insurance Solutions is changing insurance (listen, we can’t all be doctors and musicians). We’re growing fast, and we’re practically three companies in one: a direct-to-consumer insurance provider, a brokerage helping agents satisfy customers’ insurance needs, and a software firm helping agencies and states make complex tax filings simple.
+
+
+
+
+We’re growing, and we want you to be a part of it. We are currently looking for an experienced Data Engineer to join our team. This is a full-time position, working a hybrid schedule at our headquarters in Pleasant Grove, Utah.
+
+
+
+
+Under the supervision of the Director of Data Services and Workflow, the Data Analyst is responsible for driving the design, maintenance, and optimization of our data pipeline. We expect that you will aid in designing a data framework that conforms to data governance, quality, and security standards. As a Data Engineer, you will partner with development, product leaders, data analysts, and key business stakeholders to improve the quality of the data used to drive critical business decisions.
+
+
+
+
+Essential Functions
+
+Work on all aspects of the data warehouse/BI environment including architecture, design, development, automation, caching and performance tuning
+Develop and maintain a scalable data pipeline while integrating new data sources to support growing data volume and complexity
+Manage data sources, including integrating, transforming, and cleaning data to ensure consistency and accuracy
+Perform data integrity and performance audits and work with the dev team on best practices
+Act in an advisory capacity in data model reviews, architecture approach, and solution design to ensure high-quality deliverables
+Establish and enforce data governance policies, procedures, and standards to ensure data accuracy, consistency, and security
+Establish and maintain documentation that includes the design, requirements, and user manuals for the organization specific to data architecture (data dictionaries, models, data flows, etc), governance, and security of proprietary and external data sources
+Evaluate and define functional requirements for analytics and business intelligence (BI) solutions
+Migrate data from legacy systems to new solutions
+
+
+
+Bachelor's Degree in computer science or engineering-related field
+3+ years of professional experience in the data engineering field
+3+ years of SQL and relational database experience
+2+ years of ETL design, implementation, and maintenance experience
+2+ years of Python or similar programming language development experience
+Experience with designing and building schemas, tables, views, and data pipelines
+Experience with workflow management engines (i.e. Airflow, AWS Step Functions, etc)
+Experience in cloud technologies like AWS (preferred) or Azure, and analytics platforms such as AWS Redshift, Google BigQuery, Azure Data Warehouse, or similar
+Experience working with large structured and unstructured datasets
+Strong knowledge of coding standards, best practices, and data governance
+Familiar with business intelligence, data visualization, and analytics tools
+
+
+
+What’s In It for You
+
+Veracity offers a generous benefits package from the start, including paid holidays, 160 hours of PTO, plus 2 floating holidays per year, participation in our 401(k) with a company match plan, health/dental/vision plans, free mental health resources, and more.
+
+But nothing compares to being part of explosive growth and working with some truly remarkable humans. See what they say about working at Veracity: https://youtu.be/EFeOlVg3YLg",2012,Insurance Agencies & Brokerages,$1 to $5 million (USD),Insurance,51 to 200 Employees,Company - Public,True
+Staff Cybersecurity Data Platform Engineer,"Adobe
+","Lehi, UT",$146K - $275K (Employer est.),4.4,"Our Company
+
+Changing the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen.
+
+We’re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours!
+
+As a Staff Cybersecurity Data Platform Engineer at Adobe, you will be joining a team responsible for enhancing the organization's security data platform. Our focus is on contributing to the organization by emphasizing real-world security and embracing automation, as well as optimizing data flow and consumption of the data to multiple teams within Security.
+The ideal candidate will help develop security-focused data platform needs and the scaling of a data lake spanning petabytes of data. The job involves system architecture, design, hands-on development, optimization, setting expectations and SLAs with a focus on reliability, availability, and performance.
+They must be self-directed and comfortable supporting the data needs of multiple security teams. The right candidate will be excited by the prospect of optimizing our company’s data platform to support our next generation of security products and data initiatives. Key Responsibilities:
+Collaborate with partners, cybersecurity engineers, and operations teams across the security organization to drive the development of enterprise-scale security solutions.
+Work with enterprise architects team to ensure alignment with strategic objectives, and leverage design principles while providing input into program direction.
+Translate business needs into technical requirements, capabilities, and formulation of solutions, while identifying risks, dependencies, financial impacts, and the risk profile in the technical solution.
+Take a hands-on approach to driving proof-of-concept, design, and implementation activities from an architectural perspective.
+Develop and maintain solution architecture documents and other artifacts to guide the planning, design, and implementation of the proposed solution. Required Skills to be Successful:
+7 years of experience in designing and building solutions in Databricks, across multiple clouds, using orchestration, data ingestion, medallion architectures, unity catalog, autoloader jobs, and Delta Lakehouse concepts.
+10 years of experience working as either: Software Engineer/Data Engineer: query tuning, performance tuning, troubleshooting, and implementing/debugging Spark/PySpark and/or other big data solutions.
+10 years of proficiency in developing or architecting modern distributed cloud architectures using AWS tools and technology.
+Design end-to-end robust, scalable, real-time data streaming (Kafka / Flink) and data platform architecture that will support the analytical and reporting needs of the entire organization.
+Offer technical expertise by collaborating with analysts and business users to translate diverse and intricate functional specifications into technical designs.
+Build data models and improve standard schemas across different data sources and normalize data.
+Significant experience in security, encompassing threat management, incident response, and enterprise security.
+Strong understanding of Security Operations Center (SOC) operations and security management workflows within large organizations.
+Our compensation reflects the cost of labor across several U.S. geographic markets, and we pay differently based on those defined markets. The U.S. pay range for this position is $146,400 -- $275,000 annually. Pay within this range varies by work location and may also depend on job-related knowledge, skills, and experience. Your recruiter can share more about the specific salary range for the job location during the hiring process.
+
+At Adobe, for sales roles starting salaries are expressed as total target compensation (TTC = base + commission), and short-term incentives are in the form of sales commission plans. Non-sales roles starting salaries are expressed as base salary and short-term incentives are in the form of the Annual Incentive Plan (AIP).
+
+In addition, certain roles may be eligible for long-term incentives in the form of a new hire equity award.
+
+Adobe is proud to be an Equal Employment Opportunity and affirmative action employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law. Learn more.
+
+Adobe aims to make Adobe.com accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com or call (408) 536-3015.
+
+Adobe values a free and open marketplace for all employees and has policies in place to ensure that we do not enter into illegal agreements with other companies to not recruit or hire each other’s employees.",1982,Computer Hardware Development,$10+ billion (USD),Information Technology,10000+ Employees,Company - Public,False
+Data - Staff Software Engineer,"Backcountry
+","Park City, UT",,3.0,"EMPLOYER: Backcountry.com, LLC
+
+POSITION: Staff Software Engineer - Data
+
+DUTIES: Provide analytic and strategic technical leadership and support to Backcountry’s Data Team which is responsible for maintaining the data platform and maturing the analytical capabilities of the organization. Act as a steward of our core platform and data pipelines that power analytical capabilities. Evolve data models in several components of the data stack and help architect, build, and launch scalable data pipelines to support BC's growing data processing and analytics needs. Collaborate with functional and business leaders and teams and work closely with the Data Engineering team and managers to enable decision support and key insights. Work with a team of high-performing analytics, data science, data engineering professionals, and cross-functional teams to identify business opportunities, monitor data platform performance and optimize analytical capabilities. Build and maintain the infrastructure required for optimal transformation and integration from a wide variety of data sources using appropriate data integration technologies. Deploy pipelines using scheduling and orchestration frameworks. Build data expertise, manage complex data systems for the Data team. Take ownership of core data pipelines that power analytical metrics. Evolve data models in several components of the data stack and help architect, build, and launch scalable data pipelines to support growing data processing and analytics needs. Implement data governance practices in partnership with business stakeholders and peers. Initiate and drive projects to completion with minimal guidance. Create proof of concepts as per business requirements. Contribute to data and engineering innovations that fuel the company’s vision and mission.
+
+REQUIREMENTS: Bachelor’s degree or foreign equivalent in Computer Science, Electrical Engineering, Computer Engineering, Engineering, or a related field of study, and Four (4) years of experience building data intensive applications, tackling challenging architectural, scalability and reliability problems as a Software Engineer or similar role. Work experience or academic coursework must have included: Knowledge of different phases of SDLC including Analysis, High Level and Detailed Design, Development, Testing, Implementation and Production Support activities; experience building highly scalable ETL pipelines; experience with on-prem and relational database platforms including Oracle, SQL Server, PostGreSQL and Snowflake; experience with one of the cloud platforms: GCP, Azure or AWS; experience with Python; experience maintaining data quality frameworks, data observability and monitoring frameworks; knowledge of application monitoring, handling user tickets and analyzing data issues; and experience manipulating and analyzing large datasets.
+
+JOB SITE: 1678 W. Redstone Ctr., Dr., Suite 210, Park City, UT 84098 and various unanticipated work locations. Telecommuting permitted from anywhere within the U.S.
+
+Job Type: Full-time",1996,"Department, Clothing & Shoe Stores",$500 million to $1 billion (USD),Retail & Wholesale,501 to 1000 Employees,Company - Private,True
+Staff Data Engineer,"Ancestry
+","Lehi, UT",$133K - $201K (Employer est.),3.5,"About Ancestry:
+When you join Ancestry, you join a human-centered company where every person’s story is important. Ancestry®, the global leader in family history, empowers journeys of personal discovery to enrich lives. With our unparalleled collection of more than 40 billion records, over 3 million subscribers and over 23 million people in our growing DNA network, customers can discover their family story and gain a new level of understanding about their lives. Over the past 40 years, we’ve built trusted relationships with millions of people who have chosen us as the platform for discovering, preserving and sharing the most important information about themselves and their families.
+
+We are committed to our location flexible work approach, allowing you to choose to work in the nearest office, from your home, or a hybrid of both (subject to location restrictions and roles that are required to be in the office- see the full list of eligible US locations HERE). We will continue to hire and promote beyond the boundaries of our office locations, to enable broadened possibilities for employee diversity.
+
+Together, we work every day to foster a work environment that's inclusive as well as diverse, and where our people can be themselves. Every idea and perspective is valued so that our products and services reflect the global and diverse clients we serve.
+
+Ancestry encourages applications from minorities, women, the disabled, protected veterans and all other qualified applicants. Passionate about dedicating your work to enriching people’s lives? Join the curious.
+
+We are seeking a Staff Data Engineer to join our Enterprise Data Management (EDM) organization. The EDM team is the hub of data within Ancestry, ingesting data across the organization to process, transform, and deliver to our internal and external stakeholders.
+
+What you will do…
+
+Develop extract-transform-load (ETL) pipelines
+
+Practice good coding techniques including writing unit and integration tests, doing commits and pull requests (Git), etc.
+
+Mentor, train, and collaborate with other engineers to develop scalable, resilient, and maintainable ETL pipelines
+
+Participate in an on-call rotation to ensure pipelines are successful and data meets quality requirements
+
+Provide technical leadership to team and across the EDM organization
+
+Ensure ETL pipelines meet quality standards and data quality requirements
+
+Work with internal and external stakeholders to identify and define data requirements, design solutions, and ensure timely delivery
+
+Manage individual data projects, ensuring appropriate designs and stakeholder involvement
+
+Who you are…
+
+10+ years of experience as a data engineer, with specific experience in developing ETL pipelines
+
+10+ years of industry experience programming in Python and SQL (or related languages) with significant experience in data warehouses, Spark, and other related technologies (experience with Airflow a plus)
+
+Experience training and mentoring other engineers, leading teams, and coordinating with stakeholders
+
+Excellent written and verbal communication skills
+
+Familiarity with agile software development
+
+Familiarity with AWS technologies (specifically, EMR)
+
+Bachelors or 4-year degree in Computer Science or equivalent industry experience
+
+Helping people discover their story is at the heart of ours. Ancestry is the largest provider of family history and personal DNA testing, harnessing a powerful combination of information, science and technology to help people discover their family history and stories that were never possible before. Ancestry’s suite of products includes: AncestryDNA, AncestryProGenealogists, Fold3, Newspapers.com, Find a Grave, Archives.com, and Rootsweb. We offer excellent benefits and a competitive compensation package. For additional information, regarding our benefits and career information, please visit our website at http://ancestry.com/careers
+
+As a signatory of the ParityPledge in Support of Women and the ParityPledge in Support of People of Color, Ancestry values pay transparency and pay equity. We are pleased to share the base salary range for this position: $133,200 - $200,550 with eligibility for bonus, equity and comprehensive benefits including health, dental and vision. The actual salary will vary by geographic region and job experience. We will share detailed compensation data for a specific location during the recruiting process. Read more about our benefits HERE.
+
+
+Note: Disclosure as required by sb19-085(8-5-20) and sb1162(1-1-23)
+
+#GDSponsored
+
+#IND2
+
+#LI-BL1
+
+
+Additional Information:
+
+Ancestry is an Equal Opportunity Employer that makes employment decisions without regard to race, color, religious creed, national origin, ancestry, sex, pregnancy, sexual orientation, gender, gender identity, gender expression, age, mental or physical disability, medical condition, military or veteran status, citizenship, marital status, genetic information, or any other characteristic protected by applicable law. In addition, Ancestry will provide reasonable accommodations for qualified individuals with disabilities.
+
+All job offers are contingent on a background check screen that complies with applicable law. For San Francisco office candidates, pursuant to the San Francisco Fair Chance Ordinance, Ancestry will consider for employment qualified applicants with arrest and conviction records.
+
+Ancestry is not accepting unsolicited assistance from search firms for this employment opportunity. All resumes submitted by search firms to any employee at Ancestry via-email, the Internet or in any form and/or method without a valid written search agreement in place for this position will be deemed the sole property of Ancestry. No fee will be paid in the event the candidate is hired by Ancestry as a result of the referral or through other means.",1983,Internet & Web Services,$1 to $5 billion (USD),Information Technology,1001 to 5000 Employees,Company - Private,False
+Data Analytics Engineer,"Pluralsight
+",Utah,-1,3.3,"Job Description:
+At Pluralsight, we are an established team of data practitioners supporting decision makers across the company. We use data to improve outcomes for our colleagues, our leadership, our customers, and everyone in the Pluralsight community. In addition, we are a team that values and encourages diverse ideas, backgrounds, and strengths.
+In this role, you will need to use your knowledge of data pipeline orchestration, standard methodologies for data warehouse performance, data migration strategies, and analytics architecture to function collaboratively within a team environment. We are looking for someone who will apply software engineering standard methodologies to analytics code via the utilization of version control, testing and validation processes, and continuous integration.
+Who you’re committed to being:
+Eager to dive in to data sources to understand availability, utility, and integrity of our data
+Passionate about data, analytics and automation with experience cleaning and modeling large quantities of raw, diverse, and disorganized data
+Creator of reproducible and extensible work
+Appreciate being on a team that values and encourages diverse ideas, backgrounds, and strengths
+Carefully consider the ethical and security implications of choices you make when using data, as well as the impact of your work on customers and colleagues
+Respect and invite fair feedback while promoting the identification and open discussion of errors, risks, and unintended consequences
+Deeply understand existing and new technology trends, and you work with partners to review and recommend innovative and efficient solutions
+What you’ll own:
+Building and maintaining production data pipelines for analytics across the business
+Developing tooling and solutions for data practitioners across the company using a deep understanding of their objectives and problems
+Improving observability and maintainability in our data environment, including uptime, usage, data quality, and data freshness
+Committed to improving processes throughout the data environment via automation
+Creating, implementing, and improving standards for production-worthy data flows
+Create and maintain documentation on processes, policies, application configuration and help-related materials as applications are developed
+Experience you’ll need:
+5+ years of taking a multidisciplinary approach to data development: we emphasize picking the right tool for the job
+5+ years of experience with cloud data warehousing technologies (Snowflake preferred) and data modeling standard methodologies.
+3+ years of experience automating a data platform with scripting tools (e.g. Powershell, Bash, Python), preferably cross platform development
+3+ years of experience with tools for ingesting data (e.g. Fivetran, Stitch, Python) and integrating data with other systems (e.g. Census, Hightouch)
+5+ years of experience building data pipelines and integrating data with tools such as dbt, SQL, Python and Spark
+Experience building CI\CD pipelines that automate IaC and artifact deployment using tools such as Terraform and Github Actions
+Experience managing systems containing sophisticated dependency management and orchestration requirements
+Effective communication skills with technical team members as well as business partners
+Ability to tackle problems independently and prioritize work based on the anticipated business value
+Be yourself! Pluralsight is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age or veteran status.
+
+#LI-Remote
+#LI-EB1",2004,Enterprise Software & Network Solutions,$100 to $500 million (USD),Information Technology,1001 to 5000 Employees,Company - Private,False
+Data Engineer- Salt Lake City Utah,RSHARMA,"Salt Lake City, UT",$130K - $135K (Employer est.),-1.0,"W2- Salt Lake City Utah
+
+Data Engineer
+
+Salt Lake City Utah
+
+Option for Remote / Hybrid: Hybrid 3 days from office 2 days from home.
+
+JD / Major Skills required – Data Stage, ETL, Python
+
+TECHNICAL SKILLS
+
+Must Have
+
+Data Stage
+ETL
+Python
+
+Nice To Have
+
+ADO
+Agile Methodologies
+
+*
+
+Regards
+Rahul Sharma
+
+Job Types: Full-time, Contract
+
+Salary: $130,000.00 - $135,000.00 per year
+
+Benefits:
+
+Dental insurance
+Health insurance
+Vision insurance
+
+Experience level:
+
+10 years
+11+ years
+
+Schedule:
+
+8 hour shift
+
+Ability to commute/relocate:
+
+Salt Lake City, UT 84111: Reliably commute or planning to relocate before starting work (Required)
+
+Experience:
+
+DataStage: 1 year (Required)
+IBM: 1 year (Required)
+Python: 8 years (Required)
+ETL: 8 years (Required)
+
+Work Location: In person",-1,-1,-1,-1,-1,-1,True
+Data & Systems Engineer,"Utah Navajo Health System
+","Montezuma Creek, UT",$68K - $97K (Glassdoor est.),3.8,"Description: We are looking for a Data & Systems Engineer to work in our Community Health Center in Southeastern Utah. Our clinic is a dynamic place to work, practice, and grow. We have 4 primary care health centers and deliver integrated services including behavioral health, Pharmacy, Dental, specialty referrals, chronic disease management, health education, and much, much more.
+Location: Blanding, Utah
+Full-time Benefits start at: PTO leave, Vacation leave, 14 paid Holidays, 100% Medical/prescription insurance ($0 premium, $0 deductible, $0 copays) for employees and dependents, Life insurance, Retirement plan, wellness benefits. Optional coverage for dental, and short/long term disability.
+
+Critical Tasks:
+
+1. Identify business and user information needs and potential data sources
+
+2. Research and identify data quality issues and causes and explore and implement data improvement and cleaning processes.
+
+3. Assist in the development of enterprise databases needed to support business needs.
+
+4. Acquire, prepare, and transform data sources for subsequent loading or processing.
+
+5. Familiarity with programming languages -especially Python and R and with using them to build API enabled applications to web services.
+
+6. Design and implement business intelligence rules, interfaces, and visualizations using SQL, reporting, HL7 Interoperability, data warehouse, and visualization software to process and/or organize data to meet business needs.
+
+7. Provide guidance to other staff on data sources and established datasets and location of where to find data elements.
+
+8. Assist in answering or researching requests for data or reports by organization users, providers, and administration.
+
+9. Lead or assist with grant or regulatory reporting processes as needed.
+
+10. Provide backup support of the EMR, ancillary interfaces, and related systems as needed.
+
+Ensure organization’s data is protected and secure.
+
+Requirements:
+
+Key Performance Indicators:
+
+Due to the extremely broad spectrum of systems supported, the highly changing environment and technology, and the rapid evolution of business needs, projects, and priorities, KPI’s are subject to change and will be specified as part of ongoing project and performance plans.
+
+In general, KPI’s will revolve around project implementation milestones, efficiency of problem resolution, the turnaround of data requests and the improvement or tuning of business workflows, processes, and deliverables.
+
+
+Metrics:
+
+Due to the high volatility and scope of projects, KPI’s, and environment, metrics will be identified as part of changing project and performance plans.
+
+
+Experience, Training, and Qualifications needed to perform the job:
+
+1. Able to deal with evolving and changing systems, priorities, and projects.
+
+2. Strong service-oriented attitude and excellent interpersonal skills.
+
+3. Broad understanding of data usage and analysis tools and practices
+
+4. Familiarity with EHR, EDR, and related ancillary systems.
+
+5. Broad understanding of database and data warehouse concepts and tools
+
+6. Familiarity and experience with SQL Server administration and management.
+
+7. Multi-year experience with ETL, SSIS, SSRS, WhereScape, and other related tools and processes.
+
+8. Create and maintain system interfaces for communications between medical data systems using FHIR, HL7, API’s, etc. (expected proficiency in python, R, related languages)
+
+9. Proficient in SQL with experience and related tools and toolkits.
+
+10. Familiarity and experience in windows server administration and tools.
+
+11. Experience with data visualization tools (Tableau, Power BI, etc.)
+
+12. Demonstrated experience designing and implementing business specific systems and databases.
+
+13. Minimum of 7 years’ experience in database positions and field or a
+
+Bachelor’s degree in technical computer field and 3 years of experience.
+
+License/Certification:
+
+1. CPR from AHA
+
+As a Tribal Organization the Utah Navajo Health System, Inc. (UNHS) treats patients with high risk and underlying chronic medical conditions. Therefore, UNHS requires its employees to show proof of immunization prior to their employment with UNHS or during their employment. Below is a list of immunizations/vaccinations required to be employed or to continue employment with UNHS.
+The immunizations/vaccinations include but not limited to following:
+
+MMR (Measles Rubeola, Mumps, Rubella): Documentation of two MMR vaccines (OR) Documentation of MMR titers.
+Complete Hepatitis B vaccine series (3 doses), documented proof of titers indicating immunity, or a declination that may be signed upon arrival.
+Proof of up-to-date PPD skin testing, if previously negative (OR) Proof of positive PPD skin test with the most recent chest x-ray and treatment history.
+Tetanus, diphtheria, and pertussis (Tdap).
+Varicella titers, history of varicella or varicella immunization series.
+Influenza vaccine for the current year.
+COVID-19 vaccine
+Any other vaccinations as requested.
+UNHS would not be able to achieve our goal of quality equitable healthcare for people living in southeastern Utah without our committed and competent staff. UNHS continually attracts the most devoted healthcare professionals and administrators this region has to offer.We are a NPEA and EEO compliant employer.",-1,Health Care Services & Hospitals,Unknown / Non-Applicable,Healthcare,Unknown,Company - Private,False
+Senior Data Engineer,"BambooHR
+","Lindon, UT",$100K - $132K (Glassdoor est.),3.8,"About Us
+
+Our mission is simple: we want to set people free to do meaningful work. People love our software—and it turns out that people love working here too. We've been recognized as a ""Best Company to Work For"" and we're proud of our team for creating software that makes an impact in the lives of HR pros and employees all over the world.
+
+What You'll Do
+
+As a Senior Data Engineer on the data platform team, we'll rely on your expertise across multiple disciplines to develop, deploy and support data systems, data pipelines, data lakes, and lakehouses. Your ability to automate, performance tune, and scale the data platform will be key to your success.
+
+Your initial areas of focus will include:
+
+Collaborate with stakeholders to make effective use of core data assets
+With Spark and Pyspark libraries, load both streaming and batched data
+Engineer lakehouse models to support defined data patterns and use cases
+Leverage a combination of tools, engines, libraries, and code to build scalable data pipelines
+Work within an IT managed AWS account and VPC to stand up and maintain data platform development, staging, and production environments
+Documentation of data pipelines, cloud infrastructure, and standard operating procedures
+Express data platform cloud infrastructure, services, and configuration as code
+Automate load, scaling, and performance testing of data platform pipelines and infrastructure
+Monitor, operate, and optimize data pipelines and distributed applications
+Help ensure appropriate data privacy and security
+Automate continuous upgrades and testing of data platform infrastructure and services
+Build data pipeline unit, integration, quality, and performance tests
+Participate in peer code reviews, code approvals, and pull requests
+Identify, recommend, and implement opportunities for improvement in efficiency, resilience, scale, security, and performance
+
+What You Need to Get the Job Done (if you don't have all, apply anyway!)
+
+Experience developing, scaling, and tuning data pipelines in Spark with PySpark
+Understanding of data lake, lakehouse, and data warehouse systems, and related technologies
+Knowledge and understanding of data formats, data patterns, models, and methodologies
+Experience storing data objects in hadoop or hadoop like environments such as S3
+Demonstrated ability to deploy, configure, secure, performance tune, and scale EMR and Spark
+Experience working with streaming technologies such as Kafka and Kinesis
+Experience with the administration, configuration, performance tuning, and security of database engines like Snowflake, Databricks, Redshift, Vertica, or Greenplum
+Ability to work with cloud infrastructure including resource scaling, S3, RDS, IAM, security groups, AMIs, cloudwatch, cloudtrail, and secrets manager
+Understanding of security around cloud infrastructure and data systems
+Git-based team coding workflows
+
+Bonus Skills (Not Required, So Apply Anyway!)
+
+Experience deploying and implementing lakehouse technologies such as Hudi, Iceberg, and Delta
+Experience with Flink, Presto, Dremio, Databricks, or Kubernetes
+Experience with expressing infrastructure as code leveraging tools like Terraform
+Experience and understanding of a zero trust security framework
+Experience developing CI/CD pipelines for automated testing and code deployment
+Experience with QA and test automation
+Exposure to visualization tools like Tableau
+
+Beyond the technical skills, we're looking for individuals who are:
+
+Clear communicators with team members and stakeholders
+Analytical and perceptive of patterns
+Creative in coding
+Detail-oriented and persistent
+Productive in a dynamic setting
+
+If you love to learn, you'll be in good company. You'll likely have a Bachelor's degree in computer science, information systems, or equivalent working experience.
+
+Schedule
+
+9AM-5PM MST, Monday-Friday
+
+Work Environment
+
+Remote
+
+What You'll Love About Us
+
+Great Company Culture. We've been recognized by multiple organizations like Inc, Salt Lake Tribune, Glassdoor, & Comparably for our great workplace culture
+Make an Impact. We care about your individuality by giving you freedom to grow and create within the company, regardless of your position
+Rest and Relaxation. 4 weeks paid time off, 11 paid holidays, and we pay you to go on vacation (ask us about this)!
+Health Benefits. Medical with HSA and FSA options, dental, and vision
+Prepare for the Future. 401(k) with a generous company match, access to a personal financial planner, and both legal and life insurance
+Financial Peace University. We pay for a one year subscription and you walk away with financial savvy and a bonus
+Give back. Get paid to give your time to the community: ask us about this!
+Educational Benefits. Whether you are a previous student, or currently enrolled in higher education, we can help cover some of those expenses
+Flexible Work Models. In-office, work-from-home, or hybrid, depending on position and location
+
+
+
+
+An Equal Opportunity Employer-M/F/D/V
+Because our team members are trusted to handle sensitive information, we require all candidates that receive and accept employment offers to complete a background check before being hired.
+
+For information on our Privacy Policy, click here.",2008,Enterprise Software & Network Solutions,Unknown / Non-Applicable,Information Technology,1001 to 5000 Employees,Company - Private,True
+Sr. Data Science Engineer,"Ancestry
+","Lehi, UT",$90K - $129K (Glassdoor est.),3.5,"About Ancestry:
+When you join Ancestry, you join a human-centered company where every person’s story is important. Ancestry®, the global leader in family history, empowers journeys of personal discovery to enrich lives. With our unparalleled collection of more than 40 billion records, over 3 million subscribers and over 23 million people in our growing DNA network, customers can discover their family story and gain a new level of understanding about their lives. Over the past 40 years, we’ve built trusted relationships with millions of people who have chosen us as the platform for discovering, preserving and sharing the most important information about themselves and their families.
+
+We are committed to our location flexible work approach, allowing you to choose to work in the nearest office, from your home, or a hybrid of both (subject to location restrictions and roles that are required to be in the office- see the full list of eligible US locations HERE). We will continue to hire and promote beyond the boundaries of our office locations, to enable broadened possibilities for employee diversity.
+
+Together, we work every day to foster a work environment that's inclusive as well as diverse, and where our people can be themselves. Every idea and perspective is valued so that our products and services reflect the global and diverse clients we serve.
+
+Ancestry encourages applications from minorities, women, the disabled, protected veterans and all other qualified applicants. Passionate about dedicating your work to enriching people’s lives? Join the curious.
+
+Ancestry is seeking a talented and innovative Senior Data Science Engineer with a strong background in ML engineering, data engineering, backend development, or a related role. If you are known for your entrepreneurial problem-solving skills and possess expertise in technologies such as Python, Jason, JavaScript, and Java, with a focus on writing clean code and enabling rapid development, this is an excellent opportunity for you to join our Data Science Engineering team.
+
+As a Senior Data Science Engineer, you will play a critical role in collaborating with data scientists and development teams to deploy cutting-edge models as part of our production systems. Your proficiency in various technologies, including Python, Jason, JavaScript, Java, Sentry, LLM will be vital in designing and building production data pipelines for both external and internal customers.
+
+What you will you do…
+
+Collaborate closely with data scientists and development teams to seamlessly deploy models into our production systems, ensuring efficient and meaningful insights for our customers.
+
+Use your strong technical skills in technologies like Python, Jason, JavaScript, and Java to design data architectures and interfaces that support our data-driven initiatives and enable seamless data flow.
+
+Develop new data pipeline jobs to retrieve, process, and validate training data, ensuring data accuracy and reliability.
+
+Implement MLOps best practices throughout the system by creating tooling and automation to streamline model deployment and management processes.
+
+Utilize your expertise in Infrastructure as Code (IAC) frameworks to create and maintain robust infrastructure for our services, promoting scalability and flexibility.
+
+Serve as a mentor to other engineers, guiding them in adopting software engineering best practices and fostering a culture of continuous improvement.
+
+Who you are…
+
+Bachelor's Degree in a related field is required.
+
+5 or more years of relevant experience in ML engineering, data engineering, backend development, or a related role.
+
+Strong understanding and experience in MLOps principles and their application in real-world scenarios.
+
+Expertise in technologies such as Python, Jason, JavaScript, Java, Sentry, LLM with a focus on clean code and rapid development.
+
+Proficiency in cloud computing platforms, preferably Amazon Web Services (AWS).
+
+Demonstrated experience working on projects involving large-scale, multi-dimensional databases, complex business infrastructure, and cross-functional teams.
+
+Familiarity with large scale data processing frameworks such as Apache Spark and MLflow would be a plus.
+
+
+Additional Information:
+
+Ancestry is an Equal Opportunity Employer that makes employment decisions without regard to race, color, religious creed, national origin, ancestry, sex, pregnancy, sexual orientation, gender, gender identity, gender expression, age, mental or physical disability, medical condition, military or veteran status, citizenship, marital status, genetic information, or any other characteristic protected by applicable law. In addition, Ancestry will provide reasonable accommodations for qualified individuals with disabilities.
+
+All job offers are contingent on a background check screen that complies with applicable law. For San Francisco office candidates, pursuant to the San Francisco Fair Chance Ordinance, Ancestry will consider for employment qualified applicants with arrest and conviction records.
+
+Ancestry is not accepting unsolicited assistance from search firms for this employment opportunity. All resumes submitted by search firms to any employee at Ancestry via-email, the Internet or in any form and/or method without a valid written search agreement in place for this position will be deemed the sole property of Ancestry. No fee will be paid in the event the candidate is hired by Ancestry as a result of the referral or through other means.",1983,Internet & Web Services,$1 to $5 billion (USD),Information Technology,1001 to 5000 Employees,Company - Private,False
+Senior Data Engineer,"JobNimbus
+","Lehi, UT",$110K - $151K (Glassdoor est.),3.6,"We are obsessed with the hero's journey at JobNimbus. Every person has a hero's journey. Hermione Granger, James T. Kirk, Frodo Baggins, Anna & Elsa, Nacho Libre, and even YOU! This is our “call to adventure” to come check out JobNimbus. What do you have to lose? You might make a few new friends, learn about a sick new company doing some amazing things, and maybe you’ll even land a new job!
+
+Mission:
+
+Contribute to the design and building out of JobNimbus data architecture and pipelines.
+
+
+What you’ll be doing:
+
+Be responsible for expanding and optimizing our data and data pipeline architecture, as well as optimizing data flow and collection for cross functional teams.
+The ideal candidate is an experienced data pipeline builder and data wrangler who enjoys optimizing data systems and building them from the ground up.
+Support our software developers, architects, data analysts and BI team on data initiatives to ensure an optimal data delivery architecture that is consistent throughout ongoing projects.
+Must be self-directed and comfortable supporting the data needs of multiple teams, systems and products.
+The right candidate will be excited by the prospect of optimizing or even re-designing our company’s data architecture to support our next generation of products and data initiatives.
+
+
+What makes you the hero for this job:
+
+Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases.
+Experience building and optimizing data pipelines, architectures and data sets.
+Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.
+Strong analytic skills related to working with unstructured datasets.
+Build processes supporting data transformation, data structures, metadata, dependency and workload management.
+A successful history of manipulating, processing and extracting value from large disconnected datasets.
+Working knowledge of message queuing, stream processing, and highly scalable ‘big data’ data stores.
+Strong project management and organizational skills.
+Experience supporting and working with cross-functional teams in a dynamic environment.
+5+ years in a Data Engineer role with a primary focus on building and scaling data pipelines in AWS.
+Experience with big data tools: Athena, Glue, Kafka, etc.
+Experience with relational SQL and NoSQL databases: Couchbase, PostgreSQL, MySQL
+Experience with data pipeline and workflow management tools
+Experience with AWS cloud services: S3, Glue, Athena, RDS, etc
+Experience with stream-processing systems: Kafka, etc.
+Experience with data related programming language with a preference towards Python.
+Bachelor degree in CS, IT, IS or equivalent experience.
+
+
+Superpowers:
+
+Ownership. We need someone who embodies this value and can figure things out and move quickly. If you need direction and someone to hold your hand, this job is not for you.
+
+Customer Obsessed. Our software is ever changing, and you'll need to stay on top of the latest and greatest adjustments. It's kind of like being obsessed with Oprah's book club and that feeling that you have to read the next one as soon as it comes out.
+
+Mentor (Hit us up to get more information)
+
+Nick Cook - Specialist in hiring amazing people, lover of all things outdoors, computer nerd, and lead substitute on his friends hockey team.
+
+JobNimbus is proud to be an equal opportunity / affirmative action employer. We are committed to equal opportunity regardless of race, color, religion, sex, national origin, sexual orientation, gender identity, age, disability, Veteran status, or other legally protected characteristics. This position may require the successful completion of a criminal background check and/or drug screen. If you have a disability or special need that requires accommodation, please let us know in the application.
+
+If you have any questions regarding this job post, please email jobs@jobnimbus.com.
+
+bdCdRAoCk6",2013,Computer Hardware Development,Unknown / Non-Applicable,Information Technology,51 to 200 Employees,Company - Private,True
+"FamilySearch Data Extraction/Machine Learning Engineer (US-Based, Remote Optional)","The Church of Jesus Christ of Latter-day Saints
+","Lehi, UT",$58K - $93K (Glassdoor est.),4.5,"As a Data Extraction/Machine Learning Engineer at FamilySearch.org, you will be at the forefront of developing and implementing advanced algorithms, models, and data-driven solutions that enhance the data extraction capabilities, accuracy, and user experience of our platform. Working in close collaboration with a team of talented engineers, data scientists, and domain experts, you will help create and refine the AI-driven features that enable millions of users worldwide to make remarkable discoveries about their ancestors and family history.
+
+We are looking for a passionate and dedicated candidate who shares our vision of advancing the Lord's work. You will have the opportunity to use cutting-edge technologies, access high-performance computing resources, and collaborate with highly skilled peers. This is a rare and rewarding chance to grow your career and personal skills while making a positive impact.
+
+
+Why Join FamilySearch.org?
+
+Impactful Mission: Be part of a meaningful mission to help individuals discover their family history and create lasting connections.
+Cutting-Edge Technology: Work with state-of-the-art AI and machine learning technologies to push the boundaries of genealogical research.
+Collaborative Environment: Join a team of passionate engineers, data scientists, and domain experts who value collaboration, innovation, and knowledge sharing.
+Continuous Growth: Engage in professional development opportunities, attend conferences, and stay at the forefront of AI advancements.
+Work-Life Balance: FamilySearch.org values work-life balance and promotes a flexible and supportive work environment.
+
+If you're a highly motivated and creative thinker who is excited to make a tangible impact in the world of artificial intelligence and family history, we would love to hear from you! Join us at FamilySearch.org and be part of a transformative journey that connects generations and unlocks the power of AI to bring the past to life.
+
+#LI-KS1
+
+
+
+Design, develop and deploy algorithms to extract genealogical data from the web.
+Design, develop, and deploy AI and machine learning models that extract genealogical data from various web sources.
+Collaborate with cross-functional teams to understand business requirements and translate them into actionable AI solutions.
+Build scalable and efficient data pipelines for processing and analyzing large-scale genealogical data.
+Perform data exploration, feature engineering, and model evaluation to identify optimal solutions for complex problems.
+Stay up-to-date with the latest advancements in AI and machine learning techniques and proactively explore their potential applications to enhance FamilySearch.org.
+
+
+
+Required:
+
+Education:
+
+Bachelor’s degree in Computer Science, Artificial Intelligence, Machine Learning, or a related field.
+
+Work Experience:
+
+6+ years of progressive relevant professional experience
+
+Qualifications:
+
+Significant experience designing, training, testing, and deploying deep learning models in Computer Vision and Natural Language Processing domains.
+Solid understanding of deep learning concepts and practices.
+Solid programming skills in Python on the Linux platform.
+Solid Java programming skills.
+Excellent communication skills including the ability to create, communicate, and direct work toward accomplishing an overall technical vision.
+Demonstrated ability to mentor and train peers.
+Excellent data manipulation skills using tools on the Linux platform (grep, sed, awk, NumPy, etc.).
+Solid command of TensorFlow and/or PyTorch deep learning frameworks.
+Ability to think about human language structurally.
+Familiarity with cloud compute environments such as AWS.
+Track record of self-teaching significant new concepts.
+Proven ability to work effectively with people of various educational levels and backgrounds. Comfortable conversing with scientists, executives, engineers, and end users alike.
+Ability to self-direct and work independently for extended periods as required.
+
+Preferred Qualifications:
+
+Experience with complex, large-scale systems including strong experience in the tools, methodologies, and technologies the role supports
+Master’s or PhD in Computer Science or a related field desired.
+
+
+Church employees find joy and satisfaction in using their unique talents and abilities to further the Lord’s work. From the IT professional who develops an app that sends the gospel message worldwide, to the facilities manager who maintains our buildings— giving Church members places to worship, teach, learn, and receive sacred ordinances—our employees seek innovative ways to share the gospel of Jesus Christ with the world. They are literally working in His kingdom.
+Only members of the Church who are worthy of a temple recommend qualify for employment. Apart from this, the Church is an equal opportunity employer and does not discriminate in its employment decisions on any basis that would violate U.S. or local law.
+Qualified applicants will be considered for employment without regard to race, national origin, color, gender, pregnancy, marital status, age, disability, genetic information, veteran status, or other legally protected categories that apply to the Church. The Church will make reasonable accommodations for qualified individuals with known disabilities.",1830,Religious Institutions,Unknown / Non-Applicable,Nonprofit & NGO,10000+ Employees,Nonprofit Organization,False
+Data Engineer (Data Warehouse),"Zions Bancorporation
+","Midvale, UT",$92K - $125K (Glassdoor est.),3.5,"Zions Bancorporation’s Enterprise Technology and Operations (ETO) team is transforming what it means to work for a financial institution. With a commitment to technology and innovation, we have been providing our community, clients and colleagues the best experience possible for over 150 years. Help us transform our workforce of the future, today.
+
+
+
+
+As a Data Engineer, you’ll provide your talents in contributing to the success of the Zions team by delivering all aspects of the software development lifecycle, including design, coding, integration testing, deployment, operations support and documentation using Agile methodologies. Also, able to work independently, collaborate with cross-functional teams on technical understanding, handle multiple concurrent projects, with an ability to prioritize and manage projects effectively with changing priorities.
+
+
+
+
+Responsibilities:
+
+
+
+
+Partner with architects, engineers, information analysts, business, and technology stakeholders for developing and deploying enterprise grade platforms that enable data-driven solutions.
+Enthusiasm and strong desire to learn and grow within the organization.
+Demonstrate strong analytical, organizational, and problem-solving skills.
+Strong focus on long-term strategy, application stability, refactoring and re-usability.
+Analyzes and designs technical solutions to address business needs.
+Develops, tests, and modifies software to improve efficiency of data platforms and applications.
+Identifies, investigates, and proposes solutions to technical problems.
+Coordinate with data operations teams to deploy changes into production.
+Serve in the goalie rotation to support Test, QA, and Production environments.
+Other duties as assigned.
+
+
+
+Qualifications:
+
+Experience with Data Warehousing, data technologies and ETL solutions.
+4+ years of experience in ETL (IBM Datastage preferred), SQL, UNIX/Linux scripting, and Big Data distributed systems, programming languages like Python or Java, orchestration tools and processes or other directly related experience.
+Extensive experience in data migration, data analysis, data transformations, conversion, interface, large volume data loading (ETL techniques), database modeling, and performance SQL tuning.
+Experience in leveraging database tools to develop DDL scripts, stored procedures, and functions to create and alter database objects.
+Experience working with Greenplum, Oracle, SQL Server, DB2, Teradata, and delimited text files would be helpful.
+Requires a Bachelor's in Computer Science, Computer Engineering, or related field.
+
+
+
+Preferred:
+
+Experience working with cloud or on-prem Big Data/MPP analytics platform like Google BigQuery, Azure Data Warehouse, or similar.
+Experience with designing and implementing real-time ETL pipelines.
+Experience with data pipeline automation and CI/CD tools like Jenkins
+Hands on experiences with Git version control processes, data streaming technologies such as Kafka, and unstructured data handling preferred.
+
+
+
+Location:
+
+
+
+
+This position has a hybrid work from home schedule with a minimum of three days per week in the office at the new Zions Technology Center in Midvale, UT.
+
+
+
+
+The Zions Technology Center is a 400,000-square-foot technology campus in Midvale, Utah. Located on the former Sharon Steel Mill superfund site, the sustainably built campus will be the company’s primary technology and operations center. This modern and environmentally friendly technology center will enable Zions to continue to compete for the best technology talent in the state while providing team members with an exceptional work environment with features such as:
+
+Electric vehicle charging stations and close proximity to Historic Gardner Village UTA TRAX station.
+At least 75% of the building is powered by on-site renewable solar energy.
+Access to outdoor recreation, parks, trails, shareable bikes and locker rooms.
+Large modern cafe with a healthy and diverse menu.
+Healthy indoor environment with ample natural light and fresh air.
+LEED-certified sustainable building that features include the use of low VOC-emitting construction materials.
+
+
+
+Benefits:
+
+Medical, Dental and Vision Insurance - START DAY ONE!
+Life and Disability Insurance, Paid Parental Leave and Adoption Assistance
+Health Savings (HSA), Flexible Spending (FSA) and dependent care accounts
+Paid Training, Paid Time Off (PTO) and 11 Paid Federal Holidays
+401(k) plan with company match, Profit Sharing, competitive compensation in line with work experience
+Mental health benefits including coaching and therapy sessions
+Tuition Reimbursement for qualifying employees
+Employee Ambassador preferred banking products
+
+
+
+Apply now if you have a passion for impactful outcomes, enjoy working collaboratively with co-workers, and want to make a difference for the clients and communities we serve.",1955,Banking & Lending,$1 to $5 billion (USD),Financial Services,10000+ Employees,Company - Public,False
+"Staff Software Engineer, Investment Data","MX Technologies Inc.
+","Lehi, UT",$150K - $180K (Employer est.),3.7,"Life at MX
+
+We are driven by our moral imperative to advance mankind - and it all starts with our people, product and purpose. We always carry a deep sense of drive and passion with us. If you thrive in a challenging work environment, surrounded by incredible team members who will help you grow, MX is the right place for you.
+
+Come build with us and be part of an award-winning company that’s helping create meaningful and lasting change in the financial industry.
+Our software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with their finances. Our products need to handle data at a massive scale. You’ll work alongside the best and the brightest engineering talent in the industry. We have opportunities in a wide range of areas including development, design, search, platform, test, quality, big data, front end and back end. As a core participant of your team, you’ll estimate engineering efforts, design your changes, implement and test your changes, push to live, and triage production issues. You need to be dynamic, collaborative, and curious as we build new experiences, improve existing products, and develop distributed systems powering the world to be financially strong.
+
+We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.
+
+With your technical expertise you will manage project priorities, deadlines, and deliverables. You will design, develop, test, deploy, maintain, and enhance software solutions.
+
+Job Duties
+Write product or system development code.
+Participate in, or lead design reviews with peers and stakeholders to decide amongst available technologies.
+Review code developed by other developers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency).
+Enforce clean code and excellent coding practices by conducting thoughtful code reviews.
+Help us build and maintain a world-class technology system so we can achieve our mission of making the world financially strong.
+Collaborate closely with Product Managers to meet and exceed customer needs in the simplest possible ways.
+Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback.
+Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality.
+Actively participate in system architecture discussions and technical design reviews to ensure scalability, reliability, and security.
+You will lead by example, and elevate the design, implementation, quality, and strong engineering practices across the team.
+Drive projects and initiatives to implement high quality systems and products.
+Coach and support engineers on the team, with a strong focus on feedback and growth.
+Facilitate alignment and clarity across teams on goals, outcomes, and timelines
+Influence and coach a team of engineers.
+Manage project priorities, deadlines, and deliverables.
+Basic Requirements
+Bachelor’s Degree or equivalent experience.
+12+ years of experience with software development in one or more programming languages with data structures or algorithms.
+8+ years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture.
+Advanced Requirements (preferred but not required)
+Master’s Degree or PhD in Computer Science or related technical field.
+Work Environment
+At MX, we utilize a hybrid work model, which allows us to attract top talent, provide work-life balance, and increase productivity through collaboration. Our team members enjoy a balance of remote work and monthly in-person collaboration meetings. Travel expectations are about 15%, and the company covers travel expenses for remote employees. Local employees are encouraged to utilize in-office time on a weekly basis. Both local and remote employees can take advantage of our incredible office space with onside perks like company-paid meals, onsite massage therapist, golf simulator, and meditation room to name a few.
+
+Compensation
+The expected earnings for this role could be comprised of a base salary and other forms of cash compensation, such as bonus or commissions as applicable. The base salary is $150,000 to $180,000.
+This pay range is just one component of MX's total rewards package. MX takes a number of factors into account when determining individual starting pay, including job and level they are hired into, location, skillset, peer compensation.
+#LI-EF1
+#REMOTE
+
+MX is proudly committed to recruiting and retaining a diverse and inclusive workforce. As an Equal Opportunity Employer, we never discriminate based on race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, military or veteran status, status as an individual with a disability, or other applicable legally protected characteristics. We particularly welcome applications from veterans and military spouses. All your information will be kept confidential according to EEO guidelines. You may request reasonable accommodations by sending an email to hr@mx.com.",2010,Enterprise Software & Network Solutions,Unknown / Non-Applicable,Information Technology,501 to 1000 Employees,Company - Private,False
+Senior Data Engineer,"USANA Health Sciences
+","Salt Lake City, UT",$112K - $148K (Glassdoor est.),4.3,"About USANA
+
+Since 1992, USANA has provided the world with the highest-quality products focused on nutritional supplements, skincare, and a healthy lifestyle. But our commitment to excellence goes far beyond our products. USANA is dedicated to share our vision of health by empowering a global family of incredible employees based in more than 20 different markets around the world.
+
+
+Community is at our core. It is our commitment to always strive to be open-minded listeners, hold ourselves and others accountable, be respectful, and celebrate the strength that comes from collaboration. Through initiatives like our Diversity, Equity, and Inclusion Council, we create a company culture where all members of the USANA Family feel cared for, included, and valued.
+
+
+USANA has repeatedly been named one of Utah’s Best Companies to Work For by Utah Business magazine, one of America’s Best Companies to Work For by Outside Magazine, one of the Best Places to Work for in the Direct Selling Industry by Direct Selling News, and named a top employer by Best of State.
+
+
+Who We Are Looking For
+We are looking for a driven team-oriented individual to join the USANA business intelligence team as the senior data engineer you will play a crucial role in the design, development, and maintenance of our data infrastructure and pipelines, ensuring that our organization has access to high-quality, reliable, and timely data for informed decision-making.
+
+
+What You Will Do as USANA’s Senior Data Engineer
+
+Create and optimize data models to support reporting and analytics needs, ensuring data accuracy and efficiency
+Collaborate with cross-functional teams to integrate data from multiple systems and sources, including APIs, databases, and third-party data providers
+Develop and manage ELT processes to extract data, load it into Snowflake, and apply necessary transformations using dbt (data build tool)
+Continuously monitor and optimize data pipelines and queries for improved performance and efficiency
+Implement and maintain data security protocols and compliance standards to protect sensitive data and ensure adherence to regulations (e.g., GDPR, China data privacy laws, etc.)
+
+
+Background and Skills You Will Need
+
+5+ years of professional experience in data engineering, preferably within a BI/Analytics environment
+Proficiency in dbt (data build tool) for data transformation and modeling within a Snowflake environment
+Highly skilled and experienced in writing advanced SQL and using database technologies
+Experience with data warehousing in Snowflake, including data loading, modeling, and optimization
+
+
+What Will Make You Standout
+
+Bachelor's or Master's degree in Information Technology, Computer Science, or a related field is preferred
+Experience using Talend is a plus
+Strong programming skills in a language such as Python is a plus
+
+
+Benefits of Being Part of the USANA Family
+
+We offer incredible benefits like health, dental, vision, life, and disability insurance; on-site medical and mental health clinic, chiropractic visits, massages, fitness classes, and a full-service gym; free and discounted USANA product; 401k match and profit-sharing bonuses; internal and external opportunities for learning and development; paid parental leave for both primary and secondary caregivers, and generous paid time-off to help you balance work and home!
+
+__
+
+USANA Health Sciences, Inc. will never ask candidates to submit personal identifiable information via email or attachments. Such information will be only be collected by candidates logging into and submitting through our secure HR management portal. If you are requested to provide information via an unsecure source, please delete the email and contact USANA directly.",1992,Biotech & Pharmaceuticals,$500 million to $1 billion (USD),Pharmaceutical & Biotechnology,1001 to 5000 Employees,Company - Public,False
+Data Center Production Operations Engineer (University Grad),"Meta
+","Eagle Mountain, UT",$67K - $99K (Employer est.),3.9,"Meta is seeking an entry level engineer to apply their technical skills in a fast-paced and complex environment. Having a working knowledge of server hardware and the desire to participate in projects at a large-scale data center is central to this role. This position will work to resolve and diagnose server issues at scale, escalate issues and work with engineering teams. Additionally, this role will work within the rack lifecycle processes with a focus on helping build out and enable cloud scale compute and storage environments. Solid communication skills are a requirement for this role. This person should enjoy working in a fast-paced environment where adaptability and flexibility will be key to their success. The successful candidate will be able to work independently and also within groups.
+
+
+
+Data Center Production Operations Engineer (University Grad) Responsibilities:
+
+Work within Meta's ticketing system in support of the health of Meta's server fleet
+First point of contact for break fix technicians
+Accountable for assisting with projects (new capacity as well as retrofits) and repairs throughout the data center
+Understand and initial analysis to debug hardware, and Linux OS related issues
+Demonstrate personal leadership Identifying and helping to create documentation for the global data center knowledge base
+Assist with process improvements and best practices in data center operations
+Participate in on-call rotation (once a month on call for a week after hours, first point of contact)
+
+
+
+
+Minimum Qualifications:
+
+Currently has, or is in the process of obtaining, an Associate’s, Bachelor's, or Master's degree in technical field, or equivalent experience/certification
+Knowledge of Linux and server hardware repairs
+Must obtain work authorization in the country of employment at the time of hire and maintain ongoing work authorization during employment
+Experience in at least one of the following core areas: Networking, Programming/Scripting, Hardware and OS repair
+Working conceptual knowledge of developing in Python, SQL, and/or shell scripting
+Working conceptual knowledge of technologies such as HTTP, DNS, RAID, and DHCP
+
+
+
+
+
+
+About Meta:
+
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.
+
+
+
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.
+
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.",2004,Internet & Web Services,$10+ billion (USD),Information Technology,10000+ Employees,Company - Public,False
+Sr. Data Engineer,BenGen,"Salt Lake City, UT",$130K - $150K (Employer est.),-1.0,"Description
+
+As a Sr. Data Engineer at BenGen, you will work with the team responsible for creating and maintaining our data architecture. You will have the opportunity to work on exciting projects that drive our company forward while using cutting-edge technology. We are a friendly, tight-knit team that provides opportunities for growth and encourages innovation in everything we do.
+
+
+Responsibilities
+
+Architect and assist in building our data warehouse.
+Create and maintain data pipelines to transform and store data in our data warehouse.
+Design and maintain ETL jobs to support business intelligence and analytics.
+Collaborate with other team members to design and implement new data-driven projects.
+Optimize database queries to ensure the efficiency of data retrieval.
+Develop and maintain innovative data solutions to meet business needs.
+Provide support and guidance to other team members on data-related issues.
+Help assure the quality of data through testing and validation.
+
+
+
+Requirements
+
+3+ years of experience in data engineering.
+Strong background in Python and experience using SQL.
+Familiarity with cloud-based systems such as AWS, Azure, or Google Cloud.
+Understanding of data warehousing and familiarity with data modeling concepts.
+Familiarity with ETL jobs and processes.
+Experience implementing and optimizing data pipelines.
+Strong attention to detail and problem-solving skills.
+Experience in digital marketing and advertising industries is a plus.",-1,-1,-1,-1,-1,-1,True
+Data Engineer,"Aristotle
+","Provo, UT",$75K - $114K (Glassdoor est.),3.7,"Aristotle, a leading player in the computer software industry, is currently seeking a talented and driven Data Engineer to join our dynamic team. At Aristotle, we have a deep-rooted belief in the importance of the democratic process, which serves as the foundation of everything we do. We are committed to advancing democracy around the world through innovative software solutions that empower organizations and individuals alike.
+
+As a Data Engineer, you'll be an integral part of our mission to revolutionize the way data is utilized. You'll have the opportunity to work and learn in a collaborative environment where your opinions truly matter. We welcome passionate individuals who are dedicated to advancing the democratic process, regardless of their political affiliation. Join us at Aristotle and love what you do while contributing to a greater cause.
+
+Aristotle’s Integrity division is a leading provider of identity and age verification services across numerous vertical markets. Our age/identity verification solutions are used by companies to comply with various regulatory requirements such as AML, KYC and Age Verification.
+
+Please visit https://integrity.aristotle.com for more information about this division.
+
+Responsibilities
+Data Load and Transformation: Develop data load processes for efficient storage and retrieval of data from databases and other file systems. Create data conversion and transformation processes and utilities for handling large datasets.
+Solution Development: Utilize .NET/SSIS/SQL Server technologies to design and implement solutions that align with data consumer requirements and adhere to business rules.
+Web-Based Reporting: Build web-based reporting systems to monitor system performance, transaction metrics, and error rates.
+Data Transformation Rules: Collaborate in defining and documenting data transformation rules to ensure data integrity and accuracy.
+ETL Design and Performance: Focus on the design, development, and performance tuning of ETL (Extract, Transform, Load) processes to optimize data processing efficiency.
+Collaborative Development: Work closely with other developers to provide data services to both existing and new applications. This includes modifying production data, creating and optimizing stored procedures, functions, views, and more.
+System Performance Enhancement: Develop and analyze strategies to enhance system performance, ensuring efficient data processing and retrieval.
+Documentation and Testing: Prepare comprehensive documentation and test procedures to ensure the reliability and quality of developed solutions.
+Industry Standard Practices: Develop software using industry-standard programming techniques to maintain code quality and consistency.
+Unit Testing and Debugging: Perform unit testing and debugging of application components to identify and resolve issues promptly.
+
+Requirements
+
+Bachelor's or Associate's degree in Computer Science or a related field.
+Minimum of 2 years of hands-on experience with ETL (Extract, Transform, Load) processes.
+Proficiency in T-SQL programming and working with Microsoft SQL Server 2005 and 2008. A deep understanding of the SQL Server Query Processing Engine is required.
+Knowledge and experience in designing, developing, debugging, and deploying SQL Server stored procedures, T-SQL scripts, DTS (Data Transformation Services), and SSIS (SQL Server Integration Services) packages.
+Ability to manage multiple priorities, adhere to project plans, and consistently meet project deliverables.
+Proficiency in Microsoft SQL versions 2000, 2005, and 2008, as well as Microsoft SQL Server Reporting Services. Familiarity with MS Office applications, including Word and Excel.
+Demonstrated ability to quickly learn and adapt to new technologies as needed.
+
+Desired Requirements
+
+Proficiency in using Microsoft Visio for creating sequence diagrams, component diagrams, and other UML (Unified Modeling Language) diagrams.
+roficiency in data modeling using tools such as MS Visio or Erwin data modeler.
+Familiarity with identity verification for fraud, marketing, and risk mitigation solutions within the industry.
+Knowledge of internet technologies, including XML, DHTML, CSS, and JavaScript.
+Familiarity with ASP.NET 2.0, C#, and Traditional ASP (Active Server Pages).
+
+This role is located in Provo, Utah. If you live within commuting distance of Provo, Utah or are willing to relocate, please include this in your cover letter.
+
+Benefits
+
+All positions are Full-Time, with competitive compensation, medical benefits, paid vacation, 401k plan and stock options. Casual dress code and a non-corporate atmosphere make this a fun place to work and learn in a team environment. Please visit our website at www.aristotle.com.",1979,Computer Hardware Development,$25 to $100 million (USD),Information Technology,51 to 200 Employees,Company - Private,True
+"Sr. Cloud Data Engineer, Data Operations","CardWorks
+","South Jordan, UT",$76K - $114K (Glassdoor est.),3.1,"CardWorks Servicing (""CWS"") is one of the largest privately-held provider of outsourcing services for bankcard-related products to banks and non-bank lenders in North America. CWS offers management expertise across the credit spectrum and supports both MasterCard and Visa accounts as well as a variety of private label debit, credit, stored value, and customer bankcards.
+
+Position Summary:
+As a Senior Cloud Data Engineer, you will support data engineering related initiatives within Data Operations department with a focus on building data & analytics platform and data stores for consumption by data operations, reporting, business intelligence and analytics user community. This role is responsible for developing data ingestion patterns, data pipelines, data extraction, load, and transformation (ETL) programs, ETL test plans, and automating the ETL process through scheduling and exception-handling routines.
+
+Essential Functions:
+
+Works with business teams to understand business use cases, requirements and translate business requirements into data requirements.
+Works with applications specialists (SMEs) to understand data sources and perform data discovery and document the learnings
+Creates ETL system design specifications and data flow diagrams etc.
+Prepares technical and system specifications documents including Source to Target Mapping covering data sources integration patterns, controls, data transformation and load rules.
+Design, develop, test, and deploy ELT programs to extract, stage, cleanse, transform and load the data needed.
+Troubleshoots, maintains, and supports the warehouse and the downstream data feeds sent to consuming applications.
+Supports system, integration and UAT testing.
+Assists with performing source data quality assessments
+Performs root cause analysis, resolves production issues and supports production teams.
+Performs other job duties as assigned and fulfill report and data extraction requests as needed
+Adherence to legal and company standards
+Education and Experience:
+
+Bachelor’s degree in software engineering/computer science/information technology or related field is required.
+Five (5) years’ experience in ETL/ELT development including building data ingestion & integration pipelines.
+Minimum three (3) years’ experience in AWS Cloud technologies and data integration tools such as Amazon S3, Amazon Athena, AWS Glue, AWS Glue Catalog, AWS Lake Formation etc.
+Experience in scripting languages: Python, SQL
+Experience working with Analytics Databases like Snowflake, Redshift
+Experience in Big Data technologies like Data Lakes, Delta Lake, Data Factory, relational data stores in AWS Cloud Platform
+Working knowledge of message queuing, stream processing, and highly scalable ‘big data’ stores
+Experience building and implementing data ingest and egress patterns and pipelines.
+Ability to troubleshoot and solve complex technical problems.
+Strong project management skills
+Clear communication skills
+Consumer Financial Services background, preferably credit card business knowledge
+Summary of Qualifications:
+
+Ability to gather requirements, apply strong analysis and design skills to build ELT and system specifications
+Proficient in designing and developing SQL Queries & ETL Programs using cloud technologies and tools.
+Strong project management & analytical skills
+Ability to work with data warehouse users, IT Business Analysts
+Strong problem solving, written and verbal communication skills
+Hands on experience with SQL-Based databases (e.g., Snowflake)
+Proficiency in Python
+Experience in Informatica ETL Tools will be an added advantage
+We are an equal opportunity employer, and we evaluate qualified applicants without regard to race, color, religion, sex, national origin, disability, veteran status or any other legally protected characteristic. We will conduct a thorough background check for all hires in compliance with applicable law which includes (but may not be limited to) a review of factors including the applicant’s personal credit history, drug testing, and employment/personal references.",1987,Banking & Lending,$25 to $100 million (USD),Financial Services,501 to 1000 Employees,Company - Private,True
+"Aumni - Senior Software Engineer, Data","JPMorgan Chase & Co
+","Salt Lake City, UT",$93K - $120K (Glassdoor est.),4.0,"JOB DESCRIPTION
+
+
+We have an exciting and rewarding opportunity for you to take your software engineering career to the next level.
+
+The Software Engineering II at Aumni (A JPMorgan Company), is responsible for developing and maintaining custom software solutions. We work closely and in alignment with Product, InfoSec, and Data Science to deliver the best quality product to our customers. Aumni serves private capital investors with its proprietary data analytics engine, extracting and analyzing critical legal and economic terms in every deal. We are reinventing legacy portfolio management and investment operations as a streamlined digital experience for fund managers, institutional investors and service providers, empowering our customers with the data they need to make faster, smarter decisions in a rapidly expanding industry. By joining the Digital Private Markets business within J.P. Morgan’s Corporate & Investment Bank, we are better positioned than ever before to realize our vision of increasing transparency and liquidity in the private markets.
+
+We are seeking a candidate who is passionate about learning and eager to develop their skills across the entire technology stack. The ideal candidate will have a hunger for knowledge and a drive to continuously improve themselves, and will thrive in an environment that values innovation and growth.
+
+Job responsibilities
+
+Develop, test, and maintain web applications using modern web technologies
+Design and develop scalable, reliable, and robust applications
+Collaborate with cross-functional teams to identify and solve complex problems
+Write clean, efficient, and maintainable code that adheres to best practices and industry standards
+Create and maintain APIs and integration with third-party systems
+Perform code reviews to ensure quality and scalability of the codebase
+
+Required qualifications, capabilities, and skills
+
+Experienced Engineer with 3+ years of experience in Apache Airflow, Data modeling, Large dataset manipulation, Snowflake, Venture Capital/Private Equity, Docker/Kubernetes or containerization in general Microservices architecture
+Security testing best practices and tools, Stress testing and scaling services
+Writing comprehensive unit tests for all production code
+Object-oriented or functional programming paradigms
+
+Preferred qualifications, capabilities, and skills
+
+Participate in the full software development lifecycle including design, development, testing, deployment, and maintenance
+Continuously improve development processes and stay up to date with emerging trends and best practices
+Writing comprehensive unit tests for all production code
+Object-oriented or functional programming paradigms
+ABOUT US
+
+JPMorgan Chase & Co., one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world’s most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management.
+
+We recognize that our people are our strength and the diverse talents and perspectives that they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants’ and employees’ religious practices and beliefs, as well as any mental health or physical disability needs. (If you are a US or Canadian applicant with a disability and wish to request an accommodation to complete the application process, please contact us by calling the Accessibility Line (US and Canada Only) 1-866-777-4690 and indicate the specifics of the assistance needed.)
+
+We offer a competitive total rewards package including base salary determined based on the role, experience, skill set, and location. For those in eligible roles, we offer discretionary incentive compensation which may be awarded in recognition of firm performance and individual achievements and contributions. We also offer a range of benefits and programs to meet employee needs, based on eligibility. These benefits include comprehensive health care coverage, on-site health and wellness centers, a retirement savings plan, backup childcare, tuition reimbursement, mental health support, financial coaching and more. Additional details about total compensation and benefits will be provided during the hiring process.
+
+JPMorgan Chase is an Equal Opportunity Employer, including Disability/Veterans
+
+
+
+
+
+
+
+ABOUT THE TEAM
+
+The Corporate & Investment Bank is a global leader across investment banking, wholesale payments, markets and securities services. The world’s most important corporations, governments and institutions entrust us with their business in more than 100 countries. We provide strategic advice, raise capital, manage risk and extend liquidity in markets around the world.",1799,Banking & Lending,$10+ billion (USD),Financial Services,10000+ Employees,Company - Public,False
+Sr. Data Engineer,"Deloitte
+","Salt Lake City, UT",$91K - $126K (Glassdoor est.),4.0,"In this age of disruption, organizations need to navigate the future with confidence by tapping into the power of data analytics, robotics, and cognitive technologies such as Artificial Intelligence (AI). Our Strategy & Analytics portfolio helps clients leverage rigorous analytical capabilities and a pragmatic mindset to solve the most complex of problems. By joining our team, you will play a key role in helping to our clients uncover hidden relationships from vast troves of data and transforming the Government and Public Services marketplace.
+
+Work you'll do
+
+As a Senior Data Engineer you work cross-functionally with data scientists, machine learning engineers, project managers, and industry experts to develop robust AI infrastructure and deployment services for our novel machine learning applications. Key to this role is the ability to demonstrate expertise in cloud deployment, DevOps, MLOps, data engineering, and streamlining IT infrastructure processes for organizations across a wide variety of industries.
+
+In our consultative approach, we are platform agnostic and are committed to providing the best technical solutions for each client and solution. Our engineering team leverages emerging technologies across cloud, HPC, DevOps, and MLOps to create solutions and products that address complex issues and business problems faced by global organizations to include cancer detection, drug discovery, optimizing population health and clinical trials, autonomous systems and edge AI, and renewable energy. Join us to expand your technical career through the lens of consulting and work on many novel projects and use cases to expand your data science & AI skills.
+
+Work with clients to design, develop, and deploy new architectures for machine learning & automation applications such as ELT functions, HPC/compute infrastructure, AWS/Azure solutions, database solutions, and optimization of DevOps procedures
+Leverage skills in modern data architecture, cloud engineering, data transformation, and management of structured and unstructured data sources
+Support and enhance data architecture, and data pipelines, and define database schemas (Graph DB, SQL, NoSQL) to support algorithm scalability and deployment based on agile business priorities and technology initiatives
+Participate in architectural discussions to ensure solutions are designed for successful deployment, security, and high availability in the cloud or on-prem
+Adopt and maintain best engineering practices in automation, HPC, CI/CD, and AIOps
+
+
+
+The Team
+
+SFL Scientific, a Deloitte Business, is a data science professional services practice focused on strategy, technology, and solving business challenges with Artificial Intelligence (AI). The team has a proven track record serving large, market-leading organizations in the private and public sectors, successfully delivering high-quality, novel and complex projects, and offering deep domain and scientific capabilities. Made up of experienced AI strategists, data scientists, and AI engineers, they serve as trusted advisors to executives, helping them understand and evaluate new and essential areas for AI investment and identify unique opportunities to transform their businesses.
+
+Qualifications
+
+Required:
+
+
+Must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future
+
+
+Must be able to obtain and maintain the required clearance for this role
+
+
+Bachelor's degree in a STEM field or equivalent experience (Computer Science, Engineering, Physics etc.); Master's degree preferred
+
+
+4+ years' experience in data engineering, cloud engineering, MLOps, while building highly scalable and secure solutions
+
+
+Proficient in Python, SQL, Shell scripting
+
+
+Experience with distributed computing frameworks (e.g., Spark, Dask), cloud platforms (e.g. AWS, Azure), containerization, and supporting analytics libraries
+
+
+Expertise with code management and DevOps tools (e.g., Docker, Kubernetes, Jenkins, etc.)
+
+
+Experience with workflow and data management solutions such as Airflow, Kafka, Glue, etc.
+
+
+Experience designing data architectures and understanding of different types of databases or platforms (relational, NoSQL, graph, etc.)
+
+
+Strong analytical and problem-solving skills with the ability to develop novel and efficient solutions
+
+
+Live within commuting distance to one of Deloitte's consulting offices
+
+
+Travel up to 5%
+
+Preferred:
+
+Master's or Ph.D. degree in Computer Science, Information Technology, or related STEM field
+AWS/Azure Certifications (AWS/Azure Certified: SysOps Administrator, DevOps Engineer, Solutions Architect).
+Expertise in designing and scaling IT architectures, data lakes, & database schemas (Graph, SQL, NoSQL), etc.
+Demonstrated experience launching AI/ML solutions into production environments, such as into cloud or HPC/GPU environments
+Active Security Clearance
+
+#LI-MM4",1850,Accounting & Tax,$10+ billion (USD),Financial Services,10000+ Employees,Company - Private,False
+Software Engineer - Data Governance (Remote),"Zions Bancorporation
+","Midvale, UT",$120K - $150K (Employer est.),3.6,"Zions Bancorporation’s Enterprise Technology and Operations (ETO) team is transforming what it means to work for a financial institution. With a commitment to technology and innovation, we have been providing our community, clients and colleagues the best experience possible for over 150 years. Help us transform our workforce of the future, today.
+
+
+
+
+We have an amazing opportunity available for a Software Engineer within the Data Governance Innovation & Engineering team. We are currently looking for a passionate and experienced Software Engineer that will play a key role in establishing foundation for self-service governance capabilities (e.g Data Catalog, Adaptive Governance). If you have the technical expertise as well as the confidence in your skills to be able to effectively communicate and articulate the work you do with business and technical partners, we would love to speak with you!
+
+
+
+
+The ideal candidate will have:
+
+Full Stack engineering experience with knowledge Data engineering and architecture.
+Experience with JAVA or Python programming, developing microservice architecture and Rest API’s.
+Knowledge of CI\CD and containerized deployment on Kubernetes.
+The ability to effectively articulate the work you do with business and technical partners
+Understanding data governance technologies would be the icing on the cake!
+
+
+
+The Software Engineer will:
+
+Design, build and integrate internal and external APIs. Develop
+Collaborate with Product Management and business partners to iteratively build solutions that meet customers’ needs.
+Adhere to internal development best practices/lifecycle (e.g., Testing, Code Reviews, CI/CD, Documentation).
+Gather business requirements and propose robust and scalable solutions.
+Document and showcase feature designs/workflows.
+Be a team player, stay up to date on industry latest industry trends and design patterns and loves to innovate.
+
+
+
+Qualifications:
+
+6+ years of Full stack engineering experience building APIs & Microservices, utilizing JAVA, Spring Boot (and/or) Python.
+Experience building CI/CD pipelines (e.g. Azure Pipelines, Jenkins)
+Experience building applications on Docker and Kubernetes
+Knowledge of UI/UX design and development, knowledge of frameworks and libraries using Angular and REACT.JS.
+Understand Data architecture and with knowledge of SQL, NO SQL databases and Big Data ecosystem.
+Excellent communication skills. Should be confident in your skills and be able to effectively communicate and articulate the work with business and technical partners. Also will need the ability to ask the right questions when required.
+Bachelor’s degree in computer science, Computer Engineering or related field. A combination of education and experience may meet qualifications.
+
+
+
+Nice to have:
+
+Cloud experience (e.g. Google, Azure)
+Conceptual understanding of data governance capabilities (e.g. data catalog, classification, profiling, data sharing)
+
+
+
+Location:
+
+
+
+
+This position can be located 100% remote within the United States or will be a hybrid work from home schedule with a minimum of three days per week in the office if you are within 50 miles of the new Zions Technology Center in Midvale, UT.
+
+
+
+
+Pay Range: $120,000-$150,000
+
+
+
+
+Benefits:
+
+Medical, Dental and Vision Insurance - START DAY ONE!
+Life and Disability Insurance, Paid Parental Leave and Adoption Assistance
+Health Savings (HSA), Flexible Spending (FSA) and dependent care accounts
+Paid Training, Paid Time Off (PTO) and 11 Paid Federal Holidays
+401(k) plan with company match, Profit Sharing, competitive compensation in line with work experience
+Mental health benefits including coaching and therapy sessions
+Tuition Reimbursement for qualifying employees
+Employee Ambassador preferred banking products
+This position may be eligible for a discretionary bonus
+
+
+
+Apply now if you have a passion for impactful outcomes, enjoy working collaboratively with co-workers, and want to make a difference for the clients and communities we serve.",1998,Banking & Lending,$100 to $500 million (USD),Financial Services,501 to 1000 Employees,Subsidiary or Business Segment,False
+Master Data Management (MDM) Production Support Engineer (Remote),"Zions Bancorporation
+","Midvale, UT",$110K - $150K (Employer est.),3.5,"Zions Bancorporation’s Enterprise Technology and Operations (ETO) team is transforming what it means to work for a financial institution. With a commitment to technology and innovation, we have been providing our community, clients and colleagues the best experience possible for over 150 years. Help us transform our workforce of the future, today.
+
+
+
+
+Zions Bancorporation is currently seeking an experienced Master Data Management (MDM) Production Support Engineer. The successful candidate for this position will be responsible for diagnosing and resolving production issues with our MDM implementation, and contributing to the analysis, design, development and implementation of fixes and enhancements to increase the reliability and maturity of our system as we adopt more strategic technologies. Below are other duties of the MDM Production Support Engineer.
+
+
+
+
+Work on a cross-functional agile SCRUM team to deliver and support master data management capabilities to the organization.
+Take ownership of production issues and see them through to resolution within specified SLA timeframes, engaging and leading additional subject matter experts as needed.
+Conduct root cause analysis with appropriate subject matter experts to identify and address root causes to production issues.
+Provide after-hours on-call production support, as needed.
+Contribute to production support knowledgebase and other related documentation.
+Support best practices and enterprise standards to satisfy compliance, reduce risk, and deliver a positive experience to internal users and end customers.
+Participate in design and code reviews.
+Work with the business partners to identify and ensure that all service level agreements are met.
+Perform ongoing monitoring of the environment and applications for capacity planning, performance tuning and improvement opportunities.
+Work with team members and the Development Manager on process improvement, team initiatives, and the continual growth of the CDI Production Support Team.
+May assist training other engineers.
+Other duties as assigned.
+
+
+
+Qualifications
+
+6+ years of experience supporting, designing and developing applications using IBM Master Data Management (MDM) Advanced Edition (Physical), with a sound understanding of master data management concepts.
+Advanced analytical, organizational and problem-solving skills, including experience with root cause analysis methods (5 Whys, Cause Mapping / Fishbone Diagrams, etc.).
+Sound understanding of data modeling, data quality and data profiling.
+Experience with architecture, design and development of data integration solutions.
+Working knowledge of Data-as-a-Service (DaaS) and API management concepts and how to use these with different types of integration technologies. Experience with REST APIs, JSON, SOAP Web Services, XML, XSD, WSDL, Python, and Kafka.
+Familiar with Unix/AIX, ANSI SQL, PL/SQL, DB2 SQL and Shell Scripting. A combination of education and experience may meet requirements.
+Ability and desire to learn new technologies quickly.
+Ability to work independently and collaborate with others at all levels of technical understanding.
+Requires a Bachelor's degree in Computer Science, Computer Engineering, Information Systems or related field.
+
+
+
+Location:
+
+
+
+
+This position can be located 100% remote within the United States or will be a hybrid work from home schedule with a minimum of three days per week in the office if you are within 50 miles of the new Zions Technology Center in Midvale, UT.
+
+
+
+
+Pay Range: $110,000-$150,000
+
+
+
+
+Benefits:
+
+Medical, Dental and Vision Insurance - START DAY ONE!
+Life and Disability Insurance, Paid Parental Leave and Adoption Assistance
+Health Savings (HSA), Flexible Spending (FSA) and dependent care accounts
+Paid Training, Paid Time Off (PTO) and 11 Paid Federal Holidays
+401(k) plan with company match, Profit Sharing, competitive compensation in line with work experience
+Mental health benefits including coaching and therapy sessions
+Tuition Reimbursement for qualifying employees
+Employee Ambassador preferred banking products
+This position may be eligible for a discretionary bonus
+
+
+
+Apply now if you have a passion for impactful outcomes, enjoy working collaboratively with co-workers, and want to make a difference for the clients and communities we serve.",1955,Banking & Lending,$1 to $5 billion (USD),Financial Services,10000+ Employees,Company - Public,False
+"Senior Data Engineer, Public Company","Recruiting From Scratch
+","Salt Lake City, UT",$100K - $200K (Employer est.),4.0,"This is for a client of Recruiting from Scratch.
+Who is Recruiting from Scratch:
+Recruiting from Scratch is a premier talent firm that focuses on placing the best product managers, software, and hardware talent at innovative companies. Our team is 100% remote and we work with teams across the United States to help them hire. We work with companies funded by the best investors including Sequoia Capital, Lightspeed Ventures, Tiger Global Management, A16Z, Accel, DFJ, and more.
+Our Client:
+
+Our next evolution is underway as a newly public company looking to expand and continue to build meaningful experiences for our users. From social issues to original content, we’re blazing innovative paths with impact for our community, all while leveraging the latest tech stacks and striving for engineering excellence. At the heart of our work in this new chapter is a shared set of core values: openness and exploration, a bias for action, and strong support of the LGBTQ community.
+
+With a track record of strong financial performance and plans for continued headcount growth, we’re looking to build a team of talented, passionate, and open-minded people who believe in our mission, align with our values, and are excited to work at the intersection of innovative technology and social impact. Come be a part of this exciting journey with us.
+
+What’s so interesting about this role?
+
+Our client is looking to bring on a Senior Data Engineer with chops in cutting edge real-time streaming technologies and ambitions to achieve high quality and reliability with TDD, automation, and continuous delivery. .
+
+In this role, you will have the opportunity to work with our product teams, building models and APIs to drive new features, delivers analysis to further improve engagement in existing features, and empowers our business with real-time insights to drive growth in market share, engagement, and revenue. We see 1 trillion events per year and process 10TB of data daily.
+
+What’s the job?
+
+Design, develop and deliver data products to production, complying with internal data governance, security and scalability of our system.
+Moving implementation to ownership of real-time and batch processing and data governance and policies.
+Maintain and enforce the business contracts on how data should be represented and stored.
+Stay on top of new technologies through R&D and prototyping to continuously improve our big data architectures and systems to streamline how we deliver value with high quality to our end users
+Implementing ETL processes, moving data between systems including S3, Snowflake, Kafka, and Spark.
+Work closely with our Data Scientists, SREs, and Product Managers to ensure software is high quality and meets user requirements.
+
+What we’ll love about you
+
+5+ years of experience working with data at scale, including data engineering, business intelligence, data science, or related field.
+7+ years experience using Python,
+Experience using big data technologies (Snowflake, Airflow, Kubernetes, Docker, Helm, Spark, pySpark, )
+Significant experience with relational databases and query authoring (SQL) in Snowflake or other distributed Databases.
+Experience with agile engineering practices such as TDD, Pair Programming, Continuous Integration, automated testing, and deployment.
+Experience with building stream-processing systems, using solutions such as Kafka, Storm or Spark-Streaming
+Experience with dimensional data modeling and schema design in Data Warehouses
+Familiar with ETL (managing high-quality reliable ETL pipelines)
+Be familiar with legal compliance (with data management tools) data classification, and retention.
+
+Salary Range: $165,000-$210,000 USD base. Equity. Medical, Dental, Vision.
+https://www.recruitingfromscratch.com/",2019,Staffing & Subcontracting,$1 to $5 million (USD),Human Resources & Staffing,1 to 50 Employees,Company - Private,True
+Software Engineer - Data Governance (Remote),"Zions Bancorporation
+","Midvale, UT",$120K - $150K (Employer est.),3.5,"Zions Bancorporation’s Enterprise Technology and Operations (ETO) team is transforming what it means to work for a financial institution. With a commitment to technology and innovation, we have been providing our community, clients and colleagues the best experience possible for over 150 years. Help us transform our workforce of the future, today.
+
+We have an amazing opportunity available for a Software Engineer within the Data Governance Innovation & Engineering team. We are currently looking for a passionate and experienced Software Engineer that will play a key role in establishing foundation for self-service governance capabilities (e.g Data Catalog, Adaptive Governance). If you have the technical expertise as well as the confidence in your skills to be able to effectively communicate and articulate the work you do with business and technical partners, we would love to speak with you!
+
+The ideal candidate will have:
+Full Stack engineering experience with knowledge Data engineering and architecture.
+Experience with JAVA or Python programming, developing microservice architecture and Rest API’s.
+Knowledge of CI\CD and containerized deployment on Kubernetes.
+The ability to effectively articulate the work you do with business and technical partners
+Understanding data governance technologies would be the icing on the cake!
+
+The Software Engineer will:
+Design, build and integrate internal and external APIs. Develop
+Collaborate with Product Management and business partners to iteratively build solutions that meet customers’ needs.
+Adhere to internal development best practices/lifecycle (e.g., Testing, Code Reviews, CI/CD, Documentation).
+Gather business requirements and propose robust and scalable solutions.
+Document and showcase feature designs/workflows.
+Be a team player, stay up to date on industry latest industry trends and design patterns and loves to innovate.
+
+Qualifications:
+6+ years of Full stack engineering experience building APIs & Microservices , utilizing JAVA , Spring Boot (and/or) Python .
+Experience building CI/CD pipelines (e.g. Azure Pipelines, Jenkins)
+Experience building applications on Docker and Kubernetes
+Knowledge of UI/UX design and development, knowledge of frameworks and libraries using Angular and REACT .JS.
+Understand Data architecture and with knowledge of SQL, NO SQL databases and Big Data ecosystem.
+Excellent communication skills. Should be confident in your skills and be able to effectively communicate and articulate the work with business and technical partners. Also will need the ability to ask the right questions when required.
+Bachelor’s degree in computer science, Computer Engineering or related field. A combination of education and experience may meet qualifications.
+
+Nice to have:
+Cloud experience (e.g. Google, Azure)
+Conceptual understanding of data governance capabilities (e.g. data catalog, classification, profiling, data sharing)
+
+Location:
+This position can be located 100% remote within the United States or will be a hybrid work from home schedule with a minimum of three days per week in the office if you are within 50 miles of the new Zions Technology Center in Midvale, UT.
+
+Pay Range: $120,000-$150,000
+
+Benefits:
+Medical, Dental and Vision Insurance - START DAY ONE!
+Life and Disability Insurance, Paid Parental Leave and Adoption Assistance
+Health Savings (HSA), Flexible Spending (FSA) and dependent care accounts
+Paid Training, Paid Time Off (PTO) and 11 Paid Federal Holidays
+401(k) plan with company match, Profit Sharing, competitive compensation in line with work experience
+Mental health benefits including coaching and therapy sessions
+Tuition Reimbursement for qualifying employees
+Employee Ambassador preferred banking products
+This position may be eligible for a discretionary bonus
+
+Apply now if you have a passion for impactful outcomes, enjoy working collaboratively with co-workers, and want to make a difference for the clients and communities we serve.",1955,Banking & Lending,$1 to $5 billion (USD),Financial Services,10000+ Employees,Company - Public,False
+Sentinel (GBSD) Systems Engineer- Wing Data Simulator 10361,"Northrop Grumman
+","Roy, UT",$73K - $110K (Employer est.),4.0,"Requisition ID: R10119808
+Category: Engineering
+Location: Roy, Utah, United States of America
+Citizenship required: United States Citizenship
+Clearance Type: Secret
+Telecommute: No- Teleworking not available for this position
+Shift: 1st Shift (United States of America)
+Travel Required: Yes, 10% of the Time
+Relocation Assistance: Relocation assistance may be available
+Positions Available: 2
+At Northrop Grumman, our employees have incredible opportunities to work on revolutionary systems that impact people's lives around the world today, and for generations to come. Our pioneering and inventive spirit has enabled us to be at the forefront of many technological advancements in our nation's history - from the first flight across the Atlantic Ocean, to stealth bombers, to landing on the moon. We look for people who have bold new ideas, courage and a pioneering spirit to join forces to invent the future, and have fun along the way. Our culture thrives on intellectual curiosity, cognitive diversity and bringing your whole self to work — and we have an insatiable drive to do what others think is impossible. Our employees are not only part of history, they're making history.
+
+Embark on a career putting innovative, reliable, and agile products and ideas into orbit, and beyond. Northrop Grumman has opportunities waiting for you that play a vital role in human space exploration, national defense, and scientific discovery, supporting multiple programs across the universe. With us, you’ll discover a culture of curiosity and collaboration that will have you Defining Possible from the day you start. Our space systems connect and protect millions of people on earth every day, now and for the future. Explore your future and launch your career today.
+
+
+Northrop Grumman Space Systems is seeking to hire a Systems Engineer- Wing Data Simulator to its team of diverse and qualified individuals. These positions will be located in Roy, UT and will support the Sentinel (GBSD) program. Learn more about the Sentinel program here. Northrop Grumman supports the Air Force’s sustainment, development, production and deployment of hardware and system modifications for Intercontinental Ballistic Missile (ICBM) Ground and Airborne Launch Control Systems, Launch Facilities and associated infrastructure.
+
+What you will get to do:
+
+The Wing Data Simulator project is developing a complex Software/Hardware modeling and simulation capability that will be used to test the GBSD weapon system. This position will perform systems engineering in a dynamic, fast-moving environment using the Agile (Scrum) framework. The WDS project is in the early stages of development, so this position will immediately be contributing to the early stages of the systems engineering V: use case definition, architecture/design, and requirements decomposition. As the project matures, this position will have exposure to the entire development lifecycle, including integration, test, and deployment. As a systems engineer on WDS, this position will work closely with software development scrum teams to define future development requirements and architecture. Experience with software projects is useful but not required. Major tools used by the team include the Atlassian suite, DOORS, and Cameo. The Sentinel program, and WDS project specifically, heavily leverages MBSE concepts and tools - Maintain design documentation and follow configuration management requirements.
+
+As a full-time employee of Northrop Grumman Space Systems, you are eligible for our robust benefits package including:
+
+Medical, Dental & Vision coverage
+401k
+Educational Assistance
+Life Insurance
+Employee Assistance Programs & Work/Life Solutions
+Paid Time Off
+Health & Wellness Resources
+Employee Discounts
+
+https://benefits.northropgrumman.com/us/en2/BenefitsOverview/Pages/default.aspx
+
+This positions standard work schedule is a 9/80. The 9/80 schedule allows employees who work a nine-hour day Monday through Thursday to take every other Friday off.
+
+This role may offer a competitive relocation assistance package.
+
+#GBSDsystems
+
+BASIC QUALIFICATIONS:
+
+Systems Engineer: bachelor’s degree with at least 2 years of related systems engineering experience, 0 years with a master’s degree.
+Active Secret clearance investigated within the last 6 years with the ability to obtain special access.
+Experience with Model-Based Systems Engineering (MBSE)
+Experience with requirements development and verification
+
+PREFERRED QUALIFICATIONS:
+
+Modeling experience using Cameo
+Experience with Atlassian tool suite
+Experience with requirements management using DOORS
+Experience with Agile development
+Experience with Scrum methodology
+Experience with DevOps
+One or more of SysML, DoDAF
+Salary Range: $73,400 - $110,000
+Employees may be eligible for a discretionary bonus in addition to base pay. Annual bonuses are designed to reward individual contributions as well as allow employees to share in company results. Employees in Vice President or Director positions may be eligible for Long Term Incentives. In addition, Northrop Grumman provides a variety of benefits including health insurance coverage, life and disability insurance, savings plan, Company paid holidays and paid time off (PTO) for vacation and/or personal business.
+
+Northrop Grumman is committed to hiring and retaining a diverse workforce. We are proud to be an Equal Opportunity/Affirmative Action Employer, making decisions without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national origin, age, veteran status, disability, or any other protected class. For our complete EEO/AA and Pay Transparency statement, please visit http://www.northropgrumman.com/EEO. U.S. Citizenship is required for most positions.",1939,Aerospace & Defense,$10+ billion (USD),Aerospace & Defense,10000+ Employees,Company - Public,False
+Senior Staff AI Data Engineer,"Recruiting From Scratch
+","Salt Lake City, UT",$160K (Employer est.),4.0,"Who is Recruiting from Scratch :
+Recruiting from Scratch is a premier talent firm that focuses on placing the best product managers, software, and hardware talent at innovative companies. Our team is 100% remote and we work with teams across the United States to help them hire. We work with companies funded by the best investors including Sequoia Capital, Lightspeed Ventures, Tiger Global Management, A16Z, Accel, DFJ, and more.
+https://www.recruitingfromscratch.com/
+
+This is a hybrid role based in our Palo Alto or San Francisco offices and will require you to be in office Tuesdays and Thursdays.
+
+What’s so interesting about this role?
+
+We believe that AI can revolutionize the dating industry. Our Data Engineer lead is responsible for building high quality ML datasets at scale, used to train ML models that power AI-centric features. In this pivotal role, you will have the opportunity to build foundational tools and data pipelines to ingest, normalize and clean the valuable data that would be fundamental for our ML engineers to build AI tools including recommendations, LLMs, ads, visual search, growth/notifications, trust and safety.
+
+What’s the job?
+
+We’re looking for an exceptional data engineer who is passionate about data for AI and values it can bring to our company, Who loves working with data ops at scale; and who is committed to the hard work necessary to continuously improve our ML data pipelines.
+
+In this position, you will be responsible for establishing and executing the strategy for our organization’s ML Data Engine, with an initial focus on agile ML Data OPs. This includes identification of infrastructure components and data stack to be used, design and implementation of pipelines between data systems and teams, automation workflows, data enrichment and monitoring tools all for AI models. As a tech lead specialized in data engineering, you are expected to code and contribute to the stack.
+
+Responsibilities:
+
+Dive into our dataset and design, implement and scale data pre/post processing pipelines of ML models
+Work on applied ML solutions in the areas of data mining, cleaning, normalizing and modeling
+Be self-motivated in seeking solutions when the correct path isn’t always known
+Collaborate with engineers in conceptualizing, planning and implementing data engineering initiatives working with different stakeholders
+Design and build data platforms & frameworks for processing high volumes of data, in real time as well as batch, that will be used across engineering teams
+Build data processing streams for cleaning and modeling text data for LLMs
+Research and evaluate new technologies in the big data space to guide our continuous improvement
+Collaborate with multi-functional teams to help tune the performance of large data applications
+Work with Privacy and Security team on data governance, risk and compliance initiatives
+Work on initiatives to ensure stability, performance and reliability of our data infrastructure
+
+What we’ll love about you
+
+Bachelors in Computer Science, Mathematics, Physics, or a related fields
+5+ years of experience as a data engineer building production-level pre/post-processing data pipelines for ML/DL models, including 2+ years of technical leadership experience
+Experience in statistical analysis & visualization on datasets using Pandas or R
+Experience designing and building highly available, distributed systems of data extraction, ingestion, normalization and processing of large data sets in real time as well as batch, that will be used across engineering teams using orchestration frameworks like Airflow, KubeFlow or other pipeline tools
+Demonstrated prior experience in creating data pipelines for text data sets NLP/ large language models
+Ability to produce well-engineered software, including appropriate automated test suites, technical documentation, and operational strategy
+Excellent coding skills in Python, Java, bash, SQL, and expertise with Git version control
+Experience using big data technologies (Snowflake, Airflow, Kubernetes, Docker, Helm, Spark, pySpark)
+Experience with any public cloud environment - AWS, GCP or Azure
+Significant experience with relational databases and query authoring (SQL) as well as NoSQL databases like DynamoDB etc
+Experience building and maintaining ETL (managing high-quality reliable ETL pipelines)
+
+We’ll really swoon if you have
+
+2+ years of experience of technical leadership in building data engineering pipelines for AI
+Previous experience in building data pipeline for conversational AI APIs and recommender systems
+Experience with distributed systems and microservices
+Experience with Kubernetes and building Docker images
+Experience with building stream-processing systems, using solutions such as Kafka, Storm or Spark-Streaming
+Strong understanding of applied machine learning topics
+Be familiar with legal compliance (with data management tools) data classification, and retention
+Consistent track record of managing and implementing complex data projects
+
+What you'll love about us
+
+Mission and Impact: We are the world-leading LGBTQ social networking service. Your role will impact the lives of millions of LGBTQ people around the world
+Multiple Locations: We are hiring someone for this role to be based ideally in San Francisco or Palo Alto
+Family Insurance: Insurance premium coverage for health, dental, and vision for you and partial coverage for your dependents
+Retirement Savings: Generous 401K plan with 6% match and immediate vest in the US
+Compensation: Industry-competitive compensation and eligibility for company bonus and equity programs
+Queer-Inclusive Benefits: Industry-leading gender-affirming offerings with up to 90% cost coverage, access to Included Health, monthly stipends for HRT, and more
+Additional Benefits: Flexible vacation policy, monthly stipends for cell phone, internet, wellness, and food, one-time home-office setup stipend, and company-sponsored events
+Base Pay Range
+$160,000—$280,000 USD
+https://www.recruitingfromscratch.com/",2019,Staffing & Subcontracting,$1 to $5 million (USD),Human Resources & Staffing,1 to 50 Employees,Company - Private,True
+Master Data Management (MDM) Production Support Engineer (Remote),"Zions Bancorporation
+","Midvale, UT",$110K - $150K (Employer est.),3.6,"Zions Bancorporation’s Enterprise Technology and Operations (ETO) team is transforming what it means to work for a financial institution. With a commitment to technology and innovation, we have been providing our community, clients and colleagues the best experience possible for over 150 years. Help us transform our workforce of the future, today.
+
+
+
+
+Zions Bancorporation is currently seeking an experienced Master Data Management (MDM) Production Support Engineer. The successful candidate for this position will be responsible for diagnosing and resolving production issues with our MDM implementation, and contributing to the analysis, design, development and implementation of fixes and enhancements to increase the reliability and maturity of our system as we adopt more strategic technologies. Below are other duties of the MDM Production Support Engineer.
+
+
+
+
+Work on a cross-functional agile SCRUM team to deliver and support master data management capabilities to the organization.
+Take ownership of production issues and see them through to resolution within specified SLA timeframes, engaging and leading additional subject matter experts as needed.
+Conduct root cause analysis with appropriate subject matter experts to identify and address root causes to production issues.
+Provide after-hours on-call production support, as needed.
+Contribute to production support knowledgebase and other related documentation.
+Support best practices and enterprise standards to satisfy compliance, reduce risk, and deliver a positive experience to internal users and end customers.
+Participate in design and code reviews.
+Work with the business partners to identify and ensure that all service level agreements are met.
+Perform ongoing monitoring of the environment and applications for capacity planning, performance tuning and improvement opportunities.
+Work with team members and the Development Manager on process improvement, team initiatives, and the continual growth of the CDI Production Support Team.
+May assist training other engineers.
+Other duties as assigned.
+
+
+
+Qualifications
+
+6+ years of experience supporting, designing and developing applications using IBM Master Data Management (MDM) Advanced Edition (Physical), with a sound understanding of master data management concepts.
+Advanced analytical, organizational and problem-solving skills, including experience with root cause analysis methods (5 Whys, Cause Mapping / Fishbone Diagrams, etc.).
+Sound understanding of data modeling, data quality and data profiling.
+Experience with architecture, design and development of data integration solutions.
+Working knowledge of Data-as-a-Service (DaaS) and API management concepts and how to use these with different types of integration technologies. Experience with REST APIs, JSON, SOAP Web Services, XML, XSD, WSDL, Python, and Kafka.
+Familiar with Unix/AIX, ANSI SQL, PL/SQL, DB2 SQL and Shell Scripting. A combination of education and experience may meet requirements.
+Ability and desire to learn new technologies quickly.
+Ability to work independently and collaborate with others at all levels of technical understanding.
+Requires a Bachelor's degree in Computer Science, Computer Engineering, Information Systems or related field.
+
+
+
+Location:
+
+
+
+
+This position can be located 100% remote within the United States or will be a hybrid work from home schedule with a minimum of three days per week in the office if you are within 50 miles of the new Zions Technology Center in Midvale, UT.
+
+
+
+
+Pay Range: $110,000-$150,000
+
+
+
+
+Benefits:
+
+Medical, Dental and Vision Insurance - START DAY ONE!
+Life and Disability Insurance, Paid Parental Leave and Adoption Assistance
+Health Savings (HSA), Flexible Spending (FSA) and dependent care accounts
+Paid Training, Paid Time Off (PTO) and 11 Paid Federal Holidays
+401(k) plan with company match, Profit Sharing, competitive compensation in line with work experience
+Mental health benefits including coaching and therapy sessions
+Tuition Reimbursement for qualifying employees
+Employee Ambassador preferred banking products
+This position may be eligible for a discretionary bonus
+
+
+
+Apply now if you have a passion for impactful outcomes, enjoy working collaboratively with co-workers, and want to make a difference for the clients and communities we serve.",1998,Banking & Lending,$100 to $500 million (USD),Financial Services,501 to 1000 Employees,Subsidiary or Business Segment,False

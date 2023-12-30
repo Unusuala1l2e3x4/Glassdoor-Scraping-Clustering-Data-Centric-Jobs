@@ -1,0 +1,1001 @@
+cluster_assignment,cluster_size,token_wordfreq,wordfreq,token_tfidf,tfidf
+1,209,data engineer,0.12918660287081335,data engineer,0.12918660287081335
+1,209,big data engineer,0.05263157894736841,big data engineer,0.05263157894736841
+1,209,business analyst,0.043062200956937795,business analyst,0.043062200956937795
+1,209,data analyst,0.043062200956937795,data analyst,0.043062200956937795
+1,209,senior data engineer,0.03349282296650718,senior data engineer,0.03349282296650718
+1,209,ai ml data engineer,0.023923444976076555,ai ml data engineer,0.023923444976076555
+1,209,software engineer,0.023923444976076555,software engineer,0.023923444976076555
+1,209,data scientist,0.023923444976076555,data scientist,0.023923444976076555
+1,209,senior data analyst,0.019138755980861243,senior data analyst,0.019138755980861243
+1,209,salesforce business analyst,0.014354066985645932,salesforce business analyst,0.014354066985645932
+1,209,big data programmer analyst,0.014354066985645932,big data programmer analyst,0.014354066985645932
+1,209,business process analyst,0.014354066985645932,business process analyst,0.014354066985645932
+1,209,data engineer guidewire data hub,0.014354066985645932,data engineer guidewire data hub,0.014354066985645932
+1,209,bi data analyst business analyst,0.009569377990430622,bi data analyst business analyst,0.009569377990430622
+1,209,big data engineer ii,0.009569377990430622,big data engineer ii,0.009569377990430622
+1,209,reporting data analyst,0.009569377990430622,reporting data analyst,0.009569377990430622
+1,209,entry level junior data analyst,0.009569377990430622,entry level junior data analyst,0.009569377990430622
+1,209,big data consultant,0.009569377990430622,big data consultant,0.009569377990430622
+1,209,big data analyst,0.009569377990430622,big data analyst,0.009569377990430622
+1,209,system and data analyst,0.009569377990430622,system and data analyst,0.009569377990430622
+1,209,teradata data engineer,0.009569377990430622,teradata data engineer,0.009569377990430622
+1,209,business data analyst,0.009569377990430622,business data analyst,0.009569377990430622
+1,209,rm data maintenance analyst,0.004784688995215311,rm data maintenance analyst,0.004784688995215311
+1,209,senior software engineer data,0.004784688995215311,senior software engineer data,0.004784688995215311
+1,209,qa analyst data base exp,0.004784688995215311,qa analyst data base exp,0.004784688995215311
+1,209,business analyst stibo exp,0.004784688995215311,business analyst stibo exp,0.004784688995215311
+1,209,business analyst data analyst financial industry experience,0.004784688995215311,business analyst data analyst financial industry experience,0.004784688995215311
+1,209,business analyst iv,0.004784688995215311,business analyst iv,0.004784688995215311
+1,209,senior data modeler technical architect,0.004784688995215311,senior data modeler technical architect,0.004784688995215311
+1,209,cloud service engineer,0.004784688995215311,cloud service engineer,0.004784688995215311
+1,209,artificial intelligence machine learning engineer,0.004784688995215311,artificial intelligence machine learning engineer,0.004784688995215311
+1,209,business analyst ii,0.004784688995215311,business analyst ii,0.004784688995215311
+1,209,guidewire data engineer,0.004784688995215311,guidewire data engineer,0.004784688995215311
+1,209,data scientist machine learning engineer,0.004784688995215311,data scientist machine learning engineer,0.004784688995215311
+1,209,guidewire datahub engineer,0.004784688995215311,guidewire datahub engineer,0.004784688995215311
+1,209,business analyst iii,0.004784688995215311,business analyst iii,0.004784688995215311
+1,209,data engineer python developer,0.004784688995215311,data engineer python developer,0.004784688995215311
+1,209,data science machine learning,0.004784688995215311,data science machine learning,0.004784688995215311
+1,209,azure data engineer,0.004784688995215311,azure data engineer,0.004784688995215311
+1,209,analyst operation support,0.004784688995215311,analyst operation support,0.004784688995215311
+1,209,business analyst zuora billing subscription,0.004784688995215311,business analyst zuora billing subscription,0.004784688995215311
+1,209,data engineer role remote,0.004784688995215311,data engineer role remote,0.004784688995215311
+1,209,data analyst ii qa analyst,0.004784688995215311,data analyst ii qa analyst,0.004784688995215311
+1,209,business analyst cm experience,0.004784688995215311,business analyst cm experience,0.004784688995215311
+1,209,data analyst trainer instructor,0.004784688995215311,data analyst trainer instructor,0.004784688995215311
+1,209,data science machine learning ai consultant,0.004784688995215311,data science machine learning ai consultant,0.004784688995215311
+1,209,business analyst capital market,0.004784688995215311,business analyst capital market,0.004784688995215311
+1,209,senior data analyst anomaly detection machine learn,0.004784688995215311,senior data analyst anomaly detection machine learn,0.004784688995215311
+1,209,upstream scientist bioreactors,0.004784688995215311,upstream scientist bioreactors,0.004784688995215311
+1,209,power bi analyst,0.004784688995215311,power bi analyst,0.004784688995215311
+1,209,sfmc business analyst,0.004784688995215311,sfmc business analyst,0.004784688995215311
+1,209,quantitative researcher alpha capture,0.004784688995215311,quantitative researcher alpha capture,0.004784688995215311
+1,209,data engineer bi developer,0.004784688995215311,data engineer bi developer,0.004784688995215311
+1,209,technical business analyst credit risk wholesale banking,0.004784688995215311,technical business analyst credit risk wholesale banking,0.004784688995215311
+1,209,sfmc business analyst jacksonville fl,0.004784688995215311,sfmc business analyst jacksonville fl,0.004784688995215311
+1,209,data analyst analytics sql,0.004784688995215311,data analyst analytics sql,0.004784688995215311
+1,209,technical business analyst solution analyst wealth management exp,0.004784688995215311,technical business analyst solution analyst wealth management exp,0.004784688995215311
+1,209,downstream senior scientist,0.004784688995215311,downstream senior scientist,0.004784688995215311
+1,209,business analyst olfm,0.004784688995215311,business analyst olfm,0.004784688995215311
+1,209,associate data scientist,0.004784688995215311,associate data scientist,0.004784688995215311
+1,209,senior data scientist experience in life science data specifically in commercial,0.004784688995215311,senior data scientist experience in life science data specifically in commercial,0.004784688995215311
+1,209,siebel business analyst,0.004784688995215311,siebel business analyst,0.004784688995215311
+1,209,senior business intelligence analyst power bi,0.004784688995215311,senior business intelligence analyst power bi,0.004784688995215311
+1,209,senior big data consultant,0.004784688995215311,senior big data consultant,0.004784688995215311
+1,209,data business analyst,0.004784688995215311,data business analyst,0.004784688995215311
+1,209,data analyst actuarial science,0.004784688995215311,data analyst actuarial science,0.004784688995215311
+1,209,data risk analyst,0.004784688995215311,data risk analyst,0.004784688995215311
+1,209,data scientist analyst,0.004784688995215311,data scientist analyst,0.004784688995215311
+1,209,mdm master data analyst,0.004784688995215311,mdm master data analyst,0.004784688995215311
+1,209,data engineer bigdata engineer,0.004784688995215311,data engineer bigdata engineer,0.004784688995215311
+1,209,c quantitative researcher r,0.004784688995215311,c quantitative researcher r,0.004784688995215311
+1,209,digital s w eng lead analyst,0.004784688995215311,digital s w eng lead analyst,0.004784688995215311
+1,209,senior data scientist,0.004784688995215311,senior data scientist,0.004784688995215311
+1,209,senior managing consultant data science,0.004784688995215311,senior managing consultant data science,0.004784688995215311
+1,209,java sql data analytics software engineer,0.004784688995215311,java sql data analytics software engineer,0.004784688995215311
+1,209,digital data analyst,0.004784688995215311,digital data analyst,0.004784688995215311
+1,209,technology analyst,0.004784688995215311,technology analyst,0.004784688995215311
+1,209,associate scientist process development research,0.004784688995215311,associate scientist process development research,0.004784688995215311
+1,209,android iot engineer ii,0.004784688995215311,android iot engineer ii,0.004784688995215311
+1,209,system analyst,0.004784688995215311,system analyst,0.004784688995215311
+1,209,master data analyst,0.004784688995215311,master data analyst,0.004784688995215311
+1,209,business analyst pm,0.004784688995215311,business analyst pm,0.004784688995215311
+1,209,site reliability engineer,0.004784688995215311,site reliability engineer,0.004784688995215311
+1,209,soc analyst,0.004784688995215311,soc analyst,0.004784688995215311
+1,209,business analyst servicenow,0.004784688995215311,business analyst servicenow,0.004784688995215311
+1,209,technical business analyst,0.004784688995215311,technical business analyst,0.004784688995215311
+1,209,data integrity analyst,0.004784688995215311,data integrity analyst,0.004784688995215311
+1,209,business system analyst,0.004784688995215311,business system analyst,0.004784688995215311
+1,209,big data developer big data software engineer austin tx,0.004784688995215311,big data developer big data software engineer austin tx,0.004784688995215311
+1,209,business it analyst,0.004784688995215311,business it analyst,0.004784688995215311
+1,209,senior python data scientist,0.004784688995215311,senior python data scientist,0.004784688995215311
+1,209,bioinformatics analyst iii deep learning data scientist,0.004784688995215311,bioinformatics analyst iii deep learning data scientist,0.004784688995215311
+1,209,data governance and compliance analyst,0.004784688995215311,data governance and compliance analyst,0.004784688995215311
+1,209,agile business analyst,0.004784688995215311,agile business analyst,0.004784688995215311
+1,209,data analyst manipulation,0.004784688995215311,data analyst manipulation,0.004784688995215311
+1,209,data modeler,0.004784688995215311,data modeler,0.004784688995215311
+1,209,oracle dba data analyst,0.004784688995215311,oracle dba data analyst,0.004784688995215311
+1,209,python data engineer developer,0.004784688995215311,python data engineer developer,0.004784688995215311
+1,209,big data machine learning engineer senior,0.004784688995215311,big data machine learning engineer senior,0.004784688995215311
+1,209,computer vision image analytics data scientist,0.004784688995215311,computer vision image analytics data scientist,0.004784688995215311
+2,221,data engineer,0.11764705882352938,data engineer,0.11764705882352938
+2,221,data analyst,0.10859728506787328,data analyst,0.10859728506787328
+2,221,business analyst,0.0588235294117647,business analyst,0.0588235294117647
+2,221,big data engineer,0.03619909502262444,big data engineer,0.03619909502262444
+2,221,senior data analyst,0.03619909502262444,senior data analyst,0.03619909502262444
+2,221,data scientist,0.031674208144796386,data scientist,0.031674208144796386
+2,221,data warehouse engineer,0.01809954751131222,data warehouse engineer,0.01809954751131222
+2,221,senior data engineer,0.01809954751131222,senior data engineer,0.01809954751131222
+2,221,business system analyst,0.01809954751131222,business system analyst,0.01809954751131222
+2,221,guidewire system analyst,0.013574660633484163,guidewire system analyst,0.013574660633484163
+2,221,data quality analyst,0.013574660633484163,data quality analyst,0.013574660633484163
+2,221,data analyst asg lineage experience,0.013574660633484163,data analyst asg lineage experience,0.013574660633484163
+2,221,business data analyst,0.00904977375565611,business data analyst,0.00904977375565611
+2,221,business data analyst excel tableau remote phoenix minneapolis or de moines,0.00904977375565611,business data analyst excel tableau remote phoenix minneapolis or de moines,0.00904977375565611
+2,221,data business solution analyst,0.00904977375565611,data business solution analyst,0.00904977375565611
+2,221,client service data analyst,0.00904977375565611,client service data analyst,0.00904977375565611
+2,221,data analyst ii,0.00904977375565611,data analyst ii,0.00904977375565611
+2,221,aws data engineer,0.00904977375565611,aws data engineer,0.00904977375565611
+2,221,software engineer,0.00904977375565611,software engineer,0.00904977375565611
+2,221,senior business analyst,0.00904977375565611,senior business analyst,0.00904977375565611
+2,221,sql data analyst,0.00904977375565611,sql data analyst,0.00904977375565611
+2,221,big data java engineer,0.00904977375565611,big data java engineer,0.00904977375565611
+2,221,java vert x engineer,0.004524886877828055,java vert x engineer,0.004524886877828055
+2,221,business analyst project manager,0.004524886877828055,business analyst project manager,0.004524886877828055
+2,221,data lineage analyst,0.004524886877828055,data lineage analyst,0.004524886877828055
+2,221,data analytics visualization engineer,0.004524886877828055,data analytics visualization engineer,0.004524886877828055
+2,221,technical system data analyst remote,0.004524886877828055,technical system data analyst remote,0.004524886877828055
+2,221,jpsc data analyst lead columbus oh,0.004524886877828055,jpsc data analyst lead columbus oh,0.004524886877828055
+2,221,data analyst data modeler,0.004524886877828055,data analyst data modeler,0.004524886877828055
+2,221,technical lead i data analyst,0.004524886877828055,technical lead i data analyst,0.004524886877828055
+2,221,campaign data specialist,0.004524886877828055,campaign data specialist,0.004524886877828055
+2,221,data loss control analyst,0.004524886877828055,data loss control analyst,0.004524886877828055
+2,221,data architect data modeler data analyst,0.004524886877828055,data architect data modeler data analyst,0.004524886877828055
+2,221,director of data science,0.004524886877828055,director of data science,0.004524886877828055
+2,221,business analyst mortgage exp,0.004524886877828055,business analyst mortgage exp,0.004524886877828055
+2,221,junior data analyst,0.004524886877828055,junior data analyst,0.004524886877828055
+2,221,big data engineer java,0.004524886877828055,big data engineer java,0.004524886877828055
+2,221,jpsc data analyst role,0.004524886877828055,jpsc data analyst role,0.004524886877828055
+2,221,business system data analyst bank compliance,0.004524886877828055,business system data analyst bank compliance,0.004524886877828055
+2,221,data management strat gov analyst,0.004524886877828055,data management strat gov analyst,0.004524886877828055
+2,221,java big data engineer,0.004524886877828055,java big data engineer,0.004524886877828055
+2,221,o technical lead i data analyst,0.004524886877828055,o technical lead i data analyst,0.004524886877828055
+2,221,business system analyst i,0.004524886877828055,business system analyst i,0.004524886877828055
+2,221,data analyst tableau developer,0.004524886877828055,data analyst tableau developer,0.004524886877828055
+2,221,data analyst telecom experience,0.004524886877828055,data analyst telecom experience,0.004524886877828055
+2,221,it data center analyst,0.004524886877828055,it data center analyst,0.004524886877828055
+2,221,it data science analyst,0.004524886877828055,it data science analyst,0.004524886877828055
+2,221,consultant data analyst,0.004524886877828055,consultant data analyst,0.004524886877828055
+2,221,senior analyst business intelligence year,0.004524886877828055,senior analyst business intelligence year,0.004524886877828055
+2,221,bigdata engineer,0.004524886877828055,bigdata engineer,0.004524886877828055
+2,221,rf data analyst tableau prts patrol nim,0.004524886877828055,rf data analyst tableau prts patrol nim,0.004524886877828055
+2,221,machine learning engineer,0.004524886877828055,machine learning engineer,0.004524886877828055
+2,221,test data management engineer mainframe experience,0.004524886877828055,test data management engineer mainframe experience,0.004524886877828055
+2,221,net sharepoint java data analyst business analyst,0.004524886877828055,net sharepoint java data analyst business analyst,0.004524886877828055
+2,221,analyst it data warehouse,0.004524886877828055,analyst it data warehouse,0.004524886877828055
+2,221,data scientist architect h f,0.004524886877828055,data scientist architect h f,0.004524886877828055
+2,221,senior business analyst aml kyc,0.004524886877828055,senior business analyst aml kyc,0.004524886877828055
+2,221,excel financial data analyst,0.004524886877828055,excel financial data analyst,0.004524886877828055
+2,221,junior data analyst python,0.004524886877828055,junior data analyst python,0.004524886877828055
+2,221,tdm engineer,0.004524886877828055,tdm engineer,0.004524886877828055
+2,221,clinical reporting lead,0.004524886877828055,clinical reporting lead,0.004524886877828055
+2,221,data engineer etl and datamodeling,0.004524886877828055,data engineer etl and datamodeling,0.004524886877828055
+2,221,computer research scientist,0.004524886877828055,computer research scientist,0.004524886877828055
+2,221,senior data lead engineer,0.004524886877828055,senior data lead engineer,0.004524886877828055
+2,221,strong business analyst,0.004524886877828055,strong business analyst,0.004524886877828055
+2,221,big data developer,0.004524886877828055,big data developer,0.004524886877828055
+2,221,senior data governance business analyst,0.004524886877828055,senior data governance business analyst,0.004524886877828055
+2,221,big data business analyst,0.004524886877828055,big data business analyst,0.004524886877828055
+2,221,professional business analysis,0.004524886877828055,professional business analysis,0.004524886877828055
+2,221,data modeling support analyst,0.004524886877828055,data modeling support analyst,0.004524886877828055
+2,221,statistic consultant for thesis math tutor math tutoring company,0.004524886877828055,statistic consultant for thesis math tutor math tutoring company,0.004524886877828055
+2,221,banking business analyst,0.004524886877828055,banking business analyst,0.004524886877828055
+2,221,copyright data analyst,0.004524886877828055,copyright data analyst,0.004524886877828055
+2,221,etl developer data analyst,0.004524886877828055,etl developer data analyst,0.004524886877828055
+2,221,data modeler,0.004524886877828055,data modeler,0.004524886877828055
+2,221,senior data scientist,0.004524886877828055,senior data scientist,0.004524886877828055
+2,221,cybersecurity analyst,0.004524886877828055,cybersecurity analyst,0.004524886877828055
+2,221,business analyst data modeler,0.004524886877828055,business analyst data modeler,0.004524886877828055
+2,221,senior business system analyst,0.004524886877828055,senior business system analyst,0.004524886877828055
+2,221,remote work data scientist background in epidemiology,0.004524886877828055,remote work data scientist background in epidemiology,0.004524886877828055
+2,221,data analyst bigdata,0.004524886877828055,data analyst bigdata,0.004524886877828055
+2,221,e business system analyst,0.004524886877828055,e business system analyst,0.004524886877828055
+2,221,data developer,0.004524886877828055,data developer,0.004524886877828055
+2,221,sql dbm saas data modeler,0.004524886877828055,sql dbm saas data modeler,0.004524886877828055
+2,221,associate data scientist,0.004524886877828055,associate data scientist,0.004524886877828055
+2,221,data expert analyst modeler,0.004524886877828055,data expert analyst modeler,0.004524886877828055
+2,221,tdm engineer mainframe exp,0.004524886877828055,tdm engineer mainframe exp,0.004524886877828055
+2,221,healthcare data analyst,0.004524886877828055,healthcare data analyst,0.004524886877828055
+2,221,mdg functional data analyst greenwood village co,0.004524886877828055,mdg functional data analyst greenwood village co,0.004524886877828055
+2,221,data engineer big data engineer,0.004524886877828055,data engineer big data engineer,0.004524886877828055
+2,221,data report analyst,0.004524886877828055,data report analyst,0.004524886877828055
+2,221,lead big data engineer,0.004524886877828055,lead big data engineer,0.004524886877828055
+2,221,data engineer columbus oh,0.004524886877828055,data engineer columbus oh,0.004524886877828055
+2,221,data quality risk analyst,0.004524886877828055,data quality risk analyst,0.004524886877828055
+2,221,product business analyst,0.004524886877828055,product business analyst,0.004524886877828055
+2,221,erp data migration analyst in glenview il at signode,0.004524886877828055,erp data migration analyst in glenview il at signode,0.004524886877828055
+2,221,business system analyst ecommerce,0.004524886877828055,business system analyst ecommerce,0.004524886877828055
+2,221,big data engineer columbus oh,0.004524886877828055,big data engineer columbus oh,0.004524886877828055
+2,221,position for lead data analyst,0.004524886877828055,position for lead data analyst,0.004524886877828055
+2,221,it associate business analyst digital marketing adobe aem,0.004524886877828055,it associate business analyst digital marketing adobe aem,0.004524886877828055
+3,955,data analyst,0.1539267015706803,data analyst,0.1539267015706803
+3,955,data engineer,0.09842931937172766,data engineer,0.09842931937172766
+3,955,junior data analyst,0.07329842931937175,junior data analyst,0.07329842931937175
+3,955,data analyst junior,0.06073298429319378,data analyst junior,0.06073298429319378
+3,955,data scientist,0.03455497382198953,data scientist,0.03455497382198953
+3,955,senior data engineer,0.020942408376963352,senior data engineer,0.020942408376963352
+3,955,data analyst iii,0.019895287958115185,data analyst iii,0.019895287958115185
+3,955,senior data analyst,0.01884816753926702,senior data analyst,0.01884816753926702
+3,955,data analyst ii,0.01570680628272252,data analyst ii,0.01570680628272252
+3,955,big data engineer,0.011518324607329846,big data engineer,0.011518324607329846
+3,955,senior data scientist,0.010471204188481678,senior data scientist,0.010471204188481678
+3,955,lead data analyst,0.00942408376963351,lead data analyst,0.00942408376963351
+3,955,data analyst i,0.00942408376963351,data analyst i,0.00942408376963351
+3,955,business analyst,0.008376963350785341,business analyst,0.008376963350785341
+3,955,business data analyst,0.007329842931937173,business data analyst,0.007329842931937173
+3,955,data quality analyst,0.004188481675392671,data quality analyst,0.004188481675392671
+3,955,machine learning engineer,0.004188481675392671,machine learning engineer,0.004188481675392671
+3,955,senior healthcare data analyst,0.003141361256544503,senior healthcare data analyst,0.003141361256544503
+3,955,aws data engineer,0.003141361256544503,aws data engineer,0.003141361256544503
+3,955,software engineer data,0.003141361256544503,software engineer data,0.003141361256544503
+3,955,senior data architect,0.003141361256544503,senior data architect,0.003141361256544503
+3,955,system analyst,0.003141361256544503,system analyst,0.003141361256544503
+3,955,data analyst iv,0.003141361256544503,data analyst iv,0.003141361256544503
+3,955,senior business analyst,0.003141361256544503,senior business analyst,0.003141361256544503
+3,955,lead data engineer,0.003141361256544503,lead data engineer,0.003141361256544503
+3,955,data platform engineer,0.003141361256544503,data platform engineer,0.003141361256544503
+3,955,data analyst developer,0.003141361256544503,data analyst developer,0.003141361256544503
+3,955,bioinformatics data analyst,0.003141361256544503,bioinformatics data analyst,0.003141361256544503
+3,955,senior big data engineer,0.003141361256544503,senior big data engineer,0.003141361256544503
+3,955,big data analyst,0.0020942408376963353,big data analyst,0.0020942408376963353
+3,955,data financial analyst,0.0020942408376963353,data financial analyst,0.0020942408376963353
+3,955,senior software engineer data,0.0020942408376963353,senior software engineer data,0.0020942408376963353
+3,955,bi analyst,0.0020942408376963353,bi analyst,0.0020942408376963353
+3,955,senior data modeler,0.0020942408376963353,senior data modeler,0.0020942408376963353
+3,955,ebusiness data analyst,0.0020942408376963353,ebusiness data analyst,0.0020942408376963353
+3,955,senior business analyst data science,0.0020942408376963353,senior business analyst data science,0.0020942408376963353
+3,955,big data machine learning engineer senior,0.0020942408376963353,big data machine learning engineer senior,0.0020942408376963353
+3,955,senior business data analyst reference data,0.0020942408376963353,senior business data analyst reference data,0.0020942408376963353
+3,955,data science analyst,0.0020942408376963353,data science analyst,0.0020942408376963353
+3,955,business analyst i,0.0020942408376963353,business analyst i,0.0020942408376963353
+3,955,provider analytics data analyst,0.0020942408376963353,provider analytics data analyst,0.0020942408376963353
+3,955,data lineage analyst,0.0020942408376963353,data lineage analyst,0.0020942408376963353
+3,955,epic bi analytics manager remote,0.0020942408376963353,epic bi analytics manager remote,0.0020942408376963353
+3,955,data management analyst,0.0020942408376963353,data management analyst,0.0020942408376963353
+3,955,analyst data reporting advisory,0.0020942408376963353,analyst data reporting advisory,0.0020942408376963353
+3,955,analyst data reporting senior,0.0020942408376963353,analyst data reporting senior,0.0020942408376963353
+3,955,software engineer,0.0020942408376963353,software engineer,0.0020942408376963353
+3,955,data modeler,0.0020942408376963353,data modeler,0.0020942408376963353
+3,955,analyst financial master data,0.0020942408376963353,analyst financial master data,0.0020942408376963353
+3,955,master data analyst,0.0020942408376963353,master data analyst,0.0020942408376963353
+3,955,business analyst data analyst,0.0020942408376963353,business analyst data analyst,0.0020942408376963353
+3,955,senior data engineer informatica,0.0020942408376963353,senior data engineer informatica,0.0020942408376963353
+3,955,data engineer customer analytics platform,0.0020942408376963353,data engineer customer analytics platform,0.0020942408376963353
+3,955,data engineer i,0.0020942408376963353,data engineer i,0.0020942408376963353
+3,955,bi developer data analyst,0.0020942408376963353,bi developer data analyst,0.0020942408376963353
+3,955,data analyst senior,0.0020942408376963353,data analyst senior,0.0020942408376963353
+3,955,survey data analyst,0.0020942408376963353,survey data analyst,0.0020942408376963353
+3,955,lead data scientist machine learning,0.0020942408376963353,lead data scientist machine learning,0.0020942408376963353
+3,955,business system analyst,0.0020942408376963353,business system analyst,0.0020942408376963353
+3,955,data analyst â junior,0.0020942408376963353,data analyst â junior,0.0020942408376963353
+3,955,data analyst hris,0.0020942408376963353,data analyst hris,0.0020942408376963353
+3,955,lead data scientist,0.0020942408376963353,lead data scientist,0.0020942408376963353
+3,955,clincal outcome data analyst,0.0020942408376963353,clincal outcome data analyst,0.0020942408376963353
+3,955,database data engineer,0.0020942408376963353,database data engineer,0.0020942408376963353
+3,955,senior aws big data engineer,0.0020942408376963353,senior aws big data engineer,0.0020942408376963353
+3,955,pharmaceutical customer data analyst,0.0020942408376963353,pharmaceutical customer data analyst,0.0020942408376963353
+3,955,research data analyst,0.0020942408376963353,research data analyst,0.0020942408376963353
+3,955,data analyst healthcare,0.0020942408376963353,data analyst healthcare,0.0020942408376963353
+3,955,senior big data etl engineer,0.0020942408376963353,senior big data etl engineer,0.0020942408376963353
+3,955,data engineer data analyst,0.0020942408376963353,data engineer data analyst,0.0020942408376963353
+3,955,clinical data scientist,0.0020942408376963353,clinical data scientist,0.0020942408376963353
+3,955,data engineer ii,0.0020942408376963353,data engineer ii,0.0020942408376963353
+3,955,ssrs data analyst,0.0010471204188481676,ssrs data analyst,0.0010471204188481676
+3,955,big data quality analyst hadoop testing analyst hadoop tester,0.0010471204188481676,big data quality analyst hadoop testing analyst hadoop tester,0.0010471204188481676
+3,955,system analyst data integration,0.0010471204188481676,system analyst data integration,0.0010471204188481676
+3,955,data integrity analyst,0.0010471204188481676,data integrity analyst,0.0010471204188481676
+3,955,data analyst bi engineer,0.0010471204188481676,data analyst bi engineer,0.0010471204188481676
+3,955,big data solution architect consultant,0.0010471204188481676,big data solution architect consultant,0.0010471204188481676
+3,955,sql data analyst,0.0010471204188481676,sql data analyst,0.0010471204188481676
+3,955,sql data analyst etl developer,0.0010471204188481676,sql data analyst etl developer,0.0010471204188481676
+3,955,system analyst data integration and etl process,0.0010471204188481676,system analyst data integration and etl process,0.0010471204188481676
+3,955,data engineer infrastructure analytics,0.0010471204188481676,data engineer infrastructure analytics,0.0010471204188481676
+3,955,data analyst ba,0.0010471204188481676,data analyst ba,0.0010471204188481676
+3,955,machine learning scientist,0.0010471204188481676,machine learning scientist,0.0010471204188481676
+3,955,quantitative research developer,0.0010471204188481676,quantitative research developer,0.0010471204188481676
+3,955,reporting data architect,0.0010471204188481676,reporting data architect,0.0010471204188481676
+3,955,data management analyst internal medicine infectious,0.0010471204188481676,data management analyst internal medicine infectious,0.0010471204188481676
+3,955,etl qa data analyst,0.0010471204188481676,etl qa data analyst,0.0010471204188481676
+3,955,python spark developer data engineer,0.0010471204188481676,python spark developer data engineer,0.0010471204188481676
+3,955,market data reporting analyst,0.0010471204188481676,market data reporting analyst,0.0010471204188481676
+3,955,market data analyst remote,0.0010471204188481676,market data analyst remote,0.0010471204188481676
+3,955,gedi and lvis data analyst,0.0010471204188481676,gedi and lvis data analyst,0.0010471204188481676
+3,955,data analyst excel sql query work contract to hire,0.0010471204188481676,data analyst excel sql query work contract to hire,0.0010471204188481676
+3,955,cyber security senior data scientist,0.0010471204188481676,cyber security senior data scientist,0.0010471204188481676
+3,955,gcp data engineer dataproc big table,0.0010471204188481676,gcp data engineer dataproc big table,0.0010471204188481676
+3,955,data analyst etl tool and edw,0.0010471204188481676,data analyst etl tool and edw,0.0010471204188481676
+3,955,business analyst alip experience is must,0.0010471204188481676,business analyst alip experience is must,0.0010471204188481676
+3,955,system engineer,0.0010471204188481676,system engineer,0.0010471204188481676
+3,955,system data analyst pennington nj,0.0010471204188481676,system data analyst pennington nj,0.0010471204188481676
+3,955,data mining engineer,0.0010471204188481676,data mining engineer,0.0010471204188481676
+4,426,data analyst,0.15492957746478894,data analyst,0.15492957746478894
+4,426,data engineer,0.14084507042253538,data engineer,0.14084507042253538
+4,426,senior data analyst,0.03990610328638497,senior data analyst,0.03990610328638497
+4,426,data scientist,0.023474178403755864,data scientist,0.023474178403755864
+4,426,data governance analyst,0.021126760563380278,data governance analyst,0.021126760563380278
+4,426,senior data engineer,0.018779342723004692,senior data engineer,0.018779342723004692
+4,426,business data analyst,0.016431924882629106,business data analyst,0.016431924882629106
+4,426,big data engineer,0.01408450704225352,big data engineer,0.01408450704225352
+4,426,business analyst,0.01408450704225352,business analyst,0.01408450704225352
+4,426,data modeler,0.011737089201877934,data modeler,0.011737089201877934
+4,426,data quality analyst,0.009389671361502348,data quality analyst,0.009389671361502348
+4,426,sap data analyst,0.009389671361502348,sap data analyst,0.009389671361502348
+4,426,cloud data engineer,0.009389671361502348,cloud data engineer,0.009389671361502348
+4,426,data management analyst,0.007042253521126761,data management analyst,0.007042253521126761
+4,426,senior data analyst guidewire data hub,0.007042253521126761,senior data analyst guidewire data hub,0.007042253521126761
+4,426,technical business analyst,0.007042253521126761,technical business analyst,0.007042253521126761
+4,426,azure data engineer,0.007042253521126761,azure data engineer,0.007042253521126761
+4,426,lead data engineer,0.007042253521126761,lead data engineer,0.007042253521126761
+4,426,marketing data analyst,0.004694835680751174,marketing data analyst,0.004694835680751174
+4,426,analytical consultant,0.004694835680751174,analytical consultant,0.004694835680751174
+4,426,data analyst engineer,0.004694835680751174,data analyst engineer,0.004694835680751174
+4,426,data architect engineer,0.004694835680751174,data architect engineer,0.004694835680751174
+4,426,technical business or data analyst,0.004694835680751174,technical business or data analyst,0.004694835680751174
+4,426,data analyst data service,0.004694835680751174,data analyst data service,0.004694835680751174
+4,426,technical business analyst or data analyst,0.004694835680751174,technical business analyst or data analyst,0.004694835680751174
+4,426,data center migration pmo analyst pmo lead,0.004694835680751174,data center migration pmo analyst pmo lead,0.004694835680751174
+4,426,business intelligence engineer,0.004694835680751174,business intelligence engineer,0.004694835680751174
+4,426,data engineer ii,0.004694835680751174,data engineer ii,0.004694835680751174
+4,426,data engineer iii,0.004694835680751174,data engineer iii,0.004694835680751174
+4,426,data reporting analyst,0.004694835680751174,data reporting analyst,0.004694835680751174
+4,426,data engineer only local to los angeles ca only,0.004694835680751174,data engineer only local to los angeles ca only,0.004694835680751174
+4,426,bi data analyst,0.004694835680751174,bi data analyst,0.004694835680751174
+4,426,data warehousing engineer,0.004694835680751174,data warehousing engineer,0.004694835680751174
+4,426,machine learning data engineer,0.004694835680751174,machine learning data engineer,0.004694835680751174
+4,426,data analyst ii,0.004694835680751174,data analyst ii,0.004694835680751174
+4,426,senior enterprise data management analyst,0.004694835680751174,senior enterprise data management analyst,0.004694835680751174
+4,426,data integrity analyst healthcare,0.004694835680751174,data integrity analyst healthcare,0.004694835680751174
+4,426,senior data analyst local candidate only,0.004694835680751174,senior data analyst local candidate only,0.004694835680751174
+4,426,senior data scientist,0.004694835680751174,senior data scientist,0.004694835680751174
+4,426,data scientist machine learning software engineer,0.004694835680751174,data scientist machine learning software engineer,0.004694835680751174
+4,426,it data engineer data catalog,0.004694835680751174,it data engineer data catalog,0.004694835680751174
+4,426,big data engineer w azure,0.004694835680751174,big data engineer w azure,0.004694835680751174
+4,426,data analyst needed asap,0.004694835680751174,data analyst needed asap,0.004694835680751174
+4,426,sap master data analyst,0.004694835680751174,sap master data analyst,0.004694835680751174
+4,426,data analyst entry level,0.002347417840375587,data analyst entry level,0.002347417840375587
+4,426,global process data analyst,0.002347417840375587,global process data analyst,0.002347417840375587
+4,426,data engineer talent pool,0.002347417840375587,data engineer talent pool,0.002347417840375587
+4,426,data scientist data engineer,0.002347417840375587,data scientist data engineer,0.002347417840375587
+4,426,bi engineer data management data modelling,0.002347417840375587,bi engineer data management data modelling,0.002347417840375587
+4,426,bi engineer,0.002347417840375587,bi engineer,0.002347417840375587
+4,426,data quality assurance analyst sql python san antonio tx,0.002347417840375587,data quality assurance analyst sql python san antonio tx,0.002347417840375587
+4,426,bi developer data analyst,0.002347417840375587,bi developer data analyst,0.002347417840375587
+4,426,data architect data analyst,0.002347417840375587,data architect data analyst,0.002347417840375587
+4,426,bi data analyst tibco spotfire,0.002347417840375587,bi data analyst tibco spotfire,0.002347417840375587
+4,426,senior data analyst data architect,0.002347417840375587,senior data analyst data architect,0.002347417840375587
+4,426,senior cloud data engineer,0.002347417840375587,senior cloud data engineer,0.002347417840375587
+4,426,technical data analyst accounting,0.002347417840375587,technical data analyst accounting,0.002347417840375587
+4,426,data quality business analyst,0.002347417840375587,data quality business analyst,0.002347417840375587
+4,426,bi data analyst configuration lead,0.002347417840375587,bi data analyst configuration lead,0.002347417840375587
+4,426,technical business data analyst accounting,0.002347417840375587,technical business data analyst accounting,0.002347417840375587
+4,426,data business analyst,0.002347417840375587,data business analyst,0.002347417840375587
+4,426,geoscience data analyst,0.002347417840375587,geoscience data analyst,0.002347417840375587
+4,426,data engineer sql,0.002347417840375587,data engineer sql,0.002347417840375587
+4,426,data analyst data scientist,0.002347417840375587,data analyst data scientist,0.002347417840375587
+4,426,data quality assurance analyst,0.002347417840375587,data quality assurance analyst,0.002347417840375587
+4,426,senior analyst data governance,0.002347417840375587,senior analyst data governance,0.002347417840375587
+4,426,data analyst mutual fund,0.002347417840375587,data analyst mutual fund,0.002347417840375587
+4,426,graduate data science for ocean of thing,0.002347417840375587,graduate data science for ocean of thing,0.002347417840375587
+4,426,data analyst healthcare must position,0.002347417840375587,data analyst healthcare must position,0.002347417840375587
+4,426,sap senior master data functional analyst,0.002347417840375587,sap senior master data functional analyst,0.002347417840375587
+4,426,data analytics manager,0.002347417840375587,data analytics manager,0.002347417840375587
+4,426,senior data and visualization analyst,0.002347417840375587,senior data and visualization analyst,0.002347417840375587
+4,426,health care data analyst,0.002347417840375587,health care data analyst,0.002347417840375587
+4,426,business analyst data quality management,0.002347417840375587,business analyst data quality management,0.002347417840375587
+4,426,jpsc big data consultant,0.002347417840375587,jpsc big data consultant,0.002347417840375587
+4,426,jpsc big data engineer healthcare python,0.002347417840375587,jpsc big data engineer healthcare python,0.002347417840375587
+4,426,temp senior data analyst,0.002347417840375587,temp senior data analyst,0.002347417840375587
+4,426,junior data analyst statistician,0.002347417840375587,junior data analyst statistician,0.002347417840375587
+4,426,staff business system analyst finance data domain,0.002347417840375587,staff business system analyst finance data domain,0.002347417840375587
+4,426,technology data engineer,0.002347417840375587,technology data engineer,0.002347417840375587
+4,426,jpsc data governance analyst,0.002347417840375587,jpsc data governance analyst,0.002347417840375587
+4,426,guidewire data analyst,0.002347417840375587,guidewire data analyst,0.002347417840375587
+4,426,data analyst power bi developer,0.002347417840375587,data analyst power bi developer,0.002347417840375587
+4,426,staff data engineer,0.002347417840375587,staff data engineer,0.002347417840375587
+4,426,greenplum big data engineer architect,0.002347417840375587,greenplum big data engineer architect,0.002347417840375587
+4,426,jpsc java hadoop developer or big data engineer,0.002347417840375587,jpsc java hadoop developer or big data engineer,0.002347417840375587
+4,426,senior consultant data engineer,0.002347417840375587,senior consultant data engineer,0.002347417840375587
+4,426,senior consultant data analyst,0.002347417840375587,senior consultant data analyst,0.002347417840375587
+4,426,big data engineer architect,0.002347417840375587,big data engineer architect,0.002347417840375587
+4,426,senior data governance analyst,0.002347417840375587,senior data governance analyst,0.002347417840375587
+4,426,data quality senior risk analyst,0.002347417840375587,data quality senior risk analyst,0.002347417840375587
+4,426,data analyst python sql hadoop only,0.002347417840375587,data analyst python sql hadoop only,0.002347417840375587
+4,426,data engineer houston tx,0.002347417840375587,data engineer houston tx,0.002347417840375587
+4,426,data engineer apple medium product,0.002347417840375587,data engineer apple medium product,0.002347417840375587
+4,426,senior business analyst,0.002347417840375587,senior business analyst,0.002347417840375587
+4,426,remote senior data scientist,0.002347417840375587,remote senior data scientist,0.002347417840375587
+4,426,data engineer aws etl python san diego ca remote for now,0.002347417840375587,data engineer aws etl python san diego ca remote for now,0.002347417840375587
+4,426,rapid response kinaxis business analyst,0.002347417840375587,rapid response kinaxis business analyst,0.002347417840375587
+4,426,first data hire for iot startup manager level data scientist engineer,0.002347417840375587,first data hire for iot startup manager level data scientist engineer,0.002347417840375587
+4,426,data science engineer,0.002347417840375587,data science engineer,0.002347417840375587
+5,1365,data analyst,0.1113553113553111,data analyst,0.1113553113553111
+5,1365,data engineer,0.06373626373626365,data engineer,0.06373626373626365
+5,1365,data scientist,0.03882783882783883,data scientist,0.03882783882783883
+5,1365,senior data analyst,0.030036630036630062,senior data analyst,0.030036630036630062
+5,1365,business analyst,0.019780219780219793,business analyst,0.019780219780219793
+5,1365,senior data engineer,0.01904761904761906,senior data engineer,0.01904761904761906
+5,1365,big data engineer,0.013919413919413925,big data engineer,0.013919413919413925
+5,1365,senior data scientist,0.010256410256410258,senior data scientist,0.010256410256410258
+5,1365,business system analyst,0.008058608058608058,business system analyst,0.008058608058608058
+5,1365,machine learning engineer,0.006593406593406593,machine learning engineer,0.006593406593406593
+5,1365,data analyst data analytics manager,0.006593406593406593,data analyst data analytics manager,0.006593406593406593
+5,1365,software engineer,0.006593406593406593,software engineer,0.006593406593406593
+5,1365,data quality analyst,0.005860805860805861,data quality analyst,0.005860805860805861
+5,1365,healthcare data analyst,0.005860805860805861,healthcare data analyst,0.005860805860805861
+5,1365,data platform engineer,0.005128205128205128,data platform engineer,0.005128205128205128
+5,1365,ny healthcare data reporting analyst,0.004395604395604396,ny healthcare data reporting analyst,0.004395604395604396
+5,1365,lead data analyst,0.004395604395604396,lead data analyst,0.004395604395604396
+5,1365,senior business analyst,0.004395604395604396,senior business analyst,0.004395604395604396
+5,1365,senior big data engineer,0.004395604395604396,senior big data engineer,0.004395604395604396
+5,1365,data analyst senior,0.004395604395604396,data analyst senior,0.004395604395604396
+5,1365,business data analyst,0.004395604395604396,business data analyst,0.004395604395604396
+5,1365,data analyst i,0.003663003663003663,data analyst i,0.003663003663003663
+5,1365,cloud data engineer,0.003663003663003663,cloud data engineer,0.003663003663003663
+5,1365,data reporting analyst,0.003663003663003663,data reporting analyst,0.003663003663003663
+5,1365,data analytics engineer,0.003663003663003663,data analytics engineer,0.003663003663003663
+5,1365,tx healthcare data reporting analyst,0.003663003663003663,tx healthcare data reporting analyst,0.003663003663003663
+5,1365,research data analyst,0.003663003663003663,research data analyst,0.003663003663003663
+5,1365,sql data analyst,0.0029304029304029304,sql data analyst,0.0029304029304029304
+5,1365,data analyst iii,0.0029304029304029304,data analyst iii,0.0029304029304029304
+5,1365,data engineer iii,0.0029304029304029304,data engineer iii,0.0029304029304029304
+5,1365,performance data analyst,0.0029304029304029304,performance data analyst,0.0029304029304029304
+5,1365,data operation analyst,0.0029304029304029304,data operation analyst,0.0029304029304029304
+5,1365,staff big data engineer,0.0029304029304029304,staff big data engineer,0.0029304029304029304
+5,1365,junior data analyst,0.0029304029304029304,junior data analyst,0.0029304029304029304
+5,1365,data governance analyst,0.0029304029304029304,data governance analyst,0.0029304029304029304
+5,1365,financial data analyst,0.0029304029304029304,financial data analyst,0.0029304029304029304
+5,1365,data science analyst,0.0029304029304029304,data science analyst,0.0029304029304029304
+5,1365,data business intelligence analyst,0.0029304029304029304,data business intelligence analyst,0.0029304029304029304
+5,1365,senior business data analyst,0.0029304029304029304,senior business data analyst,0.0029304029304029304
+5,1365,senior credit risk business analyst,0.002197802197802198,senior credit risk business analyst,0.002197802197802198
+5,1365,data analyst remote,0.002197802197802198,data analyst remote,0.002197802197802198
+5,1365,senior data quality analyst,0.002197802197802198,senior data quality analyst,0.002197802197802198
+5,1365,senior data management analyst,0.002197802197802198,senior data management analyst,0.002197802197802198
+5,1365,healthcare data analytics analyst senior,0.002197802197802198,healthcare data analytics analyst senior,0.002197802197802198
+5,1365,business data analyst senior director,0.002197802197802198,business data analyst senior director,0.002197802197802198
+5,1365,healthcare data reporting analyst,0.002197802197802198,healthcare data reporting analyst,0.002197802197802198
+5,1365,data science architect,0.002197802197802198,data science architect,0.002197802197802198
+5,1365,computer scientist,0.002197802197802198,computer scientist,0.002197802197802198
+5,1365,data service health analyst,0.002197802197802198,data service health analyst,0.002197802197802198
+5,1365,business intelligence analyst,0.002197802197802198,business intelligence analyst,0.002197802197802198
+5,1365,business intelligence analyst i,0.002197802197802198,business intelligence analyst i,0.002197802197802198
+5,1365,senior business data analyst prn,0.002197802197802198,senior business data analyst prn,0.002197802197802198
+5,1365,business intelligence analyst senior,0.002197802197802198,business intelligence analyst senior,0.002197802197802198
+5,1365,data analyst intern,0.002197802197802198,data analyst intern,0.002197802197802198
+5,1365,azure data engineer,0.002197802197802198,azure data engineer,0.002197802197802198
+5,1365,data warehouse analyst,0.002197802197802198,data warehouse analyst,0.002197802197802198
+5,1365,clinical data management technical analyst,0.002197802197802198,clinical data management technical analyst,0.002197802197802198
+5,1365,clinical data analyst,0.002197802197802198,clinical data analyst,0.002197802197802198
+5,1365,data modeler,0.002197802197802198,data modeler,0.002197802197802198
+5,1365,data analyst ii,0.002197802197802198,data analyst ii,0.002197802197802198
+5,1365,senior global data analyst power bi dashboard developer,0.002197802197802198,senior global data analyst power bi dashboard developer,0.002197802197802198
+5,1365,data science engineer,0.002197802197802198,data science engineer,0.002197802197802198
+5,1365,senior data analyst tax technology,0.002197802197802198,senior data analyst tax technology,0.002197802197802198
+5,1365,data migration analyst,0.002197802197802198,data migration analyst,0.002197802197802198
+5,1365,system analyst,0.002197802197802198,system analyst,0.002197802197802198
+5,1365,financial data analyst data mining analytics reporting,0.002197802197802198,financial data analyst data mining analytics reporting,0.002197802197802198
+5,1365,business analyst ii,0.002197802197802198,business analyst ii,0.002197802197802198
+5,1365,principal data scientist,0.0014652014652014652,principal data scientist,0.0014652014652014652
+5,1365,diagnostic research scientist,0.0014652014652014652,diagnostic research scientist,0.0014652014652014652
+5,1365,risk reporting data analytics analyst,0.0014652014652014652,risk reporting data analytics analyst,0.0014652014652014652
+5,1365,data quality technical senior analyst,0.0014652014652014652,data quality technical senior analyst,0.0014652014652014652
+5,1365,bi data analyst,0.0014652014652014652,bi data analyst,0.0014652014652014652
+5,1365,senior business intelligence data analyst,0.0014652014652014652,senior business intelligence data analyst,0.0014652014652014652
+5,1365,data analyst data management,0.0014652014652014652,data analyst data management,0.0014652014652014652
+5,1365,sap data analyst,0.0014652014652014652,sap data analyst,0.0014652014652014652
+5,1365,data analyst developer,0.0014652014652014652,data analyst developer,0.0014652014652014652
+5,1365,data quality analyst product content specialist,0.0014652014652014652,data quality analyst product content specialist,0.0014652014652014652
+5,1365,data analyst driver messenger,0.0014652014652014652,data analyst driver messenger,0.0014652014652014652
+5,1365,portfolio data analyst,0.0014652014652014652,portfolio data analyst,0.0014652014652014652
+5,1365,dod data analyst financial management senior consultant,0.0014652014652014652,dod data analyst financial management senior consultant,0.0014652014652014652
+5,1365,technology analyst u,0.0014652014652014652,technology analyst u,0.0014652014652014652
+5,1365,business strategy analyst lead,0.0014652014652014652,business strategy analyst lead,0.0014652014652014652
+5,1365,data platform engineer iii,0.0014652014652014652,data platform engineer iii,0.0014652014652014652
+5,1365,business analyst iv,0.0014652014652014652,business analyst iv,0.0014652014652014652
+5,1365,data engineer dallas method mastery,0.0014652014652014652,data engineer dallas method mastery,0.0014652014652014652
+5,1365,ediscovery data analyst,0.0014652014652014652,ediscovery data analyst,0.0014652014652014652
+5,1365,senior bi data analyst developer,0.0014652014652014652,senior bi data analyst developer,0.0014652014652014652
+5,1365,data manager bioinformatics analyst,0.0014652014652014652,data manager bioinformatics analyst,0.0014652014652014652
+5,1365,big data engineer tech lead,0.0014652014652014652,big data engineer tech lead,0.0014652014652014652
+5,1365,electronics engineering scientist,0.0014652014652014652,electronics engineering scientist,0.0014652014652014652
+5,1365,data analyst iv,0.0014652014652014652,data analyst iv,0.0014652014652014652
+5,1365,ending the hiv epidemic data analyst,0.0014652014652014652,ending the hiv epidemic data analyst,0.0014652014652014652
+5,1365,data lineage analyst,0.0014652014652014652,data lineage analyst,0.0014652014652014652
+5,1365,labeling specialist,0.0014652014652014652,labeling specialist,0.0014652014652014652
+5,1365,senior clinical data analyst,0.0014652014652014652,senior clinical data analyst,0.0014652014652014652
+5,1365,actuarial data analyst,0.0014652014652014652,actuarial data analyst,0.0014652014652014652
+5,1365,senior cloud data engineer,0.0014652014652014652,senior cloud data engineer,0.0014652014652014652
+5,1365,data analyst cbi integris,0.0014652014652014652,data analyst cbi integris,0.0014652014652014652
+5,1365,data scientist predictive analysis visualization,0.0014652014652014652,data scientist predictive analysis visualization,0.0014652014652014652
+5,1365,sa data analyst,0.0014652014652014652,sa data analyst,0.0014652014652014652
+6,377,data analyst,0.10610079575596827,data analyst,0.10610079575596827
+6,377,business analyst,0.07957559681697617,business analyst,0.07957559681697617
+6,377,data engineer,0.03978779840848806,data engineer,0.03978779840848806
+6,377,data scientist,0.029177718832891244,data scientist,0.029177718832891244
+6,377,senior data analyst,0.02652519893899204,senior data analyst,0.02652519893899204
+6,377,junior business analyst,0.023872679045092837,junior business analyst,0.023872679045092837
+6,377,business system analyst,0.021220159151193633,business system analyst,0.021220159151193633
+6,377,senior data scientist,0.01856763925729443,senior data scientist,0.01856763925729443
+6,377,data reporting analyst,0.01856763925729443,data reporting analyst,0.01856763925729443
+6,377,senior business analyst,0.01326259946949602,senior business analyst,0.01326259946949602
+6,377,business analyst level,0.010610079575596816,business analyst level,0.010610079575596816
+6,377,senior data engineer,0.007957559681697613,senior data engineer,0.007957559681697613
+6,377,financial market data analyst,0.005305039787798408,financial market data analyst,0.005305039787798408
+6,377,data scientist customer success,0.005305039787798408,data scientist customer success,0.005305039787798408
+6,377,business data analyst,0.005305039787798408,business data analyst,0.005305039787798408
+6,377,lead data analyst,0.005305039787798408,lead data analyst,0.005305039787798408
+6,377,lead data scientist,0.005305039787798408,lead data scientist,0.005305039787798408
+6,377,integration engineer,0.005305039787798408,integration engineer,0.005305039787798408
+6,377,business analyst iv,0.005305039787798408,business analyst iv,0.005305039787798408
+6,377,senior financial data analyst,0.005305039787798408,senior financial data analyst,0.005305039787798408
+6,377,business analyst ii,0.005305039787798408,business analyst ii,0.005305039787798408
+6,377,bi data analyst,0.005305039787798408,bi data analyst,0.005305039787798408
+6,377,software business analyst pheonix,0.005305039787798408,software business analyst pheonix,0.005305039787798408
+6,377,big data analyst,0.005305039787798408,big data analyst,0.005305039787798408
+6,377,big data engineer,0.005305039787798408,big data engineer,0.005305039787798408
+6,377,data analyst it ii,0.005305039787798408,data analyst it ii,0.005305039787798408
+6,377,azure data engineer,0.005305039787798408,azure data engineer,0.005305039787798408
+6,377,business analyst iii,0.005305039787798408,business analyst iii,0.005305039787798408
+6,377,senior data analyst analytics marketing cpg,0.005305039787798408,senior data analyst analytics marketing cpg,0.005305039787798408
+6,377,data analyst remote,0.005305039787798408,data analyst remote,0.005305039787798408
+6,377,data scientist product analytics,0.005305039787798408,data scientist product analytics,0.005305039787798408
+6,377,data analyst pm,0.005305039787798408,data analyst pm,0.005305039787798408
+6,377,opsec open source research analyst,0.005305039787798408,opsec open source research analyst,0.005305039787798408
+6,377,full stack engineer,0.002652519893899204,full stack engineer,0.002652519893899204
+6,377,senior cisco security consulting engineer,0.002652519893899204,senior cisco security consulting engineer,0.002652519893899204
+6,377,gilbert data science tutor job,0.002652519893899204,gilbert data science tutor job,0.002652519893899204
+6,377,data engineer spark aws,0.002652519893899204,data engineer spark aws,0.002652519893899204
+6,377,data business solution analyst,0.002652519893899204,data business solution analyst,0.002652519893899204
+6,377,senior analyst software,0.002652519893899204,senior analyst software,0.002652519893899204
+6,377,stafford data science tutor job,0.002652519893899204,stafford data science tutor job,0.002652519893899204
+6,377,bellaire data science tutor job,0.002652519893899204,bellaire data science tutor job,0.002652519893899204
+6,377,quantitative researcher,0.002652519893899204,quantitative researcher,0.002652519893899204
+6,377,backend software engineer,0.002652519893899204,backend software engineer,0.002652519893899204
+6,377,strategic business analytics manager,0.002652519893899204,strategic business analytics manager,0.002652519893899204
+6,377,lead software engineer net devops,0.002652519893899204,lead software engineer net devops,0.002652519893899204
+6,377,leading systematic hedge fund software engineer,0.002652519893899204,leading systematic hedge fund software engineer,0.002652519893899204
+6,377,glendale data science tutor job,0.002652519893899204,glendale data science tutor job,0.002652519893899204
+6,377,library information science business consultant,0.002652519893899204,library information science business consultant,0.002652519893899204
+6,377,application data analyst,0.002652519893899204,application data analyst,0.002652519893899204
+6,377,live sport data analyst,0.002652519893899204,live sport data analyst,0.002652519893899204
+6,377,logistics analyst,0.002652519893899204,logistics analyst,0.002652519893899204
+6,377,big data engineer initial remote work,0.002652519893899204,big data engineer initial remote work,0.002652519893899204
+6,377,look ml data analyst,0.002652519893899204,look ml data analyst,0.002652519893899204
+6,377,data governance analyst,0.002652519893899204,data governance analyst,0.002652519893899204
+6,377,application architect v data analyst,0.002652519893899204,application architect v data analyst,0.002652519893899204
+6,377,technical support analyst,0.002652519893899204,technical support analyst,0.002652519893899204
+6,377,qa automaion data science,0.002652519893899204,qa automaion data science,0.002652519893899204
+6,377,data and user acceptance testing analyst,0.002652519893899204,data and user acceptance testing analyst,0.002652519893899204
+6,377,sql data analyst,0.002652519893899204,sql data analyst,0.002652519893899204
+6,377,senior net software engineer,0.002652519893899204,senior net software engineer,0.002652519893899204
+6,377,spring data science tutor job,0.002652519893899204,spring data science tutor job,0.002652519893899204
+6,377,application programmer v database developer data analyst,0.002652519893899204,application programmer v database developer data analyst,0.002652519893899204
+6,377,filing product analyst,0.002652519893899204,filing product analyst,0.002652519893899204
+6,377,application programmer v senior data analyst,0.002652519893899204,application programmer v senior data analyst,0.002652519893899204
+6,377,quantitative researcher portfolio modeling,0.002652519893899204,quantitative researcher portfolio modeling,0.002652519893899204
+6,377,data coordinator analyst,0.002652519893899204,data coordinator analyst,0.002652519893899204
+6,377,full time client data validator and medical cost analyst arcadia ca,0.002652519893899204,full time client data validator and medical cost analyst arcadia ca,0.002652519893899204
+6,377,data conversion analyst,0.002652519893899204,data conversion analyst,0.002652519893899204
+6,377,lab technician data analyst,0.002652519893899204,lab technician data analyst,0.002652519893899204
+6,377,senior business analyst business analyst,0.002652519893899204,senior business analyst business analyst,0.002652519893899204
+6,377,functional business analyst,0.002652519893899204,functional business analyst,0.002652519893899204
+6,377,data engineer begin remote,0.002652519893899204,data engineer begin remote,0.002652519893899204
+6,377,remote biopharma data analyst,0.002652519893899204,remote biopharma data analyst,0.002652519893899204
+6,377,data analyst candidate,0.002652519893899204,data analyst candidate,0.002652519893899204
+6,377,financial data exchange business analyst fdx dda api,0.002652519893899204,financial data exchange business analyst fdx dda api,0.002652519893899204
+6,377,supply system analyst,0.002652519893899204,supply system analyst,0.002652519893899204
+6,377,asset management analyst,0.002652519893899204,asset management analyst,0.002652519893899204
+6,377,austin data science tutor job,0.002652519893899204,austin data science tutor job,0.002652519893899204
+6,377,arlington data science tutor job,0.002652519893899204,arlington data science tutor job,0.002652519893899204
+6,377,data engineer for telehealth,0.002652519893899204,data engineer for telehealth,0.002652519893899204
+6,377,react native engineer,0.002652519893899204,react native engineer,0.002652519893899204
+6,377,sport betting data scientist,0.002652519893899204,sport betting data scientist,0.002652519893899204
+6,377,automotive ecommerce data analyst,0.002652519893899204,automotive ecommerce data analyst,0.002652519893899204
+6,377,automotive ecommerce data analyst remote,0.002652519893899204,automotive ecommerce data analyst remote,0.002652519893899204
+6,377,financial controller data analyst spreadsheet superstar,0.002652519893899204,financial controller data analyst spreadsheet superstar,0.002652519893899204
+6,377,supply chain analyst,0.002652519893899204,supply chain analyst,0.002652519893899204
+6,377,supplier data analyst,0.002652519893899204,supplier data analyst,0.002652519893899204
+6,377,junior data scientist engineering,0.002652519893899204,junior data scientist engineering,0.002652519893899204
+6,377,junior data scientist analytics,0.002652519893899204,junior data scientist analytics,0.002652519893899204
+6,377,sugar land data science tutor job,0.002652519893899204,sugar land data science tutor job,0.002652519893899204
+6,377,data engineer iot company,0.002652519893899204,data engineer iot company,0.002652519893899204
+6,377,genetic data analyst,0.002652519893899204,genetic data analyst,0.002652519893899204
+6,377,junior data analyst,0.002652519893899204,junior data analyst,0.002652519893899204
+6,377,data engineer kubernetes python,0.002652519893899204,data engineer kubernetes python,0.002652519893899204
+6,377,junior software data operation analyst opportunity mtv,0.002652519893899204,junior software data operation analyst opportunity mtv,0.002652519893899204
+6,377,financial data analyst,0.002652519893899204,financial data analyst,0.002652519893899204
+6,377,entry level data analyst,0.002652519893899204,entry level data analyst,0.002652519893899204
+6,377,data integrity analyst,0.002652519893899204,data integrity analyst,0.002652519893899204
+6,377,buyside data scientist research analyst,0.002652519893899204,buyside data scientist research analyst,0.002652519893899204
+6,377,data scientist gaming,0.002652519893899204,data scientist gaming,0.002652519893899204
+7,2693,business analyst,0.056442629038247205,business analyst,0.056442629038247205
+7,2693,data analyst,0.05384329743780161,data analyst,0.05384329743780161
+7,2693,data engineer,0.02822131451912363,data engineer,0.02822131451912363
+7,2693,business system analyst,0.016709988860007435,business system analyst,0.016709988860007435
+7,2693,data scientist,0.016338655774229494,data scientist,0.016338655774229494
+7,2693,senior data analyst,0.014853323431117723,senior data analyst,0.014853323431117723
+7,2693,software engineer,0.012625324916450062,software engineer,0.012625324916450062
+7,2693,senior business analyst,0.010768659487560344,senior business analyst,0.010768659487560344
+7,2693,senior data engineer,0.009654660230226514,senior data engineer,0.009654660230226514
+7,2693,senior data scientist,0.00928332714444857,senior data scientist,0.00928332714444857
+7,2693,machine learning engineer,0.0055699962866691405,machine learning engineer,0.0055699962866691405
+7,2693,business intelligence analyst,0.0044559970293353126,business intelligence analyst,0.0044559970293353126
+7,2693,entry level business analyst,0.0044559970293353126,entry level business analyst,0.0044559970293353126
+7,2693,junior business analyst,0.0044559970293353126,junior business analyst,0.0044559970293353126
+7,2693,it business analyst,0.00408466394355737,it business analyst,0.00408466394355737
+7,2693,management analyst,0.00408466394355737,management analyst,0.00408466394355737
+7,2693,financial analyst,0.00408466394355737,financial analyst,0.00408466394355737
+7,2693,urgent business analyst,0.0037133308577794273,urgent business analyst,0.0037133308577794273
+7,2693,technical business analyst,0.0037133308577794273,technical business analyst,0.0037133308577794273
+7,2693,business data analyst,0.0037133308577794273,business data analyst,0.0037133308577794273
+7,2693,lead data analyst,0.0033419977720014846,lead data analyst,0.0033419977720014846
+7,2693,big data engineer,0.0033419977720014846,big data engineer,0.0033419977720014846
+7,2693,research scientist,0.002970664686223542,research scientist,0.002970664686223542
+7,2693,junior data analyst,0.002970664686223542,junior data analyst,0.002970664686223542
+7,2693,financial data analyst,0.002970664686223542,financial data analyst,0.002970664686223542
+7,2693,system analyst,0.002970664686223542,system analyst,0.002970664686223542
+7,2693,senior software engineer,0.0025993316004455994,senior software engineer,0.0025993316004455994
+7,2693,principal data scientist,0.0025993316004455994,principal data scientist,0.0025993316004455994
+7,2693,data management analyst,0.0022279985146676567,data management analyst,0.0022279985146676567
+7,2693,data scientist nationwide opportunity,0.0022279985146676567,data scientist nationwide opportunity,0.0022279985146676567
+7,2693,project analyst,0.0022279985146676567,project analyst,0.0022279985146676567
+7,2693,clinical data analyst,0.0022279985146676567,clinical data analyst,0.0022279985146676567
+7,2693,full stack engineer,0.0022279985146676567,full stack engineer,0.0022279985146676567
+7,2693,cloud engineer,0.001856665428889714,cloud engineer,0.001856665428889714
+7,2693,business analyst iii,0.001856665428889714,business analyst iii,0.001856665428889714
+7,2693,technical data analyst,0.001856665428889714,technical data analyst,0.001856665428889714
+7,2693,data analyst ii,0.001856665428889714,data analyst ii,0.001856665428889714
+7,2693,budget analyst,0.001856665428889714,budget analyst,0.001856665428889714
+7,2693,salesforce business analyst,0.001856665428889714,salesforce business analyst,0.001856665428889714
+7,2693,lead data scientist,0.001856665428889714,lead data scientist,0.001856665428889714
+7,2693,data science analyst,0.001856665428889714,data science analyst,0.001856665428889714
+7,2693,data quality analyst,0.001856665428889714,data quality analyst,0.001856665428889714
+7,2693,data system analyst,0.0014853323431117712,data system analyst,0.0014853323431117712
+7,2693,senior decision scientist,0.0014853323431117712,senior decision scientist,0.0014853323431117712
+7,2693,sale operation analyst,0.0014853323431117712,sale operation analyst,0.0014853323431117712
+7,2693,medical lab scientist,0.0014853323431117712,medical lab scientist,0.0014853323431117712
+7,2693,business analyst i,0.0014853323431117712,business analyst i,0.0014853323431117712
+7,2693,analyst,0.0014853323431117712,analyst,0.0014853323431117712
+7,2693,federal data scientist,0.0014853323431117712,federal data scientist,0.0014853323431117712
+7,2693,data analyst product insight,0.0014853323431117712,data analyst product insight,0.0014853323431117712
+7,2693,senior data analyst studio finance engineering,0.0014853323431117712,senior data analyst studio finance engineering,0.0014853323431117712
+7,2693,data operation analyst,0.0014853323431117712,data operation analyst,0.0014853323431117712
+7,2693,data science resident galvanize data science immersive grad only,0.0014853323431117712,data science resident galvanize data science immersive grad only,0.0014853323431117712
+7,2693,senior product data analyst,0.0014853323431117712,senior product data analyst,0.0014853323431117712
+7,2693,data strategy analyst,0.0014853323431117712,data strategy analyst,0.0014853323431117712
+7,2693,data conversion analyst,0.0014853323431117712,data conversion analyst,0.0014853323431117712
+7,2693,product analyst,0.0014853323431117712,product analyst,0.0014853323431117712
+7,2693,logistics data analyst,0.0014853323431117712,logistics data analyst,0.0014853323431117712
+7,2693,certified tumor registrar data analyst ctr and experience required,0.0011139992573338284,certified tumor registrar data analyst ctr and experience required,0.0011139992573338284
+7,2693,cloud software engineer,0.0011139992573338284,cloud software engineer,0.0011139992573338284
+7,2693,business analyst level,0.0011139992573338284,business analyst level,0.0011139992573338284
+7,2693,scientist,0.0011139992573338284,scientist,0.0011139992573338284
+7,2693,senior data scientist nationwide opportunity,0.0011139992573338284,senior data scientist nationwide opportunity,0.0011139992573338284
+7,2693,data security analyst,0.0011139992573338284,data security analyst,0.0011139992573338284
+7,2693,product development scientist,0.0011139992573338284,product development scientist,0.0011139992573338284
+7,2693,devops engineer,0.0011139992573338284,devops engineer,0.0011139992573338284
+7,2693,business analyst senior,0.0011139992573338284,business analyst senior,0.0011139992573338284
+7,2693,master data analyst,0.0011139992573338284,master data analyst,0.0011139992573338284
+7,2693,workforce management analyst senior,0.0011139992573338284,workforce management analyst senior,0.0011139992573338284
+7,2693,supply chain analyst,0.0011139992573338284,supply chain analyst,0.0011139992573338284
+7,2693,data analyst security clearance,0.0011139992573338284,data analyst security clearance,0.0011139992573338284
+7,2693,business operation analyst,0.0011139992573338284,business operation analyst,0.0011139992573338284
+7,2693,financial business analyst,0.0011139992573338284,financial business analyst,0.0011139992573338284
+7,2693,quantitative analyst,0.0011139992573338284,quantitative analyst,0.0011139992573338284
+7,2693,associate business analyst,0.0011139992573338284,associate business analyst,0.0011139992573338284
+7,2693,business support analyst,0.0011139992573338284,business support analyst,0.0011139992573338284
+7,2693,business analyst entry level,0.0011139992573338284,business analyst entry level,0.0011139992573338284
+7,2693,data warehouse analyst ii,0.0011139992573338284,data warehouse analyst ii,0.0011139992573338284
+7,2693,data warehouse analyst,0.0011139992573338284,data warehouse analyst,0.0011139992573338284
+7,2693,data governance reporting analyst,0.0011139992573338284,data governance reporting analyst,0.0011139992573338284
+7,2693,system analyst data conversion,0.0011139992573338284,system analyst data conversion,0.0011139992573338284
+7,2693,operation research analyst,0.0011139992573338284,operation research analyst,0.0011139992573338284
+7,2693,senior analyst data quality,0.0011139992573338284,senior analyst data quality,0.0011139992573338284
+7,2693,senior data analytics analyst fraud prevention,0.0011139992573338284,senior data analytics analyst fraud prevention,0.0011139992573338284
+7,2693,data modeler,0.0011139992573338284,data modeler,0.0011139992573338284
+7,2693,business system analyst iii,0.0011139992573338284,business system analyst iii,0.0011139992573338284
+7,2693,hr data analyst ii,0.0011139992573338284,hr data analyst ii,0.0011139992573338284
+7,2693,associate player support data analyst,0.0011139992573338284,associate player support data analyst,0.0011139992573338284
+7,2693,business process analyst agile product owner cpq,0.0011139992573338284,business process analyst agile product owner cpq,0.0011139992573338284
+7,2693,business process analyst,0.0011139992573338284,business process analyst,0.0011139992573338284
+7,2693,quantitative researcher,0.0011139992573338284,quantitative researcher,0.0011139992573338284
+7,2693,help desk analyst,0.0011139992573338284,help desk analyst,0.0011139992573338284
+7,2693,business analyst ii,0.0011139992573338284,business analyst ii,0.0011139992573338284
+7,2693,healthcare data analyst,0.0011139992573338284,healthcare data analyst,0.0011139992573338284
+7,2693,ignite graduate development program application developer data scientist business analyst,0.0011139992573338284,ignite graduate development program application developer data scientist business analyst,0.0011139992573338284
+7,2693,business intelligence engineer,0.0011139992573338284,business intelligence engineer,0.0011139992573338284
+7,2693,sap business analyst,0.0011139992573338284,sap business analyst,0.0011139992573338284
+7,2693,senior marketing data analyst,0.0011139992573338284,senior marketing data analyst,0.0011139992573338284
+7,2693,data analyst i,0.0011139992573338284,data analyst i,0.0011139992573338284
+7,2693,data science manager,0.0011139992573338284,data science manager,0.0011139992573338284
+8,2590,data analyst,0.059073359073359165,data analyst,0.059073359073359165
+8,2590,business analyst,0.05173745173745179,business analyst,0.05173745173745179
+8,2590,business system analyst,0.01776061776061776,business system analyst,0.01776061776061776
+8,2590,senior data analyst,0.017374517374517374,senior data analyst,0.017374517374517374
+8,2590,data scientist,0.01698841698841699,data scientist,0.01698841698841699
+8,2590,senior business analyst,0.013899613899613906,senior business analyst,0.013899613899613906
+8,2590,data engineer,0.010038610038610042,data engineer,0.010038610038610042
+8,2590,software engineer,0.007722007722007724,software engineer,0.007722007722007724
+8,2590,business data analyst,0.006949806949806951,business data analyst,0.006949806949806951
+8,2590,senior data scientist,0.0061776061776061784,senior data scientist,0.0061776061776061784
+8,2590,senior business system analyst,0.0061776061776061784,senior business system analyst,0.0061776061776061784
+8,2590,financial analyst,0.004633204633204633,financial analyst,0.004633204633204633
+8,2590,business intelligence analyst,0.004633204633204633,business intelligence analyst,0.004633204633204633
+8,2590,entry level business analyst,0.004633204633204633,entry level business analyst,0.004633204633204633
+8,2590,business analyst entry level,0.004633204633204633,business analyst entry level,0.004633204633204633
+8,2590,senior data engineer,0.0038610038610038602,senior data engineer,0.0038610038610038602
+8,2590,project analyst,0.0038610038610038602,project analyst,0.0038610038610038602
+8,2590,it business analyst,0.0034749034749034743,it business analyst,0.0034749034749034743
+8,2590,marketing data analyst,0.0034749034749034743,marketing data analyst,0.0034749034749034743
+8,2590,machine learning engineer,0.0030888030888030884,machine learning engineer,0.0030888030888030884
+8,2590,marketing analyst,0.0030888030888030884,marketing analyst,0.0030888030888030884
+8,2590,technical business analyst,0.0030888030888030884,technical business analyst,0.0030888030888030884
+8,2590,business system analyst ii,0.0027027027027027024,business system analyst ii,0.0027027027027027024
+8,2590,data analyst ii,0.0027027027027027024,data analyst ii,0.0027027027027027024
+8,2590,product analyst,0.0027027027027027024,product analyst,0.0027027027027027024
+8,2590,scientist,0.0023166023166023165,scientist,0.0023166023166023165
+8,2590,system analyst,0.0023166023166023165,system analyst,0.0023166023166023165
+8,2590,reporting data analyst,0.0023166023166023165,reporting data analyst,0.0023166023166023165
+8,2590,pricing data analyst,0.0019305019305019305,pricing data analyst,0.0019305019305019305
+8,2590,business analyst iii,0.0019305019305019305,business analyst iii,0.0019305019305019305
+8,2590,data quality analyst,0.0019305019305019305,data quality analyst,0.0019305019305019305
+8,2590,management analyst,0.0019305019305019305,management analyst,0.0019305019305019305
+8,2590,clinical data analyst,0.0019305019305019305,clinical data analyst,0.0019305019305019305
+8,2590,financial data analyst,0.0019305019305019305,financial data analyst,0.0019305019305019305
+8,2590,analyst,0.0019305019305019305,analyst,0.0019305019305019305
+8,2590,data and reporting analyst,0.0015444015444015444,data and reporting analyst,0.0015444015444015444
+8,2590,principal business system analyst,0.0015444015444015444,principal business system analyst,0.0015444015444015444
+8,2590,sale engineer,0.0015444015444015444,sale engineer,0.0015444015444015444
+8,2590,qa analyst,0.0015444015444015444,qa analyst,0.0015444015444015444
+8,2590,business analyst fresher,0.0015444015444015444,business analyst fresher,0.0015444015444015444
+8,2590,senior business data analyst,0.0015444015444015444,senior business data analyst,0.0015444015444015444
+8,2590,it system analyst,0.0015444015444015444,it system analyst,0.0015444015444015444
+8,2590,data system analyst,0.0015444015444015444,data system analyst,0.0015444015444015444
+8,2590,bsa analyst,0.0015444015444015444,bsa analyst,0.0015444015444015444
+8,2590,data engineer senior specialist,0.0015444015444015444,data engineer senior specialist,0.0015444015444015444
+8,2590,quality data analyst,0.0015444015444015444,quality data analyst,0.0015444015444015444
+8,2590,system engineer,0.0015444015444015444,system engineer,0.0015444015444015444
+8,2590,senior business technology analyst big data,0.0015444015444015444,senior business technology analyst big data,0.0015444015444015444
+8,2590,business consultant remote,0.0015444015444015444,business consultant remote,0.0015444015444015444
+8,2590,business application infor analytics consultant,0.0015444015444015444,business application infor analytics consultant,0.0015444015444015444
+8,2590,senior hr data analyst,0.0015444015444015444,senior hr data analyst,0.0015444015444015444
+8,2590,senior software engineer,0.0015444015444015444,senior software engineer,0.0015444015444015444
+8,2590,program analyst i,0.0015444015444015444,program analyst i,0.0015444015444015444
+8,2590,quantum principal data scientist,0.0015444015444015444,quantum principal data scientist,0.0015444015444015444
+8,2590,junior business analyst,0.0015444015444015444,junior business analyst,0.0015444015444015444
+8,2590,control room analyst,0.0015444015444015444,control room analyst,0.0015444015444015444
+8,2590,data architect ii,0.0015444015444015444,data architect ii,0.0015444015444015444
+8,2590,data analyst military forecasting,0.0015444015444015444,data analyst military forecasting,0.0015444015444015444
+8,2590,senior financial data analyst,0.0015444015444015444,senior financial data analyst,0.0015444015444015444
+8,2590,con data mgt analyst,0.0011583011583011582,con data mgt analyst,0.0011583011583011582
+8,2590,mpi data integrity analyst,0.0011583011583011582,mpi data integrity analyst,0.0011583011583011582
+8,2590,application support analyst,0.0011583011583011582,application support analyst,0.0011583011583011582
+8,2590,business analyst i,0.0011583011583011582,business analyst i,0.0011583011583011582
+8,2590,financial business analyst,0.0011583011583011582,financial business analyst,0.0011583011583011582
+8,2590,mutual fund data analyst contract,0.0011583011583011582,mutual fund data analyst contract,0.0011583011583011582
+8,2590,senior machine learning engineer,0.0011583011583011582,senior machine learning engineer,0.0011583011583011582
+8,2590,financial data reporting analyst,0.0011583011583011582,financial data reporting analyst,0.0011583011583011582
+8,2590,lead data analyst,0.0011583011583011582,lead data analyst,0.0011583011583011582
+8,2590,business analyst iv,0.0011583011583011582,business analyst iv,0.0011583011583011582
+8,2590,operation data analyst,0.0011583011583011582,operation data analyst,0.0011583011583011582
+8,2590,business operation analyst,0.0011583011583011582,business operation analyst,0.0011583011583011582
+8,2590,business process analyst,0.0011583011583011582,business process analyst,0.0011583011583011582
+8,2590,operation analyst,0.0011583011583011582,operation analyst,0.0011583011583011582
+8,2590,quantitative analyst,0.0011583011583011582,quantitative analyst,0.0011583011583011582
+8,2590,site reliability engineer,0.0011583011583011582,site reliability engineer,0.0011583011583011582
+8,2590,business system analyst i,0.0011583011583011582,business system analyst i,0.0011583011583011582
+8,2590,quality engineer,0.0011583011583011582,quality engineer,0.0011583011583011582
+8,2590,quantitative researcher,0.0011583011583011582,quantitative researcher,0.0011583011583011582
+8,2590,analytics manager,0.0011583011583011582,analytics manager,0.0011583011583011582
+8,2590,data engineer sql plsql hana,0.0011583011583011582,data engineer sql plsql hana,0.0011583011583011582
+8,2590,software development engineer,0.0011583011583011582,software development engineer,0.0011583011583011582
+8,2590,business analyst project manager,0.0011583011583011582,business analyst project manager,0.0011583011583011582
+8,2590,senior risk analyst,0.0011583011583011582,senior risk analyst,0.0011583011583011582
+8,2590,machine learning scientist,0.0011583011583011582,machine learning scientist,0.0011583011583011582
+8,2590,solution engineer,0.0011583011583011582,solution engineer,0.0011583011583011582
+8,2590,game data analyst,0.0011583011583011582,game data analyst,0.0011583011583011582
+8,2590,qa data analyst,0.0011583011583011582,qa data analyst,0.0011583011583011582
+8,2590,senior analyst data analytics,0.0011583011583011582,senior analyst data analytics,0.0011583011583011582
+8,2590,navision business analyst,0.0011583011583011582,navision business analyst,0.0011583011583011582
+8,2590,lead data scientist,0.0011583011583011582,lead data scientist,0.0011583011583011582
+8,2590,senior it business analyst,0.0011583011583011582,senior it business analyst,0.0011583011583011582
+8,2590,federal senior machine learning engineer,0.0011583011583011582,federal senior machine learning engineer,0.0011583011583011582
+8,2590,data business analyst,0.0011583011583011582,data business analyst,0.0011583011583011582
+8,2590,data analyst pim in orange at prospect medical system,0.0011583011583011582,data analyst pim in orange at prospect medical system,0.0011583011583011582
+8,2590,reporting and data analyst,0.0011583011583011582,reporting and data analyst,0.0011583011583011582
+8,2590,digital business analyst,0.0011583011583011582,digital business analyst,0.0011583011583011582
+8,2590,assistant vice president anti financial crime data quality analyst,0.0011583011583011582,assistant vice president anti financial crime data quality analyst,0.0011583011583011582
+8,2590,it business system analyst,0.0011583011583011582,it business system analyst,0.0011583011583011582
+8,2590,data analyst intern,0.0011583011583011582,data analyst intern,0.0011583011583011582
+8,2590,senior business technology analyst mdm data management,0.0011583011583011582,senior business technology analyst mdm data management,0.0011583011583011582
+9,1602,data analyst,0.1154806491885146,data analyst,0.1154806491885146
+9,1602,data engineer,0.056803995006242294,data engineer,0.056803995006242294
+9,1602,senior data analyst,0.03932584269662927,senior data analyst,0.03932584269662927
+9,1602,data scientist,0.033083645443196044,data scientist,0.033083645443196044
+9,1602,senior data engineer,0.026217228464419498,senior data engineer,0.026217228464419498
+9,1602,senior data scientist,0.019975031210986274,senior data scientist,0.019975031210986274
+9,1602,business analyst,0.014357053682896376,business analyst,0.014357053682896376
+9,1602,business data analyst,0.011860174781523094,business data analyst,0.011860174781523094
+9,1602,business intelligence analyst,0.010611735330836453,business intelligence analyst,0.010611735330836453
+9,1602,data analyst iii,0.0074906367041198485,data analyst iii,0.0074906367041198485
+9,1602,big data engineer,0.005617977528089887,big data engineer,0.005617977528089887
+9,1602,junior data analyst,0.004993757802746566,junior data analyst,0.004993757802746566
+9,1602,lead data analyst,0.004993757802746566,lead data analyst,0.004993757802746566
+9,1602,healthcare data analyst,0.004993757802746566,healthcare data analyst,0.004993757802746566
+9,1602,machine learning engineer,0.004369538077403245,machine learning engineer,0.004369538077403245
+9,1602,business system analyst,0.004369538077403245,business system analyst,0.004369538077403245
+9,1602,financial data analyst,0.004369538077403245,financial data analyst,0.004369538077403245
+9,1602,data governance analyst,0.004369538077403245,data governance analyst,0.004369538077403245
+9,1602,clinical data analyst,0.0037453183520599247,clinical data analyst,0.0037453183520599247
+9,1602,data quality analyst,0.0037453183520599247,data quality analyst,0.0037453183520599247
+9,1602,data reporting analyst,0.0037453183520599247,data reporting analyst,0.0037453183520599247
+9,1602,lead data engineer,0.003121098626716604,lead data engineer,0.003121098626716604
+9,1602,senior big data engineer,0.003121098626716604,senior big data engineer,0.003121098626716604
+9,1602,data engineer ii,0.0024968789013732834,data engineer ii,0.0024968789013732834
+9,1602,data analyst ii,0.0024968789013732834,data analyst ii,0.0024968789013732834
+9,1602,data science tagging analyst,0.0024968789013732834,data science tagging analyst,0.0024968789013732834
+9,1602,data analyst security clearance,0.0024968789013732834,data analyst security clearance,0.0024968789013732834
+9,1602,business analyst chief data office,0.0024968789013732834,business analyst chief data office,0.0024968789013732834
+9,1602,senior business analyst,0.0024968789013732834,senior business analyst,0.0024968789013732834
+9,1602,marketing data analyst,0.0024968789013732834,marketing data analyst,0.0024968789013732834
+9,1602,senior data quality analyst,0.0024968789013732834,senior data quality analyst,0.0024968789013732834
+9,1602,data integration analyst,0.0024968789013732834,data integration analyst,0.0024968789013732834
+9,1602,data quality senior analyst,0.0024968789013732834,data quality senior analyst,0.0024968789013732834
+9,1602,data analyst i,0.0024968789013732834,data analyst i,0.0024968789013732834
+9,1602,data analyst intern,0.0018726591760299626,data analyst intern,0.0018726591760299626
+9,1602,senior representative data management quantitative analyst,0.0018726591760299626,senior representative data management quantitative analyst,0.0018726591760299626
+9,1602,data analyst crm,0.0018726591760299626,data analyst crm,0.0018726591760299626
+9,1602,lead data scientist r d team,0.0018726591760299626,lead data scientist r d team,0.0018726591760299626
+9,1602,data analyst ii division of gastroenterology,0.0018726591760299626,data analyst ii division of gastroenterology,0.0018726591760299626
+9,1602,data analyst in orange at prospect medical system,0.0018726591760299626,data analyst in orange at prospect medical system,0.0018726591760299626
+9,1602,data engineering manager,0.0018726591760299626,data engineering manager,0.0018726591760299626
+9,1602,technical business analyst,0.0018726591760299626,technical business analyst,0.0018726591760299626
+9,1602,product data analyst,0.0018726591760299626,product data analyst,0.0018726591760299626
+9,1602,data warehouse analyst,0.0018726591760299626,data warehouse analyst,0.0018726591760299626
+9,1602,senior data and reporting analyst,0.0018726591760299626,senior data and reporting analyst,0.0018726591760299626
+9,1602,data management analyst,0.0018726591760299626,data management analyst,0.0018726591760299626
+9,1602,data engineer i,0.0018726591760299626,data engineer i,0.0018726591760299626
+9,1602,data analyst project manager,0.0018726591760299626,data analyst project manager,0.0018726591760299626
+9,1602,principal data engineer,0.0018726591760299626,principal data engineer,0.0018726591760299626
+9,1602,data analyst v,0.0018726591760299626,data analyst v,0.0018726591760299626
+9,1602,director business intelligence data engineering automation,0.0018726591760299626,director business intelligence data engineering automation,0.0018726591760299626
+9,1602,data collection analyst,0.0018726591760299626,data collection analyst,0.0018726591760299626
+9,1602,data scientist risk analyst,0.0018726591760299626,data scientist risk analyst,0.0018726591760299626
+9,1602,it data analyst,0.0018726591760299626,it data analyst,0.0018726591760299626
+9,1602,business intelligence data analyst,0.0018726591760299626,business intelligence data analyst,0.0018726591760299626
+9,1602,master data analyst,0.0018726591760299626,master data analyst,0.0018726591760299626
+9,1602,bi data analyst,0.0018726591760299626,bi data analyst,0.0018726591760299626
+9,1602,senior analyst big data engineer,0.0018726591760299626,senior analyst big data engineer,0.0018726591760299626
+9,1602,lead quality data analyst,0.0018726591760299626,lead quality data analyst,0.0018726591760299626
+9,1602,junior data analytics solution analyst,0.0018726591760299626,junior data analytics solution analyst,0.0018726591760299626
+9,1602,it business analyst,0.0018726591760299626,it business analyst,0.0018726591760299626
+9,1602,data analyst ii division of endocrinology,0.0012484394506866417,data analyst ii division of endocrinology,0.0012484394506866417
+9,1602,senior healthcare data analyst,0.0012484394506866417,senior healthcare data analyst,0.0012484394506866417
+9,1602,data analyst i geriatrics and palliative care,0.0012484394506866417,data analyst i geriatrics and palliative care,0.0012484394506866417
+9,1602,ediscovery data analyst,0.0012484394506866417,ediscovery data analyst,0.0012484394506866417
+9,1602,data analyst iii regulatory,0.0012484394506866417,data analyst iii regulatory,0.0012484394506866417
+9,1602,senior medical data analyst,0.0012484394506866417,senior medical data analyst,0.0012484394506866417
+9,1602,senior marketing data analyst,0.0012484394506866417,senior marketing data analyst,0.0012484394506866417
+9,1602,data analyst personalization,0.0012484394506866417,data analyst personalization,0.0012484394506866417
+9,1602,master data management business system analyst,0.0012484394506866417,master data management business system analyst,0.0012484394506866417
+9,1602,senior application data analyst tampa vp zzz,0.0012484394506866417,senior application data analyst tampa vp zzz,0.0012484394506866417
+9,1602,senior associate big data software engineer,0.0012484394506866417,senior associate big data software engineer,0.0012484394506866417
+9,1602,principal data scientist ensemble algorithm and architecture,0.0012484394506866417,principal data scientist ensemble algorithm and architecture,0.0012484394506866417
+9,1602,cbo data analyst,0.0012484394506866417,cbo data analyst,0.0012484394506866417
+9,1602,senior java visualization data engineer,0.0012484394506866417,senior java visualization data engineer,0.0012484394506866417
+9,1602,it analyst ii master data management,0.0012484394506866417,it analyst ii master data management,0.0012484394506866417
+9,1602,senior bi data warehouse engineer,0.0012484394506866417,senior bi data warehouse engineer,0.0012484394506866417
+9,1602,director of health data science,0.0012484394506866417,director of health data science,0.0012484394506866417
+9,1602,data analyst iv,0.0012484394506866417,data analyst iv,0.0012484394506866417
+9,1602,data analyst int,0.0012484394506866417,data analyst int,0.0012484394506866417
+9,1602,lead data scientist,0.0012484394506866417,lead data scientist,0.0012484394506866417
+9,1602,data science specialist,0.0012484394506866417,data science specialist,0.0012484394506866417
+9,1602,clinical data analyst ceri,0.0012484394506866417,clinical data analyst ceri,0.0012484394506866417
+9,1602,qm data analyst ii whittier full time day,0.0012484394506866417,qm data analyst ii whittier full time day,0.0012484394506866417
+9,1602,data scientist ai engineer,0.0012484394506866417,data scientist ai engineer,0.0012484394506866417
+9,1602,bi data analyst predictive analytics,0.0012484394506866417,bi data analyst predictive analytics,0.0012484394506866417
+9,1602,public health data visualization analyst,0.0012484394506866417,public health data visualization analyst,0.0012484394506866417
+9,1602,senior data analyst disney,0.0012484394506866417,senior data analyst disney,0.0012484394506866417
+9,1602,healthcare data analyst in orange at alta hospital system,0.0012484394506866417,healthcare data analyst in orange at alta hospital system,0.0012484394506866417
+9,1602,senior data analyst finance and operation,0.0012484394506866417,senior data analyst finance and operation,0.0012484394506866417
+9,1602,provider data management analyst,0.0012484394506866417,provider data management analyst,0.0012484394506866417
+9,1602,senior data analyst health economist,0.0012484394506866417,senior data analyst health economist,0.0012484394506866417
+9,1602,senior data machine learning scientist,0.0012484394506866417,senior data machine learning scientist,0.0012484394506866417
+9,1602,cybersecurity analyst data loss prevention,0.0012484394506866417,cybersecurity analyst data loss prevention,0.0012484394506866417
+9,1602,system data analyst,0.0012484394506866417,system data analyst,0.0012484394506866417
+9,1602,senior data governance analyst,0.0012484394506866417,senior data governance analyst,0.0012484394506866417
+9,1602,system and data analyst,0.0012484394506866417,system and data analyst,0.0012484394506866417
+9,1602,data system analyst,0.0012484394506866417,data system analyst,0.0012484394506866417
+9,1602,data scientist security clearance,0.0012484394506866417,data scientist security clearance,0.0012484394506866417
+9,1602,system analyst data integration and etl process,0.0012484394506866417,system analyst data integration and etl process,0.0012484394506866417
+10,3174,business analyst,0.05860113421550073,business analyst,0.05860113421550073
+10,3174,data analyst,0.05576559546313779,data analyst,0.05576559546313779
+10,3174,business system analyst,0.018588531821045987,business system analyst,0.018588531821045987
+10,3174,senior data analyst,0.012602394454946443,senior data analyst,0.012602394454946443
+10,3174,senior business analyst,0.01197227473219912,senior business analyst,0.01197227473219912
+10,3174,data engineer,0.01197227473219912,data engineer,0.01197227473219912
+10,3174,software engineer,0.01165721487082546,software engineer,0.01165721487082546
+10,3174,data scientist,0.010712035286704476,data scientist,0.010712035286704476
+10,3174,system analyst,0.0066162570888468825,system analyst,0.0066162570888468825
+10,3174,business intelligence analyst,0.005356017643352238,business intelligence analyst,0.005356017643352238
+10,3174,senior data scientist,0.005356017643352238,senior data scientist,0.005356017643352238
+10,3174,business process analyst,0.004725897920604916,business process analyst,0.004725897920604916
+10,3174,business analyst ii,0.004725897920604916,business analyst ii,0.004725897920604916
+10,3174,senior business system analyst,0.004410838059231255,senior business system analyst,0.004410838059231255
+10,3174,technical business analyst,0.003780718336483933,technical business analyst,0.003780718336483933
+10,3174,financial analyst,0.003780718336483933,financial analyst,0.003780718336483933
+10,3174,research scientist,0.003465658475110272,research scientist,0.003465658475110272
+10,3174,system engineer,0.003465658475110272,system engineer,0.003465658475110272
+10,3174,it business analyst,0.0031505986137366107,it business analyst,0.0031505986137366107
+10,3174,business data analyst,0.0031505986137366107,business data analyst,0.0031505986137366107
+10,3174,machine learning engineer,0.0031505986137366107,machine learning engineer,0.0031505986137366107
+10,3174,salesforce business analyst,0.0028355387523629496,salesforce business analyst,0.0028355387523629496
+10,3174,urgent business analyst,0.0028355387523629496,urgent business analyst,0.0028355387523629496
+10,3174,marketing data analyst,0.0028355387523629496,marketing data analyst,0.0028355387523629496
+10,3174,business analyst iii,0.0025204788909892885,business analyst iii,0.0025204788909892885
+10,3174,senior data engineer,0.0025204788909892885,senior data engineer,0.0025204788909892885
+10,3174,junior data analyst,0.0025204788909892885,junior data analyst,0.0025204788909892885
+10,3174,junior business analyst,0.0022054190296156274,junior business analyst,0.0022054190296156274
+10,3174,research data analyst,0.0022054190296156274,research data analyst,0.0022054190296156274
+10,3174,data analyst ii,0.0022054190296156274,data analyst ii,0.0022054190296156274
+10,3174,business system analyst iii,0.0018903591682419662,business system analyst iii,0.0018903591682419662
+10,3174,healthcare data analyst,0.0018903591682419662,healthcare data analyst,0.0018903591682419662
+10,3174,entry level business analyst,0.0018903591682419662,entry level business analyst,0.0018903591682419662
+10,3174,data analyst iii,0.0018903591682419662,data analyst iii,0.0018903591682419662
+10,3174,computer system analyst,0.0018903591682419662,computer system analyst,0.0018903591682419662
+10,3174,project analyst,0.0018903591682419662,project analyst,0.0018903591682419662
+10,3174,associate scientist,0.0015752993068683051,associate scientist,0.0015752993068683051
+10,3174,senior contract data analyst,0.0015752993068683051,senior contract data analyst,0.0015752993068683051
+10,3174,financial data analyst,0.0015752993068683051,financial data analyst,0.0015752993068683051
+10,3174,electrical engineer,0.0015752993068683051,electrical engineer,0.0015752993068683051
+10,3174,division data and financial analyst,0.0015752993068683051,division data and financial analyst,0.0015752993068683051
+10,3174,scientist iii,0.0015752993068683051,scientist iii,0.0015752993068683051
+10,3174,epidemiology data analyst,0.0015752993068683051,epidemiology data analyst,0.0015752993068683051
+10,3174,senior software engineer,0.0015752993068683051,senior software engineer,0.0015752993068683051
+10,3174,devops engineer,0.0015752993068683051,devops engineer,0.0015752993068683051
+10,3174,business system analyst i,0.0015752993068683051,business system analyst i,0.0015752993068683051
+10,3174,data governance analyst,0.0015752993068683051,data governance analyst,0.0015752993068683051
+10,3174,data management analyst,0.0015752993068683051,data management analyst,0.0015752993068683051
+10,3174,tactical data link analyst,0.0015752993068683051,tactical data link analyst,0.0015752993068683051
+10,3174,business analyst i,0.0015752993068683051,business analyst i,0.0015752993068683051
+10,3174,management analyst,0.0015752993068683051,management analyst,0.0015752993068683051
+10,3174,lead data scientist,0.0015752993068683051,lead data scientist,0.0015752993068683051
+10,3174,data reporting analyst,0.001260239445494644,data reporting analyst,0.001260239445494644
+10,3174,scientist i,0.001260239445494644,scientist i,0.001260239445494644
+10,3174,counterterrorism data exploitation analyst security clearance,0.001260239445494644,counterterrorism data exploitation analyst security clearance,0.001260239445494644
+10,3174,business operation analyst,0.001260239445494644,business operation analyst,0.001260239445494644
+10,3174,counterterrorism data exploitation analyst,0.001260239445494644,counterterrorism data exploitation analyst,0.001260239445494644
+10,3174,data science support analyst,0.001260239445494644,data science support analyst,0.001260239445494644
+10,3174,data science support analyst security clearance,0.001260239445494644,data science support analyst security clearance,0.001260239445494644
+10,3174,business analyst consultant,0.001260239445494644,business analyst consultant,0.001260239445494644
+10,3174,big data engineer,0.001260239445494644,big data engineer,0.001260239445494644
+10,3174,sale operation analyst,0.001260239445494644,sale operation analyst,0.001260239445494644
+10,3174,data warehouse analyst,0.001260239445494644,data warehouse analyst,0.001260239445494644
+10,3174,cloud engineer,0.001260239445494644,cloud engineer,0.001260239445494644
+10,3174,urgent business analyst level,0.001260239445494644,urgent business analyst level,0.001260239445494644
+10,3174,quantitative research analyst,0.001260239445494644,quantitative research analyst,0.001260239445494644
+10,3174,analyst data,0.001260239445494644,analyst data,0.001260239445494644
+10,3174,analyst customer data ops,0.001260239445494644,analyst customer data ops,0.001260239445494644
+10,3174,clinical data analyst,0.001260239445494644,clinical data analyst,0.001260239445494644
+10,3174,scientist,0.001260239445494644,scientist,0.001260239445494644
+10,3174,senior enterprise bi data analyst,0.001260239445494644,senior enterprise bi data analyst,0.001260239445494644
+10,3174,data quality analyst,0.001260239445494644,data quality analyst,0.001260239445494644
+10,3174,senior system engineer,0.001260239445494644,senior system engineer,0.001260239445494644
+10,3174,senior business intelligence analyst,0.001260239445494644,senior business intelligence analyst,0.001260239445494644
+10,3174,data analyst i,0.001260239445494644,data analyst i,0.001260239445494644
+10,3174,hpc system and data engineer,0.001260239445494644,hpc system and data engineer,0.001260239445494644
+10,3174,full stack software engineer,0.001260239445494644,full stack software engineer,0.001260239445494644
+10,3174,software development engineer,0.001260239445494644,software development engineer,0.001260239445494644
+10,3174,lead business analyst,0.000945179584120983,lead business analyst,0.000945179584120983
+10,3174,data analytics consultant,0.000945179584120983,data analytics consultant,0.000945179584120983
+10,3174,senior qa engineer,0.000945179584120983,senior qa engineer,0.000945179584120983
+10,3174,data visualization analyst,0.000945179584120983,data visualization analyst,0.000945179584120983
+10,3174,senior data analyst data warehouse consultant,0.000945179584120983,senior data analyst data warehouse consultant,0.000945179584120983
+10,3174,senior data analyst fhc family support center,0.000945179584120983,senior data analyst fhc family support center,0.000945179584120983
+10,3174,senior scientist,0.000945179584120983,senior scientist,0.000945179584120983
+10,3174,data analyst top secret w sci eligibility,0.000945179584120983,data analyst top secret w sci eligibility,0.000945179584120983
+10,3174,data analyst supporting the fbi,0.000945179584120983,data analyst supporting the fbi,0.000945179584120983
+10,3174,data analyst senior,0.000945179584120983,data analyst senior,0.000945179584120983
+10,3174,data analyst marketing,0.000945179584120983,data analyst marketing,0.000945179584120983
+10,3174,data warehouse analyst ii,0.000945179584120983,data warehouse analyst ii,0.000945179584120983
+10,3174,data analytics senior analyst,0.000945179584120983,data analytics senior analyst,0.000945179584120983
+10,3174,data engineer ii,0.000945179584120983,data engineer ii,0.000945179584120983
+10,3174,data science tagging analyst,0.000945179584120983,data science tagging analyst,0.000945179584120983
+10,3174,bi analyst,0.000945179584120983,bi analyst,0.000945179584120983
+10,3174,senior consulting data analyst,0.000945179584120983,senior consulting data analyst,0.000945179584120983
+10,3174,data analyst hedis star,0.000945179584120983,data analyst hedis star,0.000945179584120983
+10,3174,data center service analyst i ii iii or senior,0.000945179584120983,data center service analyst i ii iii or senior,0.000945179584120983
+10,3174,senior marketing data analyst,0.000945179584120983,senior marketing data analyst,0.000945179584120983
+10,3174,data science analyst engineer,0.000945179584120983,data science analyst engineer,0.000945179584120983
+10,3174,lead geophysical data analyst,0.000945179584120983,lead geophysical data analyst,0.000945179584120983

@@ -1,0 +1,330 @@
+Job Title,Company Name,Location,Salary Estimate,Rating,Job Description,Founded,Industry,Revenue,Sector,Size,Type,Easy Apply
+Storage and Data Protection Engineer,"Vision Information Technology Consultants, LLC","Honolulu, HI",$75K - $103K (Employer est.),-1.0,"Our client Pacific Air Force Cyberspace Systems Squadron (CSS) provides Cyber Operations Support to maintain Joint Base Pearl Harbor-Hickam (JBPHH) services. 15th Wing Cyber Operations Support are critical to achieving mission success and meeting vital demands and distribution of Commander Pacific Air Forces (COMPACAF) Air Tasking Orders (ATOs), overseeing 15th Wing, 647 Group, and Tenant Units connected to the Air Force Network (AFNET) Enterprise of Responsibility (EOR) from the 747 Cyberspace Squadron
+(CYS).
+
+Job Description: The Storage and Data Protection SME will have demonstrated experience in testing/developing virtualization in large, multi-national deployments to include the storage, network, server (applications and database) aspects and the software required to centrally manage this architecture.
+
+Education/Certification Requirements:
+
+Active Secret clearance
+Required to have certification such as Cisco CCIE Data Center, Cisco CCNP Data Center, or NetApp NCDA
+Possess Systems Experience managing, implementing, and configuring devices such as: NetApp E-Series, Avamar M1200/Virtual Edition, DataDomain DD9300/6300, SolidFire Storage, EMC VNX5600/5400/5200/5300/5100, Celerra NS-120/480 File Servers, Cisco UCS 5100 Series B/C Series Servers, Cisco UCS 6248/6296, Cisco MDS 9120/9140/9134/9148/9396s switches, Quantum ADIC i500/i2000 Tape Libraries, DataDomain DD600, HP Blade System C7000, HP BL460, EMC Symmetrix 8530, 8830, Connectrix (Brocade), CLARiiON CX-500/700, EMC RecoverPoint, Dell Servers and Work-stations, HP Servers and Workstations, IBM AS/400
+Possess Software Experience managing, implementing, and configuring technologies such as: SecureView 2.X, VMware vSphere 4.X/5.X/6.X Horizon View5.X/6.X/7.X, CTERA File Services Platform, NetApp Storage Grid, Ivanti Appsense, Avamar, Liquidware Labs Stratusphere UX/Profile Unity, Atlantis Compu-ting ILIO, Teradici PCoIP Management Console, Windows 95, 98, 2000, XP, Vista, 7/8/10, Server 2000/2003/2008/2012, Microsoft Active Directory 2000 and 2003, SMS 2.0, 2003, Exchange 5.5, 2003, 2008, Blackberry Enterprise Server 3.6, 4.1, Microsoft Office, EMC Legato Networker, Commvault Simpana 7/8/9/10, EMC Control Center, EMC Navisphere, EMC Unisphere, EMC Replication Manager/SE, Time Finder, and Cisco Device and Fabric Manager, Remedy Action Request System.
+
+Duties and Responsibilities:
+
+Manage and maintain a virtualized Multi-Tenant Data Center and various secure hybrid Cloud Computing solutions, virtualized storage, networks, and desktops in the Pacific Theater or other theater-wide DoD deployments to include server-accelerating RAM-based VDI data storage, with server RAM as the primary storage tier and virtualized server acceleration. Develop operational checklists as required.
+Manage virtual capabilities, to include the storage, network, server (applications and databases) aspects and the software required to centrally manage this architecture. Software may include VMWare vSphere, Citrix Xen, and Microsoft Hyper-V platforms and extends to desktop management and deployment of the VDI otherwise referred to Thin, Zero, Multi-Level, or Trusted Thin Clients.
+Manage networks, servers, and storage on SIPRNet to include configuration of said equipment to Air Force specifications. Experience should include leading a team in the seamless connection to a Virtual Desktop Environment.
+Build test and training plans for Airmen to manage, the complex backend virtual environment to include Cisco's Unified Computing Systems (UCS), EMC VNX storage area network, VMware vCenter, and VMware Horizon View
+Manage storage area networks (SAN) to include EMC or other brands, with the broad under-standing of other SAN leaders to include NetApp. Should possess the broad understanding of Hyper-Converged solutions such as Nutanix and EVO. Should possess a broad understanding of pure flash storage VDI-specific solutions such as Tintri and Nimble Storage.
+Provision virtual servers to support Unified Computing (i.e. virtual call managers) and Share-Point deployments to include the conversion from Physical-to-Virtual (P-to-V) on a virtualized data center platform.
+Build test and training plans to train Airmen to provision, Zero/Thin/Multi-level/Trusted Thin Clients to include experience in deploying this capability on existing infrastructure (category 5e cable and fiber).
+Manage virtual capabilities where bandwidth and access issues create unique challenges. This includes large areas and land masses that are disconnected and separated.
+Provide customer support and troubleshooting for virtual servers and VDI client hardware and software and coordinating with Government Network Control Centers and Higher Headquarters.
+Plan and coordinate virtualization configurations with enterprise technicians and network infrastructure configurations with the local base. Plans and coordinates servers chosen for physical to virtual at the base with base enterprise technicians and A3/6 personnel.
+Manage Teradici PCoIP technologies. The PCoIP compresses, encrypts and rapidly transports image pixels to PCoIP end-user devices. They in turn decrypt, decompress and display the image on a screen. Includes adding new devices, updating firmware, adding policies.
+Perform daily VDI Health Checks which includes the systematic and daily monitoring of the backend infrastructure and desktop performance. This includes demonstrated proficiency with Stratusphere or like technology. Stratusphere provides the visibility required to more effectively manage desktop performance and the user experience. Stratusphere provides the visibility necessary for machine boot and login process troubleshooting and optimization, health checks, platform validation, and more streamlined management functionality of the host environment. much, much more.
+Perform installation, configuration, and management of Atlantis iLio or like technology. iLio allows a datacenter to use Server RAM as primary storage as opposed to traditional storage solutions.
+Manage VMWare vRealize, which provides complete visibility in one place, across applications, storage and network devices, with an open and extensible platform supported by third-party management packs. This will help enable optimum performance and availability of applications and infrastructure.
+Perform first line trouble-shooting activities (if required) for installed environments in conjunction with remote enterprise technicians and local base technicians.
+Performs other related duties as assigned.
+
+Job Type: Full-time
+
+Pay: $75,000.00 - $103,000.00 per year
+
+Benefits:
+
+401(k)
+401(k) matching
+Dental insurance
+Employee assistance program
+Health insurance
+Life insurance
+Paid time off
+Professional development assistance
+Referral program
+Tuition reimbursement
+Vision insurance
+
+Experience level:
+
+5 years
+
+Schedule:
+
+Day shift
+
+Travel requirement:
+
+No travel
+
+Application Question(s):
+
+Experience managing, implementing, and configuring devices?
+
+Experience:
+
+Storage, Virtualization, NetApp, EMC, SecureView: 5 years (Required)
+
+Security clearance:
+
+Secret (Required)
+
+Work Location: In person",-1,-1,-1,-1,-1,-1,True
+Senior Data Engineer (Snowflake) - Contractor,"EY
+",United States,$90.00 - $130.00 Per Hour (Employer est.),3.9,"The primary responsibility for the Sr. Data Engineer / Tech Lead is to ensure data accessibility, quality, and reliability within the client's data platform ecosystem.
+
+RESPONSIBILITIES
+
+Design and develop end-to-end data pipelines and ETL processes using Snowflake, Denodo, DBT Cloud, Fivetran, and AWS Glue, ensuring seamless data integration, transformation, and loading.
+Collaborate with cross-functional teams to gather data requirements and implement scalable data models and schemas within Snowflake and Denodo, ensuring optimal performance and data consistency.
+Implement and maintain data orchestration workflows using Stonebranch, ensuring efficient and reliable scheduling and automation of data processes.
+Work with EnterpriseDataLake for ingestion and storage of data from various sources, ensuring the availability and accessibility of data for analytics and reporting purposes.
+Utilize Azure DevOps and Teraform to implement and manage infrastructure as code, ensuring streamlined deployment and scalability of data engineering solutions.
+Skills
+
+snowflake
+
+denodo
+
+dbt cloud
+
+fivetran
+
+Qualifications
+
+REQUIREMENTS
+
+Proficiency in Snowflake and Denodo: Strong understanding and hands-on experience in working with Snowflake and Denodo for data integration, transformation, and analysis.
+Knowledge of DBT Cloud: Familiarity with DBT Cloud, including experience in building and maintaining efficient data transformation workflows and deploying reliable data pipelines.
+Experience with Fivetran: Demonstrated experience in utilizing Fivetran for data ingestion, source connectivity, and ensuring data accuracy and completeness.
+Understanding of EnterpriseDataLake: Knowledge of EnterpriseDataLake principles and practices, including data ingestion, storage, and organization for analytics and reporting purposes.
+Familiarity with Stonebranch: Proficiency in using Stonebranch for data orchestration and scheduling, ensuring efficient and reliable execution of data pipelines and workflows.
+Proficiency in Azure DevOps and Teraform: Experience in leveraging Azure DevOps and Teraform for infrastructure as code, enabling streamlined deployment and scalability of data engineering solutions.
+
+The expected pay rate range for this contract assignment is $90 to $130 per hour. The exact pay rate will vary based on skills, experience, and location. The position is approximately 65-70% remote and 30-35% travel to the client as needed.
+
+#GigNowTechOpportunities
+
+GigNowOpportunities
+
+Equal Employment Opportunity Information
+EY provides equal opportunities to applicants, employees, contractors, vendors, and stakeholders without regard to race, color, religion, age, sex, sexual orientation, gender identity/expression, pregnancy, genetic information, national origin, protected veteran status, disability status, or any other legally protected basis, including arrest and conviction records, in accordance with applicable law. If you are an individual with a disability and either need assistance applying online or need to request an accommodation during any part of the application process, please email gignow.recruiting@ey.com.",-1,-1,Unknown / Non-Applicable,-1,Unknown,Unknown,False
+Enterprise Data & Analytics Engineer,"First Hawaiian Bank
+",Hawaii,-1,3.7,"We are currently seeking a collaborative, analytical Enterprise Data & Analytics Engineer to join our Data Product Delivery team. In this role, the individual is responsible for the development and maintenance of data ingestion, curation, and presentment of data within the Enterprise Data & Analytics Platform (EDAP) and its corresponding technology toolchain. This includes both the new technologies and capabilities as well as the transitioning legacy systems for data & analytics as appropriately identified in the FHB Enterprise Data & Analytics strategy and roadmap. This position applies advanced knowledge of Business Intelligence (BI), Data DevOps, and enterprise BI/Data system development in addition to: 1) technical/Business Data Modelling and Optimization; 2) leading data control for transactional management; 3) developing and supporting standard operating procedures; and 4) data pipeline development (Extract-Load-Transform and Extract-Transform-Load).
+
+The successful candidate will be hired for the level of the position that aligns with their experience.
+
+Work Schedule
+
+Monday-Friday 8:00am – 5:00pm (Hours may vary)
+
+The ideal candidate will have:
+
+Bachelor’s degree in computer science, information systems, data science, mathematics, or quantitative analysis.
+SnowPro Advance Certification (Snowflake)
+AWS Certified Data Analytics – Associate
+4+ years of relevant work experience, which includes a minimum of 3 years in business intelligence, platform administration/reporting, or data engineering roles with increasing responsibilities and data & analytics tool capabilities.
+1+ years of work experience in the financial and banking industry or related experience.
+SAP Certified Application Associate - SAP BusinessObjects Web Intelligence 4.2
+Tableau Desktop Specialist or equivalent
+ThoughtSpot Professional or equivalent
+Technical experience utilizing Snowflake, Amazon Web Services, FiveTran, DBT, Tableau, SAP Business Objects, Atacamma, Dagster, and ThoughtSpot or equivalent technologies preferred but not required.
+Hands on intermediate experience in coding with Python, R and SQL.
+Hands on intermediate experience with GitLab, Jira, FiveTran, and DBT capabilities for data developers.
+Demonstrated knowledge of the use of Agile in a data product development environment. This includes practicing Behavior Based Development for testing data products.
+
+Working knowledge of database constructs, report writing/visualization, and spreadsheet applications.
+Strong verbal, interpersonal and written communication skills essential to communicate with all levels of management and influencing skills to articulate, motivate and engage internal and external stakeholders.
+Ability to deliver presentations in front and a large group when necessary.
+Self-motivated, organized to handle multiple tasks simultaneously, ability to work independently with high level general supervision.
+Ability to multi-task effectively and manage multiple competing deadlines with a professional demeanor.
+Ability to apply effective critical thinking skills towards complex problems and offer logical solutions.
+Strong attention to detail with high levels of accuracy.
+Ability to build trust and handle confidential matters judiciously.
+Effective collaborator with the ability to use judgment and discretion and make decisions when required, with the ability to work across multiple departments, divisions, and groups.",1858,Banking & Lending,$500 million to $1 billion (USD),Financial Services,1001 to 5000 Employees,Company - Public,False
+"Lead Data Engineer, AI","Recruiting From Scratch
+","Honolulu, HI",$160K - $280K (Employer est.),4.0,"This is for a client of Recruiting from Scratch.
+Who is Recruiting from Scratch:
+Recruiting from Scratch is a premier talent firm that focuses on placing the best product managers, software, and hardware talent at innovative companies. Our team is 100% remote and we work with teams across the United States to help them hire. We work with companies funded by the best investors including Sequoia Capital, Lightspeed Ventures, Tiger Global Management, A16Z, Accel, DFJ, and more.
+Our Client:
+
+This is a hybrid role based in our Palo Alto or San Francisco offices and will require you to be in office Tuesdays and Thursdays.
+
+What’s the job?
+
+Our client is looking for an exceptional data engineer who is passionate about data for AI. This candidate loves working with data ops at scale; and who is committed to the hard work necessary to continuously improve our ML data pipelines.
+
+In this position, you will be responsible for establishing and executing the strategy for our organization’s ML Data Engine, with an initial focus on agile ML Data OPs. This includes identification of infrastructure components and data stack to be used, design and implementation of pipelines between data systems and teams, automation workflows, data enrichment and monitoring tools all for AI models. As a tech lead specialized in data engineering, you are expected to code and contribute to the stack.
+
+Responsibilities:
+
+Dive into our dataset and design, implement and scale data pre/post processing pipelines of ML models
+Work on applied ML solutions in the areas of data mining, cleaning, normalizing and modeling
+Be self-motivated in seeking solutions when the correct path isn’t always known
+Collaborate with engineers in conceptualizing, planning and implementing data engineering initiatives working with different stakeholders
+Design and build data platforms & frameworks for processing high volumes of data, in real time as well as batch, that will be used across engineering teams
+Build data processing streams for cleaning and modeling text data for LLMs
+Research and evaluate new technologies in the big data space to guide our continuous improvement
+Collaborate with multi-functional teams to help tune the performance of large data applications
+Work with Privacy and Security team on data governance, risk and compliance initiatives
+Work on initiatives to ensure stability, performance and reliability of our data infrastructure
+
+What we’ll love about you
+
+Bachelors in Computer Science, Mathematics, Physics, or a related fields
+5+ years of experience as a data engineer building production-level pre/post-processing data pipelines for ML/DL models, including 2+ years of technical leadership experience
+Experience in statistical analysis & visualization on datasets using Pandas or R
+Experience designing and building highly available, distributed systems of data extraction, ingestion, normalization and processing of large data sets in real time as well as batch, that will be used across engineering teams using orchestration frameworks like Airflow, KubeFlow or other pipeline tools
+Demonstrated prior experience in creating data pipelines for text data sets NLP/ large language models
+Ability to produce well-engineered software, including appropriate automated test suites, technical documentation, and operational strategy
+Excellent coding skills in Python, Java, bash, SQL, and expertise with Git version control
+Experience using big data technologies (Snowflake, Airflow, Kubernetes, Docker, Helm, Spark, pySpark)
+Experience with any public cloud environment - AWS, GCP or Azure
+Significant experience with relational databases and query authoring (SQL) as well as NoSQL databases like DynamoDB etc
+Experience building and maintaining ETL (managing high-quality reliable ETL pipelines)
+
+We’ll really swoon if you have
+
+2+ years of experience of technical leadership in building data engineering pipelines for AI
+Previous experience in building data pipeline for conversational AI APIs and recommender systems
+Experience with distributed systems and microservices
+Experience with Kubernetes and building Docker images
+Experience with building stream-processing systems, using solutions such as Kafka, Storm or Spark-Streaming
+Strong understanding of applied machine learning topics
+Be familiar with legal compliance (with data management tools) data classification, and retention
+Consistent track record of managing and implementing complex data projects
+
+Location : We are looking to hire someone in the San Francisco, Palo Alto, or Chicago Area.
+
+Salary Range: $160,000-$280,000 USD base. Equity. Medical, Dental, Vision.
+https://www.recruitingfromscratch.com/",2019,Staffing & Subcontracting,$1 to $5 million (USD),Human Resources & Staffing,1 to 50 Employees,Company - Private,True
+Senior Staff AI Data Engineer,"Recruiting From Scratch
+","Honolulu, HI",$160K (Employer est.),4.0,"Who is Recruiting from Scratch :
+Recruiting from Scratch is a premier talent firm that focuses on placing the best product managers, software, and hardware talent at innovative companies. Our team is 100% remote and we work with teams across the United States to help them hire. We work with companies funded by the best investors including Sequoia Capital, Lightspeed Ventures, Tiger Global Management, A16Z, Accel, DFJ, and more.
+https://www.recruitingfromscratch.com/
+
+This is a hybrid role based in our Palo Alto or San Francisco offices and will require you to be in office Tuesdays and Thursdays.
+
+What’s so interesting about this role?
+
+We believe that AI can revolutionize the dating industry. Our Data Engineer lead is responsible for building high quality ML datasets at scale, used to train ML models that power AI-centric features. In this pivotal role, you will have the opportunity to build foundational tools and data pipelines to ingest, normalize and clean the valuable data that would be fundamental for our ML engineers to build AI tools including recommendations, LLMs, ads, visual search, growth/notifications, trust and safety.
+
+What’s the job?
+
+We’re looking for an exceptional data engineer who is passionate about data for AI and values it can bring to our company, Who loves working with data ops at scale; and who is committed to the hard work necessary to continuously improve our ML data pipelines.
+
+In this position, you will be responsible for establishing and executing the strategy for our organization’s ML Data Engine, with an initial focus on agile ML Data OPs. This includes identification of infrastructure components and data stack to be used, design and implementation of pipelines between data systems and teams, automation workflows, data enrichment and monitoring tools all for AI models. As a tech lead specialized in data engineering, you are expected to code and contribute to the stack.
+
+Responsibilities:
+
+Dive into our dataset and design, implement and scale data pre/post processing pipelines of ML models
+Work on applied ML solutions in the areas of data mining, cleaning, normalizing and modeling
+Be self-motivated in seeking solutions when the correct path isn’t always known
+Collaborate with engineers in conceptualizing, planning and implementing data engineering initiatives working with different stakeholders
+Design and build data platforms & frameworks for processing high volumes of data, in real time as well as batch, that will be used across engineering teams
+Build data processing streams for cleaning and modeling text data for LLMs
+Research and evaluate new technologies in the big data space to guide our continuous improvement
+Collaborate with multi-functional teams to help tune the performance of large data applications
+Work with Privacy and Security team on data governance, risk and compliance initiatives
+Work on initiatives to ensure stability, performance and reliability of our data infrastructure
+
+What we’ll love about you
+
+Bachelors in Computer Science, Mathematics, Physics, or a related fields
+5+ years of experience as a data engineer building production-level pre/post-processing data pipelines for ML/DL models, including 2+ years of technical leadership experience
+Experience in statistical analysis & visualization on datasets using Pandas or R
+Experience designing and building highly available, distributed systems of data extraction, ingestion, normalization and processing of large data sets in real time as well as batch, that will be used across engineering teams using orchestration frameworks like Airflow, KubeFlow or other pipeline tools
+Demonstrated prior experience in creating data pipelines for text data sets NLP/ large language models
+Ability to produce well-engineered software, including appropriate automated test suites, technical documentation, and operational strategy
+Excellent coding skills in Python, Java, bash, SQL, and expertise with Git version control
+Experience using big data technologies (Snowflake, Airflow, Kubernetes, Docker, Helm, Spark, pySpark)
+Experience with any public cloud environment - AWS, GCP or Azure
+Significant experience with relational databases and query authoring (SQL) as well as NoSQL databases like DynamoDB etc
+Experience building and maintaining ETL (managing high-quality reliable ETL pipelines)
+
+We’ll really swoon if you have
+
+2+ years of experience of technical leadership in building data engineering pipelines for AI
+Previous experience in building data pipeline for conversational AI APIs and recommender systems
+Experience with distributed systems and microservices
+Experience with Kubernetes and building Docker images
+Experience with building stream-processing systems, using solutions such as Kafka, Storm or Spark-Streaming
+Strong understanding of applied machine learning topics
+Be familiar with legal compliance (with data management tools) data classification, and retention
+Consistent track record of managing and implementing complex data projects
+
+What you'll love about us
+
+Mission and Impact: We are the world-leading LGBTQ social networking service. Your role will impact the lives of millions of LGBTQ people around the world
+Multiple Locations: We are hiring someone for this role to be based ideally in San Francisco or Palo Alto
+Family Insurance: Insurance premium coverage for health, dental, and vision for you and partial coverage for your dependents
+Retirement Savings: Generous 401K plan with 6% match and immediate vest in the US
+Compensation: Industry-competitive compensation and eligibility for company bonus and equity programs
+Queer-Inclusive Benefits: Industry-leading gender-affirming offerings with up to 90% cost coverage, access to Included Health, monthly stipends for HRT, and more
+Additional Benefits: Flexible vacation policy, monthly stipends for cell phone, internet, wellness, and food, one-time home-office setup stipend, and company-sponsored events
+Base Pay Range
+$160,000—$280,000 USD
+https://www.recruitingfromscratch.com/",2019,Staffing & Subcontracting,$1 to $5 million (USD),Human Resources & Staffing,1 to 50 Employees,Company - Private,True
+Big Data Integration Engineer,"KBR
+","Camp H M Smith, HI",$74K - $110K (Glassdoor est.),3.9,"Title:
+
+Big Data Integration Engineer
+
+ABOUT THIS POSITION
+
+The successful candidate will be part of the KBR team supporting the Test Resource Management Center’s (TRMC) Big Data (BD) and Knowledge Management (KM) Team deploying BD and KM systems for DoD testing Ranges and various acquisition programs.
+
+This is being hired nationwide as it is a remote work capable position. The candidate can either work in one of KBR’s facilities or work from home, assuming the candidate has a stable internet connection.
+
+Responsibilities:
+
+Deployment and integration of a highly visible data analytic project called Cloud Hybrid Edge-to-Enterprise Evaluation Test & Analysis Suite (CHEETAS) at multiple DoD ranges and labs
+Work with the data science and software engineering team members to support our customers by demonstrating the ‘art of the possible’ with insights gained from analyzing DoD Test & Evaluation data
+Deploy and configure Big Data and Knowledge Management tools in an enterprise environment
+Configure and troubleshoot a variety of Big Data ecosystem tools
+Work with a wide range of stakeholders and functional teams at various levels of experience
+Become a CHEETAS deployment subject matter expert
+Act as a critical part of our technical team responsible for deploying CHEETAS within customer environments
+Work closely with system administrators and software developers to communicate, document and ultimately resolve deployment issues as they arise
+Provide deployment services to various DoD testing Ranges and acquisition programs
+Deploy CHEETAS within disparate environments (on different non-standard hardware stacks and integrated into different existing ecosystems) sometimes located within DoD vaults with no outside internet connectivity
+Act as the frontline interface that customers will have when first experiencing CHEETAS within their DoD Range and lab environments
+
+This requisition will be used to hire multiple individuals
+
+Entry level Integration Engineers will NOT be considered due to the breadth of knowledge necessary to be successful in the position. This position is anticipated to require travel of 25% with surges possible up to 50% to support end users located at various DoD Ranges and Labs across the United States.
+
+Come join the KBR BDKM team and be a part of the award-winning team responsible for revolutionizing how data analysis is performed across the entire Department of Defense!
+
+BASIC QUALIFICATIONS
+
+This position requires a bachelor's degree in a STEM Computer Science, Data Science, Statistics or related, technical field, and 7-10 years of experience. Entry level Integration Engineers will NOT be considered.
+Previous experience must include five (5) years of hands-on experience in big data environments.
+Previous experience must include three (3) years of hands-on experience with Kubernetes. Experience in the integration with and configuration of: Hadoop, SQL Server Big Data Cluster, Kubernetes, CentOS, Ubuntu, RedHat, Windows Server, VMWare, etc.)
+Active or Current Secret Clearance required - Top Secret Clearance preferred.
+
+Knowledge / Skills / Abilities:
+
+Experience with installation, configuration, integration with and usage of the following tools and technologies: Helms Charts, YAML, Kubernetes, Kubectl, Kubernetes IDE, NFS, SMB, S3, SQL Server, Windows Server, Windows 10/11, Linux (CentOS, Ubuntu, RedHat), Hadoop.
+Must be prepared to learn new business processes or CHEETAS application nuances every Agile sprint release (roughly every 6 weeks) prior to deploying to customer sites.
+Experience with working in distributed team environment is preferred.
+Ability to problem solve, debug, and troubleshoot while under pressure and time constraints is required.
+Ability to communicate effectively about technical topics to both experts and non-experts at both the management and technical level is required.
+Excellent interpersonal skills, oral and written communication skills, and strong personal motivation are necessary to succeed within this position.
+Ability to work independently and provide appropriate recommendations for optimal design, analysis, and development.
+Excellent written and verbal communications skills are required, as the Integration Engineer will be in frequent contact with the project technical lead, be taking direction from various government leads, and will frequently be interacting with end users to gather requirements and implement solutions while away from other team members.
+Ability to teach and mentor engineers with a variety of skill levels and backgrounds is a plus.
+Excellent testing, debugging and problem-solving skills are required to be successful in this position.
+Experience designing, building, integrating with and maintaining both new and existing big data systems and solutions.
+
+ADDITIONAL QUALIFICATIONS
+
+The preferred candidate will have experience working in government/defense labs and their computing restrictions.
+Knowledge of the Test and Training Enabling Architecture (TENA), the Joint Mission Environment Testing Capability (JMETC), and Distributed Testing and Training is a plus.
+Experience working with major DoD Acquisition programs such as Joint Strike Fighter (JSF) or Missile Defense Agency (MDA) is a plus.
+Knowledge of DoD Cybersecurity policies is a plus.
+
+KBR is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, disability, sex, sexual orientation, gender identity or expression, age, national origin, veteran status, genetic information, union status and/or beliefs, or any other characteristic protected by federal, state, or local law.",1901,Aerospace & Defense,$5 to $10 billion (USD),Aerospace & Defense,10000+ Employees,Company - Public,False

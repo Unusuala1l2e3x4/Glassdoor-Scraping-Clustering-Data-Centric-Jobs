@@ -1,0 +1,564 @@
+Job Title,Company Name,Location,Salary Estimate,Rating,Job Description,Founded,Industry,Revenue,Sector,Size,Type,Easy Apply
+Senior Data Engineer (Snowflake) - Contractor,"EY
+",United States,$90.00 - $130.00 Per Hour (Employer est.),3.9,"The primary responsibility for the Sr. Data Engineer / Tech Lead is to ensure data accessibility, quality, and reliability within the client's data platform ecosystem.
+
+RESPONSIBILITIES
+
+Design and develop end-to-end data pipelines and ETL processes using Snowflake, Denodo, DBT Cloud, Fivetran, and AWS Glue, ensuring seamless data integration, transformation, and loading.
+Collaborate with cross-functional teams to gather data requirements and implement scalable data models and schemas within Snowflake and Denodo, ensuring optimal performance and data consistency.
+Implement and maintain data orchestration workflows using Stonebranch, ensuring efficient and reliable scheduling and automation of data processes.
+Work with EnterpriseDataLake for ingestion and storage of data from various sources, ensuring the availability and accessibility of data for analytics and reporting purposes.
+Utilize Azure DevOps and Teraform to implement and manage infrastructure as code, ensuring streamlined deployment and scalability of data engineering solutions.
+Skills
+
+snowflake
+
+denodo
+
+dbt cloud
+
+fivetran
+
+Qualifications
+
+REQUIREMENTS
+
+Proficiency in Snowflake and Denodo: Strong understanding and hands-on experience in working with Snowflake and Denodo for data integration, transformation, and analysis.
+Knowledge of DBT Cloud: Familiarity with DBT Cloud, including experience in building and maintaining efficient data transformation workflows and deploying reliable data pipelines.
+Experience with Fivetran: Demonstrated experience in utilizing Fivetran for data ingestion, source connectivity, and ensuring data accuracy and completeness.
+Understanding of EnterpriseDataLake: Knowledge of EnterpriseDataLake principles and practices, including data ingestion, storage, and organization for analytics and reporting purposes.
+Familiarity with Stonebranch: Proficiency in using Stonebranch for data orchestration and scheduling, ensuring efficient and reliable execution of data pipelines and workflows.
+Proficiency in Azure DevOps and Teraform: Experience in leveraging Azure DevOps and Teraform for infrastructure as code, enabling streamlined deployment and scalability of data engineering solutions.
+
+The expected pay rate range for this contract assignment is $90 to $130 per hour. The exact pay rate will vary based on skills, experience, and location. The position is approximately 65-70% remote and 30-35% travel to the client as needed.
+
+#GigNowTechOpportunities
+
+GigNowOpportunities
+
+Equal Employment Opportunity Information
+EY provides equal opportunities to applicants, employees, contractors, vendors, and stakeholders without regard to race, color, religion, age, sex, sexual orientation, gender identity/expression, pregnancy, genetic information, national origin, protected veteran status, disability status, or any other legally protected basis, including arrest and conviction records, in accordance with applicable law. If you are an individual with a disability and either need assistance applying online or need to request an accommodation during any part of the application process, please email gignow.recruiting@ey.com.",-1,-1,Unknown / Non-Applicable,-1,Unknown,Unknown,False
+TSS Data Engineer,"General Dynamics Information Technology
+","Bossier City, LA",$74K - $107K (Glassdoor est.),4.0,"TSS Data Engineer
+
+GDIT is seeking a Data Engineer to support its Technology Shared Services (TSS) Data and Analytics organization. Deliver insights to help our clients turn data into action as a Data Engineer at GDIT. Your work will provide transformative solutions to our clients' big-data obstacles and help advance the mission. Here, you can make a meaningful impact on our clients' mission and on your career.
+
+GDIT is your place. You make it your own. Bring your creativity to help us find simple solutions to complex problems. By owning your opportunity at GDIT, you'll play an essential part in preparing our nation for the future. At GDIT, our employees are driven, resourceful, and unwavering.
+
+HOW A DATA ENGINEER WILL MAKE AN IMPACT
+
+Responsible for data migrations, data modeling, and creating schema.
+Provides expert-level design and development of relational databases.
+Designs, implements, and maintains data pipelines to perform extract, transform, and load (ETL) data from sources to destinations.
+Builds and manages cloud-native data architectures in AWS and Azure.
+Identifies and directs information needs and elements, data relationships and attributes, data flow and storage requirements, and data output and reporting capabilities.
+Leads new data development ensuring consistency and integration with existing data warehouse structure.
+Reviews business requests for data and data usage, researches data sources for new and better data feeds.
+Maintains comprehensive documentation on data processes, pipelines, and architecture for knowledge sharing and collaboration.
+Leads continuous improvement efforts in enhancing performance and providing increased functionality, including performing proactive maintenance such as ensuring continued space availability, monitoring activity, and documenting problems, changes, and solutions.
+Assignments may include design of data dictionaries, database structure and layout, installing, upgrading, and managing database applications.
+Presents insights to both technical and non-technical team members and stakeholders, assisting in making informed, data-driven decisions.
+Collaborates with different teams to understand their data needs and create solutions that solve problems and streamline workflows.
+
+GDIT is committed to fostering economic growth and prosperity in Louisiana, with established operations in multiple locations throughout the state, including facilities in New Orleans, Natchitoches, and our Integrated Technology Center in Bossier City, LA. This position offers the flexibility to work 100% remotely from anywhere within the state of Louisiana.
+
+WHAT YOU'LL NEED TO SUCCEED
+Education:
+
+BA/BS (or equivalent years of experience)
+
+Required Experience:
+
+2+ years of relevant experience
+
+Required Skills and Abilities:
+
+Experienced in AWS and Azure cloud environments.
+Proficient in Python to perform data analysis and engineering tasks.
+Experienced in working in AWS with AWS data and analytics services, such as RDS, DynamoDB, Redshift, Aurora, S3, and Database Migration Service (DMS).
+Proficient in database administration and Structured Query Language (SQL).
+Experienced in data modeling and data normalization techniques.
+Experienced in different data structures, including relational databases, semi-structured, and object stores.
+Experienced in database migrations, including homogenous and heterogenous and on-prem and cloud.
+Excellent communication and presentation skills with the ability to present complex data insights to both technical and non-technical audiences.
+Good team player, able to manage multiple assignments, and adapt to changing client needs.
+Skilled in programming languages like Python, R, SQL, and experience in working with data visualization tools like Tableau and Power BI.
+
+Preferred Skills and Abilities:
+
+AWS Certified Solutions Architect Associate
+Azure Fundamentals
+Azure Data Fundamentals
+Secret clearance or ability to obtain
+Knowledge of ITIL framework
+Knowledge of Agile methodology
+Demonstrated experience consulting with internal and external customers to understand business needs and make recommendations.
+Previous experience in the defense or government sector
+Familiarity with cloud services: AWS, Google Cloud, Microsoft Azure, etc.) and big data tools is plus.
+Experience in optimization algorithms and natural language processing is a plus.
+Data science and cloud certifications are a plus (Certified Data Scientist (CDS), AWS Certified Machine Learning - Specialty, Microsoft Certified: Azure Data Scientist Associate, IBM Data Science Professional)
+
+GDIT IS YOUR PLACE:
+
+Full-flex work week to own your priorities at work and at home
+401K with company match
+Comprehensive health and wellness packages
+Internal mobility team dedicated to helping you own your career
+Professional growth opportunities including paid education and certifications
+Cutting-edge technology you can learn from
+Rest and recharge with paid vacation and holidays
+
+Work Requirements
+
+.cls-1{fill:none;stroke:#5b6670;stroke-miterlimit:10;stroke-width:2px;}
+Years of Experience
+2 + years of related experience
+
+
+may vary based on technical training, certification(s), or degree
+
+.cls-1,.cls-2{fill:none;stroke:#5b6670;stroke-miterlimit:10;}.cls-1{stroke-width:1.77px;}.cls-2{stroke-width:2px;}
+Certification
+
+.cls-1{fill:none;stroke:#5b6670;stroke-miterlimit:10;stroke-width:2px;}
+Travel Required
+10-25%
+
+About Our Work
+
+We are GDIT. A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.S. government, defense and intelligence community. Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation. We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development. Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.
+
+GDIT is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status, or any other protected class.",1996,Information Technology Support Services,$10+ billion (USD),Information Technology,10000+ Employees,Subsidiary or Business Segment,False
+Data Conversion Engineer,"i3 Verticals
+","Shreveport, LA",$58K - $81K (Glassdoor est.),3.6,"JOB TITLE: Data Conversion Engineer
+
+DEPARTMENT: Public Sector Operations - Implementations
+
+REPORTS TO: Software Project Manager
+
+JOB LOCATION: Shreveport LA, Remote
+
+TRAVEL: none
+
+ESSENTIAL DUTIES & RESPONSIBILITIES:
+
+Provides data conversion experience to collaborate with and assist team members on company initiatives
+Assists in the evaluation and recommendation of conversion tools
+Corresponds with management, various company personnel, and/or customers to ensure conversion requirements and specifications are identified and understood
+Compile and assess feedback to improve performance for future conversions
+Execute and deliver tasks for the complete conversion project life cycle from initiation to project closure
+Develop, design, and document data mapping schematics
+Develop a data conversion plan, strategy, and approach
+Develop additional or other documentation requirements as needed to guide future conversion projects
+Develop and deploy scripts for analyzing and ensuring data integrity
+Develop and deploy applications and scripts for data migration
+Identification and resolution of risks and issues; managing and escalating appropriately
+
+MINIMUM QUALIFICATIONS (EDUCATION AND EXPERIENCE):
+
+Excellent verbal and written communication
+Excellent time management skills
+Experience in a client-facing role
+Experience in stakeholder management
+Experience of working in a diverse and challenging environment
+Ability to determine estimates of effort and impacts on a variety of solutions
+Ability to manage rapid change in a fast-paced environment
+Ability to manage deliverables and provide support to multiple projects
+Data Conversion experience
+Knowledge of Microsoft Windows applications
+Developed analytical and problem-solving skills
+Meticulous attention to detail
+Experience in testing and validation of output data including reports
+Must have a minimum of two years of experience with SQL
+
+PREFERRED QUALIFICATIONS (EDUCATION AND EXPERIENCE):
+
+Bachelor’s degree in Information Technology or related field, or equivalent experience
+Experience in County/municipal Government software operations and processes a plus
+
+Experience
+Required
+2 year(s): Data Conversion experience
+Education
+Required
+Bachelors or better in Information Technology or related field",2012,Computer Hardware Development,$5 to $25 million (USD),Information Technology,1001 to 5000 Employees,Company - Public,True
+Data Engineer,"Intralox
+","New Orleans, LA",$67K - $103K (Glassdoor est.),4.3,"This position is not currently eligible for work authorization.
+
+
+Intralox, L.L.C., a division of Laitram, L.L.C., and a global provider of conveyance solutions and services, has an opening for a Data Engineer/Power BI Developer within the Digital Solutions team. The Digital Solution (DS) team is leading Intralox’s implementation and evolution of our enterprise business applications and new digital solutions. DS is more than just an IT department – we are business domain experts, software developers, and operational support resources that use technology to bring more value to customers and Intralox.
+
+Intralox is a division of Laitram, L.L.C., with an extensive portfolio of innovative conveyance solutions and services that improve lives and optimize businesses worldwide.
+
+Our global workforce of over 3,000 employees in 20+ countries consist of reliable problem solvers, continuously developing and directly delivering solutions that have driven our customers’ growth worldwide for more than 50 years.
+
+Intralox was founded on the principle of doing the right thing, by treating customers, employees, and suppliers with honesty, fairness, and respect. We invest heavily in these values and aim to practice our business philosophy principles every day, which is why we have been consistently recognized for innovation and workplace excellence. We believe in the power of a good idea no matter where it comes from, using trust as the foundation to how we work, and that self-managed people are our greatest asset.
+
+Responsibilities:
+Create and maintain optimal data pipeline architecture,
+Assemble large, complex data sets that meet business requirements.
+Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
+Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL and Microsoft ‘big data’ technologies.
+Build analytics tools in Power BI that utilize the data pipeline to provide actionable insights into customer acquisition, operational efficiency, and other key business performance metrics.
+Work with stakeholders including the Executive, Product, Data and Design teams to assist with data-related technical issues and support their data infrastructure needs.
+Create and support data tools for analytics and business team members that assist them in building and optimizing our products and business processes.
+Work with data and analytics experts to strive for greater functionality in our data systems.
+
+Requirements:
+This position is not currently eligible for work authorization.
+Minimum 2 years of experience in a Data Engineer role.
+Bachelor's degree in Computer Science, Statistics, Informatics, Information Systems, or another quantitative field. A graduate degree in Computer Science, Statistics, Informatics, Information Systems, or another quantitative field is preferred.
+Advanced working knowledge of SQL and experience with relational databases, including query authoring (SQL). Additionally, familiarity with a variety of databases is desirable.
+Proven experience in building and optimizing 'big data' data pipelines, architectures, and data sets.
+Strong analytical skills for working with structured and unstructured datasets.
+Proficiency in developing processes to support data transformation, data structures, metadata, dependency, and workload management.
+Demonstrated success in manipulating, processing, and extracting value from large, disparate datasets.
+Excellent project management and organizational skills.
+Experience with or knowledge of the following software/tools or similar is required:
+Big data tools: Hadoop, Spark, Kafka, etc.
+Relational SQL and NoSQL databases.
+Data pipeline and workflow management tools: Azure Data Factory.
+Azure cloud services: VMs, Synapse Analytics, Data Factory, Azure SQL, Data Lake.
+Object-oriented/object function scripting languages: Python, Java, C++, Scala, etc.
+Knowledge of Oracle EBS preferred.
+
+EOE/M/F/Vet/Disabled",1971,Machinery Manufacturing,$500 million to $1 billion (USD),Manufacturing,1001 to 5000 Employees,Company - Private,False
+Data Conversion Engineer,"ImageSoft
+","Shreveport, LA",$66K - $93K (Glassdoor est.),4.2,"Data Conversion Engineer
+
+Job Category: Information Technology
+Requisition Number: DATAC001367
+
+
+
+
+
+Posting Details
+Posted: October 27, 2023
+
+Full-Time
+
+Locations
+Showing 1 location
+
+Shreveport, LA 71105, USA
+
+
++1 more
+Job Details
+
+Description
+
+JOB TITLE: Data Conversion Engineer
+
+DEPARTMENT: Public Sector Operations - Implementations
+
+REPORTS TO: Software Project Manager
+
+JOB LOCATION: Shreveport LA, Remote
+
+TRAVEL: none
+
+ESSENTIAL DUTIES & RESPONSIBILITIES:
+
+Provides data conversion experience to collaborate with and assist team members on company initiatives
+Assists in the evaluation and recommendation of conversion tools
+Corresponds with management, various company personnel, and/or customers to ensure conversion requirements and specifications are identified and understood
+Compile and assess feedback to improve performance for future conversions
+Execute and deliver tasks for the complete conversion project life cycle from initiation to project closure
+Develop, design, and document data mapping schematics
+Develop a data conversion plan, strategy, and approach
+Develop additional or other documentation requirements as needed to guide future conversion projects
+Develop and deploy scripts for analyzing and ensuring data integrity
+Develop and deploy applications and scripts for data migration
+Identification and resolution of risks and issues; managing and escalating appropriately
+
+MINIMUM QUALIFICATIONS (EDUCATION AND EXPERIENCE):
+
+Excellent verbal and written communication
+Excellent time management skills
+Experience in a client-facing role
+Experience in stakeholder management
+Experience of working in a diverse and challenging environment
+Ability to determine estimates of effort and impacts on a variety of solutions
+Ability to manage rapid change in a fast-paced environment
+Ability to manage deliverables and provide support to multiple projects
+Data Conversion experience
+Knowledge of Microsoft Windows applications
+Developed analytical and problem-solving skills
+Meticulous attention to detail
+Experience in testing and validation of output data including reports
+Must have a minimum of two years of experience with SQL
+
+PREFERRED QUALIFICATIONS (EDUCATION AND EXPERIENCE):
+
+Bachelor’s degree in Information Technology or related field, or equivalent experience
+Experience in County/municipal Government software operations and processes a plus
+
+Qualifications
+
+Education
+
+Required
+
+Bachelors or better in Information Technology or related field.
+
+Experience
+
+Required
+
+2 years: Data Conversion experience",1996,Enterprise Software & Network Solutions,$5 to $25 million (USD),Information Technology,51 to 200 Employees,Company - Public,False
+Senior Data Visualization Engineer,"Blue Cross Blue Shield of Louisiana
+","Baton Rouge, LA",$77K - $105K (Glassdoor est.),3.9,"We take great strides to ensure our employees have the resources to live well, be healthy, continue learning, develop skills, grow professionally and serve our local communities. We invite you to apply for a career with Blue Cross.
+
+Please note that effective Jan. 4, 2022, Blue Cross and Blue Shield of Louisiana implemented a policy requiring any employee who enters any of our offices or who interacts in person with anyone for company business purposes to be fully vaccinated for COVID 19, unless legally entitled to a reasonable accommodation related to religious or medical exemptions. At this time, that policy is suspended and vaccination is not required to enter our facilities. Please note this is subject to change at any point in time to ensure compliance with company policy or government mandates and certain client facing roles may have separate protocols.
+
+Residency in or relocation to Louisiana is preferred for all positions.
+
+We will consider remote work in the following states: LA, AL, AR, DE, FL, GA, ID, IN, IA, KS, KY, MS, MO, NE, NH, NC, OK, PA (limited counties), SC, SD, TN, TX, UT, VA, WV, WI.
+
+POSITION PURPOSE
+
+This senior level position provides technical support for issues reported and experienced with the use of business intelligence (BI) tools. This position will work with cross-functional teams throughout the enterprise providing the first level of BI services and assists in gathering and documenting requirements needed by end users. This position will ensure all BI best practices, standards and guidelines are followed while engaged with end users.
+
+NATURE AND SCOPE
+
+This role does not manage people
+This job reports to: Departmental Leadership
+Necessary Contacts: To do this job effectively the incumbent has to be in contact with all levels of BCBSLA personnel.
+
+QUALIFICATIONS
+
+Education
+
+Bachelor's Computer Science, Information Technology, Business or related field is required
+Four years of related experience can be used in lieu of a Bachelor’s degree.
+
+Work Experience
+
+Minimum of 4 years professional business intelligence analysis experience to develop an understanding of reporting and analytics. Previous experience in the HealthCare industry preferred.
+Knowledge of MS SQL Server and other database technologies required.
+Knowledge of business intelligence tools and platforms required (e.g. Tableau, Cognos, MicroStrategy or similar tools).
+Prior report writing experience extracting information from multiple databases sources is required.
+Must have experience working with enterprise-level customers.
+Previous experience with BI training and/or user groups preferred
+
+Skills and Abilities
+
+Proven verbal and written communications skills combined with strong interpersonal skills are needed to interact professionally with a diverse group that includes Subject Matter Experts, technical and non-technical business users, management, IT technical/programming staff, external vendors and others as needed to deliver BI reports, dashboards, etc.
+Must be able to clearly and concisely communicate system and business requirement information to all levels of internal and external customers.
+Proven ability to learn new technology while managing multiple, high-priority tasks.
+
+Licenses and Certifications
+
+None Required
+
+ACCOUNTABILITIES AND ESSENTIAL FUNCTIONS
+
+Serves as a senior advisor in the identification of BI technical solutions for client issues by meeting with users to gain an understanding of their business purpose and information needs; to dissect their current technical environment to determine the optimum data delivery method/system to provide comprehensive support of their implementation.
+Provides training and guidance to staff members on the use of BI tools to support business partners, product management, and data delivery.
+Provides BI technical support to ensure the availability and performance of the enterprise environment by troubleshooting problems with business users, meeting with BI staff and others as needed to resolve current issues and to determine the best course of action to improve operations and eliminate recurring problems.
+Guides and directs end user to solutions which adhere to BI best practices, standards and guidelines and ensures activities are in compliance with protected health information and access to data.
+Works with business and BI teams to develop, document and maintain business/technical requirements including BI report and dashboard requirements.
+Documents BI issue resolutions to populate a self-service customer portal.
+Provides frequent status and action plan updates to internal and external stakeholders, including management.
+Works with quality assurance testing as needed from an end-users prospective to help with troubleshooting or improving performance metrics.
+Monitors key performance metrics and SLA’s to ensure proper BI service delivery.
+Understands departmental goals and objectives and delivers work products to contribute to those goals.
+
+Additional Accountabilities and Essential Functions
+
+The Physical Demands described here are representative of those that must be met by an employee to successfully perform the Accountabilities and Essential Functions of the job. Reasonable accommodations may be made to enable an individual with disabilities to perform the essential functions
+
+Perform other job-related duties as assigned, within your scope of responsibilities.
+Job duties are performed in a normal and clean office environment with normal noise levels.
+Work is predominately done while standing or sitting.
+The ability to comprehend, document, calculate, visualize, and analyze are required.
+
+\#LI_DB1
+
+An Equal Opportunity Employer
+
+All BCBSLA EMPLOYEES please apply through Workday Careers.
+
+PLEASE USE A WEB BROWSER OTHER THAN INTERNET EXPLORER IF YOU ENCOUNTER ISSUES (CHROME, FIREFOX, SAFARI)
+
+Additional Information
+
+Please be sure to monitor your email frequently for communications you may receive during the recruiting process. Due to the high volume of applications we receive, only those most qualified will be contacted. To monitor the status of your application, please visit the ""My Applications"" section in the Candidate Home section of your Workday account.
+
+If you are an individual with a disability and require a reasonable accommodation to complete an application, please contact recruiting@bcbsla.com for assistance.
+
+In support of our mission to improve the health and lives of Louisianians, Blue Cross encourages the good health of its employees and visitors. We want to ensure that our employees have a work environment that will optimize personal health and well-being. Due to the acknowledged hazards from exposure to environmental tobacco smoke, and in order to promote good health, our company properties are smoke and tobacco free.
+
+Blue Cross and Blue Shield of Louisiana performs background and pre-employment drug screening after an offer has been extended and prior to hire for all positions. As part of this process records may be verified and information checked with agencies including but not limited to the Social Security Administration, criminal courts, federal, state, and county repositories of criminal records, Department of Motor Vehicles and credit bureaus. Pursuant with sec 1033 of the Violent Crime Control and Law Enforcement Act of 1994, individuals who have been convicted of a felony crime involving dishonesty or breach of trust are prohibited from working in the insurance industry unless they obtain written consent from their state insurance commissioner.
+
+Additionally, Blue Cross and Blue Shield of Louisiana is a Drug Free Workplace. A pre-employment drug screen will be required and any offer is contingent upon satisfactory drug testing results.
+
+JOB CATEGORY: Data Analytics/Warehousing, & Business Intelligence",1934,Insurance Carriers,$25 to $100 million (USD),Insurance,1001 to 5000 Employees,Nonprofit Organization,False
+Data Engineer,"Contact Government Services, LLC
+","New Orleans, LA",$79K - $123K (Glassdoor est.),4.7,"Data Engineer
+Employment Type: Full-Time, Mid-level
+Department: Business Intelligence
+CGS is seeking a passionate and driven Data Engineer to support a rapidly growing Data Analytics and Business Intelligence platform focused on providing solutions that empower our federal customers with the tools and capabilities needed to turn data into actionable insights. The ideal candidate is a critical thinker and perpetual learner; excited to gain exposure and build skillsets across a range of technologies while solving some of our clients’ toughest challenges.
+
+CGS brings motivated, highly skilled, and creative people together to solve the government’s most dynamic problems with cutting-edge technology. To carry out our mission, we are seeking candidates who are excited to contribute to government innovation, appreciate collaboration, and can anticipate the needs of others. Here at CGS, we offer an environment in which our employees feel supported, and we encourage professional growth through various learning opportunities.
+Skills and attributes for success:
+Complete development efforts across data pipeline to store, manage, store, and provision to data consumers.
+Being an active and collaborating member of an Agile/Scrum team and following all Agile/Scrum best practices.
+Write code to ensure the performance and reliability of data extraction and processing.
+Support continuous process automation for data ingest.
+Achieve technical excellence by advocating for and adhering to lean-agile engineering principles and practices such as API-first design, simple design, continuous integration, version control, and automated testing.
+Work with program management and engineers to implement and document complex and evolving requirements.
+Help cultivate an environment that promotes customer service excellence, innovation, collaboration, and teamwork.
+Collaborate with others as part of a cross-functional team that includes user experience researchers and designers, product managers, engineers, and other functional specialists.
+
+Qualifications:
+Must be a US Citizen.
+Must be able to obtain a Public Trust Clearance.
+7+ years of IT experience including experience in design, management, and solutioning of large, complex data sets and models.
+Experience with developing data pipelines from many sources from structured and unstructured data sets in a variety of formats.
+Proficiency in developing ETL processes, and performing test and validation steps.
+Proficiency to manipulate data (Python, R, SQL, SAS).
+Strong knowledge of big data analysis and storage tools and technologies.
+Strong understanding of the agile principles and ability to apply them.
+Strong understanding of the CI/CD pipelines and ability to apply them.
+Experience with relational database, such as, PostgreSQL.
+Work comfortably in version control systems, such as, Git Repositories.
+
+Ideally, you will also have:
+Experience creating and consuming APIs.
+Experience with DHS and knowledge of DHS standards a plus.
+Candidates will be given special consideration for extensive experience with Python.
+Ability to develop visualizations utilizing Tableau or PowerBI.
+Experience in developing Shell scripts on Linux.
+Demonstrated experience translating business and technical requirements into comprehensive data strategies and analytic solutions.
+Demonstrated ability to communicate across all levels of the organization and communicate technical terms to non-technical audiences.
+Our Commitment:
+Contact Government Services (CGS) strives to simplify and enhance government bureaucracy through the optimization of human, technical, and financial resources. We combine cutting-edge technology with world-class personnel to deliver customized solutions that fit our client’s specific needs. We are committed to solving the most challenging and dynamic problems.
+
+For the past seven years, we’ve been growing our government-contracting portfolio, and along the way, we’ve created valuable partnerships by demonstrating a commitment to honesty, professionalism, and quality work.
+
+Here at CGS we value honesty through hard work and self-awareness, professionalism in all we do, and to deliver the best quality to our consumers mending those relations for years to come.
+
+We care about our employees. Therefore, we offer a comprehensive benefits package:
+Health, Dental, and Vision
+Life Insurance
+401k
+Flexible Spending Account (Health, Dependent Care, and Commuter)
+Paid Time Off and Observance of State/Federal Holidays
+
+Contact Government Services, LLC is an Equal Opportunity Employer. Applicants will be considered without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+
+Join our team and become part of government innovation!
+
+Explore additional job opportunities with CGS on our Job Board:
+https://cgsfederal.com/join-our-team/
+
+For more information about CGS please visit: https://www.cgsfederal.com or contact:
+Email: info@cgsfederal.com",-1,-1,Unknown / Non-Applicable,-1,1 to 50 Employees,Company - Public,True
+Information Technology - Data Engineer,"PVI Holdings, Inc.","Baton Rouge, LA",$64K - $97K (Glassdoor est.),-1.0,"Job Summary:
+We are seeking a Data Engineer to join our growing organization. We offer a great open office environment to work in as well as the ability to work remotely. This position will assist the Applications System Manager in developing solutions to support the businesses analytics and data processing needs.
+
+Primary Duties & Responsibilities:
+
+Assist in design, development, and maintenance of data lake\warehouse
+Work with product owners to understand and implement reports and data extracts as well as data sources for visualization tools, like Tableau.
+Ensure data quality amongst various data systems
+Deliver project/program objectives on-time, with quality, within scope
+Positional Requirements & Qualifications:
+
+Experience & Education
+5+ years of experience developing SQL queries
+2+ years of experience developing ETL processes
+Bachelor’s degree in computer science, engineering or related field, or related experience
+Skills & Abilities
+Microsoft T-SQL
+Microsoft .NET, SSRS, SSIS, Excel
+Microsoft Visual Studio, SQL Management Studio
+Oracle PL\SQL a plus
+Ability to manage multiple, concurrent projects, activities and tasks under time constraints
+Effective oral and written communication skills and be able to effectively communicate with the business
+Must be able to execute all tasks with exceptional attention to detail
+Must be able to travel and have a clear driving record in accordance to Setpoint IS driving guidelines
+Clear background check and drug/alcohol screening
+Essential Physical Functions:
+
+Travel: less than 5%
+Lifting up to 20 pounds
+Bending, stooping, walking",-1,-1,Unknown / Non-Applicable,-1,1001 to 5000 Employees,Subsidiary or Business Segment,True
+TSS Data Engineer,"General Dynamics Information Technology
+","Bossier City, LA",$74K - $107K (Glassdoor est.),4.0,"Clearance Level None Category Data Science Location Bossier City, Louisiana Hybrid Workplace
+
+Public Trust: None
+Requisition Type: Pipeline
+Job Description
+
+TSS Data Engineer
+
+GDIT is seeking a Data Engineer to support its Technology Shared Services (TSS) Data and Analytics organization. Deliver insights to help our clients turn data into action as a Data Engineer at GDIT. Your work will provide transformative solutions to our clients’ big-data obstacles and help advance the mission. Here, you can make a meaningful impact on our clients’ mission and on your career.
+
+GDIT is your place. You make it your own. Bring your creativity to help us find simple solutions to complex problems. By owning your opportunity at GDIT, you’ll play an essential part in preparing our nation for the future. At GDIT, our employees are driven, resourceful, and unwavering.
+
+HOW A DATA ENGINEER WILL MAKE AN IMPACT
+
+Responsible for data migrations, data modeling, and creating schema.
+Provides expert-level design and development of relational databases.
+Designs, implements, and maintains data pipelines to perform extract, transform, and load (ETL) data from sources to destinations.
+Builds and manages cloud-native data architectures in AWS and Azure.
+Identifies and directs information needs and elements, data relationships and attributes, data flow and storage requirements, and data output and reporting capabilities.
+Leads new data development ensuring consistency and integration with existing data warehouse structure.
+Reviews business requests for data and data usage, researches data sources for new and better data feeds.
+Maintains comprehensive documentation on data processes, pipelines, and architecture for knowledge sharing and collaboration.
+Leads continuous improvement efforts in enhancing performance and providing increased functionality, including performing proactive maintenance such as ensuring continued space availability, monitoring activity, and documenting problems, changes, and solutions.
+Assignments may include design of data dictionaries, database structure and layout, installing, upgrading, and managing database applications.
+Presents insights to both technical and non-technical team members and stakeholders, assisting in making informed, data-driven decisions.
+Collaborates with different teams to understand their data needs and create solutions that solve problems and streamline workflows.
+
+GDIT is committed to fostering economic growth and prosperity in Louisiana, with established operations in multiple locations throughout the state, including facilities in New Orleans, Natchitoches, and our Integrated Technology Center in Bossier City, LA. This position offers the flexibility to work 100% remotely from anywhere within the state of Louisiana.
+
+WHAT YOU’LL NEED TO SUCCEED
+Education:
+
+BA/BS (or equivalent years of experience)
+
+Required Experience:
+
+2+ years of relevant experience
+
+Required Skills and Abilities:
+
+Experienced in AWS and Azure cloud environments.
+Proficient in Python to perform data analysis and engineering tasks.
+Experienced in working in AWS with AWS data and analytics services, such as RDS, DynamoDB, Redshift, Aurora, S3, and Database Migration Service (DMS).
+Proficient in database administration and Structured Query Language (SQL).
+Experienced in data modeling and data normalization techniques.
+Experienced in different data structures, including relational databases, semi-structured, and object stores.
+Experienced in database migrations, including homogenous and heterogenous and on-prem and cloud.
+Excellent communication and presentation skills with the ability to present complex data insights to both technical and non-technical audiences.
+Good team player, able to manage multiple assignments, and adapt to changing client needs.
+Skilled in programming languages like Python, R, SQL, and experience in working with data visualization tools like Tableau and Power BI.
+
+Preferred Skills and Abilities:
+
+AWS Certified Solutions Architect Associate
+Azure Fundamentals
+Azure Data Fundamentals
+Secret clearance or ability to obtain
+Knowledge of ITIL framework
+Knowledge of Agile methodology
+Demonstrated experience consulting with internal and external customers to understand business needs and make recommendations.
+Previous experience in the defense or government sector
+Familiarity with cloud services: AWS, Google Cloud, Microsoft Azure, etc.) and big data tools is plus.
+Experience in optimization algorithms and natural language processing is a plus.
+Data science and cloud certifications are a plus (Certified Data Scientist (CDS), AWS Certified Machine Learning - Specialty, Microsoft Certified: Azure Data Scientist Associate, IBM Data Science Professional)
+
+GDIT IS YOUR PLACE:
+
+Full-flex work week to own your priorities at work and at home
+401K with company match
+Comprehensive health and wellness packages
+Internal mobility team dedicated to helping you own your career
+Professional growth opportunities including paid education and certifications
+Cutting-edge technology you can learn from
+Rest and recharge with paid vacation and holidays",1996,Information Technology Support Services,$10+ billion (USD),Information Technology,10000+ Employees,Subsidiary or Business Segment,False

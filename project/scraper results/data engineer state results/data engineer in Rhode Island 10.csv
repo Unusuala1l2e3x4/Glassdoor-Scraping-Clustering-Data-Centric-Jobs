@@ -1,0 +1,521 @@
+Job Title,Company Name,Location,Salary Estimate,Rating,Job Description,Founded,Industry,Revenue,Sector,Size,Type,Easy Apply
+Vulnerability Data Analytics Engineer,"CVS Health
+","Providence, RI",$140K - $280K (Employer est.),3.1,"Bring your heart to CVS Health. Every one of us at CVS Health shares a single, clear purpose: Bringing our heart to every moment of your health. This purpose guides our commitment to deliver enhanced human-centric health care for a rapidly changing world. Anchored in our brand — with heart at its center — our purpose sends a personal message that how we deliver our services is just as important as what we deliver.
+
+Our Heart At Work Behaviors™ support this purpose. We want everyone who works at CVS Health to feel empowered by the role they play in transforming our culture and accelerating our ability to innovate and deliver solutions to make health care more personal, convenient and affordable.
+
+Position Summary
+We are seeking a highly skilled and motivated individual to join our team as a Big Data Cloud-Based Vulnerability Management Data Analytics Developer. This is an exciting opportunity to work on cutting-edge technology and contribute to our mission of safeguarding critical data and infrastructure.
+
+
+We are looking for an experienced developer with a deep understanding of infrastructure and vulnerabilities, combined with an expertise in developing cloud-based solutions. The successful candidate will play a key role in designing and developing an in-house Big Data Vulnerability Management System that leverages cloud technologies. This is a hands-on position that requires technical proficiency and a passion for creating robust, scalable, and secure systems.
+
+Collaborate with cross-functional teams to design and develop the solution.
+Utilize cloud platforms, such as DataBricks, to create a scalable, efficient, and secure solution.
+Develop RESTful APIs to allow secure data integrations.
+Write clean Python/PySpark code and actively participate in code reviews.
+Implement best practices for security, scalability, and performance.
+Integrate data sources and develop automated pipelines.
+Work within the SDLC to deliver high-quality solutions.
+Drive adoption of DevSecOps practices.
+
+
+Required Qualifications
+
+Bachelor’s in computer science, Information Technology, or a related field.
+15+ years of professional experience in development
+Proven experience in developing complex, cloud-based solutions (preferably in AWS or Azure).
+Strong proficiency in Python.
+Proficiency in SQL.
+
+
+Preferred Qualifications
+
+Knowledge of vulnerability assessment and management concepts.
+Experience designing and implementing secure RESTful API’s.
+Experience with DataBricks, Delta Lake and Delta Live Tables.
+Experience with Git
+Experience with Serverless Functions.
+Understanding of DevSecOps principles.
+Understanding of Secure Coding Techniques
+Excellent communication/interpersonal skills, both verbal and written.
+Ability to create and execute a vision, motivating others to adopt strategies in collectively moving the organization forward.
+
+Solid presentation skills, with the ability to prepare briefings and present technical information to technical and non-technical audiences.
+
+Excellent analytic and problem-solving skills
+
+Working knowledge of risk data analysis, dashboards and visualization, and executive risk reporting
+
+Education
+
+Bachelor’s or master’s in computer science, Information Technology, or a related field.
+
+Pay Range
+
+The typical pay range for this role is:
+
+$140,000.00 - $280,000.00
+
+
+This pay range represents the base hourly rate or base annual full-time salary for all positions in the job grade within which this position falls. The actual base salary offer will depend on a variety of factors including experience, education, geography and other relevant factors. This position is eligible for a CVS Health bonus, commission or short-term incentive program in addition to the base pay range listed above. This position also includes an award target in the company’s equity award program.
+
+In addition to your compensation, enjoy the rewards of an organization that puts our heart into caring for our colleagues and our communities. The Company offers a full range of medical, dental, and vision benefits. Eligible employees may enroll in the Company’s 401(k) retirement savings plan, and an Employee Stock Purchase Plan is also available for eligible employees. The Company provides a fully-paid term life insurance plan to eligible employees, and short-term and long term disability benefits. CVS Health also offers numerous well-being programs, education assistance, free development courses, a CVS store discount, and discount programs with participating partners. As for time off, Company employees enjoy Paid Time Off (“PTO”) or vacation pay, as well as paid holidays throughout the calendar year. Number of paid holidays, sick time and other time off are provided consistent with relevant state law and Company policies.
+
+For more detailed information on available benefits, please visit jobs.CVSHealth.com/benefits
+
+CVS Health requires certain colleagues to be fully vaccinated against COVID-19 (including any booster shots if required), where allowable under the law, unless they are approved for a reasonable accommodation based on disability, medical condition, religious belief, or other legally recognized reasons that prevents them from being vaccinated.
+
+You are required to have received at least one COVID-19 shot prior to your first day of employment and to provide proof of your vaccination status or apply for a reasonable accommodation within the first 10 days of your employment. Please note that in some states and roles, you may be required to provide proof of full vaccination or an approved reasonable accommodation before you can begin to actively work.
+
+CVS Health is committed to recruiting, hiring, developing, advancing, and retaining individuals with disabilities. As such, we strive to provide equal access to the benefits and privileges of employment, including the provision of a reasonable accommodation to perform essential job functions. CVS Health can provide a request for a reasonable accommodation, including a qualified interpreter, written information in other formats, translation or other services through ColleagueRelations@CVSHealth.com If you have a speech or hearing disability, please call 7-1-1 to utilize Telecommunications Relay Services (TRS). We will make every effort to respond to your request within 48 business hours and do everything we can to work towards a solution.",1963,Health Care Services & Hospitals,$10+ billion (USD),Healthcare,10000+ Employees,Company - Public,False
+Data Engineer,"CEDENT
+","Smithfield, RI",$82K - $116K (Glassdoor est.),5.0,"Position Details:
+
+Title: Data Engineer
+
+Industry: Banking & Financial
+
+Duration: 12 Months- Long term
+
+Location: Smithfield RI/ Durham, NC/ Westlake, TX
+
+?
+
+Top Skills: Informatica, SQL, Snowflake, python
+
+Required Qualifications:
+
+ETL developer with Informatica
+Strong SQL – Snowflake and SQL Server will be a huge plus
+Strong Analysis skills
+Working knowledge of Unix OS /Shell scripting
+Basic Python knowledge is required
+Good working knowledge of Control-M/Automation tools.
+Some experience in DevOps
+Production Support will be required – one week every 3 months
+Excellent interpersonal and communication skills
+Excellent collaboration skills to work with multiple teams in the organization
+
+Additional Experience:
+
+Experience with Metadata management solutions / Data lineage is a plus
+Learn New technologies and evaluate new products, participating in Proof of Concepts (POCs) is a plus
+Vendor management is a plus
+Some QA/Testing experience is a plus
+Some Kubernetes / Docker experience is a plus
+Strong communication and presentation skills",-1,Computer Hardware Development,Less than $1 million (USD),Information Technology,1 to 50 Employees,Contract,True
+Senior Data Engineer,"Citizens
+",United States,-1,3.6,"Description
+
+Citizens Financial Group, Inc. (CFG) seeks an Senior Data Engineer for its Johnston, RI location.
+
+Duties: Designs, maintains, develops, tunes, and automates modern ETL solutions. Builds modern, architecturally sound components, tools, and applications to meet mission-driven strategic business goals. Performs analysis and study of existing systems. Collaborates in creating of high level design documents to extract, transform, validate, and load ETL process data dictionaries, metadata descriptions, file layouts, and flow diagrams. Gathers business and application requirements, provides feedback on missing or contradictory requirements, plans and executes sprints. Organizes and manages all phases of the software development life cycle, including development, testing, and deployment of code into production. Writes technical documentation covering design and execution of parallel jobs, batch jobs, and sequencers for data migration. Participates in code and design reviews with network, infrastructure and solutions engineering teams to ensure that solutions meet current enterprise standards.
+
+Requirements: Bachelor’s degree in Computer Science or related field followed by five (5) years of progressive experience in the role or in a similar position. Full term of experience must include: Building data pipelines, Datawarehouse solutions, and frameworks to accommodate end user reporting needs using sources that include flat files, databases, APIs, and streaming applications; Collecting requirements, creating software designs, and developing efficient implementations using Agile Software Development Life Cycle; Building ETL and data warehousing applications using ETL tools such as Informatica, SSIS, DataStage, Talend, Atacama; Designing data enrichment frameworks and processing large amounts of data using Informatica, SSIS, SQL stored procedures, Talend, DataStage, ODI, Unix, PL-SQL, Teradata, AWS; Utilizing programming languages including, Unix, PL-SQL, C, and C++ to fetch data from rest APIs and retrieve security keys; Utilizing Cloud technologies, specifically AWS(including Athena, Lake Formation, and Redshift), AZURE or GCP; Utilizing databases MS SQL, Teradata, MySQL, Oracle, and NoSQL; Loading and extracting data using SQL, DDL, and DML commands; Designing, developing, governing, and maintaining the platform level data models; Utilizing CICD tools, including Bitbucket, Github and Jenkins; and Data engineering for data analytics and reporting.
+
+May telecommute from any location in the United States.
+
+Direct applicants only.
+
+Some job boards have started using jobseeker-reported data to estimate salary ranges for roles. If you apply and qualify for this role, a recruiter will discuss accurate pay guidance.
+
+Equal Employment Opportunity
+
+At Citizens we value diversity, equity and inclusion, and treat everyone with respect and professionalism. Employment decisions are based solely on experience, performance, and ability. Citizens, its parent, subsidiaries, and related companies (Citizens) provide equal employment and advancement opportunities to all colleagues and applicants for employment without regard to age, ancestry, color, citizenship, physical or mental disability, perceived disability or history or record of a disability, ethnicity, gender, gender identity or expression (including transgender individuals who are transitioning, have transitioned, or are perceived to be transitioning to the gender with which they identify), genetic information, genetic characteristic, marital or domestic partner status, victim of domestic violence, family status/parenthood, medical condition, military or veteran status, national origin, pregnancy/childbirth/lactation, colleague’s or a dependent’s reproductive health decision making, race, religion, sex, sexual orientation, or any other category protected by federal, state and/or local laws.
+
+Equal Employment and Opportunity Employer
+
+Citizens is a brand name of Citizens Bank, N.A. and each of its respective affiliates.
+
+Why Work for Us
+
+At Citizens, you'll find a customer-centric culture built around helping our customers and giving back to our local communities. When you join our team, you are part of a supportive and collaborative workforce, with access to training and tools to accelerate your potential and maximize your career growth",1828,Banking & Lending,$5 to $10 billion (USD),Financial Services,10000+ Employees,Company - Public,False
+Academic Data Analyst & Systems Engineer,"Brown University
+","Providence, RI",$64K - $91K (Glassdoor est.),4.4,"Job Description:
+Reporting to the College’s Chief of Staff, the Academic Data Analyst & Systems Engineer acts as an internal consultant to implement data-informed, technology-enabled continuous improvement of the College's operations with the goal of supporting undergraduate student learning at Brown. The incumbent consults and collaborates with faculty, staff, and students to build out data products and analyses across the College’s administrative and advising operations. These efforts enable data-driven decision making by administrators, enhance the College’s efforts around advising, diversity and inclusion, and programming, with the goal of improving students’ experience of Brown’s Open Curriculum, academic advising resources, and academic programs.
+This position develops and implements the procedures, scripts, tools, and training necessary to ensure that the information stored within various systems is integrated and shared in a timely, effective, and actionable form with various campus constituencies. Specifically, the incumbent will gather, analyze, and present data in a compelling, thought-provoking fashion that encourages data-informed improvements to the College’s operations; develop, test, and implement algorithmic solutions for complex tasks and resource allocation in the College; integrate disparate data sources/systems for complex administrative processes aligned with office-wide and programmatic priorities; lead the inter-office course feedback team and manage Brown’s course feedback system; and participate in the administrative life of the College as a colleague and academic advisor for first-year and sophomore students.
+The candidate’s qualifications, education, and skills will determine if the position is filled at a grade 10 or grade 11.
+Qualifications
+Grade 10: Required: Bachelor’s degree and 3+ years of related work experience in a quantitative, computational, or software development field and/or equivalent combination of education and experience. Preferred: Advanced degree at least one year of related work experience (Advanced degree in Applied Mathematics, Biomedical Informatics, Bioinformatics, Computer Science, Engineering, Physics, Statistics, or with a similar technical and computational emphasis).
+Grade 11: Required: Bachelor’s degree and 5+ years of related work experience in a quantitative, computational, or software development field and/or equivalent combination of education and experience. Preferred: Advanced degree with 3+ years of related work experience (Advanced degree in Applied Mathematics, Biomedical Informatics, Bioinformatics, Computer Science, Engineering, Physics, Statistics, or with a similar technical and computational emphasis).
+Experience in a quantitative, computational, or software development field required
+A track record of delivering products or services.
+Experience with programmatic data analysis (e.g., using Pandas in Python) and large-scale data methods, including database experience with SQL (e.g., Oracle, MySQL).
+Experience with visualizing multidimensional data (e.g., Seaborn, D3, etc.).
+Experience with Google Apps Script (e.g., workflow automation using Docs, Forms, Gmail, Sheets, etc); prior work with Gmail Add-Ons would be a plus.
+Experience developing simple, mobile-friendly web applications (e.g., using Django, Flask) with SSO authentication would be a plus.
+Willingness and ability to learn and apply new computational methods that may be most effective for specific tasks (e.g., linear optimization for matching tasks).
+Ability to work both independently and as a team member.
+Demonstrated ability to effectively and creatively collaborate, consult, and solve problems.
+Ability to manage multiple projects with competing priorities and deadlines, and an eagerness to take ownership of challenging and open-ended assignments.
+Ability to work with, contextualize, and use sound judgment and discernment to distribute and disseminate confidential and sensitive data and other information.
+Effective at communicating with audiences with varying technical backgrounds.
+Demonstrated ability to work with faculty, staff, and students from diverse backgrounds to promote an inclusive campus climate and advance the goals of the University’s and the College’s Diversity and Inclusion Action Plans.
+Preferred: Understanding of national higher education context; interest in applying technology to support student learning.
+Background Check: Criminal and education verification.
+Recruiting Start Date:
+2023-10-13
+Job Posting Title:
+Academic Data Analyst & Systems Engineer
+Department:
+The College
+Grade:
+Grade 11
+Worker Type:
+Employee
+Worker Sub-Type:
+Regular
+Time Type:
+Full time
+Scheduled Weekly Hours:
+37.5
+Position Work Location:
+Onsite
+Submission Guidelines:
+Please note that in order to be considered an applicant for any staff position at Brown University you must submit an application form for each position for which you believe you are qualified. Applications are not kept on file for future positions. Please include a cover letter and resume with each position application.
+Still Have Questions?
+If you have any questions you may contact
+employment@brown.edu
+.
+EEO Statement:
+Brown University is an E-Verify Employer.
+As an
+EEO/AA employer
+, Brown University provides equal opportunity and prohibits discrimination, harassment and retaliation based upon a person’s race, color, religion, sex, age, national or ethnic origin, disability, veteran status, sexual orientation, gender identity, gender expression, or any other characteristic protected under applicable law, and caste, which is protected by our University policies.",1764,Colleges & Universities,$500 million to $1 billion (USD),Education,1001 to 5000 Employees,College / University,False
+Mainframe Data Masking Engineer,"Tekcogno
+",United States,$105K - $130K (Employer est.),4.5,"Position: Data Masking Engineer with Mainframe
+
+Location: Johnston, Rhode Island (ONSITE)
+
+Visa: Any except H1B - NO C2C with employers
+
+Skills / Exp:
+
+· Mainframe working experience (5-10 years)
+· Data privacy
+· Data Masking (Mandatory)
+· Test Data
+
+Knowledge:
+
+· BMC File-Aid tool
+· File-Aid Data solutions
+· File-Aid Data privacy tool (dynamic privacy rules)
+· Distributed - File-Aid Data Privacy
+· File-Aid Ex (build specs for run masking, it’s a non-MF tool)
+· Databases knowledge - Oracle, SQL Server
+
+Process:
+
+· Data Masking process
+· Refresh cycle
+· How to build masking projects in Topaz
+
+Good to have:
+
+· Endeavour, great communication skills
+
+Job Types: Full-time, Contract
+
+Pay: $105,382.51 - $130,000.00 per year
+
+Experience level:
+
+10 years
+
+Schedule:
+
+Monday to Friday
+
+Ability to commute/relocate:
+
+Johnston, RI 02919: Reliably commute or planning to relocate before starting work (Required)
+
+Application Question(s):
+
+NOTE: NEED ONLY ON W2, NO C2C WITH EMPLOYERS
+
+May I know your visa status and current location?
+
+Experience:
+
+Overall IT: 10 years (Required)
+Mainframe workinG: 5 years (Required)
+Data privacy: 2 years (Required)
+Data Masking: 3 years (Required)
+BMC File-Aid tool: 3 years (Preferred)
+
+Work Location: In person",-1,-1,Unknown / Non-Applicable,-1,1 to 50 Employees,Unknown,True
+"Lead Software Engineer, Data Engineering","S&P Global
+","Adamsville, RI",$85K - $170K (Employer est.),4.1,"The Role: Data Engineer
+Location: Team is in Boston, but is available for remote or on-site throughout CST and EST Time zones
+GL (for internal use only): 11
+
+Panjiva is a data-driven technology company that uses machine learning to provide powerful search, analysis, and visualization of billions of shipping records from nearly every country in the world. More than 3,000 customers in over 100 countries, ranging from Fortune 500 companies and startups to government agencies and hedge funds, rely on our platform for supply chain intelligence. In global trade, better insight means better decision making and stronger connections between companies and governments across the globe.
+Recognizing Panjiva’s cutting-edge technology, S&P Global acquired Panjiva in 2018. This acquisition has grown our resources, dramatically expanded our access to data, and accelerated our growth plans. People are Panjiva’s greatest strength – join our engineering team as we map out a key part of the world economy!
+Job Description
+As a data engineer on our team, you will play a key role in developing our next-generation data science infrastructure and underlying core technologies. You will work with Panjiva’s world-class data scientists, analysts, and engineers to create products that solve important real-world business problems in a collaborative, fast-paced, and fun environment.
+
+You’ll work closely with our data science team to develop new platforms, infrastructure, and tools that will allow for machine learning applications at production scale over ever-growing datasets.
+You’ll design and leverage distributed computing technologies, data schemas, and APIs to construct data science pipelines. In addition, you’ll be expected to participate in augmenting our infrastructure to seamlessly integrate new data sets through constant R&D of the technologies and systems we use.
+Join us in building the next generation of products as we continue to deliver valuable and actionable insights to decision-makers in the $15 trillion global trade industry.
+
+Responsibilities
+Architect and implement distributed systems that perform complex transformations, processing, and analysis over very large scale datasets
+Develop processes to monitor and automate detection of quality regressions in raw data or in the output of Panjiva’s machine learning models
+Working with our data scientists to turn large-scale messy, diverse, and often unstructured data into a source of meaningful insights for our customers
+Optimizing slow-running database queries and data pipelines
+Helping enhance our search engine, capable of running sophisticated user queries quickly and efficiently
+Building internal tools and backend services to enable our data scientists and product engineers to improve efficiency
+
+Qualifications
+B.S., M.S., or Ph.D. in Computer Science (or a related field) or equivalent work experience
+7+ years of experience working with data-at-scale in a production environment
+Experience designing and implementing large-scale, distributed systems
+Experience in multi-threaded software development (or some form of parallelism)
+Significant performance engineering experience (e.g., profiling slow code, understanding complicated query plans, etc.)
+Solid understanding of core algorithms and data structures, including the ability to select (and apply) the optimal ones to computationally expensive operations over data-at-scale
+Strong understanding of relational databases and proficiency with SQL
+Deep knowledge of at least one scripting language (e.g., Python, Ruby, JavaScript)
+Deep knowledge of at least one compiled language (e.g., Scala, C++, Java, Go)
+Experience developing software on Linux-based operating systems
+Experience with distributed version control systems
+Nice-to-Haves
+Familiarity with relational database internals (especially PostgreSQL)
+Proficiency with cloud computing platforms, specifically AWS
+Working knowledge of probability & statistics
+Contributions to open-source software
+Experience building customer-centric products
+
+Compensation/Benefits Information (US Applicants Only):
+S&P Global states that the anticipated base salary range for this position is $85,300 - $170,000 . Base salary ranges may vary by geographic location.
+In addition to base compensation, this role is eligible for an annual incentive bonus plan.
+
+This role is eligible to receive additional S&P Global benefits. For more information on the benefits we provide to our employees, visit https://www.spgbenefitessentials.com/newhires .
+About S&P Global
+S&P Global delivers essential intelligence that powers decision making. We provide the world’s leading organizations with the right data, connected technologies and expertise they need to move ahead. As part of our team, you’ll help solve complex challenges that equip businesses, governments and individuals with the knowledge to adapt to a changing economic landscape.
+
+S&P Global Market Intelligence partners with customers to broaden their perspective and operate with confidence by bringing them leading data sources and technologies that embed insight in their daily work.
+We pride ourselves on our agility and diversity, and we welcome requests to work flexibly. For most roles, flexible hours and/or an element of remote working are usually possible. Please talk to us at interview about the type of arrangement that is best for you. We will always try to be adaptable wherever we can.
+
+-----------------------------------------------------------
+
+Equal Opportunity Employer
+S&P Global is an equal opportunity employer and all qualified candidates will receive consideration for employment without regard to race/ethnicity, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, marital status, military veteran status, unemployment status, or any other status protected by law. Only electronic job submissions will be considered for employment.
+
+If you need an accommodation during the application process due to a disability, please send an email to: EEO.Compliance@spglobal.com and your request will be forwarded to the appropriate person.
+
+US Candidates Only: The EEO is the Law Poster http://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf describes discrimination protections under federal law.
+
+----------------------------------------------------------- 20 - Professional (EEO-2 Job Categories-United States of America), IFTECH202.2 - Middle Professional Tier II (EEO Job Group), SWP Priority – Ratings - (Strategic Workforce Planning)
+
+Job ID: 277527
+Posted On: 2023-09-21
+Location: Cambridge, Massachusetts, United States",1860,Research & Development,$10+ billion (USD),Management & Consulting,10000+ Employees,Company - Public,False
+"Senior Data Engineer, Public Company","Recruiting From Scratch
+","Providence, RI",$100K - $200K (Employer est.),4.0,"This is for a client of Recruiting from Scratch.
+Who is Recruiting from Scratch:
+Recruiting from Scratch is a premier talent firm that focuses on placing the best product managers, software, and hardware talent at innovative companies. Our team is 100% remote and we work with teams across the United States to help them hire. We work with companies funded by the best investors including Sequoia Capital, Lightspeed Ventures, Tiger Global Management, A16Z, Accel, DFJ, and more.
+Our Client:
+
+Our next evolution is underway as a newly public company looking to expand and continue to build meaningful experiences for our users. From social issues to original content, we’re blazing innovative paths with impact for our community, all while leveraging the latest tech stacks and striving for engineering excellence. At the heart of our work in this new chapter is a shared set of core values: openness and exploration, a bias for action, and strong support of the LGBTQ community.
+
+With a track record of strong financial performance and plans for continued headcount growth, we’re looking to build a team of talented, passionate, and open-minded people who believe in our mission, align with our values, and are excited to work at the intersection of innovative technology and social impact. Come be a part of this exciting journey with us.
+
+What’s so interesting about this role?
+
+Our client is looking to bring on a Senior Data Engineer with chops in cutting edge real-time streaming technologies and ambitions to achieve high quality and reliability with TDD, automation, and continuous delivery. .
+
+In this role, you will have the opportunity to work with our product teams, building models and APIs to drive new features, delivers analysis to further improve engagement in existing features, and empowers our business with real-time insights to drive growth in market share, engagement, and revenue. We see 1 trillion events per year and process 10TB of data daily.
+
+What’s the job?
+
+Design, develop and deliver data products to production, complying with internal data governance, security and scalability of our system.
+Moving implementation to ownership of real-time and batch processing and data governance and policies.
+Maintain and enforce the business contracts on how data should be represented and stored.
+Stay on top of new technologies through R&D and prototyping to continuously improve our big data architectures and systems to streamline how we deliver value with high quality to our end users
+Implementing ETL processes, moving data between systems including S3, Snowflake, Kafka, and Spark.
+Work closely with our Data Scientists, SREs, and Product Managers to ensure software is high quality and meets user requirements.
+
+What we’ll love about you
+
+5+ years of experience working with data at scale, including data engineering, business intelligence, data science, or related field.
+7+ years experience using Python,
+Experience using big data technologies (Snowflake, Airflow, Kubernetes, Docker, Helm, Spark, pySpark, )
+Significant experience with relational databases and query authoring (SQL) in Snowflake or other distributed Databases.
+Experience with agile engineering practices such as TDD, Pair Programming, Continuous Integration, automated testing, and deployment.
+Experience with building stream-processing systems, using solutions such as Kafka, Storm or Spark-Streaming
+Experience with dimensional data modeling and schema design in Data Warehouses
+Familiar with ETL (managing high-quality reliable ETL pipelines)
+Be familiar with legal compliance (with data management tools) data classification, and retention.
+
+Salary Range: $165,000-$210,000 USD base. Equity. Medical, Dental, Vision.
+https://www.recruitingfromscratch.com/",2019,Staffing & Subcontracting,$1 to $5 million (USD),Human Resources & Staffing,1 to 50 Employees,Company - Private,True
+Senior Lead Azure Data Engineer,Lighthouse MTG LLC,Rhode Island,-1,-1.0,"Description:
+
+Spyglass MTG (Microsoft Technology Group) is a Microsoft Gold Certified Partner. We hire people who are professional consultants in addition to being highly competent performers in their specific discipline. As a Consultant at Spyglass MTG you will be working on projects to develop Microsoft technology focused solutions for a variety of clients in industries such as Financial Services, Healthcare, Life Sciences, Manufacturing and Higher Education. Our office is located in Lincoln, RI, however our clients are typically located in the Greater Boston and New England area. You will be working in a team environment that consists of Spyglass and Client members.
+
+We are seeking a highly skilled and experienced Lead Azure Data Engineer to our data engineering team and drive the design and implementation of data solutions on the Microsoft Azure platform. As the Lead Azure Data Engineer, you will play a pivotal role in architecting and developing end-to-end data solutions, providing technical guidance to the team, and collaborating with cross-functional stakeholders to deliver high-quality and scalable data solutions that support our organization's data-driven initiatives.
+
+Responsibilities:
+
+Data Architecture and Design: Lead the design and development of scalable, efficient, and reliable data architecture on the Microsoft Azure cloud platform. Work closely with data architects and business stakeholders to understand data requirements and translate them into well-defined data models and data pipelines.
+Azure Data Services: Demonstrate expert-level knowledge of Microsoft Azure data services, including but not limited to Azure Data Factory, Azure Databricks, Azure Synapse Analytics (formerly Azure SQL Data Warehouse), Azure Cosmos DB, and Azure Data Lake Storage. Utilize these services to build robust and performant data solutions.
+Team Leadership: Provide technical leadership and mentorship to the data engineering team. Foster a collaborative and innovative work environment, encouraging professional growth and skill development among team members. Lead by example and inspire the team to deliver high-quality solutions.
+Data Integration and ETL: Oversee the development of data integration processes and efficient ETL (Extract, Transform, Load) workflows to ensure the seamless flow of data from diverse sources into data repositories. Implement data transformation and cleansing strategies to maintain data accuracy and consistency.
+Performance Optimization: Optimize data pipelines, data storage, and queries for maximum performance and cost-efficiency on the Azure platform. Monitor and troubleshoot data-related issues, providing timely solutions to maintain data solution stability.
+Data Governance and Security: Implement data governance policies and security measures to ensure data quality, security, and compliance with data regulations and industry standards.
+Collaboration and Communication: Collaborate effectively with data scientists, data analysts, software engineers, and other stakeholders to understand data requirements and support data-driven decision-making processes. Communicate technical concepts and solutions clearly to both technical and non-technical audiences.
+Continuous Improvement: Stay abreast of the latest advancements in Azure data services, data engineering best practices, and industry trends. Identify opportunities for process improvement, automation, and innovation to enhance data engineering capabilities.
+
+Requirements:
+
+Bachelor's degree in Computer Science, Engineering, or a related field. Master's degree is a plus.
+Proven experience (typically 5+ years) as a Data Engineer, with a focus on building data solutions on the Azure cloud platform.
+Extensive expertise in Microsoft Azure data services, particularly Azure Data Factory, Azure Databricks, Azure Synapse Analytics, Azure Cosmos DB, and Azure Data Lake Storage.
+Strong programming skills in languages such as Python, SQL, or Scala for data processing and manipulation.
+Solid understanding of data modeling, data warehousing, and ETL/ELT concepts.
+Previous experience in leading and managing a data engineering team, with the ability to provide technical guidance and mentorship.
+Knowledge of data governance, data security, and data compliance best practices.
+Familiarity with Agile methodologies and working in an Agile development environment.
+Excellent problem-solving skills and the ability to handle complex data-related challenges.
+Outstanding communication, leadership, and teamwork skills.
+
+Benefits:
+
+Medical, Vision and Dental Plans
+Life and Disability Insurance
+Open PTO Policy
+Holiday PTO
+Paid training certification
+Bonus plan
+401k
+Flexible working arrangements
+& more
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, transgender status, national origin, citizenship, age, disability or protected veteran status.",-1,-1,Unknown / Non-Applicable,-1,Unknown,Company - Public,True
+Data Engineer IV - Max Digital (Data Engineering),"ACV Auctions
+",Rhode Island,-1,3.7,"If you are looking for a career at a dynamic company with a people-first mindset and a deep culture of growth and autonomy, ACV is the right place for you! Competitive compensation packages and learning and development opportunities, ACV has what you need to advance to the next level in your career. We will continue to raise the bar every day by investing in our people and technology to help our customers succeed. We hire people who share our passion, bring innovative ideas to the table, and enjoy a collaborative atmosphere.
+
+Who we are:
+ACV is a technology company that has revolutionized how dealers buy and sell cars online. We are transforming the automotive industry. ACV Auctions Inc. (ACV), has applied innovation and user-designed, data driven applications and solutions. We are building the most trusted and efficient digital marketplace with data solutions for sourcing, selling and managing used vehicles with transparency and comprehensive insights that were once unimaginable. We are disruptors of the industry and we want you to join us on our journey. ACV’s network of brands includes ACV Auctions, ACV Transportation, ClearCar, MAX Digital and ACV Capital within its Marketplace Products, as well as, True360 and Data Services.
+At ACV we focus on the Health, Physical, Financial, Social and Emotional Wellness of our Teammates and to support this we offer:
+
+Multiple medical plans including a high deductible health plan that costs $0 out of your paycheck
+Company-sponsored (paid) Short-Term Disability, Long-Term Disability, and Life Insurance
+Comprehensive optional benefits such as Dental, Vision, Supplemental Life/AD&D, Legal/ID Protection, and Accident and Critical Illness Insurance
+Generous paid time off options, including vacation time, sick days, Company holidays, floating holidays, parental leave, bereavement leave, jury duty leave, voting leave, and other forms of paid leave as required by applicable law or regulation
+Employee Stock Purchase Program with additional opportunities to earn stock in the Company
+Retirement planning through the Company’s 401(k)
+Who we are looking for:
+We are seeking a highly skilled Engineer IV in Data Engineering with a strong foundation in computer science and excellent problem-solving skills. You will be responsible for maintaining and extending our database operations, optimizing SQL queries, and designing scalable data services.
+
+What you will do:
+
+Actively and consistently support all efforts to simplify and enhance the customer experience.
+Maintain and extend (as required) existing database operations solution for backups, index defragmentation, data retention, etc.
+Troubleshoot any SQL Server or ETL stack outages during our operational support window.
+Triage any issues with data stack (SSIS, C#, Web APIs).
+Support development, integration, and stage SQL Server environments for application development and data science teams.
+Ensure that new database development meets company standards for readability, reliability, and performance. Work with internal teams on transactional and analytical schema design.
+Collaborate with software and DevOps engineers to design scalable services, plan feature roll-out, and ensure high reliability and performance of our products.
+Architect and build entire services including but not limited to; data modeling, storage, message brokers, protocols and interfaces.
+Design, build and maintain complex systems that can scale rapidly with little maintenance.
+Conduct code reviews, develop high-quality documentation, and build robust test suites.
+Own the overall performance of products and services within a defined area of focus.
+Be empowered to lead and complete software projects with minimal guidance from managers.
+Lead team discussions to define technical requirements on new and current products.
+Respond-to and troubleshoot highly complex problems quickly, efficiently, and effectively.
+Mentor junior engineers.
+Perform additional duties as assigned.
+What you will need:
+
+Bachelor's degree in Computer Science, Information Technology, Computer Information Systems, Management Information Systems, or similar
+5 years' building & supporting the database-tier of SaaS web applications.
+Ability to read, write, speak, and understand English.
+Expert understanding of SQL query execution fundamentals and query optimization principles.
+Experience maintaining and extending an existing codebase, adapting to pre-existing patterns and tracing the code’s path of execution.
+ETL workflow implementation (SSIS, Airflow, C#, Python)
+Experience working with Cloud Services (AWS RDS, S3, SQS, SNS)
+Experience working with NoSQL data stores (MongoDB)
+Experience writing unit and integration testing (DBT, C#)
+Expert SQL and data-layer development experience; OLTP schema design.
+Experience integrating 3rd-party APIs, implementing authentication & authorization and developing asynchronous data flows.
+Nice to Have
+OLAP schema design experience.
+Experience with Airflow, Snowflake, etc.
+Experience with DBT
+Our Values
+Trust & Transparency | People First | Positive Experiences | Calm Persistence | Never Settling
+
+At ACV, we are committed to an inclusive culture in which every individual is welcomed and empowered to celebrate their true selves. We achieve this by fostering a work environment of acceptance and understanding that is free from discrimination. ACV is committed to being an equal opportunity employer regardless of sex, race, creed, color, religion, marital status, national origin, age, pregnancy, sexual orientation, gender, gender identity, gender expression, genetic information, disability, military status, status as a veteran, or any other protected characteristic. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires reasonable accommodation, please let us know.
+
+For information on our collection and use of your personal information, please see our Privacy Notice.",2014,Wholesale,Unknown / Non-Applicable,Retail & Wholesale,1001 to 5000 Employees,Company - Public,True
+Senior Staff AI Data Engineer,"Recruiting From Scratch
+","Providence, RI",$160K (Employer est.),4.0,"Who is Recruiting from Scratch :
+Recruiting from Scratch is a premier talent firm that focuses on placing the best product managers, software, and hardware talent at innovative companies. Our team is 100% remote and we work with teams across the United States to help them hire. We work with companies funded by the best investors including Sequoia Capital, Lightspeed Ventures, Tiger Global Management, A16Z, Accel, DFJ, and more.
+https://www.recruitingfromscratch.com/
+
+This is a hybrid role based in our Palo Alto or San Francisco offices and will require you to be in office Tuesdays and Thursdays.
+
+What’s so interesting about this role?
+
+We believe that AI can revolutionize the dating industry. Our Data Engineer lead is responsible for building high quality ML datasets at scale, used to train ML models that power AI-centric features. In this pivotal role, you will have the opportunity to build foundational tools and data pipelines to ingest, normalize and clean the valuable data that would be fundamental for our ML engineers to build AI tools including recommendations, LLMs, ads, visual search, growth/notifications, trust and safety.
+
+What’s the job?
+
+We’re looking for an exceptional data engineer who is passionate about data for AI and values it can bring to our company, Who loves working with data ops at scale; and who is committed to the hard work necessary to continuously improve our ML data pipelines.
+
+In this position, you will be responsible for establishing and executing the strategy for our organization’s ML Data Engine, with an initial focus on agile ML Data OPs. This includes identification of infrastructure components and data stack to be used, design and implementation of pipelines between data systems and teams, automation workflows, data enrichment and monitoring tools all for AI models. As a tech lead specialized in data engineering, you are expected to code and contribute to the stack.
+
+Responsibilities:
+
+Dive into our dataset and design, implement and scale data pre/post processing pipelines of ML models
+Work on applied ML solutions in the areas of data mining, cleaning, normalizing and modeling
+Be self-motivated in seeking solutions when the correct path isn’t always known
+Collaborate with engineers in conceptualizing, planning and implementing data engineering initiatives working with different stakeholders
+Design and build data platforms & frameworks for processing high volumes of data, in real time as well as batch, that will be used across engineering teams
+Build data processing streams for cleaning and modeling text data for LLMs
+Research and evaluate new technologies in the big data space to guide our continuous improvement
+Collaborate with multi-functional teams to help tune the performance of large data applications
+Work with Privacy and Security team on data governance, risk and compliance initiatives
+Work on initiatives to ensure stability, performance and reliability of our data infrastructure
+
+What we’ll love about you
+
+Bachelors in Computer Science, Mathematics, Physics, or a related fields
+5+ years of experience as a data engineer building production-level pre/post-processing data pipelines for ML/DL models, including 2+ years of technical leadership experience
+Experience in statistical analysis & visualization on datasets using Pandas or R
+Experience designing and building highly available, distributed systems of data extraction, ingestion, normalization and processing of large data sets in real time as well as batch, that will be used across engineering teams using orchestration frameworks like Airflow, KubeFlow or other pipeline tools
+Demonstrated prior experience in creating data pipelines for text data sets NLP/ large language models
+Ability to produce well-engineered software, including appropriate automated test suites, technical documentation, and operational strategy
+Excellent coding skills in Python, Java, bash, SQL, and expertise with Git version control
+Experience using big data technologies (Snowflake, Airflow, Kubernetes, Docker, Helm, Spark, pySpark)
+Experience with any public cloud environment - AWS, GCP or Azure
+Significant experience with relational databases and query authoring (SQL) as well as NoSQL databases like DynamoDB etc
+Experience building and maintaining ETL (managing high-quality reliable ETL pipelines)
+
+We’ll really swoon if you have
+
+2+ years of experience of technical leadership in building data engineering pipelines for AI
+Previous experience in building data pipeline for conversational AI APIs and recommender systems
+Experience with distributed systems and microservices
+Experience with Kubernetes and building Docker images
+Experience with building stream-processing systems, using solutions such as Kafka, Storm or Spark-Streaming
+Strong understanding of applied machine learning topics
+Be familiar with legal compliance (with data management tools) data classification, and retention
+Consistent track record of managing and implementing complex data projects
+
+What you'll love about us
+
+Mission and Impact: We are the world-leading LGBTQ social networking service. Your role will impact the lives of millions of LGBTQ people around the world
+Multiple Locations: We are hiring someone for this role to be based ideally in San Francisco or Palo Alto
+Family Insurance: Insurance premium coverage for health, dental, and vision for you and partial coverage for your dependents
+Retirement Savings: Generous 401K plan with 6% match and immediate vest in the US
+Compensation: Industry-competitive compensation and eligibility for company bonus and equity programs
+Queer-Inclusive Benefits: Industry-leading gender-affirming offerings with up to 90% cost coverage, access to Included Health, monthly stipends for HRT, and more
+Additional Benefits: Flexible vacation policy, monthly stipends for cell phone, internet, wellness, and food, one-time home-office setup stipend, and company-sponsored events
+Base Pay Range
+$160,000—$280,000 USD
+https://www.recruitingfromscratch.com/",2019,Staffing & Subcontracting,$1 to $5 million (USD),Human Resources & Staffing,1 to 50 Employees,Company - Private,True

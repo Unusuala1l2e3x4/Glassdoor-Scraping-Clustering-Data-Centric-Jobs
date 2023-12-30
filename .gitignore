@@ -160,9 +160,18 @@ cython_debug/
 #.idea/
 
 
-*.csv
+# *.csv
 *.png
 *.pkl
 *poster*
 *proposal*
 *.docx
+*.zip
+
+project/scraping-glassdoor-selenium
+project/scraper results test
+project/Skills for a Data
+
+project/data_jobs_data/*.ipynb
+project/data_jobs_data/README.md
+project/data_jobs_data/examples to use.txt

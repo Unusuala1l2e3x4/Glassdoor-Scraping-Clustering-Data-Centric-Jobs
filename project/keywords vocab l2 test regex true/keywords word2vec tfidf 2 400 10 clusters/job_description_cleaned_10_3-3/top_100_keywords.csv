@@ -1,0 +1,11 @@
+cluster_size,token_wordfreq,wordfreq,token_tfidf,tfidf
+22056,bachelor degree in,0.32644178454840617,bachelor degree in,0.003438661097500946
+22056,in computer science,0.1817645992020334,in computer science,0.0025067414179774012
+22056,qualification bachelor degree,0.1313928182807353,qualification bachelor degree,0.0019474453393661239
+22056,computer science or,0.09657236126223916,computer science or,0.0016205182005111513
+22056,master degree in,0.0846935074356172,data analysis and,0.001430892512452579
+22056,data analysis and,0.08378672470076082,and machine learning,0.0014209827558105946
+22056,and machine learning,0.08029561117156274,master degree in,0.001401278754631513
+22056,bachelor degree or,0.07272397533550978,bachelor degree or,0.0012751104182765153
+22056,and analyze data,0.06837141820819789,and analyze data,0.001244841237187336
+22056,machine learning and,0.059575625680087896,experience bachelor degree,0.0011342960868612427
