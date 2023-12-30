@@ -1,0 +1,86 @@
+job_description_cleaned (1, 1) - stopwords: no
+(1, 1) - 52449 tokens detected
+job_description_cleaned (1, 1) - stopwords: nltk
+removing 179 stopwords
+(1, 1) - 52315 tokens detected
+job_description_cleaned (1, 1) - stopwords: sklearn
+removing 318 stopwords
+(1, 1) - 52158 tokens detected
+job_description_cleaned (1, 1) - stopwords: nltk sklearn union
+removing 378 stopwords
+(1, 1) - 52137 tokens detected
+job_description_cleaned (1, 1) - stopwords: nltk sklearn intersect
+removing 119 stopwords
+(1, 1) - 52336 tokens detected
+job_description_cleaned (1, 2) - stopwords: no
+(1, 2) - 1376965 tokens detected
+job_description_cleaned (1, 2) - stopwords: nltk
+removing 179 stopwords
+(1, 2) - 1654278 tokens detected
+job_description_cleaned (1, 2) - stopwords: sklearn
+removing 318 stopwords
+(1, 2) - 1614979 tokens detected
+job_description_cleaned (1, 2) - stopwords: nltk sklearn union
+removing 378 stopwords
+(1, 2) - 1611575 tokens detected
+job_description_cleaned (1, 2) - stopwords: nltk sklearn intersect
+removing 119 stopwords
+(1, 2) - 1657483 tokens detected
+job_description_cleaned (1, 3) - stopwords: no
+(1, 3) - 5756088 tokens detected
+job_description_cleaned (1, 3) - stopwords: nltk
+removing 179 stopwords
+(1, 3) - 6101598 tokens detected
+job_description_cleaned (1, 3) - stopwords: sklearn
+removing 318 stopwords
+(1, 3) - 5925885 tokens detected
+job_description_cleaned (1, 3) - stopwords: nltk sklearn union
+removing 378 stopwords
+(1, 3) - 5914353 tokens detected
+job_description_cleaned (1, 3) - stopwords: nltk sklearn intersect
+removing 119 stopwords
+(1, 3) - 6112661 tokens detected
+job_description_cleaned (2, 2) - stopwords: no
+(2, 2) - 1324516 tokens detected
+job_description_cleaned (2, 2) - stopwords: nltk
+removing 179 stopwords
+(2, 2) - 1601963 tokens detected
+job_description_cleaned (2, 2) - stopwords: sklearn
+removing 318 stopwords
+(2, 2) - 1562821 tokens detected
+job_description_cleaned (2, 2) - stopwords: nltk sklearn union
+removing 378 stopwords
+(2, 2) - 1559438 tokens detected
+job_description_cleaned (2, 2) - stopwords: nltk sklearn intersect
+removing 119 stopwords
+(2, 2) - 1605147 tokens detected
+job_description_cleaned (2, 3) - stopwords: no
+(2, 3) - 5703639 tokens detected
+job_description_cleaned (2, 3) - stopwords: nltk
+removing 179 stopwords
+(2, 3) - 6049283 tokens detected
+job_description_cleaned (2, 3) - stopwords: sklearn
+removing 318 stopwords
+(2, 3) - 5873727 tokens detected
+job_description_cleaned (2, 3) - stopwords: nltk sklearn union
+removing 378 stopwords
+(2, 3) - 5862216 tokens detected
+job_description_cleaned (2, 3) - stopwords: nltk sklearn intersect
+removing 119 stopwords
+(2, 3) - 6060325 tokens detected
+job_description_cleaned (3, 3) - stopwords: no
+(3, 3) - 4379123 tokens detected
+job_description_cleaned (3, 3) - stopwords: nltk
+removing 179 stopwords
+(3, 3) - 4447320 tokens detected
+job_description_cleaned (3, 3) - stopwords: sklearn
+removing 318 stopwords
+(3, 3) - 4310906 tokens detected
+job_description_cleaned (3, 3) - stopwords: nltk sklearn union
+removing 378 stopwords
+(3, 3) - 4302778 tokens detected
+job_description_cleaned (3, 3) - stopwords: nltk sklearn intersect
+removing 119 stopwords
+(3, 3) - 4455178 tokens detected
+
+

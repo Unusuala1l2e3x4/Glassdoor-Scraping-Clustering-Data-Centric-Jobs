@@ -1,0 +1,84 @@
+Job Description (1, 1) - stopwords: no
+(1, 1) - 67695 tokens detected
+Job Description (1, 1) - stopwords: nltk
+removing 179 stopwords
+(1, 1) - 67557 tokens detected
+Job Description (1, 1) - stopwords: sklearn
+removing 318 stopwords
+(1, 1) - 67400 tokens detected
+Job Description (1, 1) - stopwords: nltk sklearn union
+removing 378 stopwords
+(1, 1) - 67378 tokens detected
+Job Description (1, 1) - stopwords: nltk sklearn intersect
+removing 119 stopwords
+(1, 1) - 67579 tokens detected
+Job Description (1, 2) - stopwords: no
+(1, 2) - 1586888 tokens detected
+Job Description (1, 2) - stopwords: nltk
+removing 179 stopwords
+(1, 2) - 1924770 tokens detected
+Job Description (1, 2) - stopwords: sklearn
+removing 318 stopwords
+(1, 2) - 1885504 tokens detected
+Job Description (1, 2) - stopwords: nltk sklearn union
+removing 378 stopwords
+(1, 2) - 1881728 tokens detected
+Job Description (1, 2) - stopwords: nltk sklearn intersect
+removing 119 stopwords
+(1, 2) - 1928322 tokens detected
+Job Description (1, 3) - stopwords: no
+(1, 3) - 6233896 tokens detected
+Job Description (1, 3) - stopwords: nltk
+removing 179 stopwords
+(1, 3) - 6603039 tokens detected
+Job Description (1, 3) - stopwords: sklearn
+removing 318 stopwords
+(1, 3) - 6435895 tokens detected
+Job Description (1, 3) - stopwords: nltk sklearn union
+removing 378 stopwords
+(1, 3) - 6423429 tokens detected
+Job Description (1, 3) - stopwords: nltk sklearn intersect
+removing 119 stopwords
+(1, 3) - 6614995 tokens detected
+Job Description (2, 2) - stopwords: no
+(2, 2) - 1519193 tokens detected
+Job Description (2, 2) - stopwords: nltk
+removing 179 stopwords
+(2, 2) - 1857213 tokens detected
+Job Description (2, 2) - stopwords: sklearn
+removing 318 stopwords
+(2, 2) - 1818104 tokens detected
+Job Description (2, 2) - stopwords: nltk sklearn union
+removing 378 stopwords
+(2, 2) - 1814350 tokens detected
+Job Description (2, 2) - stopwords: nltk sklearn intersect
+removing 119 stopwords
+(2, 2) - 1860743 tokens detected
+Job Description (2, 3) - stopwords: no
+(2, 3) - 6166201 tokens detected
+Job Description (2, 3) - stopwords: nltk
+removing 179 stopwords
+(2, 3) - 6535482 tokens detected
+Job Description (2, 3) - stopwords: sklearn
+removing 318 stopwords
+(2, 3) - 6368495 tokens detected
+Job Description (2, 3) - stopwords: nltk sklearn union
+removing 378 stopwords
+(2, 3) - 6356051 tokens detected
+Job Description (2, 3) - stopwords: nltk sklearn intersect
+removing 119 stopwords
+(2, 3) - 6547416 tokens detected
+Job Description (3, 3) - stopwords: no
+(3, 3) - 4647008 tokens detected
+Job Description (3, 3) - stopwords: nltk
+removing 179 stopwords
+(3, 3) - 4678269 tokens detected
+Job Description (3, 3) - stopwords: sklearn
+removing 318 stopwords
+(3, 3) - 4550391 tokens detected
+Job Description (3, 3) - stopwords: nltk sklearn union
+removing 378 stopwords
+(3, 3) - 4541701 tokens detected
+Job Description (3, 3) - stopwords: nltk sklearn intersect
+removing 119 stopwords
+(3, 3) - 4686673 tokens detected
