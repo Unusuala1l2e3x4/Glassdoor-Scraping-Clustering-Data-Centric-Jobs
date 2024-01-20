@@ -4,7 +4,7 @@ Project Report: [671 Project Report.pdf](https://github.com/Unusuala1l2e3x4/Glas
 ## Resume Entry
 Scraping and Clustering of Data-Centric Job Descriptions on Glassdoor\
 October 2023 – December 2023\
-SI 671: Data Mining
+SI 671 – Data Mining
 -	Adapted an open-source Python scraper using Selenium WebDriver to systematically collect over 22,000 job listings from Glassdoor, adjusting to website redesigns.
 -	Performed Agglomerative Hierarchical Clustering on job descriptions using various text representations, including LSA-reduced TF-IDF matrices and TF-IDF weighted Word2Vec embeddings.
 -	Applied advanced text mining techniques such as Zipf analysis and keyword extraction to categorize role definitions and skill requirements, providing insights into evolving job market trends.
