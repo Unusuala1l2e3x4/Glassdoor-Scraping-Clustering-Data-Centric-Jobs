@@ -14,14 +14,14 @@ The most recent dataset consists of listings for four distinct roles, detailed a
 **Total Entries**: 28757\
 **135 MB before processing**
 
-### 2020 Data (scarped around 7/8/2020)
+### 2020 Data (scraped around 7/8/2020)
 
 The 2020 dataset also includes listings for the same four roles, with the following entries:
 
-- **Business Analyst**: 4092 entries [https://www.kaggle.com/datasets/andrewmvd/business-analyst-jobs](source)
-- **Data Analyst**: 5631 entries [https://www.kaggle.com/datasets/andrewmvd/data-analyst-jobs](source)
-- **Data Engineer**: 2528 entries [https://www.kaggle.com/datasets/andrewmvd/data-engineer-jobs](source)
-- **Data Scientist**: 3909 entries [https://www.kaggle.com/datasets/andrewmvd/data-scientist-jobs](source)
+- **Business Analyst**: 4092 entries [source](https://www.kaggle.com/datasets/andrewmvd/business-analyst-jobs)
+- **Data Analyst**: 5631 entries [source](https://www.kaggle.com/datasets/andrewmvd/data-analyst-jobs)
+- **Data Engineer**: 2528 entries [source](https://www.kaggle.com/datasets/andrewmvd/data-engineer-jobs)
+- **Data Scientist**: 3909 entries [source](https://www.kaggle.com/datasets/andrewmvd/data-scientist-jobs)
 
 **Total Entries**: 16160\
 **54 MB before processing**
