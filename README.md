@@ -2,7 +2,7 @@
 Project Report: [671 Project Report.pdf](https://github.com/Unusuala1l2e3x4/Glassdoor-Scraping-Clustering-Data-Centric-Jobs/blob/main/671%20Project%20Report.pdf)
 
 ## Scraped data overview
-### Most Recent Data ()
+### Most Recent Data (scraped on 11/26/2023)
 
 The most recent dataset consists of listings for four distinct roles, detailed as follows:
 
@@ -14,14 +14,14 @@ The most recent dataset consists of listings for four distinct roles, detailed a
 **Total Entries**: 28757\
 **135 MB before processing**
 
-### 2020 Data
+### 2020 Data (scarped around 7/8/2020)
 
 The 2020 dataset also includes listings for the same four roles, with the following entries:
 
-- **Business Analyst**: 4092 entries
-- **Data Analyst**: 5631 entries
-- **Data Engineer**: 2528 entries
-- **Data Scientist**: 3909 entries
+- **Business Analyst**: 4092 entries [https://www.kaggle.com/datasets/andrewmvd/business-analyst-jobs](source)
+- **Data Analyst**: 5631 entries [https://www.kaggle.com/datasets/andrewmvd/data-analyst-jobs](source)
+- **Data Engineer**: 2528 entries [https://www.kaggle.com/datasets/andrewmvd/data-engineer-jobs](source)
+- **Data Scientist**: 3909 entries [https://www.kaggle.com/datasets/andrewmvd/data-scientist-jobs](source)
 
 **Total Entries**: 16160\
 **54 MB before processing**
