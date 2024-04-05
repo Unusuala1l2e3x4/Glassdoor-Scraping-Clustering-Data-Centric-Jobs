@@ -11,7 +11,7 @@ The most recent dataset consists of listings for four distinct roles, detailed a
 - **Data Engineer**: 2465 entries
 - **Data Scientist**: 5539 entries
 
-**Total Entries**: 28757
+**Total Entries**: 28757\
 **135 MB before processing**
 
 ### 2020 Data
@@ -23,7 +23,7 @@ The 2020 dataset also includes listings for the same four roles, with the follow
 - **Data Engineer**: 2528 entries
 - **Data Scientist**: 3909 entries
 
-**Total Entries**: 16160
+**Total Entries**: 16160\
 **54 MB before processing**
 
 ## Resume Entry
