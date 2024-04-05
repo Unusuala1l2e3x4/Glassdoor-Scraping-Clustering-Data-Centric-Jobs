@@ -2,7 +2,7 @@
 Project Report: [671 Project Report.pdf](https://github.com/Unusuala1l2e3x4/Glassdoor-Scraping-Clustering-Data-Centric-Jobs/blob/main/671%20Project%20Report.pdf)
 
 ## Scraped data overview
-### Most Recent Data (scraped on 11/26/2023)
+### Latest Data (scraped on 11/26/2023)
 
 The most recent dataset consists of listings for four distinct roles, detailed as follows:
 
